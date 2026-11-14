@@ -152,6 +152,8 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .ct-acts{display:flex;flex-wrap:wrap;gap:10px}
 .ct-tg{font-weight:700;color:#2F64D8;text-decoration:none}
 .ct-tg:hover{text-decoration:underline}
+.cf-msg{font-weight:700;font-size:15px}.cf-msg.ok{color:#1E7A3C}.cf-msg.err{color:#B4380A}
+#contact-form.done label,#contact-form.done #cf-btn{display:none}
 /* email signup */
 .ml{margin-top:22px;padding:22px;border-radius:20px;background:#fff;box-shadow:inset 0 0 0 1.5px #F3D78F;display:grid;gap:10px}
 .ml h3{font-size:22px}
@@ -678,18 +680,16 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
       <div class="panel">
         <div class="eyebrow" data-t="contact_eyebrow"></div>
         <h2 data-t="contact_title"></h2>
-        <div class="ct">
-          <p class="ct-note" data-t="ct_note"></p>
-          <div class="ct-card">
-            <span class="ct-ico" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M4 7l8 6 8-6"/></svg></span>
-            <span class="ct-addr" id="ct-addr" dir="ltr">hello@<wbr>nikolayshcherbakov.com</span>
-          </div>
-          <div class="ct-acts">
-            <a class="btn gold" href="mailto:hello@nikolayshcherbakov.com" data-t="ct_mail"></a>
-            <button class="btn" type="button" id="ct-copy" data-t="ct_copy"></button>
-          </div>
-          <a class="ct-tg" href="https://t.me/nikolayintuition" target="_blank" rel="noopener"><span data-t="ct_tg"></span> <b dir="ltr">@nikolayintuition</b> <span class="arr">→</span></a>
-        </div>
+        <p data-t="contact_lead"></p>
+        <form id="contact-form" novalidate>
+          <input type="checkbox" name="botcheck" id="cf-bot" tabindex="-1" autocomplete="off" style="display:none">
+          <label for="f-name"><span data-t="f_name"></span><input id="f-name" name="name" autocomplete="name" maxlength="80"></label>
+          <label for="f-email"><span>Email</span><input id="f-email" name="email" type="email" autocomplete="email" inputmode="email" maxlength="120"></label>
+          <label for="f-msg"><span data-t="f_msg"></span><textarea id="f-msg" name="message" maxlength="4000"></textarea></label>
+          <div><button class="btn gold" type="submit" id="cf-btn" data-t="f_send"></button></div>
+          <p class="cf-msg" id="cf-msg" role="status" aria-live="polite"></p>
+        </form>
+        <a class="ct-tg" href="https://t.me/nikolayintuition" target="_blank" rel="noopener"><span data-t="cf_tg"></span> <b dir="ltr">@nikolayintuition</b> <span class="arr">→</span></a>
       </div>
     </div>
   </section>
@@ -1243,11 +1243,33 @@ const ML_URL="https://assets.mailerlite.com/jsonp/2795156/forms/2041091704896891
 
 const CT_TXT={"en": {"ct_note": "Write to me — I read every message.", "ct_mail": "Email me", "ct_copy": "Copy address", "ct_copied": "Address copied", "ct_tg": "Or follow the Telegram channel"}, "ru": {"ct_note": "Пишите — я читаю каждое сообщение.", "ct_mail": "Написать письмо", "ct_copy": "Скопировать адрес", "ct_copied": "Адрес скопирован", "ct_tg": "Или подписывайтесь на Telegram-канал"}, "uk": {"ct_note": "Пишіть — я читаю кожне повідомлення.", "ct_mail": "Написати листа", "ct_copy": "Скопіювати адресу", "ct_copied": "Адресу скопійовано", "ct_tg": "Або підписуйтеся на Telegram-канал"}, "ar": {"ct_note": "اكتب لي — أقرأ كل رسالة.", "ct_mail": "راسلني بالبريد", "ct_copy": "نسخ العنوان", "ct_copied": "تم نسخ العنوان", "ct_tg": "أو تابع قناة Telegram"}, "he": {"ct_note": "כתבו לי — אני קורא כל הודעה.", "ct_mail": "שלחו מייל", "ct_copy": "העתקת הכתובת", "ct_copied": "הכתובת הועתקה", "ct_tg": "או עקבו אחרי ערוץ הטלגרם"}, "tr": {"ct_note": "Bana yaz — her mesajı okurum.", "ct_mail": "E-posta gönder", "ct_copy": "Adresi kopyala", "ct_copied": "Adres kopyalandı", "ct_tg": "Ya da Telegram kanalını takip et"}, "fr": {"ct_note": "Écrivez-moi — je lis chaque message.", "ct_mail": "M'écrire", "ct_copy": "Copier l'adresse", "ct_copied": "Adresse copiée", "ct_tg": "Ou suivez la chaîne Telegram"}, "de": {"ct_note": "Schreib mir – ich lese jede Nachricht.", "ct_mail": "E-Mail schreiben", "ct_copy": "Adresse kopieren", "ct_copied": "Adresse kopiert", "ct_tg": "Oder folge dem Telegram-Kanal"}, "es": {"ct_note": "Escríbeme: leo cada mensaje.", "ct_mail": "Escribir un email", "ct_copy": "Copiar dirección", "ct_copied": "Dirección copiada", "ct_tg": "O sigue el canal de Telegram"}, "pt": {"ct_note": "Escreva para mim — leio cada mensagem.", "ct_mail": "Enviar e-mail", "ct_copy": "Copiar endereço", "ct_copied": "Endereço copiado", "ct_tg": "Ou siga o canal no Telegram"}, "it": {"ct_note": "Scrivimi: leggo ogni messaggio.", "ct_mail": "Scrivimi un'email", "ct_copy": "Copia indirizzo", "ct_copied": "Indirizzo copiato", "ct_tg": "Oppure segui il canale Telegram"}, "zh": {"ct_note": "欢迎来信——每条消息我都会读。", "ct_mail": "发送邮件", "ct_copy": "复制地址", "ct_copied": "地址已复制", "ct_tg": "或关注 Telegram 频道"}, "ja": {"ct_note": "お気軽にどうぞ — すべてのメッセージに目を通しています。", "ct_mail": "メールを送る", "ct_copy": "アドレスをコピー", "ct_copied": "コピーしました", "ct_tg": "Telegramチャンネルもどうぞ"}, "ko": {"ct_note": "편하게 연락 주세요 — 모든 메시지를 읽습니다.", "ct_mail": "이메일 보내기", "ct_copy": "주소 복사", "ct_copied": "주소가 복사되었습니다", "ct_tg": "또는 Telegram 채널을 구독하세요"}, "hi": {"ct_note": "मुझे लिखिए — मैं हर संदेश पढ़ता हूँ।", "ct_mail": "ईमेल भेजें", "ct_copy": "पता कॉपी करें", "ct_copied": "पता कॉपी हो गया", "ct_tg": "या Telegram चैनल से जुड़ें"}, "id": {"ct_note": "Tulis saja — saya membaca setiap pesan.", "ct_mail": "Kirim email", "ct_copy": "Salin alamat", "ct_copied": "Alamat disalin", "ct_tg": "Atau ikuti kanal Telegram"}};
 for(const lg in CT_TXT){ if(T[lg]) Object.assign(T[lg],CT_TXT[lg]); }
-document.getElementById("ct-copy").addEventListener("click", async e=>{
+document.getElementById("ct-copy")?.addEventListener("click", async e=>{
   const b=e.currentTarget, a="hello@nikolayshcherbakov.com";
   try{ await navigator.clipboard.writeText(a); b.textContent="✓ "+t("ct_copied"); setTimeout(()=>{ b.textContent=t("ct_copy"); },2500); }
   catch(err){ const r=document.createRange(); r.selectNodeContents(document.getElementById("ct-addr")); const s=getSelection(); s.removeAllRanges(); s.addRange(r); }
 });
+
+const CF_TXT={"en": {"cf_sending": "Sending…", "cf_ok": "Thank you! Your message has been sent. I'll reply to your email.", "cf_fail": "Couldn't send the message. Please try again later or write to me on Telegram.", "cf_tg": "Or write on Telegram"}, "ru": {"cf_sending": "Отправляю…", "cf_ok": "Спасибо! Сообщение отправлено. Я отвечу вам на email.", "cf_fail": "Не удалось отправить сообщение. Попробуйте позже или напишите мне в Telegram.", "cf_tg": "Или напишите в Telegram"}, "uk": {"cf_sending": "Надсилаю…", "cf_ok": "Дякую! Повідомлення надіслано. Я відповім вам на email.", "cf_fail": "Не вдалося надіслати повідомлення. Спробуйте пізніше або напишіть мені в Telegram.", "cf_tg": "Або напишіть у Telegram"}, "ar": {"cf_sending": "جارٍ الإرسال…", "cf_ok": "شكرًا! تم إرسال رسالتك. سأرد عليك عبر البريد الإلكتروني.", "cf_fail": "تعذّر إرسال الرسالة. حاول لاحقًا أو راسلني على Telegram.", "cf_tg": "أو راسلني على Telegram"}, "he": {"cf_sending": "שולח…", "cf_ok": "תודה! ההודעה נשלחה. אענה לך במייל.", "cf_fail": "לא הצלחנו לשלוח את ההודעה. נסו שוב מאוחר יותר או כתבו לי בטלגרם.", "cf_tg": "או כתבו לי בטלגרם"}, "tr": {"cf_sending": "Gönderiliyor…", "cf_ok": "Teşekkürler! Mesajın gönderildi. E-postana yanıt vereceğim.", "cf_fail": "Mesaj gönderilemedi. Daha sonra tekrar dene ya da bana Telegram'dan yaz.", "cf_tg": "Ya da Telegram'dan yaz"}, "fr": {"cf_sending": "Envoi…", "cf_ok": "Merci ! Votre message a été envoyé. Je vous répondrai par e-mail.", "cf_fail": "Le message n'a pas pu être envoyé. Réessayez plus tard ou écrivez-moi sur Telegram.", "cf_tg": "Ou écrivez-moi sur Telegram"}, "de": {"cf_sending": "Wird gesendet…", "cf_ok": "Danke! Deine Nachricht wurde gesendet. Ich antworte dir per E-Mail.", "cf_fail": "Die Nachricht konnte nicht gesendet werden. Versuche es später erneut oder schreib mir auf Telegram.", "cf_tg": "Oder schreib mir auf Telegram"}, "es": {"cf_sending": "Enviando…", "cf_ok": "¡Gracias! Tu mensaje se ha enviado. Te responderé por email.", "cf_fail": "No se pudo enviar el mensaje. Inténtalo más tarde o escríbeme en Telegram.", "cf_tg": "O escríbeme en Telegram"}, "pt": {"cf_sending": "Enviando…", "cf_ok": "Obrigado! Sua mensagem foi enviada. Vou responder por e-mail.", "cf_fail": "Não foi possível enviar a mensagem. Tente mais tarde ou me escreva no Telegram.", "cf_tg": "Ou me escreva no Telegram"}, "it": {"cf_sending": "Invio…", "cf_ok": "Grazie! Il tuo messaggio è stato inviato. Ti risponderò via email.", "cf_fail": "Impossibile inviare il messaggio. Riprova più tardi o scrivimi su Telegram.", "cf_tg": "Oppure scrivimi su Telegram"}, "zh": {"cf_sending": "正在发送…", "cf_ok": "谢谢！消息已发送，我会通过邮件回复你。", "cf_fail": "消息发送失败。请稍后再试，或在 Telegram 上联系我。", "cf_tg": "或在 Telegram 上联系我"}, "ja": {"cf_sending": "送信中…", "cf_ok": "ありがとうございます！メッセージを送信しました。メールでお返事します。", "cf_fail": "送信できませんでした。後でもう一度お試しいただくか、Telegramでご連絡ください。", "cf_tg": "またはTelegramでご連絡ください"}, "ko": {"cf_sending": "보내는 중…", "cf_ok": "감사합니다! 메시지가 전송되었습니다. 이메일로 답장드릴게요.", "cf_fail": "메시지를 보내지 못했습니다. 나중에 다시 시도하거나 Telegram으로 연락해 주세요.", "cf_tg": "또는 Telegram으로 연락하기"}, "hi": {"cf_sending": "भेजा जा रहा है…", "cf_ok": "धन्यवाद! आपका संदेश भेज दिया गया है। मैं आपको ईमेल पर जवाब दूँगा।", "cf_fail": "संदेश नहीं भेजा जा सका। बाद में फिर कोशिश करें या मुझे Telegram पर लिखें।", "cf_tg": "या Telegram पर लिखें"}, "id": {"cf_sending": "Mengirim…", "cf_ok": "Terima kasih! Pesanmu sudah terkirim. Aku akan membalas lewat email.", "cf_fail": "Pesan gagal dikirim. Coba lagi nanti atau tulis ke aku di Telegram.", "cf_tg": "Atau tulis di Telegram"}};
+for(const lg in CF_TXT){ if(T[lg]) Object.assign(T[lg],CF_TXT[lg]); }
+(function(){
+  const f=document.getElementById("contact-form"); if(!f) return;
+  const msg=document.getElementById("cf-msg"), btn=document.getElementById("cf-btn");
+  f.addEventListener("submit", async e=>{
+    e.preventDefault();
+    const name=f.name.value.trim(), email=f.email.value.trim(), text=f.message.value.trim();
+    if(!name || !text || !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)){ msg.className="cf-msg err"; msg.textContent=t("f_err"); return; }
+    if(document.getElementById("cf-bot").checked) return;
+    btn.disabled=true; msg.className="cf-msg"; msg.textContent=t("cf_sending");
+    try{
+      const r=await fetch("https://api.web3forms.com/submit",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},
+        body:JSON.stringify({access_key:"b9e900ae-aaca-4c7c-9569-b0e3089bacbb",subject:"Сообщение с сайта nikolayshcherbakov.com",from_name:"nikolayshcherbakov.com",name,email,message:text,language:lang,botcheck:false})});
+      const d=await r.json().catch(()=>({}));
+      if(!r.ok || d.success===false) throw new Error(d.message||r.status);
+      f.classList.add("done"); msg.className="cf-msg ok"; msg.textContent=t("cf_ok"); f.reset();
+    }catch(err){ msg.className="cf-msg err"; msg.textContent=t("cf_fail"); }
+    finally{ btn.disabled=false; }
+  });
+})();
 
 render();
 route();
