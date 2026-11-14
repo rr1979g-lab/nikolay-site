@@ -142,6 +142,17 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .bp-pairs h2{font-size:clamp(24px,3vw,32px);margin-bottom:16px}
 .bp-pairs .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:16px}
 @media (max-width:760px){.bp{grid-template-columns:1fr;gap:24px}.bp-cov{max-width:220px;margin-inline:auto}}
+/* email signup */
+.ml{margin-top:22px;padding:22px;border-radius:20px;background:#fff;box-shadow:inset 0 0 0 1.5px #F3D78F;display:grid;gap:10px}
+.ml h3{font-size:22px}
+.ml > p{color:var(--muted);font-weight:600;font-size:15px}
+.ml-row{display:flex;gap:10px;flex-wrap:wrap}
+.ml-row input{flex:1 1 200px;min-width:0}
+.ml-row .btn{flex:none}
+.ml-msg{font-weight:700;font-size:15px;min-height:0}
+.ml-msg.ok{color:#1E7A3C}.ml-msg.err{color:#B4380A}
+.ml-note{font-size:13px!important;color:var(--muted)}
+.ml.done .ml-row{display:none}
 /* language picker */
 .langsel{border:0;cursor:pointer;font:800 14px var(--body);padding:8px 14px 8px 12px;gap:8px}
 .langsel .chev{width:10px;height:8px;fill:none;stroke:currentColor;stroke-width:2}
@@ -642,6 +653,17 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
           <a href="https://t.me/nikolayintuition" target="_blank" rel="noopener"><span><small data-t="tg1"></small><code>@nikolayintuition</code></span><span class="go" data-t="join"></span></a>
           <a href="https://t.me/nikolaymind" target="_blank" rel="noopener"><span><small data-t="tg2"></small><code>@nikolaymind</code></span><span class="go" data-t="join"></span></a>
         </div>
+        <form class="ml" id="ml-form" novalidate>
+          <h3 data-t="ml_title"></h3>
+          <p data-t="ml_lead"></p>
+          <div class="ml-row">
+            <label class="sr" for="ml-email" data-t="ml_ph"></label>
+            <input id="ml-email" name="email" type="email" autocomplete="email" inputmode="email" required>
+            <button class="btn gold" type="submit" id="ml-btn" data-t="ml_btn"></button>
+          </div>
+          <p class="ml-msg" id="ml-msg" role="status" aria-live="polite"></p>
+          <p class="ml-note" data-t="ml_note"></p>
+        </form>
       </div>
       <div class="panel">
         <div class="eyebrow" data-t="contact_eyebrow"></div>
@@ -1194,6 +1216,30 @@ document.addEventListener("click", async e=>{
   try{ await navigator.clipboard.writeText(location.href); c.textContent="✓ "+t("link_copied"); }catch(err){ c.textContent=location.href; }
 });
 const __render3 = render; render = function(){ __render3(); if(document.body.classList.contains("route-book")) route(); };
+
+const ML_TXT={"en": {"ml_title": "Free practices by email", "ml_lead": "Short exercises, new books and apps — about twice a month.", "ml_ph": "Your email", "ml_btn": "Subscribe", "ml_ok": "Almost done! Check your inbox and confirm your subscription.", "ml_note": "No spam. Unsubscribe anytime.", "ml_bad": "Enter a valid email address.", "ml_err": "Couldn't subscribe right now. Please try again later or join on Telegram."}, "ru": {"ml_title": "Бесплатные практики на почту", "ml_lead": "Короткие упражнения, новые книги и приложения — примерно два раза в месяц.", "ml_ph": "Ваш email", "ml_btn": "Подписаться", "ml_ok": "Почти готово! Проверьте почту и подтвердите подписку.", "ml_note": "Без спама. Отписаться можно в любой момент.", "ml_bad": "Введите корректный email.", "ml_err": "Сейчас не получилось подписаться. Попробуйте позже или присоединяйтесь в Telegram."}, "uk": {"ml_title": "Безкоштовні практики на пошту", "ml_lead": "Короткі вправи, нові книги та застосунки — приблизно двічі на місяць.", "ml_ph": "Ваш email", "ml_btn": "Підписатися", "ml_ok": "Майже готово! Перевірте пошту й підтвердьте підписку.", "ml_note": "Без спаму. Відписатися можна будь-коли.", "ml_bad": "Введіть коректний email.", "ml_err": "Зараз не вдалося підписатися. Спробуйте пізніше або приєднуйтеся в Telegram."}, "ar": {"ml_title": "تمارين مجانية على بريدك", "ml_lead": "تمارين قصيرة وكتب وتطبيقات جديدة — مرتين تقريبًا في الشهر.", "ml_ph": "بريدك الإلكتروني", "ml_btn": "اشترك", "ml_ok": "اقتربنا! تحقّق من بريدك وأكّد اشتراكك.", "ml_note": "بلا رسائل مزعجة. يمكنك إلغاء الاشتراك في أي وقت.", "ml_bad": "أدخل بريدًا إلكترونيًا صحيحًا.", "ml_err": "تعذّر الاشتراك الآن. حاول لاحقًا أو انضم عبر Telegram."}, "he": {"ml_title": "תרגולים חינם למייל", "ml_lead": "תרגילים קצרים, ספרים ואפליקציות חדשים — בערך פעמיים בחודש.", "ml_ph": "כתובת המייל שלך", "ml_btn": "להרשמה", "ml_ok": "כמעט סיימנו! בדקו את תיבת הדואר ואשרו את ההרשמה.", "ml_note": "בלי ספאם. אפשר לבטל בכל רגע.", "ml_bad": "נא להזין כתובת מייל תקינה.", "ml_err": "לא הצלחנו לרשום אותך כרגע. נסו שוב מאוחר יותר או הצטרפו בטלגרם."}, "tr": {"ml_title": "E-postana ücretsiz pratikler", "ml_lead": "Kısa egzersizler, yeni kitaplar ve uygulamalar — ayda yaklaşık iki kez.", "ml_ph": "E-posta adresin", "ml_btn": "Abone ol", "ml_ok": "Neredeyse tamam! E-postanı kontrol et ve aboneliğini onayla.", "ml_note": "Spam yok. İstediğin zaman abonelikten çıkabilirsin.", "ml_bad": "Geçerli bir e-posta adresi gir.", "ml_err": "Şu anda abone olunamadı. Daha sonra tekrar dene ya da Telegram'a katıl."}, "fr": {"ml_title": "Pratiques gratuites par e-mail", "ml_lead": "Exercices courts, nouveaux livres et applis — environ deux fois par mois.", "ml_ph": "Votre e-mail", "ml_btn": "S'abonner", "ml_ok": "Presque fini ! Vérifiez votre boîte mail et confirmez votre inscription.", "ml_note": "Pas de spam. Désinscription à tout moment.", "ml_bad": "Saisissez une adresse e-mail valide.", "ml_err": "Impossible de vous inscrire pour le moment. Réessayez plus tard ou rejoignez-nous sur Telegram."}, "de": {"ml_title": "Kostenlose Übungen per E-Mail", "ml_lead": "Kurze Übungen, neue Bücher und Apps – etwa zweimal im Monat.", "ml_ph": "Deine E-Mail", "ml_btn": "Abonnieren", "ml_ok": "Fast geschafft! Prüfe dein Postfach und bestätige dein Abo.", "ml_note": "Kein Spam. Jederzeit abbestellbar.", "ml_bad": "Gib eine gültige E-Mail-Adresse ein.", "ml_err": "Abonnieren hat gerade nicht geklappt. Versuche es später erneut oder komm zu Telegram."}, "es": {"ml_title": "Prácticas gratis por email", "ml_lead": "Ejercicios cortos, nuevos libros y apps: unas dos veces al mes.", "ml_ph": "Tu email", "ml_btn": "Suscribirme", "ml_ok": "¡Casi listo! Revisa tu correo y confirma la suscripción.", "ml_note": "Sin spam. Puedes darte de baja cuando quieras.", "ml_bad": "Introduce un email válido.", "ml_err": "No se pudo completar la suscripción. Inténtalo más tarde o únete en Telegram."}, "pt": {"ml_title": "Práticas grátis por e-mail", "ml_lead": "Exercícios curtos, novos livros e apps — cerca de duas vezes por mês.", "ml_ph": "Seu e-mail", "ml_btn": "Inscrever-me", "ml_ok": "Quase lá! Confira seu e-mail e confirme a inscrição.", "ml_note": "Sem spam. Cancele quando quiser.", "ml_bad": "Digite um e-mail válido.", "ml_err": "Não foi possível inscrever agora. Tente mais tarde ou entre no Telegram."}, "it": {"ml_title": "Pratiche gratuite via email", "ml_lead": "Esercizi brevi, nuovi libri e app — circa due volte al mese.", "ml_ph": "La tua email", "ml_btn": "Iscriviti", "ml_ok": "Quasi fatto! Controlla la posta e conferma l'iscrizione.", "ml_note": "Niente spam. Puoi disiscriverti quando vuoi.", "ml_bad": "Inserisci un indirizzo email valido.", "ml_err": "Iscrizione non riuscita al momento. Riprova più tardi o unisciti su Telegram."}, "zh": {"ml_title": "免费练习发送到邮箱", "ml_lead": "简短练习、新书与新应用——大约每月两次。", "ml_ph": "你的邮箱", "ml_btn": "订阅", "ml_ok": "快完成了！请查收邮件并确认订阅。", "ml_note": "不发垃圾邮件，可随时退订。", "ml_bad": "请输入有效的邮箱地址。", "ml_err": "暂时无法订阅。请稍后再试，或加入 Telegram。"}, "ja": {"ml_title": "無料プラクティスをメールで", "ml_lead": "短いエクササイズ、新しい本やアプリ — 月に2回ほどお届けします。", "ml_ph": "メールアドレス", "ml_btn": "登録する", "ml_ok": "あと少し！メールを確認して登録を承認してください。", "ml_note": "スパムは送りません。いつでも解除できます。", "ml_bad": "有効なメールアドレスを入力してください。", "ml_err": "現在登録できませんでした。後でもう一度試すか、Telegramにご参加ください。"}, "ko": {"ml_title": "무료 연습을 이메일로", "ml_lead": "짧은 연습, 새 책과 앱 소식 — 한 달에 두 번 정도 보내드려요.", "ml_ph": "이메일 주소", "ml_btn": "구독하기", "ml_ok": "거의 다 됐어요! 메일함을 확인하고 구독을 확인해 주세요.", "ml_note": "스팸 없음. 언제든 구독 취소할 수 있어요.", "ml_bad": "올바른 이메일 주소를 입력하세요.", "ml_err": "지금은 구독하지 못했어요. 나중에 다시 시도하거나 Telegram에 참여하세요."}, "hi": {"ml_title": "मुफ़्त अभ्यास ईमेल पर", "ml_lead": "छोटे अभ्यास, नई किताबें और ऐप्स — महीने में लगभग दो बार।", "ml_ph": "आपका ईमेल", "ml_btn": "सब्सक्राइब करें", "ml_ok": "लगभग हो गया! अपना ईमेल देखें और सब्सक्रिप्शन की पुष्टि करें।", "ml_note": "कोई स्पैम नहीं। कभी भी अनसब्सक्राइब करें।", "ml_bad": "सही ईमेल पता दर्ज करें।", "ml_err": "अभी सब्सक्राइब नहीं हो सका। बाद में फिर कोशिश करें या Telegram से जुड़ें।"}, "id": {"ml_title": "Latihan gratis lewat email", "ml_lead": "Latihan singkat, buku dan aplikasi baru — sekitar dua kali sebulan.", "ml_ph": "Email kamu", "ml_btn": "Berlangganan", "ml_ok": "Hampir selesai! Cek email kamu dan konfirmasi langganan.", "ml_note": "Tanpa spam. Bisa berhenti kapan saja.", "ml_bad": "Masukkan alamat email yang valid.", "ml_err": "Belum bisa berlangganan saat ini. Coba lagi nanti atau gabung di Telegram."}};
+for(const lg in ML_TXT){ if(T[lg]) Object.assign(T[lg],ML_TXT[lg]); }
+const ML_URL="https://assets.mailerlite.com/jsonp/2795156/forms/204109170489689154/subscribe";
+(function(){
+  const f=document.getElementById("ml-form"); if(!f) return;
+  const inp=document.getElementById("ml-email"), msg=document.getElementById("ml-msg"), btn=document.getElementById("ml-btn");
+  const paintPh=()=>{ inp.placeholder=t("ml_ph"); };
+  const __r=render; render=function(){ __r(); paintPh(); };
+  paintPh();
+  f.addEventListener("submit", async e=>{
+    e.preventDefault();
+    const em=inp.value.trim();
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(em)){ msg.className="ml-msg err"; msg.textContent=t("ml_bad"); inp.focus(); return; }
+    btn.disabled=true; msg.className="ml-msg"; msg.textContent="…";
+    const body=new URLSearchParams({"fields[email]":em,"ml-submit":"1","anticsrf":"true"});
+    try{
+      await fetch(ML_URL,{method:"POST",mode:"no-cors",body});
+      f.classList.add("done"); msg.className="ml-msg ok"; msg.textContent=t("ml_ok");
+    }catch(err){
+      msg.className="ml-msg err"; msg.innerHTML=esc(t("ml_err"))+' <a href="https://t.me/nikolayintuition" target="_blank" rel="noopener">Telegram →</a>';
+    }finally{ btn.disabled=false; }
+  });
+})();
 
 render();
 route();
