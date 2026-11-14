@@ -142,6 +142,16 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .bp-pairs h2{font-size:clamp(24px,3vw,32px);margin-bottom:16px}
 .bp-pairs .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:16px}
 @media (max-width:760px){.bp{grid-template-columns:1fr;gap:24px}.bp-cov{max-width:220px;margin-inline:auto}}
+/* contact */
+.ct{display:grid;gap:16px;margin-top:18px}
+.ct-note{font-weight:700;color:var(--navy)}
+.ct-card{display:flex;align-items:center;gap:14px;padding:16px 18px;border-radius:18px;background:var(--sky);min-width:0}
+.ct-ico{flex:none;width:44px;height:44px;border-radius:12px;display:grid;place-items:center;background:linear-gradient(180deg,var(--gold1),var(--gold2))}
+.ct-ico svg{width:24px;height:24px;fill:none;stroke:#1B1B2F;stroke-width:2;stroke-linejoin:round}
+.ct-addr{font:800 clamp(15px,2.2vw,19px) var(--body);color:var(--navy);user-select:all}
+.ct-acts{display:flex;flex-wrap:wrap;gap:10px}
+.ct-tg{font-weight:700;color:#2F64D8;text-decoration:none}
+.ct-tg:hover{text-decoration:underline}
 /* email signup */
 .ml{margin-top:22px;padding:22px;border-radius:20px;background:#fff;box-shadow:inset 0 0 0 1.5px #F3D78F;display:grid;gap:10px}
 .ml h3{font-size:22px}
@@ -668,14 +678,18 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
       <div class="panel">
         <div class="eyebrow" data-t="contact_eyebrow"></div>
         <h2 data-t="contact_title"></h2>
-        <p data-t="contact_lead"></p>
-        <form id="contact-form" novalidate>
-          <label for="f-name"><span data-t="f_name"></span><input id="f-name" name="name" autocomplete="name"></label>
-          <label for="f-email"><span>Email</span><input id="f-email" name="email" type="email" autocomplete="email"></label>
-          <label for="f-msg"><span data-t="f_msg"></span><textarea id="f-msg" name="message"></textarea></label>
-          <div><button class="btn gold" type="submit" data-t="f_send"></button></div>
-        </form>
-        <div class="sent" id="sent" hidden></div>
+        <div class="ct">
+          <p class="ct-note" data-t="ct_note"></p>
+          <div class="ct-card">
+            <span class="ct-ico" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M4 7l8 6 8-6"/></svg></span>
+            <span class="ct-addr" id="ct-addr" dir="ltr">hello@<wbr>nikolayshcherbakov.com</span>
+          </div>
+          <div class="ct-acts">
+            <a class="btn gold" href="mailto:hello@nikolayshcherbakov.com" data-t="ct_mail"></a>
+            <button class="btn" type="button" id="ct-copy" data-t="ct_copy"></button>
+          </div>
+          <a class="ct-tg" href="https://t.me/nikolayintuition" target="_blank" rel="noopener"><span data-t="ct_tg"></span> <b dir="ltr">@nikolayintuition</b> <span class="arr">→</span></a>
+        </div>
       </div>
     </div>
   </section>
@@ -943,7 +957,6 @@ function render(){
 
   document.getElementById("quotes").innerHTML = t("quotes").map(q=>`<blockquote>${esc(q)}</blockquote>`).join("");
   document.getElementById("free-list").innerHTML = t("free").map(x=>`<li>${esc(x)}</li>`).join("");
-  document.getElementById("sent").hidden = true;
 }
 
 const dlg = document.getElementById("dlg"), dlgBody = document.getElementById("dlg-body");
@@ -975,20 +988,6 @@ document.addEventListener("click", e => {
 document.getElementById("btn-privacy").onclick = () => openDialog(`<h3>${t("privacy")}</h3><p>${t("legal_body")}</p>`);
 document.getElementById("btn-terms").onclick = () => openDialog(`<h3>${t("terms")}</h3><p>${t("legal_body")}</p>`);
 
-document.getElementById("contact-form").addEventListener("submit", e => {
-  e.preventDefault();
-  const f=e.target, name=f.name.value.trim(), email=f.email.value.trim(), msg=f.message.value.trim();
-  const out=document.getElementById("sent");
-  if(!name || !msg || !/^\S+@\S+\.\S+$/.test(email)){ out.hidden=false; out.textContent=t("f_err"); return; }
-  const text=`${name} (${email}):\n${msg}`;
-  out.hidden=false;
-  out.innerHTML=`<p>${t("f_ok")}</p><pre id="sent-text">${esc(text)}</pre><div class="row"><button class="btn sm" type="button" id="copy-msg">${t("copy_btn")}</button><a class="btn gold sm" href="https://t.me/nikolayintuition" target="_blank" rel="noopener">${t("open_tg")}</a></div>`;
-  document.getElementById("copy-msg").onclick = async ev => {
-    const b=ev.currentTarget;
-    try{ await navigator.clipboard.writeText(text); b.textContent=t("copied"); }
-    catch(err){ const r=document.createRange(); r.selectNodeContents(document.getElementById("sent-text")); const s=getSelection(); s.removeAllRanges(); s.addRange(r); }
-  };
-});
 
 const navLinks=[...document.querySelectorAll("nav.main a")];
 const secs=["top","books","apps","courses","about"].map(id=>document.getElementById(id));
@@ -1241,6 +1240,14 @@ const ML_URL="https://assets.mailerlite.com/jsonp/2795156/forms/2041091704896891
     }finally{ btn.disabled=false; }
   });
 })();
+
+const CT_TXT={"en": {"ct_note": "Write to me — I read every message.", "ct_mail": "Email me", "ct_copy": "Copy address", "ct_copied": "Address copied", "ct_tg": "Or follow the Telegram channel"}, "ru": {"ct_note": "Пишите — я читаю каждое сообщение.", "ct_mail": "Написать письмо", "ct_copy": "Скопировать адрес", "ct_copied": "Адрес скопирован", "ct_tg": "Или подписывайтесь на Telegram-канал"}, "uk": {"ct_note": "Пишіть — я читаю кожне повідомлення.", "ct_mail": "Написати листа", "ct_copy": "Скопіювати адресу", "ct_copied": "Адресу скопійовано", "ct_tg": "Або підписуйтеся на Telegram-канал"}, "ar": {"ct_note": "اكتب لي — أقرأ كل رسالة.", "ct_mail": "راسلني بالبريد", "ct_copy": "نسخ العنوان", "ct_copied": "تم نسخ العنوان", "ct_tg": "أو تابع قناة Telegram"}, "he": {"ct_note": "כתבו לי — אני קורא כל הודעה.", "ct_mail": "שלחו מייל", "ct_copy": "העתקת הכתובת", "ct_copied": "הכתובת הועתקה", "ct_tg": "או עקבו אחרי ערוץ הטלגרם"}, "tr": {"ct_note": "Bana yaz — her mesajı okurum.", "ct_mail": "E-posta gönder", "ct_copy": "Adresi kopyala", "ct_copied": "Adres kopyalandı", "ct_tg": "Ya da Telegram kanalını takip et"}, "fr": {"ct_note": "Écrivez-moi — je lis chaque message.", "ct_mail": "M'écrire", "ct_copy": "Copier l'adresse", "ct_copied": "Adresse copiée", "ct_tg": "Ou suivez la chaîne Telegram"}, "de": {"ct_note": "Schreib mir – ich lese jede Nachricht.", "ct_mail": "E-Mail schreiben", "ct_copy": "Adresse kopieren", "ct_copied": "Adresse kopiert", "ct_tg": "Oder folge dem Telegram-Kanal"}, "es": {"ct_note": "Escríbeme: leo cada mensaje.", "ct_mail": "Escribir un email", "ct_copy": "Copiar dirección", "ct_copied": "Dirección copiada", "ct_tg": "O sigue el canal de Telegram"}, "pt": {"ct_note": "Escreva para mim — leio cada mensagem.", "ct_mail": "Enviar e-mail", "ct_copy": "Copiar endereço", "ct_copied": "Endereço copiado", "ct_tg": "Ou siga o canal no Telegram"}, "it": {"ct_note": "Scrivimi: leggo ogni messaggio.", "ct_mail": "Scrivimi un'email", "ct_copy": "Copia indirizzo", "ct_copied": "Indirizzo copiato", "ct_tg": "Oppure segui il canale Telegram"}, "zh": {"ct_note": "欢迎来信——每条消息我都会读。", "ct_mail": "发送邮件", "ct_copy": "复制地址", "ct_copied": "地址已复制", "ct_tg": "或关注 Telegram 频道"}, "ja": {"ct_note": "お気軽にどうぞ — すべてのメッセージに目を通しています。", "ct_mail": "メールを送る", "ct_copy": "アドレスをコピー", "ct_copied": "コピーしました", "ct_tg": "Telegramチャンネルもどうぞ"}, "ko": {"ct_note": "편하게 연락 주세요 — 모든 메시지를 읽습니다.", "ct_mail": "이메일 보내기", "ct_copy": "주소 복사", "ct_copied": "주소가 복사되었습니다", "ct_tg": "또는 Telegram 채널을 구독하세요"}, "hi": {"ct_note": "मुझे लिखिए — मैं हर संदेश पढ़ता हूँ।", "ct_mail": "ईमेल भेजें", "ct_copy": "पता कॉपी करें", "ct_copied": "पता कॉपी हो गया", "ct_tg": "या Telegram चैनल से जुड़ें"}, "id": {"ct_note": "Tulis saja — saya membaca setiap pesan.", "ct_mail": "Kirim email", "ct_copy": "Salin alamat", "ct_copied": "Alamat disalin", "ct_tg": "Atau ikuti kanal Telegram"}};
+for(const lg in CT_TXT){ if(T[lg]) Object.assign(T[lg],CT_TXT[lg]); }
+document.getElementById("ct-copy").addEventListener("click", async e=>{
+  const b=e.currentTarget, a="hello@nikolayshcherbakov.com";
+  try{ await navigator.clipboard.writeText(a); b.textContent="✓ "+t("ct_copied"); setTimeout(()=>{ b.textContent=t("ct_copy"); },2500); }
+  catch(err){ const r=document.createRange(); r.selectNodeContents(document.getElementById("ct-addr")); const s=getSelection(); s.removeAllRanges(); s.addRange(r); }
+});
 
 render();
 route();
