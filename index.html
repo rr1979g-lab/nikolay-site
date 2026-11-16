@@ -8,6 +8,7 @@
 <meta property="og:description" content="Books, mobile apps and practical programs that help you understand yourself, develop intuition and live mindfully.">
 <meta property="og:type" content="website">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<script data-goatcounter="https://nikolayshcherbakov.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <title>Nikolay Shcherbakov</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1269,6 +1270,34 @@ for(const lg in CF_TXT){ if(T[lg]) Object.assign(T[lg],CF_TXT[lg]); }
     }catch(err){ msg.className="cf-msg err"; msg.textContent=t("cf_fail"); }
     finally{ btn.disabled=false; }
   });
+})();
+
+/* GoatCounter: private stats — outbound clicks and book pages */
+(function(){
+  const gc=(path,title)=>{ try{ if(window.goatcounter && window.goatcounter.count) window.goatcounter.count({path,title,event:true}); }catch(e){} };
+  const slug=s=>String(s||"").toLowerCase().replace(/[^a-z0-9а-яё]+/gi,"-").replace(/^-|-$/g,"").slice(0,60);
+  document.addEventListener("click", e=>{
+    const a=e.target.closest("a[href]"); if(!a) return;
+    const u=a.href; let kind=null;
+    if(/play\.google\.com/.test(u)) kind="google-play";
+    else if(/litres\.ru/.test(u)) kind="litres";
+    else if(/(^https?:\/\/)?(a\.co|[^\/]*amazon\.)/.test(u)) kind="amazon";
+    else if(/t\.me\//.test(u)) kind="telegram";
+    if(!kind) return;
+    let what="";
+    const card=a.closest(".appc,.qz-card,.bookc,.bp,.path,.st-items li");
+    if(kind==="google-play"){ const m=u.match(/id=([\w.]+)/); what=m?m[1].replace(/^com\.(nikolay\.)?/,""):""; }
+    else if(kind==="telegram"){ what=u.split("t.me/")[1]||""; }
+    else { const b=card&&card.querySelector("h1,b,h3"); what=b?b.textContent:""; }
+    const where=a.closest("section,[id]"); const from=where?(where.id||""):"";
+    gc("click/"+kind+"/"+slug(what), kind+" · "+(what||"")+(from?" · from "+from:""));
+  }, true);
+  const f1=document.getElementById("ml-form"); if(f1) f1.addEventListener("submit",()=>gc("event/subscribe-email","Email subscription"));
+  const f2=document.getElementById("contact-form"); if(f2) f2.addEventListener("submit",()=>gc("event/contact-message","Contact form sent"));
+  document.addEventListener("click", e=>{ const o=e.target.closest(".qz-opt"); if(o && o.dataset.k==="time") gc("event/quiz-finished/"+(QZ.topic||""),"Quiz finished: "+(QZ.topic||"")); 
+    const tb=e.target.closest(".pr-tabs [data-tab]"); if(tb) gc("event/practice/"+tb.dataset.tab,"Practice opened: "+tb.dataset.tab);
+    if(e.target.closest("#br-go") && !BR.run) gc("event/practice/breath-start","Breathing started"); });
+  addEventListener("hashchange", ()=>{ const m=location.hash.match(/^#book-([a-z0-9-]+)$/); if(m) setTimeout(()=>{ try{ window.goatcounter&&window.goatcounter.count&&window.goatcounter.count({path:"/book/"+m[1], title:"Book page: "+m[1]}); }catch(e){} },50); });
 })();
 
 render();
