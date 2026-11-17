@@ -183,6 +183,8 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .also{font-weight:700;font-size:14px;color:#2F64D8;text-decoration:none}
 .also:hover{text-decoration:underline}
 .also b,.bookc-b .also b{font:inherit;font-weight:900;color:inherit;text-transform:none;letter-spacing:0;display:inline}
+.buy-stack{display:flex;flex-direction:column;align-items:stretch;gap:10px;flex-basis:100%}
+.buy-stack .btn{justify-content:center;width:max-content;min-width:220px;max-width:100%}
 /* language picker */
 .langsel{border:0;cursor:pointer;font:800 14px var(--body);padding:8px 14px 8px 12px;gap:8px}
 .langsel .chev{width:10px;height:8px;fill:none;stroke:currentColor;stroke-width:2}
@@ -982,9 +984,10 @@ function freeTag(a){ return isFree(a)?`<span class="free">${esc(t("app_free"))}<
 
 const ALSO_TXT={"en": {"also_on": "Also on"}, "ru": {"also_on": "Также на"}, "uk": {"also_on": "Також на"}, "ar": {"also_on": "متوفر أيضًا على"}, "he": {"also_on": "זמין גם ב-"}, "tr": {"also_on": "Ayrıca"}, "fr": {"also_on": "Aussi sur"}, "de": {"also_on": "Auch auf"}, "es": {"also_on": "También en"}, "pt": {"also_on": "Também no"}, "it": {"also_on": "Anche su"}, "zh": {"also_on": "也可在"}, "ja": {"also_on": "こちらでも購入可:"}, "ko": {"also_on": "다른 판매처:"}, "hi": {"also_on": "यहाँ भी उपलब्ध:"}, "id": {"also_on": "Juga di"}};
 for(const lg in ALSO_TXT){ if(T[lg]) Object.assign(T[lg],ALSO_TXT[lg]); }
-function alsoBtn(b){ if(!b.url||!b.urlRu) return ""; const ru=lang==="ru";
-  const url=ru?b.url:b.urlRu, st=ru?b.store:b.storeRu; const sep=(lang==="he")?"":" ";
-  return `<a class="also" href="${url}" target="_blank" rel="noopener">${esc(t("also_on"))}${sep}<b>${esc(storeName({store:st}))}</b> →</a>`; }
+function alsoBtn(b,cls){ if(!b.url||!b.urlRu) return ""; const ru=lang==="ru";
+  const url=ru?b.url:b.urlRu, st=ru?b.store:b.storeRu;
+  return `<a class="${cls||"btn gold sm"}" href="${url}" target="_blank" rel="noopener">${t("buy")} ${esc(storeName({store:st}))}</a>`; }
+function buyStack(b,cls){ const two=alsoBtn(b,cls); return two?`<div class="buy-stack">${buyBtn(b,cls)}${two}</div>`:buyBtn(b,cls); }
 
 function storeName(b){ return b.store==="Литрес" ? t("litres") : b.store; }
 function buyBtn(b,cls){ const ru=lang==="ru"&&b.urlRu; const url=ru?b.urlRu:b.url; if(!url) return ""; const st=ru?{store:b.storeRu}:b; return `<a class="${cls||"btn gold sm"}" href="${url}" target="_blank" rel="noopener">${t("buy")} ${esc(storeName(st))}</a>`; }
@@ -1007,7 +1010,7 @@ function render(){
   document.getElementById("shelf").innerHTML = BOOKS.map((b,i)=> `<button class="bk" type="button" data-book="${i}" aria-label="${esc(b[lang].t)}">${cov(b)?`<img src="${cov(b)}" alt="" loading="lazy">`:genCover(b,i)}</button>`).join("");
   document.getElementById("captions").innerHTML = BOOKS.map((b,i)=>{
     const L=b[lang]; const x=(BOOK_TXT[lang]||BOOK_TXT.en)[i]||{head:"",desc:L.ben||""}; const c=cov(b);
-    return `<article class="bookc" id="book-${i}"><button class="bookc-cov" type="button" data-book="${i}" aria-label="${esc(L.t)}">${c?`<img src="${c}" alt="" loading="lazy">`:genCover(b,i)}</button><div class="bookc-b"><b>${esc(L.t)}</b>${rvBadge(i)}<h3>${esc(x.head)}</h3><p>${esc(x.desc)}</p>${lang==="ru"&&b.enT?`<span class="en">${t("en_version")}: ${esc(b.enT)}</span>`:""}${edPill(b)}<div class="bookc-a">${buyBtn(b)}${exBtn(b)}${alsoBtn(b)}<button class="linkbtn" type="button" data-book="${i}">${t("more_book")} ${arrow}</button></div></div></article>`;
+    return `<article class="bookc" id="book-${i}"><button class="bookc-cov" type="button" data-book="${i}" aria-label="${esc(L.t)}">${c?`<img src="${c}" alt="" loading="lazy">`:genCover(b,i)}</button><div class="bookc-b"><b>${esc(L.t)}</b>${rvBadge(i)}<h3>${esc(x.head)}</h3><p>${esc(x.desc)}</p>${lang==="ru"&&b.enT?`<span class="en">${t("en_version")}: ${esc(b.enT)}</span>`:""}${edPill(b)}<div class="bookc-a">${buyStack(b,"btn gold sm cb")}${exBtn(b)}<button class="linkbtn" type="button" data-book="${i}">${t("more_book")} ${arrow}</button></div></div></article>`;
   }).join("");
 
   document.getElementById("apps-list").innerHTML = APPS.map((a,i)=>{
@@ -1261,7 +1264,7 @@ function renderBookPage(i){
   document.getElementById("bookpage-in").innerHTML = `<a class="bp-back" href="#books"><span class="arr">←</span> ${esc(t("back_books"))}</a>
     <div class="bp"><div class="bp-cov">${c?`<img src="${c}" alt="${esc(L.t)}">`:genCover(b,i)}</div>
     <div class="bp-main">${edPill(b)}<h1>${esc(L.t)}</h1>${rvBadge(i,true)}<p class="pain">${esc(x.head)}</p><p class="lead">${esc(x.desc)}</p>
-      <div class="bp-acts">${buyBtn(b,"btn gold")}${exBtn(b)}${alsoBtn(b)}<button type="button" class="linkbtn" id="bp-copy">🔗 ${esc(t("copy_link"))}</button></div>
+      <div class="bp-acts">${buyStack(b,"btn gold")}${exBtn(b)}<button type="button" class="linkbtn" id="bp-copy">🔗 ${esc(t("copy_link"))}</button></div>
       ${L.s?`<p class="sub">${esc(L.s)}</p>`:""}${(L.d||[]).map(p=>`<p class="d">${esc(p)}</p>`).join("")}${L.q?`<blockquote>${esc(L.q)}</blockquote>`:""}
     </div></div>
     ${appCard||courseCard?`<div class="bp-pairs"><h2>${esc(t("pairs"))}</h2><div class="grid">${appCard}${courseCard}</div></div>`:""}`;
