@@ -1079,8 +1079,8 @@ addEventListener("scroll",()=>{ let cur=0; secs.forEach((s,i)=>{ if(s && s.getBo
   document.getElementById("lp-close").addEventListener("click", close);
   dlgL.addEventListener("click", e=>{ if(e.target===dlgL) close(); });
   grid.addEventListener("click", e=>{ const b=e.target.closest(".lp-btn"); if(!b) return; pick=b.dataset.lg; grid.querySelectorAll(".lp-btn").forEach(x=>x.setAttribute("aria-checked", x===b)); });
-  grid.addEventListener("dblclick", e=>{ const b=e.target.closest(".lp-btn"); if(b){ lang=b.dataset.lg; close(); render(); } });
-  document.getElementById("lp-go").addEventListener("click", ()=>{ lang=pick; close(); render(); });
+  grid.addEventListener("dblclick", e=>{ const b=e.target.closest(".lp-btn"); if(b){ lang=b.dataset.lg; saveLang(); close(); render(); } });
+  document.getElementById("lp-go").addEventListener("click", ()=>{ lang=pick; saveLang(); close(); render(); });
 })();
 const FX = k => ((FEAT[lang] && FEAT[lang][k]) || FEAT.en[k] || "");
 const TOPICS = {
@@ -1372,6 +1372,19 @@ for(const lg in CF_TXT){ if(T[lg]) Object.assign(T[lg],CF_TXT[lg]); }
   addEventListener("hashchange", ()=>{ const m=location.hash.match(/^#book-([a-z0-9-]+)$/); if(m) setTimeout(()=>{ try{ window.goatcounter&&window.goatcounter.count&&window.goatcounter.count({path:"/book/"+m[1], title:"Book page: "+m[1]}); }catch(e){} },50); });
 })();
 
+/* Start language: 1) ?lang= in the ad link, 2) the visitor's earlier choice, 3) the phone's language, 4) English */
+function saveLang(){ try{ localStorage.setItem("ns-lang",lang); }catch(err){} }
+(function(){
+  const ok=c=>LP_LANGS.some(x=>x[0]===c);
+  const norm=c=>{ c=String(c||"").toLowerCase().split(/[-_]/)[0]; return ({iw:"he",in:"id",ua:"uk"})[c]||c; };
+  let q=""; try{ q=norm(new URLSearchParams(location.search).get("lang")); }catch(err){}
+  if(ok(q)){ lang=q; saveLang(); return; }
+  let s=""; try{ s=localStorage.getItem("ns-lang")||""; }catch(err){}
+  if(ok(s)){ lang=s; return; }
+  const list=(navigator.languages&&navigator.languages.length)?navigator.languages:[navigator.language];
+  for(const c of list){ const n=norm(c); if(ok(n)){ lang=n; return; } }
+  lang="en";
+})();
 render();
 route();
 </script>
