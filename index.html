@@ -175,6 +175,11 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .rv.big{font-size:16px}.rv.big .rv-s svg{width:20px;height:20px}.rv.big .rv-s b{font-size:18px}
 .rv-sum{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px;font-weight:700;color:var(--navy)}
 .rv-stars{display:inline-flex;gap:2px}.rv-stars svg{width:20px;height:20px;fill:#FF7A00}
+/* free apps */
+.free{display:inline-block;margin-inline-start:6px;padding:3px 10px;border-radius:99px;background:linear-gradient(180deg,#3DDC84,#1EA65A);color:#fff;font:900 11px var(--body);letter-spacing:.08em;text-transform:uppercase;vertical-align:2px;box-shadow:0 4px 10px -4px rgba(30,166,90,.8)}
+.appc.is-free{box-shadow:0 0 0 2px #3DDC84,0 14px 30px -20px rgba(30,166,90,.7);background:linear-gradient(180deg,#F2FFF6,#fff 45%)}
+.free-banner{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 22px;padding:14px 18px;border-radius:18px;background:linear-gradient(90deg,#E6FBEE,#F4FFF8);border:2px solid #3DDC84;color:#0F5E32;font-weight:800;font-size:16px;line-height:1.4}
+.fb-badge{flex:none;padding:5px 14px;border-radius:99px;background:linear-gradient(180deg,#3DDC84,#1EA65A);color:#fff;font:900 14px var(--body);letter-spacing:.06em;text-transform:uppercase}
 /* language picker */
 .langsel{border:0;cursor:pointer;font:800 14px var(--body);padding:8px 14px 8px 12px;gap:8px}
 .langsel .chev{width:10px;height:8px;fill:none;stroke:currentColor;stroke-width:2}
@@ -609,6 +614,7 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
   <section class="block" id="apps">
     <div class="wrap">
       <div class="head"><div><h2 data-t="apps_h"></h2><p data-t="apps_lead"></p></div></div>
+      <p class="free-banner"><span class="fb-badge" data-t="app_free"></span><span data-t="free_banner"></span></p>
       <div class="apps" id="apps-list"></div>
       <p class="apps-ios"><a href="https://t.me/nikolayintuition" target="_blank" rel="noopener" data-t="ios_note"></a></p>
       <p class="apps-note" data-t="apps_hint"></p>
@@ -963,6 +969,13 @@ function rvBadge(i,big){ const R=RV[i]; if(!R) return ""; const L=RV_TXT[lang]||
 function rvSummary(){ const el=document.getElementById("rv-sum"); if(!el) return; const L=RV_TXT[lang]||RV_TXT.en;
   el.innerHTML=`<span class="rv-stars">${STAR.repeat(5)}</span><span>${esc(L.sum.replace("{r}",rvNum(RV_TOT.r)).replace("{n}",RV_TOT.n.toLocaleString(rvLoc())))}</span>`; }
 
+
+const FREE_TXT={"en": {"app_free": "Free", "free_banner": "Completely free: MOMENT NOW and BREATH PRANA MOMENT — download and use without paying anything."}, "ru": {"app_free": "Бесплатно", "free_banner": "Абсолютно бесплатно: MOMENT NOW и BREATH PRANA MOMENT — скачивайте и пользуйтесь, ничего не платя."}, "uk": {"app_free": "Безкоштовно", "free_banner": "Абсолютно безкоштовно: MOMENT NOW і BREATH PRANA MOMENT — завантажуйте й користуйтеся, нічого не сплачуючи."}, "ar": {"app_free": "مجاني", "free_banner": "مجانيان تمامًا: MOMENT NOW وBREATH PRANA MOMENT — حمّلهما واستخدمهما دون أن تدفع شيئًا."}, "he": {"app_free": "חינם", "free_banner": "חינם לגמרי: MOMENT NOW ו-BREATH PRANA MOMENT — מורידים ומשתמשים בלי לשלם כלום."}, "tr": {"app_free": "Ücretsiz", "free_banner": "Tamamen ücretsiz: MOMENT NOW ve BREATH PRANA MOMENT — indirin ve hiçbir ücret ödemeden kullanın."}, "fr": {"app_free": "Gratuit", "free_banner": "Entièrement gratuites : MOMENT NOW et BREATH PRANA MOMENT — téléchargez-les et utilisez-les sans rien payer."}, "de": {"app_free": "Kostenlos", "free_banner": "Komplett kostenlos: MOMENT NOW und BREATH PRANA MOMENT – herunterladen und nutzen, ohne etwas zu bezahlen."}, "es": {"app_free": "Gratis", "free_banner": "Totalmente gratis: MOMENT NOW y BREATH PRANA MOMENT — descárgalas y úsalas sin pagar nada."}, "pt": {"app_free": "Grátis", "free_banner": "Totalmente grátis: MOMENT NOW e BREATH PRANA MOMENT — baixe e use sem pagar nada."}, "it": {"app_free": "Gratis", "free_banner": "Completamente gratuite: MOMENT NOW e BREATH PRANA MOMENT — scaricale e usale senza pagare nulla."}, "zh": {"app_free": "免费", "free_banner": "完全免费：MOMENT NOW 和 BREATH PRANA MOMENT——下载使用，无需支付任何费用。"}, "ja": {"app_free": "無料", "free_banner": "完全無料：MOMENT NOW と BREATH PRANA MOMENT は、ダウンロードも利用も一切お金がかかりません。"}, "ko": {"app_free": "무료", "free_banner": "완전 무료: MOMENT NOW와 BREATH PRANA MOMENT는 다운로드부터 사용까지 비용이 전혀 들지 않아요."}, "hi": {"app_free": "मुफ़्त", "free_banner": "पूरी तरह मुफ़्त: MOMENT NOW और BREATH PRANA MOMENT — डाउनलोड करें और बिना कुछ चुकाए इस्तेमाल करें।"}, "id": {"app_free": "Gratis", "free_banner": "Sepenuhnya gratis: MOMENT NOW dan BREATH PRANA MOMENT — unduh dan gunakan tanpa membayar apa pun."}};
+for(const lg in FREE_TXT){ if(T[lg]) Object.assign(T[lg],FREE_TXT[lg]); }
+const FREE_APPS=["MOMENT NOW","BREATH PRANA MOMENT"];
+function isFree(a){ return !!a && FREE_APPS.includes(a.n); }
+function freeTag(a){ return isFree(a)?`<span class="free">${esc(t("app_free"))}</span>`:""; }
+
 function storeName(b){ return b.store==="Литрес" ? t("litres") : b.store; }
 function buyBtn(b,cls){ const ru=lang==="ru"&&b.urlRu; const url=ru?b.urlRu:b.url; if(!url) return ""; const st=ru?{store:b.storeRu}:b; return `<a class="${cls||"btn gold sm"}" href="${url}" target="_blank" rel="noopener">${t("buy")} ${esc(storeName(st))}</a>`; }
 function genCover(b,i){
@@ -990,7 +1003,7 @@ function render(){
   document.getElementById("apps-list").innerHTML = APPS.map((a,i)=>{
     const x=(APP_TXT[lang]||APP_TXT.en)[i]||{head:a[lang]?a[lang][0]:"",desc:a[lang]?a[lang][1]:""};
     const btn=a.url?`<a class="btn gold sm" href="${a.url}" target="_blank" rel="noopener">${t("gp")}</a>`:`<span class="btn sm off" aria-disabled="true">${t("soon")}</span>`;
-    return `<article class="appc">${appIcon(a)}<div class="appc-b"><b>${esc(a.n)} <span class="plat">${t("android")}</span></b><h3>${esc(x.head)}</h3><p>${esc(x.desc)}</p><div class="appc-a">${btn}</div></div></article>`;
+    return `<article class="appc${isFree(a)?" is-free":""}">${appIcon(a)}<div class="appc-b"><b>${esc(a.n)} <span class="plat">${t("android")}</span>${freeTag(a)}</b><h3>${esc(x.head)}</h3><p>${esc(x.desc)}</p><div class="appc-a">${btn}</div></div></article>`;
   }).join("");
 
   document.getElementById("course-list").innerHTML = COURSES.map(c=>{
@@ -1232,7 +1245,7 @@ function exBtn(b){ const l=bookLink(b); return l.url?`<a class="btn sm ghost2" h
 function renderBookPage(i){
   const b=BOOKS[i], L=b[lang], x=(BOOK_TXT[lang]||BOOK_TXT.en)[i]||{head:"",desc:""}, c=cov(b), pr=BOOK_PAIRS[i]||[];
   const A=APPS[pr[0]], C=pr[1]!=null?COURSES[pr[1]]:null;
-  const appCard = A ? (()=>{ const ax=(APP_TXT[lang]||APP_TXT.en)[pr[0]]||{head:"",desc:""}; return `<article class="appc">${appIcon(A)}<div class="appc-b"><b>${esc(A.n)} <span class="plat">${t("android")}</span></b><h3>${esc(ax.head)}</h3><p>${esc(ax.desc)}</p><div class="appc-a">${appBtn(A)}</div></div></article>`; })() : "";
+  const appCard = A ? (()=>{ const ax=(APP_TXT[lang]||APP_TXT.en)[pr[0]]||{head:"",desc:""}; return `<article class="appc">${appIcon(A)}<div class="appc-b"><b>${esc(A.n)} <span class="plat">${t("android")}</span>${freeTag(A)}</b><h3>${esc(ax.head)}</h3><p>${esc(ax.desc)}</p><div class="appc-a">${appBtn(A)}</div></div></article>`; })() : "";
   const courseCard = C ? `<article class="course"><div class="meta"><span class="pill">${C.d30?t("days30"):t("program")}</span>${C.url?`<span class="pill open">${t("status_open")}</span>`:`<span class="pill soon">${t("status_soon")}</span>`}</div><h3>${esc(C[lang][0])}</h3><p>${esc(C[lang][1])}</p>${C.url?`<div><a class="btn gold sm" href="${C.url}" target="_blank" rel="noopener">${t("join_course")}</a></div>`:""}</article>` : "";
   document.getElementById("bookpage-in").innerHTML = `<a class="bp-back" href="#books"><span class="arr">←</span> ${esc(t("back_books"))}</a>
     <div class="bp"><div class="bp-cov">${c?`<img src="${c}" alt="${esc(L.t)}">`:genCover(b,i)}</div>
