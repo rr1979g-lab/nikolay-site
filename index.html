@@ -185,6 +185,24 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .also b,.bookc-b .also b{font:inherit;font-weight:900;color:inherit;text-transform:none;letter-spacing:0;display:inline}
 .buy-stack{display:flex;flex-direction:column;align-items:stretch;gap:10px;flex-basis:100%}
 .buy-stack .btn{justify-content:center;width:max-content;min-width:220px;max-width:100%}
+/* promo popup */
+#promo{max-width:min(420px,calc(100vw - 32px));border-radius:28px;overflow:hidden}
+#promo::backdrop{background:rgba(12,20,52,.6)}
+.pm{position:relative;display:grid;justify-items:center;text-align:center;gap:12px;padding:30px 24px 22px;background:linear-gradient(180deg,#FFF6DD 0%,#fff 46%)}
+.pm-x{position:absolute;top:12px;right:12px;width:36px;height:36px;border-radius:50%;border:0;background:rgba(27,43,110,.08);color:var(--navy);font-size:20px;line-height:1;cursor:pointer}
+[dir="rtl"] .pm-x{right:auto;left:12px}
+.pm-tag{font:800 12px var(--body);letter-spacing:.08em;text-transform:uppercase;color:#B4570B;background:#FFE6B0;padding:6px 12px;border-radius:999px}
+.pm-ic{width:104px;height:104px;border-radius:24px;overflow:hidden;box-shadow:0 14px 30px -12px rgba(27,43,110,.55);display:grid;place-items:center;background:#fff}
+.pm-ic img{width:100%;height:100%;object-fit:cover}
+.pm-cv{width:132px;border-radius:8px;box-shadow:0 16px 34px -14px rgba(27,43,110,.6)}
+.pm-n{font:800 14px var(--body);letter-spacing:.06em;color:#5A6585;margin:0}
+.pm-h{font:800 22px/1.25 var(--body);color:var(--navy);margin:0;text-wrap:balance}
+.pm-d{font:600 15px/1.5 var(--body);color:#3D4766;margin:0;max-width:34ch}
+.pm .free{margin:0}
+.pm-go{width:100%;justify-content:center;font-size:18px;padding:17px 22px}
+.pm-go svg{width:22px;height:22px;flex:none}
+#pm-go{width:100%}.pm .buy-stack{width:100%;align-items:stretch}.pm .buy-stack .btn{width:100%;min-width:0}
+.pm-later{border:0;background:none;color:#5A6585;font:700 14px var(--body);padding:6px 10px;cursor:pointer;text-decoration:underline}
 /* language picker */
 .langsel{border:0;cursor:pointer;font:800 14px var(--body);padding:8px 14px 8px 12px;gap:8px}
 .langsel .chev{width:10px;height:8px;fill:none;stroke:currentColor;stroke-width:2}
@@ -1387,6 +1405,50 @@ function saveLang(){ try{ localStorage.setItem("ns-lang",lang); }catch(err){} }
 })();
 render();
 route();
+
+/* ===== Promo popup: the app or book of the day =====
+   Default for everyone: PROMO_DEFAULT. An ad link can override it: ?promo=<slug>, or ?promo=none to switch it off. */
+const PROMO_DEFAULT="moment-now";
+const PROMO_TXT={"en": ["Today's pick", "Download on Google Play", "Maybe later", "Buy the book"], "ru": ["Выбор дня", "Скачать в Google Play", "Не сейчас", "Купить книгу"], "uk": ["Вибір дня", "Завантажити з Google Play", "Не зараз", "Купити книгу"], "ar": ["اختيار اليوم", "التنزيل من Google Play", "ليس الآن", "اشترِ الكتاب"], "zh": ["今日推荐", "在 Google Play 下载", "以后再说", "购买本书"], "fr": ["Le choix du jour", "Télécharger sur Google Play", "Plus tard", "Acheter le livre"], "de": ["Tipp des Tages", "Bei Google Play laden", "Später", "Buch kaufen"], "he": ["הבחירה של היום", "להורדה מ-Google Play", "לא עכשיו", "לקנות את הספר"], "hi": ["आज की पसंद", "Google Play से डाउनलोड करें", "अभी नहीं", "किताब खरीदें"], "id": ["Pilihan hari ini", "Unduh di Google Play", "Nanti saja", "Beli bukunya"], "it": ["La scelta di oggi", "Scarica da Google Play", "Più tardi", "Acquista il libro"], "ja": ["今日のおすすめ", "Google Play でダウンロード", "あとで", "本を購入"], "ko": ["오늘의 추천", "Google Play에서 다운로드", "나중에", "책 구매하기"], "pt": ["Escolha do dia", "Baixar no Google Play", "Agora não", "Comprar o livro"], "es": ["La elección del día", "Descargar en Google Play", "Ahora no", "Comprar el libro"], "tr": ["Günün seçimi", "Google Play'den indir", "Şimdi değil", "Kitabı satın al"], "bn": ["আজকের বাছাই", "Google Play থেকে ডাউনলোড করুন", "এখন নয়", "বইটি কিনুন"], "mr": ["आजची निवड", "Google Play वरून डाउनलोड करा", "आत्ता नाही", "पुस्तक खरेदी करा"], "te": ["ఈరోజు ఎంపిక", "Google Play నుండి డౌన్‌లోడ్ చేయండి", "ఇప్పుడు కాదు", "పుస్తకం కొనండి"], "ta": ["இன்றைய தேர்வு", "Google Play-இல் பதிவிறக்குங்கள்", "இப்போது வேண்டாம்", "புத்தகத்தை வாங்குங்கள்"]};
+(function(){
+  const PT=k=>{ const L=PROMO_TXT[lang]||PROMO_TXT.en; return L[{label:0,dl:1,later:2,buy:3}[k]]; };
+  const slugOf=a=>a.n.toLowerCase().replace(/&/g," ").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+  let q=""; try{ q=(new URLSearchParams(location.search).get("promo")||"").toLowerCase().trim(); }catch(e){}
+  const slug=q||PROMO_DEFAULT; if(!slug||slug==="none") return;
+  let item=null;
+  const ai=APPS.findIndex(a=>slugOf(a)===slug); if(ai>=0 && APPS[ai].url) item={type:"app",i:ai};
+  const bi=SLUGS.indexOf(slug); if(!item && bi>=0) item={type:"book",i:bi};
+  if(!item) return;
+  const key="ns-promo-"+slug; try{ if(!q && sessionStorage.getItem(key)) return; }catch(e){}
+  const gc=(path,title)=>{ try{ if(window.goatcounter&&window.goatcounter.count) window.goatcounter.count({path,title,event:true}); }catch(e){} };
+  const d=document.createElement("dialog"); d.id="promo"; d.setAttribute("aria-labelledby","pm-h"); document.body.appendChild(d);
+  const PLAY='<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M5 3.5v17a1 1 0 0 0 1.5.86l14-8.5a1 1 0 0 0 0-1.72l-14-8.5A1 1 0 0 0 5 3.5z"/></svg>';
+  function paint(){
+    let body="";
+    if(item.type==="app"){ const a=APPS[item.i], x=(APP_TXT[lang]||APP_TXT.en)[item.i]||{}, sub=(a[lang]||a.en||[])[0]||"";
+      body=`<div class="pm-ic">${appIcon(a)}</div><p class="pm-n">${esc(a.n)}${sub?" · "+esc(sub):""}</p>
+        <h2 class="pm-h" id="pm-h">${esc(x.head||"")}</h2><p class="pm-d">${esc(x.desc||"")}</p>${freeTag(a)}
+        <a class="btn gold pm-go" id="pm-go" href="${a.url}" target="_blank" rel="noopener">${PLAY}${esc(PT("dl"))}</a>`;
+    } else { const b=BOOKS[item.i], L=b[lang]||b.en, x=(BOOK_TXT[lang]||BOOK_TXT.en)[item.i]||{};
+      body=`<img class="pm-cv" src="${cov(b)}" alt=""><p class="pm-n">${esc(L.t||b.en.t)}</p>
+        <h2 class="pm-h" id="pm-h">${esc(x.head||"")}</h2><p class="pm-d">${esc(x.desc||"")}</p>
+        <div id="pm-go">${buyStack(b,"btn gold")}</div>`;
+    }
+    d.innerHTML=`<div class="pm"><button class="pm-x" type="button" id="pm-x" aria-label="${esc(t("close"))}">×</button>
+      <span class="pm-tag">${esc(PT("label"))}</span>${body}
+      <button class="pm-later" type="button" id="pm-later">${esc(PT("later"))}</button></div>`;
+    const close=()=>{ try{d.close()}catch(e){d.removeAttribute("open")} };
+    d.querySelector("#pm-x").onclick=close; d.querySelector("#pm-later").onclick=()=>{ gc("event/promo-later/"+slug,"Promo dismissed: "+slug); close(); };
+    d.querySelector("#pm-go").addEventListener("click",e=>{ if(e.target.closest("a")) gc("event/promo-click/"+slug,"Promo click: "+slug); });
+  }
+  d.addEventListener("click",e=>{ if(e.target===d){ try{d.close()}catch(_){} } });
+  setTimeout(()=>{
+    if(document.querySelector("dialog[open]")) return;
+    paint(); try{ d.showModal(); }catch(e){ d.setAttribute("open",""); }
+    try{ sessionStorage.setItem(key,"1"); }catch(e){}
+    gc("event/promo-shown/"+slug,"Promo shown: "+slug);
+  }, 1200);
+})();
 </script>
 
 </body>
