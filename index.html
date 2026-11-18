@@ -1416,6 +1416,19 @@ function saveLang(){ try{ localStorage.setItem("ns-lang",lang); }catch(err){} }
 render();
 route();
 
+/* On Android phones open Google Play links straight in the Play Store app (market://), with the web page as a fallback */
+window.nsGo=window.nsGo||function(u){ location.href=u; };
+document.addEventListener("click",function(e){
+  if(e.defaultPrevented||e.button>0||e.metaKey||e.ctrlKey) return;
+  const a=e.target.closest&&e.target.closest('a[href*="play.google.com/store/apps/details"]'); if(!a) return;
+  if(!/Android/i.test(navigator.userAgent)) return;
+  let id=""; try{ id=new URL(a.href).searchParams.get("id")||""; }catch(err){} if(!/^[\w.]+$/.test(id)) return;
+  e.preventDefault(); const web=a.href; let left=false;
+  const onHide=()=>{ if(document.hidden) left=true; }; document.addEventListener("visibilitychange",onHide);
+  window.nsGo("market://details?id="+id);
+  setTimeout(()=>{ document.removeEventListener("visibilitychange",onHide); if(!left && !document.hidden) window.nsGo(web); },1600);
+});
+
 /* ===== Promo popup: the app or book of the day =====
    Default for everyone: PROMO_DEFAULT. An ad link can override it: ?promo=<slug>, or ?promo=none to switch it off. */
 const PROMO_DEFAULT="parent-lock";
