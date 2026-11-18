@@ -1443,7 +1443,8 @@ window.nsGo=window.nsGo||function(u){ location.href=u; };
 document.addEventListener("click",function(e){
   if(e.defaultPrevented||e.button>0||e.metaKey||e.ctrlKey) return;
   const a=e.target.closest&&e.target.closest('a[href*="play.google.com/store/apps/details"]'); if(!a) return;
-  if(!/Android/i.test(navigator.userAgent)) return;
+  const ua=navigator.userAgent, isAndroid=/Android/i.test(ua)||(navigator.userAgentData&&navigator.userAgentData.platform==="Android")||(/Linux/i.test(ua)&&!/CrOS/i.test(ua)&&navigator.maxTouchPoints>0);
+  if(!isAndroid) return;
   let id=""; try{ id=new URL(a.href).searchParams.get("id")||""; }catch(err){} if(!/^[\w.]+$/.test(id)) return;
   e.preventDefault(); const web=a.href; let left=false;
   const onHide=()=>{ if(document.hidden) left=true; }; document.addEventListener("visibilitychange",onHide);
