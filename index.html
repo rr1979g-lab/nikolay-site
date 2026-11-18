@@ -1425,7 +1425,9 @@ document.addEventListener("click",function(e){
   let id=""; try{ id=new URL(a.href).searchParams.get("id")||""; }catch(err){} if(!/^[\w.]+$/.test(id)) return;
   e.preventDefault(); const web=a.href; let left=false;
   const onHide=()=>{ if(document.hidden) left=true; }; document.addEventListener("visibilitychange",onHide);
-  window.nsGo("market://details?id="+id);
+  const inApp=/FBAN|FBAV|FB_IAB|Instagram/i.test(navigator.userAgent);
+  window.nsGo(inApp ? "market://details?id="+id
+    : "intent://details?id="+id+"#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url="+encodeURIComponent(web)+";end");
   setTimeout(()=>{ document.removeEventListener("visibilitychange",onHide); if(!left && !document.hidden) window.nsGo(web); },1600);
 });
 
