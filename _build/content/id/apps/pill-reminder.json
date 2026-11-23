@@ -1,0 +1,77 @@
+{
+ "slug": "pill-reminder",
+ "title": "Aplikasi Pengingat Minum Obat untuk Android — PILL REMINDER",
+ "description": "PILL REMINDER membantu membuat jadwal dan pengingat tepat waktu untuk obat dan rutinitas harian, agar tidak ada yang terlewat. Unduh di Google Play.",
+ "h1": "PILL REMINDER — jangan lewatkan pengingat penting",
+ "lead": "Sering lupa minum obat atau kehilangan jejak rutinitas harian? PILL REMINDER adalah alat sederhana untuk membuat jadwal dan mendapat pengingat tepat waktu.",
+ "sections": [
+  {
+   "h2": "Mengapa begitu mudah lupa minum obat",
+   "p": [
+    "Saat hari sedang sibuk, tugas kecil yang rutin adalah yang pertama terlewat: sebutir tablet di pagi hari, vitamin setelah makan siang, rutinitas yang sudah Anda janjikan untuk dijalani. Sticky note mudah hilang, dan ingatan tidak bisa diandalkan saat pikiran penuh.",
+    "Aplikasi pengingat mengangkat beban ini dari kepala Anda. Anda mengatur jadwal sekali, lalu ponsel mengingatkan Anda pada waktu yang tepat, sehingga Anda bisa fokus pada hari Anda."
+   ]
+  },
+  {
+   "h2": "Apa yang dilakukan PILL REMINDER",
+   "ul": [
+    "Membuat jadwal untuk obat, vitamin, dan tugas rutin lainnya.",
+    "Mendapat pengingat tepat waktu sesuai jadwal Anda.",
+    "Memantau pengingat yang terjadwal di satu tempat.",
+    "Membuat rutinitas sehari-hari lebih mudah diatur."
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "PILL REMINDER untuk siapa saja yang minum obat atau suplemen sesuai jadwal, untuk orang yang membantu kerabat lanjut usia mengingat rutinitasnya, dan untuk mereka yang sekadar menginginkan pengingat yang andal untuk tugas harian yang penting. Aplikasi ini dibuat agar sederhana dan mudah dipakai.",
+    "Aplikasi ini juga berguna di luar urusan obat: minum air, istirahat sejenak untuk peregangan, jalan kaki harian, atau beberapa menit ketenangan. Jika Anda menyukai jeda singkat di sela hari, aplikasi [MOMENT NOW](app:moment-now) menawarkan latihan yang membawa perhatian Anda kembali ke saat ini."
+   ]
+  },
+  {
+   "h2": "Cara memulai",
+   "ul": [
+    "Pasang PILL REMINDER dari Google Play.",
+    "Tambahkan apa yang perlu Anda ingat — misalnya obat atau rutinitas harian.",
+    "Atur jadwal dan jam yang sesuai dengan hari Anda atau petunjuk dokter Anda.",
+    "Izinkan notifikasi agar pengingat datang tepat waktu.",
+    "Periksa daftar Anda dari waktu ke waktu dan perbarui saat jadwal Anda berubah."
+   ]
+  },
+  {
+   "h2": "Catatan keselamatan penting",
+   "p": [
+    "PILL REMINDER hanyalah alat pengingat. Aplikasi ini tidak menggantikan dokter dan tidak memberikan nasihat medis. Selalu ikuti petunjuk dokter atau apoteker Anda tentang obat apa yang diminum, berapa banyak, dan kapan, dan tanyakan kepada mereka jika ada pertanyaan."
+   ]
+  },
+  {
+   "h2": "Mengapa saya membuat aplikasi ini",
+   "p": [
+    "Saya Nikolay Shcherbakov, penulis dan pembuat aplikasi Android. Seiring waktu saya menyadari bahwa pengetahuan yang berguna perlu dibawa ke kehidupan sehari-hari, dan bahwa tindakan kecil setiap hari membentuk hari-hari kita lebih daripada rencana besar. Di samping aplikasi saya yang berbasis latihan, saya membuat alat untuk tugas sehari-hari. PILL REMINDER adalah salah satunya: pembantu kecil yang menjaga rutinitas penting agar tidak terlupakan. Jika Anda juga ingin membangun kebiasaan yang stabil, lihat [PERENNIAL](app:perennial)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Bagaimana agar saya ingat minum obat setiap hari?",
+   "a": "Atur jadwal di aplikasi pengingat dan izinkan notifikasi. PILL REMINDER memungkinkan Anda membuat jadwal dan mendapat pengingat tepat waktu."
+  },
+  {
+   "q": "Bisakah PILL REMINDER dipakai untuk hal selain obat?",
+   "a": "Bisa. Ini adalah alat untuk jadwal dan pengingat tepat waktu, jadi Anda dapat memakainya untuk rutinitas harian apa pun yang penting."
+  },
+  {
+   "q": "Apakah aplikasi ini memberi tahu obat apa yang harus saya minum?",
+   "a": "Tidak. Aplikasi hanya mengingatkan Anda sesuai jadwal yang Anda atur. Keputusan tentang obat dan dosis ada pada dokter Anda."
+  },
+  {
+   "q": "Di mana saya bisa mengunduh PILL REMINDER?",
+   "a": "PILL REMINDER tersedia untuk Android di Google Play."
+  }
+ ],
+ "related": [
+  "perennial",
+  "moment-now",
+  "minus-25-kg"
+ ]
+}

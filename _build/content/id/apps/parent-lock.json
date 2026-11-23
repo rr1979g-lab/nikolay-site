@@ -1,0 +1,85 @@
+{
+ "slug": "parent-lock",
+ "title": "Aplikasi Kontrol Orang Tua untuk Android — PARENT LOCK",
+ "description": "PARENT LOCK adalah aplikasi kontrol orang tua untuk Android: atur aturan ponsel anak, pilih aplikasi yang diizinkan, dan jadwalkan waktu istirahat. Unduh di Google Play.",
+ "h1": "PARENT LOCK — kontrol orang tua untuk ponsel Android anak Anda",
+ "lead": "Khawatir anak terlalu lama di depan layar? PARENT LOCK membantu Anda membuat aturan yang jelas untuk pemakaian ponsel, menentukan aplikasi yang diizinkan, dan menyediakan waktu untuk beristirahat.",
+ "sections": [
+  {
+   "h2": "Apa yang seharusnya dilakukan aplikasi kontrol orang tua di Android",
+   "p": [
+    "Ponsel pintar memberi anak banyak hal: gim, video, obrolan, tugas sekolah, dan arus notifikasi yang tak putus. Tanpa aturan apa pun, beberapa menit mudah berubah menjadi satu malam penuh, dan obrolan keluarga tentang hal itu bisa cepat berubah menjadi pertengkaran.",
+    "PARENT LOCK dibuat untuk orang tua yang menginginkan aturan sederhana dan dapat diprediksi, bukan pertengkaran setiap hari. Idenya bukan merampas ponsel, melainkan menyepakati cara memakainya dan membiarkan aplikasi membantu Anda menjaga kesepakatan itu."
+   ]
+  },
+  {
+   "h2": "Fitur utama PARENT LOCK",
+   "p": [
+    "Aplikasi ini berfokus pada tiga hal yang paling sering diminta orang tua:"
+   ],
+   "ul": [
+    "Aturan pemakaian ponsel — tetapkan batas yang jelas tentang cara anak memakai ponsel.",
+    "Aplikasi yang diizinkan — pilih aplikasi mana yang boleh dibuka anak dan atur akses ke aplikasi lainnya.",
+    "Waktu istirahat — tentukan waktu ketika ponsel dikesampingkan, sehingga ada ruang untuk tidur, PR, jalan-jalan, dan waktu bersama keluarga.",
+    "Kebiasaan digital yang lebih aman — aturan yang konsisten membantu anak terbiasa dengan ritme yang lebih sehat bersama layar."
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "PARENT LOCK untuk orang tua dari anak yang sudah punya ponsel Android sendiri atau memakai perangkat keluarga. Cocok bagi keluarga yang ingin membatasi waktu layar anak dengan lembut, selangkah demi selangkah, dan lebih menyukai pengaturan yang tenang dan jelas daripada dasbor yang rumit.",
+    "Aplikasi ini juga berguna ketika anak mendapat ponsel pertamanya: jauh lebih mudah menyepakati aturan di awal daripada mengubah kebiasaan belakangan."
+   ]
+  },
+  {
+   "h2": "Cara mengatur kontrol orang tua di Android dengan PARENT LOCK",
+   "ul": [
+    "Pasang PARENT LOCK dari Google Play di ponsel yang dipakai anak Anda.",
+    "Bicaralah dulu dengan anak: jelaskan aturan apa yang Anda terapkan dan mengapa.",
+    "Pilih aplikasi yang diizinkan dan tentukan bagaimana aplikasi lainnya ditangani.",
+    "Atur waktu istirahat yang sesuai dengan keseharian keluarga Anda — misalnya malam hari sebelum tidur atau jam mengerjakan PR.",
+    "Tinjau aturan dari waktu ke waktu dan sesuaikan seiring anak Anda bertumbuh."
+   ]
+  },
+  {
+   "h2": "Beberapa tips membatasi waktu layar",
+   "p": [
+    "Aturan paling efektif bila jelas dan sama setiap hari. Jelaskan sebelumnya, tepati kata-kata Anda, dan jadilah teladan: anak-anak juga memperhatikan cara orang dewasa memakai ponselnya.",
+    "Jika Anda ingin mengurangi gangguan dari ponsel Anda sendiri, coba [PHONE DETOX](app:phone-detox), dan baca panduan kami tentang [kontrol orang tua di Android](blog:parental-controls-android) untuk ide lainnya."
+   ]
+  },
+  {
+   "h2": "Mengapa saya membuat PARENT LOCK",
+   "p": [
+    "Saya Nikolay Shcherbakov. Selama lebih dari 20 tahun saya menjalani meditasi, teknik perhatian, dan pengamatan diri, dan saya telah melihat betapa kuat ponsel menarik perhatian dari kehidupan nyata. Aplikasi-aplikasi saya dimaksudkan untuk mengubah gagasan yang berguna menjadi langkah sehari-hari yang sederhana. PARENT LOCK lahir dari prinsip yang sama: aturan kecil yang konsisten membantu anak menjaga keseimbangan yang lebih sehat dengan layar."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Bagaimana cara mengatur kontrol orang tua di ponsel Android?",
+   "a": "Pasang PARENT LOCK dari Google Play di ponsel anak Anda, pilih aplikasi yang diizinkan, dan atur waktu istirahat. Lalu jelaskan aturannya kepada anak dan sesuaikan dari waktu ke waktu."
+  },
+  {
+   "q": "Bisakah saya memilih aplikasi mana yang boleh dipakai anak saya?",
+   "a": "Bisa. PARENT LOCK memungkinkan Anda memilih aplikasi yang diizinkan dan mengatur akses ke aplikasi di ponsel anak Anda."
+  },
+  {
+   "q": "Bagaimana cara membatasi waktu layar anak saya?",
+   "a": "Atur waktu istirahat di PARENT LOCK untuk jam-jam ketika ponsel tidak boleh dipakai, seperti sebelum tidur atau saat mengerjakan PR. Aturan yang konsisten lebih berhasil daripada larangan sesekali."
+  },
+  {
+   "q": "PARENT LOCK bekerja di perangkat apa saja?",
+   "a": "PARENT LOCK adalah aplikasi Android yang tersedia di Google Play."
+  },
+  {
+   "q": "Pada usia berapa sebaiknya mulai memakai kontrol orang tua?",
+   "a": "Saat paling mudah adalah ketika anak mendapat ponsel pertamanya, karena aturan yang disepakati sejak awal lebih mudah dijaga. Anda bisa melonggarkannya seiring anak bertumbuh."
+  }
+ ],
+ "related": [
+  "phone-detox",
+  "perennial",
+  "free-again"
+ ]
+}

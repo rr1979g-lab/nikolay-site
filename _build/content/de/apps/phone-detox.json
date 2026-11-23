@@ -1,0 +1,78 @@
+{
+ "slug": "phone-detox",
+ "title": "Handy-Sucht überwinden: Phone Detox für Android",
+ "description": "Ständig am Handy? Phone Detox hilft, Ablenkungen zu verringern, Zeit für Wichtiges einzuplanen und die gewonnene Zeit zu verfolgen. Für Android.",
+ "h1": "Phone Detox – holen Sie sich Ihre Zeit zurück",
+ "lead": "Phone Detox ist eine App für digitale Balance auf Android von Nikolay Shcherbakov. Sie hilft Ihnen, Ablenkungen durchs Handy zu verringern, ungesunde Bildschirmgewohnheiten abzulegen und Zeit für das echte Leben zurückzugewinnen.",
+ "sections": [
+  {
+   "h2": "Wie hören Sie auf, ständig aufs Handy zu schauen?",
+   "p": [
+    "Sie greifen zum Handy, um eine einzige Nachricht zu prüfen, und zwanzig Minuten später scrollen Sie immer noch. Das passiert fast jedem, und Willenskraft allein hilft selten, denn die Gewohnheit läuft im Autopilot. Besser funktioniert es, wenn Sie die Zeit, die Sie schützen möchten, sichtbar und bewusst machen.",
+    "Genau darauf baut Phone Detox auf. Statt sich einfach Vorwürfe wegen der Bildschirmzeit zu machen, planen Sie Zeit für das ein, was Ihnen wichtig ist, und sehen, wie viel Zeit Sie tatsächlich zurückgewonnen haben. Mehr über die Gewohnheit selbst lesen Sie im Artikel [Handy weglegen: so hören Sie auf zu scrollen](blog:how-to-stop-scrolling-your-phone)."
+   ]
+  },
+  {
+   "h2": "Wobei Ihnen die App hilft",
+   "ul": [
+    "Ablenkungen durchs Handy verringern",
+    "Konzentrierte Zeit für wichtige Aufgaben und das echte Leben einplanen",
+    "Ungesunde Bildschirmgewohnheiten Schritt für Schritt ablegen",
+    "Die freigewordene Zeit verfolgen"
+   ]
+  },
+  {
+   "h2": "Für wen die App gedacht ist",
+   "p": [
+    "Phone Detox ist für alle, die spüren, dass das Handy mehr Aufmerksamkeit bekommt, als ihnen lieb ist: wer aus Gewohnheit danach greift, sich bei Arbeit oder Studium schwer konzentrieren kann oder mehr Abende ohne endlose Feeds möchte. Es ist ein praktischer erster Schritt zu digitaler Balance, ohne das Smartphone wegzuwerfen."
+   ]
+  },
+  {
+   "h2": "So starten Sie Ihren digitalen Detox",
+   "ul": [
+    "Installieren Sie Phone Detox aus Google Play auf Ihrem Android-Handy.",
+    "Überlegen Sie, wofür Sie mehr Zeit haben möchten: Arbeit, Familie, Lesen, Erholung.",
+    "Planen Sie Ihren ersten Zeitblock für diese Tätigkeit ein.",
+    "Legen Sie das Handy beiseite und beobachten Sie, wie oft der Impuls auftaucht, es zu prüfen.",
+    "Schauen Sie sich die freigewordene Zeit an und wiederholen Sie das morgen."
+   ]
+  },
+  {
+   "h2": "Kleine Schritte wirken besser als strikte Verbote",
+   "p": [
+    "Ein digitaler Detox muss keine radikale Woche ohne Internet sein. Regelmäßige, bescheidene Schritte lassen sich leichter durchhalten: eine geschützte Stunde, ein Abend, ein Morgen ohne Feed. Zu sehen, wie sich die gewonnene Zeit summiert, erinnert daran, warum sich der Aufwand lohnt."
+   ]
+  },
+  {
+   "h2": "Warum der Autor die App entwickelt hat",
+   "p": [
+    "Seit mehr als 20 Jahren arbeitet Nikolay Shcherbakov mit Meditation und Selbstbeobachtung an seiner Aufmerksamkeit. Er sieht, wie leicht sie sich zerstreut, und das Handy gehört zu den stärksten Sogkräften. Er hat diese App entwickelt, um den ablenkenden Sog des Handys zu verringern und Ihnen Ihre Zeit zurückzugeben.",
+    "Sein Grundprinzip: Veränderung braucht nicht immer komplizierte Systeme, manchmal genügt es, vor der gewohnten Reaktion kurz innezuhalten. Um dieses Innehalten zu üben, probieren Sie [Moment Now](app:moment-now), und für neue Routinen nutzen Sie den Gewohnheits-Tracker [Perennial](app:perennial)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie höre ich auf, ständig auf mein Handy zu schauen?",
+   "a": "Überlegen Sie zuerst, wofür Sie die Zeit nutzen möchten, und planen Sie dafür einen festen Block ein. Phone Detox hilft Ihnen, Ablenkungen zu verringern, diese Zeit zu schützen und zu sehen, wie viel Sie gewonnen haben."
+  },
+  {
+   "q": "Muss ich mein Handy ganz aufgeben?",
+   "a": "Nein. Ziel ist digitale Balance: weniger Ablenkung und mehr Zeit für das, was zählt, nicht der Verzicht auf das Smartphone."
+  },
+  {
+   "q": "Gibt es Phone Detox für das iPhone?",
+   "a": "Die App ist derzeit für Android bei Google Play erhältlich. Eine iPhone-Version gibt es noch nicht."
+  },
+  {
+   "q": "Kann ich sehen, wie viel Zeit ich gespart habe?",
+   "a": "Ja. Phone Detox erfasst die freigewordene Zeit, sodass Sie Ihre Fortschritte verfolgen können."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "perennial",
+  "what-if-everything-turns-out-well",
+  "parent-lock"
+ ]
+}

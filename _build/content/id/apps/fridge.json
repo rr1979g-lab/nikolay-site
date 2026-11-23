@@ -1,0 +1,78 @@
+{
+ "slug": "fridge",
+ "title": "Masak Apa dari Bahan yang Ada — Aplikasi Resep FRIDGE",
+ "description": "Bingung mau masak apa? FRIDGE membantu menemukan ide masakan dari bahan yang sudah ada di kulkas dan mengurangi sampah makanan. Unduh di Google Play.",
+ "h1": "FRIDGE — resep dari bahan yang sudah ada di kulkas",
+ "lead": "Berdiri di depan kulkas tanpa tahu mau masak apa? FRIDGE membantu Anda menemukan ide masakan dari bahan yang sudah Anda punya.",
+ "sections": [
+  {
+   "h2": "Masak apa dari bahan yang ada",
+   "p": [
+    "Semua orang pernah mengalaminya: kulkas tidak kosong, tapi tak ada ide sama sekali. Beberapa sayuran, sedikit telur, setengah bungkus keju — dan akhirnya Anda memesan makanan atau belanja lagi, sementara sisa bahan diam-diam terbuang.",
+    "FRIDGE mulai dari sisi sebaliknya. Alih-alih mencari resep lalu membeli bahannya, Anda mulai dari apa yang sudah ada dan mencari hidangan yang bisa dibuat darinya."
+   ]
+  },
+  {
+   "h2": "Apa yang dibantu oleh FRIDGE",
+   "ul": [
+    "Menemukan resep dari bahan yang sudah ada di kulkas.",
+    "Mendapat ide masakan saat Anda tidak tahu mau masak apa.",
+    "Menghabiskan bahan dan membuang lebih sedikit makanan.",
+    "Membuat memasak sehari-hari lebih mudah dan tidak membuat stres."
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "FRIDGE untuk siapa saja yang memasak di rumah dan ingin lebih tidak repot: orang sibuk yang butuh ide makan malam cepat, keluarga yang ingin mengurangi makanan terbuang, mahasiswa yang belajar memasak, dan siapa pun yang lelah bertanya “malam ini makan apa?” setiap hari.",
+    "Aplikasi ini terutama berguna di akhir pekan, saat kulkas berisi sedikit dari semuanya tetapi tidak cukup dari apa pun. Beberapa ide di saat yang tepat bisa mengubah sisa bahan itu menjadi hidangan yang layak."
+   ]
+  },
+  {
+   "h2": "Cara memulai",
+   "ul": [
+    "Pasang FRIDGE dari Google Play.",
+    "Lihat isi kulkas Anda dan catat bahan yang ada.",
+    "Cari ide resep berdasarkan bahan-bahan itu.",
+    "Pilih satu hidangan dan masaklah.",
+    "Mulailah dari bahan yang paling perlu segera dihabiskan untuk mengurangi sampah makanan."
+   ]
+  },
+  {
+   "h2": "Masak lebih banyak, buang lebih sedikit",
+   "p": [
+    "Memasak dari bahan yang ada bukan hanya praktis. Cara ini menghemat waktu belanja, membantu Anda merencanakan menu dengan lebih baik, dan membuat Anda lebih sadar akan makanan yang dibeli. Jika Anda ingin melangkah lebih jauh di dapur dan mencoba sourdough, acar, atau yogurt buatan sendiri, lihat [FERMENT LAB](app:ferment-lab).",
+    "Jika Anda memiliki kondisi kesehatan atau pantangan makanan, tanyakan dulu kepada dokter sebelum mengubah pola makan secara besar-besaran."
+   ]
+  },
+  {
+   "h2": "Mengapa saya membuat FRIDGE",
+   "p": [
+    "Saya Nikolay Shcherbakov. Selama lebih dari 15 tahun saya mengubah cara makan dan hidup tanpa banyak makanan sehari-hari, jadi pertanyaan “apa yang bisa saya masak dari bahan yang ada?” terus muncul di dapur saya. Saya membagikan pengalaman pribadi saya dalam buku [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FRIDGE adalah alat sehari-hari yang sederhana untuk menjawab pertanyaan itu dengan cepat."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Adakah aplikasi yang mencari resep dari bahan yang saya punya?",
+   "a": "Ada. FRIDGE membantu Anda menemukan resep dan ide masakan dari bahan yang sudah ada di kulkas."
+  },
+  {
+   "q": "Apa yang bisa dimasak kalau bingung mau masak apa?",
+   "a": "Mulailah dari apa yang sudah Anda punya. FRIDGE menyarankan ide hidangan berdasarkan bahan Anda, jadi Anda tidak perlu belanja dulu."
+  },
+  {
+   "q": "Bagaimana cara mengurangi sampah makanan di rumah?",
+   "a": "Masaklah dari bahan yang paling perlu segera dihabiskan dan rencanakan menu berdasarkan apa yang sudah ada di kulkas. FRIDGE dirancang untuk membantu hal itu."
+  },
+  {
+   "q": "Di mana saya bisa mengunduh FRIDGE?",
+   "a": "FRIDGE tersedia untuk Android di Google Play."
+  }
+ ],
+ "related": [
+  "ferment-lab",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

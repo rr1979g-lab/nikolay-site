@@ -1,0 +1,87 @@
+{
+ "slug": "ferment-lab",
+ "title": "App de Fermentação Caseira: Pães e Conservas — FERMENT LAB",
+ "description": "O FERMENT LAB guia você passo a passo na fermentação caseira: pão de fermentação natural, conservas, kvass, iogurte, kombucha e mais. Baixe no Google Play.",
+ "h1": "FERMENT LAB — fermentação caseira passo a passo",
+ "lead": "Quer fermentar em casa, mas não sabe por onde começar? O FERMENT LAB ajuda você a fazer pão de fermentação natural, conservas, kvass e iogurte passo a passo e a manter suas receitas organizadas.",
+ "sections": [
+  {
+   "h2": "Por que a fermentação caseira parece difícil no começo",
+   "p": [
+    "De fora, a fermentação parece simples: farinha e água, repolho e sal, leite e um fermento. Na prática, os iniciantes costumam se perder: esquecem uma etapa, confundem os tempos ou perdem a receita que deu certo da última vez.",
+    "O FERMENT LAB coloca ordem no processo. Você guarda as receitas em um só lugar, segue o passo a passo e pode voltar ao que já fez antes."
+   ]
+  },
+  {
+   "h2": "O que você pode fazer com o FERMENT LAB",
+   "ul": [
+    "Pão de fermentação natural.",
+    "Conservas e outros vegetais fermentados.",
+    "Kvass.",
+    "Iogurte caseiro.",
+    "Kombucha e muito mais."
+   ]
+  },
+  {
+   "h2": "Como o app ajuda",
+   "ul": [
+    "Orientação passo a passo durante o processo de fermentação.",
+    "Um lugar para organizar suas receitas.",
+    "Uma estrutura clara para você seguir o processo com segurança.",
+    "Espaço para explorar novas fermentações quando o básico ficar fácil."
+   ]
+  },
+  {
+   "h2": "Para quem é",
+   "p": [
+    "O app é para iniciantes que querem experimentar fermentar em casa pela primeira vez e para quem já faz pão de fermentação natural ou conservas e quer ter receitas e etapas organizadas em um só lugar.",
+    "Também serve para quem gosta de cozinhar com calma e com as mãos. A fermentação ensina paciência: você prepara, espera, observa e aprende com cada lote. Ter cada etapa anotada facilita muito esse aprendizado, porque você vê o que fez e repete o que funcionou."
+   ]
+  },
+  {
+   "h2": "Como começar",
+   "ul": [
+    "Instale o FERMENT LAB pelo Google Play.",
+    "Escolha um projeto simples para começar, por exemplo iogurte ou conservas.",
+    "Siga as etapas em ordem e não pule nenhuma.",
+    "Salve a receita que deu certo para poder repeti-la.",
+    "Passe para o pão de fermentação natural, o kvass ou a kombucha quando se sentir pronto."
+   ]
+  },
+  {
+   "h2": "Uma observação sobre segurança na cozinha",
+   "p": [
+    "Use potes e utensílios limpos e siga cada etapa com cuidado. Se uma fermentação tiver aparência, cheiro ou gosto estranho, não consuma. Se você tem alguma condição de saúde ou restrição alimentar, consulte seu médico antes de incluir novos alimentos na dieta."
+   ]
+  },
+  {
+   "h2": "Por que criei o FERMENT LAB",
+   "p": [
+    "Eu sou Nikolay Shcherbakov. Há mais de 15 anos venho mudando a forma como me alimento, e esse caminho me fez prestar muita atenção ao que preparo em casa. Escrevi sobre essa experiência pessoal no livro [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). O FERMENT LAB é um ajudante prático de cozinha; para ideias de refeições do dia a dia com o que você já tem em casa, experimente o [FRIDGE](app:fridge)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como começar a fermentar em casa?",
+   "a": "Comece com um projeto simples, como iogurte ou conservas, e siga as etapas com atenção. O FERMENT LAB guia você pelo processo passo a passo."
+  },
+  {
+   "q": "Dá para fazer pão de fermentação natural com o FERMENT LAB?",
+   "a": "Sim. O pão de fermentação natural é uma das receitas que o app ajuda a fazer passo a passo, junto com conservas, kvass e iogurte."
+  },
+  {
+   "q": "Posso salvar minhas próprias receitas?",
+   "a": "O FERMENT LAB ajuda você a organizar suas receitas para voltar àquelas que deram certo."
+  },
+  {
+   "q": "Onde posso baixar o FERMENT LAB?",
+   "a": "O FERMENT LAB está disponível para Android no Google Play."
+  }
+ ],
+ "related": [
+  "fridge",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

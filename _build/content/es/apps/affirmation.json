@@ -1,0 +1,74 @@
+{
+ "slug": "affirmation",
+ "title": "Afirmaciones diarias para la confianza: app Affirmation",
+ "description": "¿Quieres dejar atrás el diálogo interno negativo? Affirmation ofrece frases positivas y prácticas por temas para la confianza y la motivación. Para Android.",
+ "h1": "Affirmation — afirmaciones diarias para ganar confianza",
+ "lead": "Affirmation es una app para Android de Nikolay Shcherbakov con frases positivas y prácticas por temas. Te ayuda a ganar confianza, mantener la motivación y afrontar tus metas con más atención plena.",
+ "sections": [
+  {
+   "h2": "Cómo usar las afirmaciones cada día",
+   "p": [
+    "La voz que llevas dentro no siempre está de tu lado. No puedo, no soy suficiente, no va a salir bien: estas frases se repiten tanto que acaban pareciendo hechos. Las afirmaciones ofrecen un contrapeso sencillo. Al dedicar atención con regularidad a frases que te animan, vas cambiando poco a poco los pensamientos que practicas.",
+    "La palabra clave es regularidad. Una afirmación leída una sola vez cambia poco. Lo que moldea tus hábitos de pensamiento es una práctica diaria breve, a la que vuelves una y otra vez. La app Affirmation está pensada para que esa vuelta diaria sea fácil."
+   ]
+  },
+  {
+   "h2": "Qué encontrarás en la app",
+   "ul": [
+    "Frases positivas para sustituir el diálogo interno negativo",
+    "Prácticas por temas para distintas áreas de tu vida",
+    "Afirmaciones para la confianza",
+    "Afirmaciones para la motivación",
+    "Apoyo para afrontar tus metas con atención y enfoque"
+   ]
+  },
+  {
+   "h2": "Para quién es",
+   "p": [
+    "La app es para cualquiera que quiera fortalecer su mentalidad: personas que tienden a criticarse, que trabajan por una meta y necesitan un recordatorio diario de para qué lo hacen, o que simplemente quieren más positividad en su día. No hace falta tener experiencia con afirmaciones."
+   ]
+  },
+  {
+   "h2": "Cómo empezar una práctica de afirmaciones",
+   "ul": [
+    "Instala Affirmation desde Google Play en tu teléfono Android.",
+    "Elige un tema que te importe ahora mismo, como la confianza o la motivación.",
+    "Lee las frases despacio y fíjate en cómo te hacen sentir.",
+    "Vuelve a tu práctica a la misma hora cada día, por ejemplo por la mañana.",
+    "Ten presentes tus metas y observa cómo cambia tu diálogo interno."
+   ]
+  },
+  {
+   "h2": "Por qué la creó el autor",
+   "p": [
+    "Las afirmaciones forman parte de la práctica de Nikolay Shcherbakov desde hace muchos años, junto con la meditación, el trabajo con la respiración y las técnicas de atención. Cuenta esa experiencia en su libro [Destiny to Order](book:destiny-to-order), que trata del poder de las intenciones diarias, de la atención a tus metas y de cómo dar forma de manera consciente a tus hábitos de pensamiento, e incluye un programa de afirmaciones de 30 días.",
+    "Notó que la inspiración de un libro se apaga a los pocos días si la práctica no se integra en la vida cotidiana. La app es su forma de mantener las afirmaciones al alcance de la mano, para que unos minutos de práctica quepan en cualquier día.",
+    "Para mantener tu nueva rutina, prueba el registro de hábitos [Perennial](app:perennial) y, para empezar el día con la mente en calma, añade una práctica breve de [Moment Now](app:moment-now)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Las afirmaciones funcionan de verdad?",
+   "a": "Las afirmaciones son una forma de dirigir tu atención de manera regular hacia pensamientos que te animan. Según la experiencia del autor, lo que marca la diferencia es la práctica diaria sostenida en el tiempo, y por eso la app se basa en una rutina diaria."
+  },
+  {
+   "q": "¿Cuál es el mejor momento para decir afirmaciones?",
+   "a": "Mucha gente prefiere la mañana, para marcar el tono del día, pero sirve cualquier momento al que puedas volver con regularidad."
+  },
+  {
+   "q": "¿Hay afirmaciones para la confianza en la app?",
+   "a": "Sí. La app incluye frases positivas y prácticas por temas para la confianza, la motivación y un enfoque consciente de tus metas."
+  },
+  {
+   "q": "¿Hay un libro sobre el método de afirmaciones?",
+   "a": "Sí. Destiny to Order, de Nikolay Shcherbakov, describe su método de afirmaciones e incluye un programa de 30 días."
+  }
+ ],
+ "related": [
+  "destiny-to-order",
+  "moment-now",
+  "perennial",
+  "thoughts-in-circles"
+ ]
+}

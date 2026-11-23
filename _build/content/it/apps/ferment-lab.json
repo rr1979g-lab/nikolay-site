@@ -1,0 +1,87 @@
+{
+ "slug": "ferment-lab",
+ "title": "Fermentazione casalinga: lievito madre — FERMENT LAB",
+ "description": "FERMENT LAB ti guida passo passo nella fermentazione casalinga: pane a lievito madre, sottaceti, kvas, yogurt, kombucha e altro. Scaricala su Google Play.",
+ "h1": "FERMENT LAB — fermentazione casalinga passo dopo passo",
+ "lead": "Vuoi fermentare in casa ma non sai da dove cominciare? FERMENT LAB ti aiuta a preparare pane a lievito madre, sottaceti, kvas e yogurt passo dopo passo e a tenere in ordine le tue ricette.",
+ "sections": [
+  {
+   "h2": "Perché all'inizio la fermentazione casalinga sembra difficile",
+   "p": [
+    "Visto da fuori, fermentare sembra semplice: farina e acqua, cavolo e sale, latte e fermento. In pratica i principianti spesso si perdono: dimenticano un passaggio, confondono i tempi o perdono la ricetta che aveva funzionato l'ultima volta.",
+    "FERMENT LAB mette ordine nel processo. Tieni le ricette in un unico posto, segui il procedimento passo dopo passo e puoi tornare a ciò che hai fatto in precedenza."
+   ]
+  },
+  {
+   "h2": "Cosa puoi preparare con FERMENT LAB",
+   "ul": [
+    "Pane a lievito madre.",
+    "Sottaceti e altre verdure fermentate.",
+    "Kvas.",
+    "Yogurt fatto in casa.",
+    "Kombucha e altro ancora."
+   ]
+  },
+  {
+   "h2": "Come ti aiuta l'app",
+   "ul": [
+    "Una guida passo passo nel processo di fermentazione.",
+    "Uno spazio per organizzare le tue ricette.",
+    "Una struttura chiara per seguire il processo con sicurezza.",
+    "Spazio per esplorare nuove fermentazioni quando le basi ti sembrano facili."
+   ]
+  },
+  {
+   "h2": "A chi è rivolta",
+   "p": [
+    "L'app è per i principianti che vogliono provare a fermentare in casa per la prima volta e per chi cucina già a casa, prepara il pane a lievito madre o i sottaceti e vuole avere ricette e passaggi organizzati in un unico posto.",
+    "Si adatta anche a chi ama la cucina lenta, fatta con le mani. La fermentazione insegna la pazienza: prepari, aspetti, osservi e impari da ogni lotto. Avere ogni passaggio scritto rende l'apprendimento molto più semplice, perché puoi vedere cosa hai fatto e ripetere ciò che ha funzionato."
+   ]
+  },
+  {
+   "h2": "Come iniziare",
+   "ul": [
+    "Installa FERMENT LAB da Google Play.",
+    "Scegli un progetto semplice con cui cominciare, per esempio yogurt o sottaceti.",
+    "Segui i passaggi in ordine e non saltarne nessuno.",
+    "Salva la ricetta che ha funzionato per poterla ripetere.",
+    "Passa al lievito madre, al kvas o al kombucha quando ti senti pronto."
+   ]
+  },
+  {
+   "h2": "Una nota sulla sicurezza in cucina",
+   "p": [
+    "Usa vasetti e utensili puliti e segui con attenzione ogni passaggio. Se una fermentazione ha un aspetto, un odore o un sapore strano, non mangiarla. Se hai condizioni di salute o restrizioni alimentari, chiedi al tuo medico prima di inserire nuovi alimenti nella tua dieta."
+   ]
+  },
+  {
+   "h2": "Perché ho creato FERMENT LAB",
+   "p": [
+    "Sono Nikolay Shcherbakov. Da oltre 15 anni cambio il mio modo di mangiare, e questo percorso mi ha reso molto attento a ciò che cucino a casa. Ho raccontato questa esperienza personale nel libro [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FERMENT LAB è un aiuto pratico per la cucina; per idee di piatti quotidiani con ciò che hai già, prova [FRIDGE](app:fridge)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Come si comincia a fermentare in casa?",
+   "a": "Inizia con un progetto semplice, come lo yogurt o i sottaceti, e segui con cura i passaggi. FERMENT LAB ti guida nel processo passo dopo passo."
+  },
+  {
+   "q": "Posso preparare il pane a lievito madre con FERMENT LAB?",
+   "a": "Sì. Il pane a lievito madre è una delle cose che l'app ti aiuta a preparare passo dopo passo, insieme a sottaceti, kvas e yogurt."
+  },
+  {
+   "q": "Posso salvare le mie ricette?",
+   "a": "FERMENT LAB ti aiuta a organizzare le ricette, così puoi tornare a quelle che hanno funzionato."
+  },
+  {
+   "q": "Dove posso scaricare FERMENT LAB?",
+   "a": "FERMENT LAB è disponibile per Android su Google Play."
+  }
+ ],
+ "related": [
+  "fridge",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

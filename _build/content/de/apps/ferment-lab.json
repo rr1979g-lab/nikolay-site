@@ -1,0 +1,87 @@
+{
+ "slug": "ferment-lab",
+ "title": "Fermentieren zu Hause: Sauerteig & Gemüse – FERMENT LAB",
+ "description": "FERMENT LAB führt Sie Schritt für Schritt durchs Fermentieren zu Hause: Sauerteigbrot, Sauergemüse, Kwas, Joghurt, Kombucha und mehr. Bei Google Play.",
+ "h1": "FERMENT LAB – Fermentieren zu Hause Schritt für Schritt",
+ "lead": "Sie möchten zu Hause fermentieren, wissen aber nicht, wo Sie anfangen sollen? FERMENT LAB hilft Ihnen, Sauerteigbrot, Sauergemüse, Kwas und Joghurt Schritt für Schritt zuzubereiten und Ihre Rezepte zu ordnen.",
+ "sections": [
+  {
+   "h2": "Warum Fermentieren am Anfang schwierig wirkt",
+   "p": [
+    "Von außen sieht Fermentieren einfach aus: Mehl und Wasser, Kohl und Salz, Milch und eine Starterkultur. In der Praxis verlieren Anfänger leicht den Überblick – sie vergessen einen Schritt, verwechseln Zeiten oder finden das Rezept nicht mehr, das beim letzten Mal funktioniert hat.",
+    "FERMENT LAB bringt Ordnung in den Ablauf. Sie bewahren Ihre Rezepte an einem Ort auf, folgen dem Prozess Schritt für Schritt und können jederzeit nachsehen, was Sie zuvor gemacht haben."
+   ]
+  },
+  {
+   "h2": "Was Sie mit FERMENT LAB zubereiten können",
+   "ul": [
+    "Sauerteigbrot.",
+    "Sauergemüse und andere fermentierte Gemüsesorten.",
+    "Kwas.",
+    "Selbstgemachten Joghurt.",
+    "Kombucha und mehr."
+   ]
+  },
+  {
+   "h2": "Wie die App Ihnen hilft",
+   "ul": [
+    "Schritt-für-Schritt-Anleitung durch den Fermentationsprozess.",
+    "Ein Ort, um Ihre Rezepte zu ordnen.",
+    "Eine klare Struktur, damit Sie sicher vorgehen können.",
+    "Raum für neue Ferments, sobald die Grundlagen leichtfallen."
+   ]
+  },
+  {
+   "h2": "Für wen die App gedacht ist",
+   "p": [
+    "Die App ist für Anfänger, die zum ersten Mal zu Hause fermentieren möchten, und für Hobbyköche, die schon Sauerteigbrot backen oder Gemüse einlegen und ihre Rezepte und Schritte an einem Ort ordnen wollen.",
+    "Sie passt auch zu allen, die langsames, handfestes Kochen mögen. Fermentieren lehrt Geduld: vorbereiten, warten, beobachten und aus jedem Ansatz lernen. Wenn jeder Schritt festgehalten ist, fällt das Lernen viel leichter, weil Sie sehen, was Sie getan haben, und wiederholen können, was gelungen ist."
+   ]
+  },
+  {
+   "h2": "So fangen Sie an",
+   "ul": [
+    "Installieren Sie FERMENT LAB aus Google Play.",
+    "Wählen Sie zum Einstieg ein einfaches Projekt – zum Beispiel Joghurt oder Sauergemüse.",
+    "Folgen Sie den Schritten der Reihe nach und überspringen Sie keinen.",
+    "Speichern Sie das Rezept, das bei Ihnen funktioniert hat, damit Sie es wiederholen können.",
+    "Wagen Sie sich an Sauerteig, Kwas oder Kombucha, wenn Sie sich bereit fühlen."
+   ]
+  },
+  {
+   "h2": "Ein Hinweis zur Küchensicherheit",
+   "p": [
+    "Verwenden Sie saubere Gläser und Geräte und befolgen Sie jeden Schritt sorgfältig. Wenn ein Ferment falsch aussieht, riecht oder schmeckt, essen Sie es nicht. Bei gesundheitlichen Einschränkungen oder Ernährungsvorgaben fragen Sie Ihren Arzt, bevor Sie neue Lebensmittel in Ihren Speiseplan aufnehmen."
+   ]
+  },
+  {
+   "h2": "Warum ich FERMENT LAB entwickelt habe",
+   "p": [
+    "Ich bin Nikolay Shcherbakov. Seit mehr als 15 Jahren verändere ich meine Ernährung, und dieser Weg hat mich sehr aufmerksam dafür gemacht, was ich zu Hause koche. Über diese persönliche Erfahrung habe ich im Buch [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg) geschrieben. FERMENT LAB ist ein praktischer Küchenhelfer; für Alltagsideen aus dem, was Sie schon zu Hause haben, probieren Sie [FRIDGE](app:fridge)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie fange ich mit dem Fermentieren zu Hause an?",
+   "a": "Beginnen Sie mit einem einfachen Projekt wie Joghurt oder Sauergemüse und folgen Sie den Schritten sorgfältig. FERMENT LAB führt Sie Schritt für Schritt durch den Prozess."
+  },
+  {
+   "q": "Kann ich mit FERMENT LAB Sauerteigbrot backen?",
+   "a": "Ja. Sauerteigbrot gehört zu den Dingen, bei denen die App Sie Schritt für Schritt begleitet, ebenso wie Sauergemüse, Kwas und Joghurt."
+  },
+  {
+   "q": "Kann ich meine eigenen Rezepte speichern?",
+   "a": "FERMENT LAB hilft Ihnen, Ihre Rezepte zu ordnen, damit Sie zu denen zurückkehren können, die gelungen sind."
+  },
+  {
+   "q": "Wo kann ich FERMENT LAB laden?",
+   "a": "FERMENT LAB ist für Android bei Google Play erhältlich."
+  }
+ ],
+ "related": [
+  "fridge",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "intuition-trainer",
+ "title": "Intuition Trainer: Sezgi Nasıl Geliştirilir Uygulaması",
+ "description": "İç sesinize daha çok güvenmek mi istiyorsunuz? Intuition Trainer, ilk sinyali fark etmeniz ve ilerlemenizi izlemeniz için kısa interaktif egzersizler sunar. Android'de.",
+ "h1": "Intuition Trainer — ilk içgüdünüze güvenmeyi öğrenin",
+ "lead": "Intuition Trainer, Nikolay Shcherbakov'un sezgisel algıyı kısa, eğlenceli egzersizlerle eğitmenize yardımcı olan Android uygulamasıdır. Sezgi hakkında okumak yerine onu birkaç dakikalık seanslarla pratik edersiniz.",
+ "sections": [
+  {
+   "h2": "Sezgilerinize güvenmek neden bu kadar zor?",
+   "p": [
+    "Çoğumuz bunu yaşamışızdır: İlk izlenim size bir şey söyler, sonra bir şüphe dalgası gelir ve kendinizi vazgeçirirsiniz. Sonra ilk hissin doğru olduğu ortaya çıkar. Sorun nadiren sezginin olmamasıdır. Çoğunlukla ilk sinyali fark etmeyiz ya da onu ikinci kez düşünmenin gürültüsünde boğarız.",
+    "Intuition Trainer tam da bunun için yapıldı. Sezgi nasıl geliştirilir gibi soyut bir soruyu basit bir günlük alışkanlığa dönüştürür: İlk sinyali fark edin, kontrol edin ve hissinizin ne sıklıkla doğru çıktığını görün."
+   ]
+  },
+  {
+   "h2": "Uygulama ne yapar?",
+   "p": [
+    "Uygulama kısa interaktif egzersizler ve eğlenceli meydan okumalar etrafında kurulu. Her biri, düşünen zihniniz devreye girmeden önce ilk izleniminizi yakalamanız için size bir an verir."
+   ],
+   "ul": [
+    "Sezgisel algıyı eğitmek için kısa interaktif egzersizler",
+    "İlk iç sinyali fark etme pratiği",
+    "Hissinizi kontrol etme ve içgüdülerinizin ne kadar isabetli olduğunu görme yolu",
+    "Sonuçlarınızın zaman içinde nasıl değiştiğini izlemeniz için ilerleme takibi",
+    "İlk izlenimlerinize güveninizi artırmak için tasarlanmış egzersizler"
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "Uygulama, fazla düşünmeye yatkın olanlara, kararları sorgulayıp durarak takılanlara ya da iç sezgisinin gerçekte ne kadar güvenilir olduğunu merak edenlere uygundur. Yazarın ilk hissi, ardından gelen şüphelerden ayırt etmeyi anlatan kitabı [The Intuition Code](book:the-intuition-code)'daki fikirlerin pratik bir tamamlayıcısı olarak da iyi çalışır."
+   ]
+  },
+  {
+   "h2": "Sezginizi eğitmeye nasıl başlanır?",
+   "ul": [
+    "Intuition Trainer'ı Google Play'den Android telefonunuza yükleyin.",
+    "Sakin bir dakika seçin ve ilk egzersizinizi acele etmeden deneyin.",
+    "Uzun bir akıl yürütme zinciriyle değil, ilk izleniminizle yanıt verin.",
+    "Sonucu kontrol edin ve ilk sinyalin o anda nasıl hissettirdiğine dikkat edin.",
+    "Düzenli olarak geri gelin ve birkaç gün boyunca ilerlemenizi izleyin."
+   ]
+  },
+  {
+   "h2": "Yazar bu uygulamayı neden geliştirdi?",
+   "p": [
+    "Nikolay Shcherbakov 20 yılı aşkın süredir meditasyon, nefes çalışması, olumlamalar, dikkat teknikleri ve kendini gözlemleme pratiği yapıyor. Sezgi, bu yolun merkezindeki sorulardan biri oldu: Onu daha net duymayı öğrenebilir miyiz? Bu konudaki kitapları, [Open Up to Your Dreams](book:open-up-to-your-dreams) dahil, bulduklarını anlatıyor.",
+    "Ama okumanın yetmediğini fark etti. İyi bir fikir size birkaç gün ilham verir, sonra eski alışkanlıklar geri döner. Uygulama, pratiği gündelik hayata taşımak için var: Açın, kısa bir egzersiz yapın ve gününüze devam edin. Amacı, dikkatinizi ilk sezgisel yanıta doğru eğitmek.",
+    "Pratik yapmadan önce zihninizi sakinleştirmek isterseniz [Breath Prana Moment](app:breath-prana-moment) ile birlikte kullanmayı deneyin."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Sezgi gerçekten egzersizlerle geliştirilebilir mi?",
+   "a": "Intuition Trainer sezgiyi bir dikkat becerisi olarak ele alır: şüpheler devreye girmeden önce ilk sinyali fark etmek. Düzenli kısa egzersizler ve sonuçlarınızı takip etmek, içgüdülerinizin ne kadar isabetli olduğunu görmenize yardımcı olur."
+  },
+  {
+   "q": "Bir seans ne kadar sürer?",
+   "a": "Egzersizler kısadır; bu yüzden pratiği alışkanlığa dönüştürmek için günde birkaç dakika yeterlidir."
+  },
+  {
+   "q": "Intuition Trainer iPhone'da var mı?",
+   "a": "Uygulama şu anda Android için Google Play'de mevcut. Henüz iPhone sürümü yok."
+  },
+  {
+   "q": "Uygulamayla birlikte gidecek bir kitap var mı?",
+   "a": "Evet. Nikolay Shcherbakov'un The Intuition Code ve Open Up to Your Dreams kitapları sezgiyi daha derinlemesine ele alır ve egzersizlerle iyi eşleşir."
+  }
+ ],
+ "related": [
+  "the-intuition-code",
+  "open-up-to-your-dreams",
+  "breath-prana-moment",
+  "head-heart"
+ ]
+}

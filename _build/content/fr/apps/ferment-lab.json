@@ -1,0 +1,87 @@
+{
+ "slug": "ferment-lab",
+ "title": "Fermentation maison : levain et pickles — FERMENT LAB",
+ "description": "FERMENT LAB vous guide pas à pas dans la fermentation maison : pain au levain, pickles, kvas, yaourt, kombucha et plus encore. Sur Google Play.",
+ "h1": "FERMENT LAB : la fermentation maison pas à pas",
+ "lead": "Envie de fermenter chez vous sans savoir par où commencer ? FERMENT LAB vous aide à préparer pain au levain, pickles, kvas et yaourt pas à pas, et à garder vos recettes bien rangées.",
+ "sections": [
+  {
+   "h2": "Pourquoi la fermentation maison paraît difficile au début",
+   "p": [
+    "De l’extérieur, la fermentation semble simple : farine et eau, chou et sel, lait et ferment. En pratique, les débutants se perdent souvent : ils oublient une étape, confondent les durées ou perdent la recette qui avait bien marché.",
+    "FERMENT LAB met de l’ordre dans le processus. Vous gardez vos recettes au même endroit, suivez les étapes une à une et pouvez revenir à ce que vous avez fait auparavant."
+   ]
+  },
+  {
+   "h2": "Ce que vous pouvez préparer avec FERMENT LAB",
+   "ul": [
+    "Du pain au levain.",
+    "Des pickles et d’autres légumes fermentés.",
+    "Du kvas.",
+    "Du yaourt maison.",
+    "Du kombucha et bien d’autres choses."
+   ]
+  },
+  {
+   "h2": "Comment l’appli vous aide",
+   "ul": [
+    "Un guidage pas à pas tout au long du processus de fermentation.",
+    "Un endroit pour ranger vos recettes.",
+    "Une structure claire pour avancer en confiance.",
+    "De la place pour explorer de nouvelles fermentations quand les bases vous semblent acquises."
+   ]
+  },
+  {
+   "h2": "À qui s’adresse-t-elle ?",
+   "p": [
+    "L’appli s’adresse aux débutants qui veulent essayer la fermentation à la maison pour la première fois, et aux cuisiniers amateurs qui préparent déjà du pain au levain ou des pickles et souhaitent réunir leurs recettes et leurs étapes au même endroit.",
+    "Elle convient aussi à tous ceux qui aiment la cuisine lente, faite main. La fermentation enseigne la patience : on prépare, on attend, on observe et on apprend de chaque lot. Avoir chaque étape notée facilite beaucoup cet apprentissage, car vous voyez ce que vous avez fait et pouvez reproduire ce qui a marché."
+   ]
+  },
+  {
+   "h2": "Comment commencer",
+   "ul": [
+    "Installez FERMENT LAB depuis Google Play.",
+    "Choisissez un projet simple pour débuter, par exemple le yaourt ou les pickles.",
+    "Suivez les étapes dans l’ordre sans en sauter aucune.",
+    "Enregistrez la recette qui a bien fonctionné pour pouvoir la refaire.",
+    "Passez au levain, au kvas ou au kombucha quand vous vous sentez prêt(e)."
+   ]
+  },
+  {
+   "h2": "Une note sur la sécurité en cuisine",
+   "p": [
+    "Utilisez des bocaux et des ustensiles propres et suivez chaque étape avec soin. Si une préparation a un aspect, une odeur ou un goût anormal, ne la mangez pas. Si vous avez des problèmes de santé ou des restrictions alimentaires, demandez l’avis de votre médecin avant d’introduire de nouveaux aliments dans votre alimentation."
+   ]
+  },
+  {
+   "h2": "Pourquoi j’ai créé FERMENT LAB",
+   "p": [
+    "Je suis Nikolay Shcherbakov. Depuis plus de 15 ans, je transforme ma façon de manger, et ce parcours m’a rendu très attentif à ce que je cuisine chez moi. J’ai raconté cette expérience personnelle dans le livre [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FERMENT LAB est une aide pratique pour la cuisine ; pour des idées de repas du quotidien avec ce que vous avez déjà, essayez [FRIDGE](app:fridge)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Comment commencer à fermenter à la maison ?",
+   "a": "Commencez par un projet simple, comme le yaourt ou les pickles, et suivez attentivement les étapes. FERMENT LAB vous guide pas à pas dans le processus."
+  },
+  {
+   "q": "Puis-je faire du pain au levain avec FERMENT LAB ?",
+   "a": "Oui. Le pain au levain fait partie de ce que l’appli vous aide à réaliser pas à pas, avec les pickles, le kvas et le yaourt."
+  },
+  {
+   "q": "Puis-je enregistrer mes propres recettes ?",
+   "a": "FERMENT LAB vous aide à ranger vos recettes pour retrouver celles qui ont bien fonctionné."
+  },
+  {
+   "q": "Où télécharger FERMENT LAB ?",
+   "a": "FERMENT LAB est disponible pour Android sur Google Play."
+  }
+ ],
+ "related": [
+  "fridge",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "ferment-lab",
+  "title": "Home Fermentation App: Sourdough & Pickles — FERMENT LAB",
+  "description": "FERMENT LAB guides you step by step through home fermentation: sourdough bread, pickles, kvass, yogurt, kombucha and more. Download it on Google Play.",
+  "h1": "FERMENT LAB — home fermentation step by step",
+  "lead": "Want to ferment at home but not sure where to start? FERMENT LAB helps you make sourdough bread, pickles, kvass and yogurt step by step and keep your recipes organized.",
+  "sections": [
+    {
+      "h2": "Why home fermentation feels hard at first",
+      "p": [
+        "Fermentation looks simple from the outside: flour and water, cabbage and salt, milk and a starter. In practice beginners often get lost — they forget a step, mix up timings or lose the recipe that worked last time.",
+        "FERMENT LAB brings order to the process. You keep recipes in one place, follow the process step by step and can return to what you did before."
+      ]
+    },
+    {
+      "h2": "What you can make with FERMENT LAB",
+      "ul": [
+        "Sourdough bread.",
+        "Pickles and other fermented vegetables.",
+        "Kvass.",
+        "Homemade yogurt.",
+        "Kombucha and more."
+      ]
+    },
+    {
+      "h2": "How the app helps",
+      "ul": [
+        "Step-by-step guidance through the fermentation process.",
+        "A place to organize your recipes.",
+        "A clear structure so you can follow the process with confidence.",
+        "Room to explore new ferments once the basics feel easy."
+      ]
+    },
+    {
+      "h2": "Who it is for",
+      "p": [
+        "The app is for beginners who want to try fermenting at home for the first time, and for home cooks who already bake sourdough or make pickles and want their recipes and steps organized in one place.",
+        "It also suits anyone who enjoys slow, hands-on cooking. Fermentation teaches patience: you prepare, wait, observe and learn from each batch. Having every step written down makes that learning much easier, because you can see what you did and repeat what worked."
+      ]
+    },
+    {
+      "h2": "How to start",
+      "ul": [
+        "Install FERMENT LAB from Google Play.",
+        "Choose one simple project to begin with — for example, yogurt or pickles.",
+        "Follow the steps in order and don’t skip any.",
+        "Save the recipe that worked for you so you can repeat it.",
+        "Move on to sourdough, kvass or kombucha when you feel ready."
+      ]
+    },
+    {
+      "h2": "A note on kitchen safety",
+      "p": [
+        "Use clean jars and tools and follow each step carefully. If a ferment looks, smells or tastes wrong, do not eat it. If you have health conditions or dietary restrictions, check with your doctor before adding new foods to your diet."
+      ]
+    },
+    {
+      "h2": "Why I created FERMENT LAB",
+      "p": [
+        "I am Nikolay Shcherbakov. For more than 15 years I have been changing how I eat, and that path made me pay close attention to what I cook at home. I wrote about this personal experience in the book [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FERMENT LAB is a practical kitchen helper; for everyday meal ideas from what you already have, try [FRIDGE](app:fridge)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I start fermenting at home?",
+      "a": "Begin with one simple project, such as yogurt or pickles, and follow the steps carefully. FERMENT LAB guides you through the process step by step."
+    },
+    {
+      "q": "Can I make sourdough bread with FERMENT LAB?",
+      "a": "Yes. Sourdough bread is one of the things the app helps you make step by step, along with pickles, kvass and yogurt."
+    },
+    {
+      "q": "Can I save my own recipes?",
+      "a": "FERMENT LAB helps you organize your recipes so you can return to the ones that worked."
+    },
+    {
+      "q": "Where can I download FERMENT LAB?",
+      "a": "FERMENT LAB is available for Android on Google Play."
+    }
+  ],
+  "related": [
+    "fridge",
+    "minus-25-kg",
+    "perennial"
+  ]
+}

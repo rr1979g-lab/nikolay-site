@@ -1,0 +1,77 @@
+{
+ "slug": "figure-out-why",
+ "title": "Trouver la cause d’un problème — appli FIGURE OUT WHY",
+ "description": "FIGURE OUT WHY vous aide à explorer les causes possibles, à ordonner vos pensées et à planifier des étapes concrètes quand un problème revient. Sur Android.",
+ "h1": "FIGURE OUT WHY : trouvez la raison du problème",
+ "lead": "Vous vous demandez pourquoi la même chose se reproduit sans cesse ? FIGURE OUT WHY est un outil d’analyse structurée d’une situation : informations, questions et causes possibles au même endroit.",
+ "sections": [
+  {
+   "h2": "Pourquoi le même problème se répète-t-il ?",
+   "p": [
+    "Certaines situations reviennent encore et encore : le même conflit, le même retard, la même erreur. Quand on essaie de les comprendre dans sa tête, les pensées tournent en rond, les faits se mêlent aux suppositions et on ne sait plus par où commencer.",
+    "FIGURE OUT WHY vous aide à ralentir et à examiner la situation pas à pas. Au lieu d’une conclusion hâtive, vous passez en revue les informations dont vous disposez, les questions auxquelles il faut encore répondre et les causes possibles."
+   ]
+  },
+  {
+   "h2": "Ce que l’appli vous aide à faire",
+   "ul": [
+    "Structurer les informations sur une situation au lieu de tout garder en tête.",
+    "Explorer les causes possibles et regarder le problème sous plusieurs angles.",
+    "Ordonner vos pensées pour que faits, hypothèses et questions ne se mélangent pas.",
+    "Préparer des questions pour aller plus loin : quoi vérifier, demander ou découvrir ensuite.",
+    "Aboutir à des étapes concrètes plutôt qu’à une analyse sans fin."
+   ]
+  },
+  {
+   "h2": "À qui s’adresse-t-elle ?",
+   "p": [
+    "L’appli s’adresse à toute personne qui veut comprendre une situation plus clairement : un problème récurrent au travail, une question dans les études ou un projet, un souci domestique ou un schéma personnel que vous remarquez sans cesse. Elle est utile quand il faut tout démêler calmement avant de décider quoi faire."
+   ]
+  },
+  {
+   "h2": "Comment commencer",
+   "ul": [
+    "Installez FIGURE OUT WHY depuis Google Play.",
+    "Décrivez en quelques mots simples la situation que vous voulez comprendre.",
+    "Notez ce que vous savez déjà et ce qui reste flou.",
+    "Passez en revue les causes possibles une par une, sans vous précipiter vers un verdict.",
+    "Notez les questions à approfondir et choisissez une étape concrète."
+   ]
+  },
+  {
+   "h2": "Pensée structurée et meilleures décisions",
+   "p": [
+    "Comprendre la cause, c’est souvent la moitié de la solution. Une fois la situation claire, la décision suivante devient plus facile. Quand vous arrivez à un moment de choix, [HEAD & HEART](app:head-heart) vous aide à comparer les arguments, et le livre [The Right Choice](book:the-right-choice) explore la façon dont la peur et le doute entravent les décisions."
+   ]
+  },
+  {
+   "h2": "Pourquoi j’ai créé cette appli",
+   "p": [
+    "Je suis Nikolay Shcherbakov. Depuis plus de 20 ans, je pratique l’auto-observation et les techniques d’attention, et je me suis toujours demandé pourquoi certaines pensées nous aident à avancer tandis que d’autres nous laissent figés dans le doute. Je ne veux pas m’en tenir à la théorie : je préfère tester les idées, repérer les erreurs et trouver ce qui marche. FIGURE OUT WHY transforme cette habitude de questionnement attentif en un outil simple, utilisable tous les jours."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Comment trouver la cause d’un problème ?",
+   "a": "Séparez les faits des suppositions, dressez la liste des causes possibles et vérifiez-les une à une. FIGURE OUT WHY vous donne une structure pour faire exactement cela."
+  },
+  {
+   "q": "À quoi sert FIGURE OUT WHY ?",
+   "a": "C’est un outil d’analyse structurée des informations, des questions et des causes possibles. Il vous aide à comprendre une situation et à préparer des questions pour aller plus loin."
+  },
+  {
+   "q": "Cette appli ne sert-elle qu’aux problèmes professionnels ?",
+   "a": "Non. Vous pouvez l’utiliser pour toute situation que vous voulez comprendre : travail, études, projets, vie quotidienne ou schémas personnels."
+  },
+  {
+   "q": "Où télécharger FIGURE OUT WHY ?",
+   "a": "L’appli est disponible pour Android sur Google Play."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "the-right-choice",
+  "thoughts-in-circles"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "figure-out-why",
+ "title": "Sorunun Kök Nedenini Bulun — FIGURE OUT WHY Uygulaması",
+ "description": "FIGURE OUT WHY, bir sorun tekrar edip durduğunda olası nedenleri keşfetmenize, düşüncelerinizi düzenlemenize ve pratik adımlar planlamanıza yardım eder. Android'de deneyin.",
+ "h1": "FIGURE OUT WHY — sorunun ardındaki nedeni bulun",
+ "lead": "Aynı şeyin neden hep tekrar ettiğini mi merak ediyorsunuz? FIGURE OUT WHY, bir durumu yapılandırılmış biçimde analiz etme aracıdır: bilgiler, sorular ve olası nedenler tek bir yerde.",
+ "sections": [
+  {
+   "h2": "Aynı sorun neden tekrar edip duruyor?",
+   "p": [
+    "Bazı durumlar tekrar tekrar yaşanır: aynı tartışma, aynı gecikme, aynı hata. Onları kafamızda çözmeye çalıştığımızda düşünceler daireler çizer, olgular tahminlerle karışır ve nereden başlayacağımızı görmek zorlaşır.",
+    "FIGURE OUT WHY yavaşlamanıza ve duruma adım adım bakmanıza yardımcı olur. Hızlı tek bir sonuca varmak yerine, elinizdeki bilgileri, yanıtlamanız gereken soruları ve arkasında olabilecek nedenleri sırayla incelersiniz."
+   ]
+  },
+  {
+   "h2": "Uygulama neler yapmanıza yardımcı olur?",
+   "ul": [
+    "Bir durumla ilgili bilgileri hepsini kafanızda tutmak yerine yapılandırmak.",
+    "Olası nedenleri keşfetmek ve soruna birkaç açıdan bakmak.",
+    "Olguların, varsayımların ve soruların birbirine karışmaması için düşüncelerinizi düzenlemek.",
+    "Daha ileri araştırma için soruları hazırlamak: neyi kontrol edeceğiniz, kime soracağınız ya da neyi öğreneceğiniz.",
+    "Bitmeyen bir analiz yerine pratik sonraki adımlara ulaşmak."
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "Uygulama, bir durumu daha net anlamak isteyen herkes için: işte tekrar eden bir sorun, derslerinizde ya da bir projede bir soru, evle ilgili bir mesele ya da fark etmeye devam ettiğiniz kişisel bir kalıp. Ne yapacağınıza karar vermeden önce işleri sakin bir şekilde sıraya koymanız gerektiğinde işe yarar."
+   ]
+  },
+  {
+   "h2": "Nasıl başlanır?",
+   "ul": [
+    "FIGURE OUT WHY'ı Google Play'den yükleyin.",
+    "Anlamak istediğiniz durumu birkaç sade kelimeyle anlatın.",
+    "Önceden bildiklerinizi ve hâlâ belirsiz olanları yazın.",
+    "Hüküm vermek için acele etmeden olası nedenleri tek tek gözden geçirin.",
+    "Araştırılacak soruları not edin ve pratik bir sonraki adım seçin."
+   ]
+  },
+  {
+   "h2": "Yapılandırılmış düşünme ve daha iyi kararlar",
+   "p": [
+    "Nedeni anlamak çoğu zaman çözümün yarısıdır. Durumu net gördüğünüzde bir sonraki karar daha kolay hâle gelir. Bir seçim noktasına geldiğinizde [HEAD & HEART](app:head-heart) argümanları karşılaştırmanıza yardımcı olur, [The Right Choice](book:the-right-choice) kitabı ise korku ve şüphenin kararların önüne nasıl geçtiğini ele alır."
+   ]
+  },
+  {
+   "h2": "Bu uygulamayı neden yaptım?",
+   "p": [
+    "Ben Nikolay Shcherbakov. 20 yılı aşkın süredir kendimi gözlemleme ve dikkat teknikleri üzerine çalışıyorum ve bazı düşüncelerin bizi neden ileri taşırken bazılarının bizi şüphede takılı bıraktığı hep ilgimi çekti. Kuramda kalmak istemiyorum: Fikirleri denemeyi, hataları fark etmeyi ve işe yarayanı bulmayı tercih ederim. FIGURE OUT WHY, bu dikkatli sorgulama alışkanlığını her gün kullanabileceğiniz basit bir araca dönüştürüyor."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Bir sorunun kök nedenini nasıl bulurum?",
+   "a": "Olguları varsayımlardan ayırın, olası nedenleri listeleyin ve tek tek kontrol edin. FIGURE OUT WHY tam olarak bunu yapmanız için size bir yapı sunar."
+  },
+  {
+   "q": "FIGURE OUT WHY ne için kullanılır?",
+   "a": "Bilgilerin, soruların ve olası nedenlerin yapılandırılmış analizi için bir araçtır. Bir durumu anlamanıza ve daha ileri araştırma için sorular hazırlamanıza yardımcı olur."
+  },
+  {
+   "q": "Bu uygulama yalnızca iş sorunları için mi?",
+   "a": "Hayır. Anlamak istediğiniz her durum için kullanabilirsiniz: iş, okul, projeler, gündelik hayat ya da kişisel kalıplar."
+  },
+  {
+   "q": "FIGURE OUT WHY'ı nereden indirebilirim?",
+   "a": "Uygulama, Android için Google Play'de bulunur."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "the-right-choice",
+  "thoughts-in-circles"
+ ]
+}

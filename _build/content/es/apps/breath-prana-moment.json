@@ -1,0 +1,86 @@
+{
+ "slug": "breath-prana-moment",
+ "title": "Ejercicios de respiración para calmarte: Breath Prana Moment",
+ "description": "¿Estás estresado? Breath Prana Moment ofrece Box Breathing, 4-7-8 y más, con sesiones personalizadas, guía de voz y estadísticas de progreso. Para Android.",
+ "h1": "Breath Prana Moment — ejercicios de respiración para la calma",
+ "lead": "Breath Prana Moment es una app para Android de Nikolay Shcherbakov con técnicas de respiración guiadas, sesiones personalizadas e indicaciones por voz. Te ayuda a relajarte, recuperar el foco y crear el hábito de la calma.",
+ "sections": [
+  {
+   "h2": "Ejercicios de respiración para calmarte cuando sientes estrés",
+   "p": [
+    "Cuando se acumula el estrés, la respiración es de las pocas cosas que puedes cambiar al instante. Unos minutos de respiración lenta y estructurada te dan una pausa entre el momento tenso y tu reacción. Lo difícil es acordarte de hacerlo y mantener un ritmo constante sin contar mentalmente.",
+    "Breath Prana Moment se encarga del ritmo por ti, para que puedas concentrarte simplemente en respirar."
+   ]
+  },
+  {
+   "h2": "Técnicas de respiración de la app",
+   "p": [
+    "La app reúne en un solo lugar varios patrones de respiración muy conocidos, entre ellos:"
+   ],
+   "ul": [
+    "Box Breathing (respiración cuadrada)",
+    "Respiración 4-7-8",
+    "Equal Breathing (respiración igualada)",
+    "Coherent Breathing (respiración coherente)",
+    "Otras técnicas, además de la opción de crear tus propios ejercicios"
+   ]
+  },
+  {
+   "h2": "Funciones principales",
+   "ul": [
+    "Técnicas de respiración guiadas para relajarte y concentrarte",
+    "Sesiones personalizadas que puedes configurar a tu medida",
+    "Guía de voz, para que puedas cerrar los ojos y seguir el ritmo",
+    "Estadísticas de progreso para ver cómo crece tu práctica día a día",
+    "Tus propios ejercicios junto a los que ya trae la app"
+   ]
+  },
+  {
+   "h2": "Cómo empezar una práctica de respiración",
+   "ul": [
+    "Instala Breath Prana Moment desde Google Play en tu teléfono Android.",
+    "Siéntate o túmbate con comodidad y elige una técnica para empezar.",
+    "Activa la guía de voz y sigue el ritmo durante unos minutos.",
+    "Cuando una técnica te resulte familiar, configura una sesión personalizada o crea tu propio ejercicio.",
+    "Practica un poco cada día y revisa tus estadísticas de progreso."
+   ]
+  },
+  {
+   "h2": "Una breve nota de seguridad",
+   "p": [
+    "Respira con suavidad y nunca fuerces la respiración. Si sientes mareo, aturdimiento o malestar, detén el ejercicio y vuelve a respirar con normalidad. La app es una herramienta de relajación y de práctica personal, no un tratamiento médico. Si tienes algún problema de salud, consulta con tu médico antes de empezar con ejercicios de respiración."
+   ]
+  },
+  {
+   "h2": "Por qué la creó el autor",
+   "p": [
+    "El trabajo con la respiración forma parte de la práctica personal de Nikolay Shcherbakov desde hace más de 20 años, junto con la meditación, las afirmaciones y las técnicas de atención. Creó esta app para ayudar a la gente a usar la respiración para relajarse y recuperar la sensación de calma en la vida diaria, y no solo en un fin de semana libre.",
+    "Su principio es sencillo: el cambio no siempre necesita sistemas complejos. A veces bastan unas cuantas respiraciones conscientes antes de una reacción habitual. Para ejercicios breves que devuelven la atención al presente, mira [Moment Now](app:moment-now). Si lo que te mantiene tenso es la ansiedad por el futuro, el libro [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well) lo explora en profundidad."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Qué ejercicios de respiración ayudan a calmarse?",
+   "a": "Mucha gente usa patrones estructurados como Box Breathing, 4-7-8, Equal Breathing o Coherent Breathing. Breath Prana Moment incluye todos ellos y te permite seguirlos con guía de voz."
+  },
+  {
+   "q": "¿Puedo crear mi propio ejercicio de respiración?",
+   "a": "Sí. Además de las técnicas incluidas, la app te permite configurar sesiones personalizadas y añadir tus propios ejercicios."
+  },
+  {
+   "q": "¿La app tiene guía de voz?",
+   "a": "Sí, las indicaciones por voz te acompañan durante cada sesión, así que no necesitas mirar la pantalla."
+  },
+  {
+   "q": "¿Qué hago si me mareo durante un ejercicio de respiración?",
+   "a": "Detén el ejercicio y vuelve a una respiración normal y relajada. Si tienes dudas sobre tu salud, consulta con un médico antes de practicar."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "intuition-trainer",
+  "what-if-everything-turns-out-well",
+  "the-intuition-code"
+ ]
+}

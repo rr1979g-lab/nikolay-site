@@ -1,0 +1,74 @@
+{
+ "slug": "the-right-choice",
+ "title": "Bien décider : The Right Choice (livre)",
+ "description": "The Right Choice de Nikolay Shcherbakov : comment décider quand la raison et les sentiments divergent et surmonter l’indécision. En russe sur Litres.",
+ "h1": "The Right Choice (le bon choix) : décider quand la tête et le cœur ne s’accordent pas",
+ "lead": "Une approche pratique pour peser ses options, comprendre ce que l’on veut vraiment et surmonter l’indécision. Moins de doutes, plus de confiance dans les décisions importantes de la vie.",
+ "sections": [
+  {
+   "h2": "De quoi parle The Right Choice",
+   "p": [
+    "Vous tourmentez-vous à chaque décision importante, par peur de vous tromper ? Votre raison énumère une série d’arguments, vos sentiments pointent ailleurs, et le choix est repoussé pendant des semaines. Parfois, on voudrait simplement que quelqu’un décide à notre place.",
+    "The Right Choice parle précisément de ces moments où la peur et le doute empêchent de décider. L’auteur propose une approche pratique : peser calmement vos options, comprendre ce que vous voulez vraiment et apprendre à séparer la peur de l’intuition."
+   ]
+  },
+  {
+   "h2": "Comment décider quand on hésite : ce que vous apprendrez",
+   "ul": [
+    "Comment peser des options sans s’enliser dans des allers-retours sans fin.",
+    "Comment comprendre vos propres souhaits plutôt que les attentes des autres.",
+    "Comment distinguer la peur de l’intuition quand elles disent des choses différentes.",
+    "Comment trouver de la clarté quand votre raison et vos sentiments donnent des réponses différentes.",
+    "Comment surmonter l’indécision et faire des choix importants avec plus d’assurance."
+   ]
+  },
+  {
+   "h2": "Quand la raison et les sentiments ne sont pas d’accord",
+   "p": [
+    "Les décisions les plus difficiles sont celles où aucune option n’est évidemment la bonne. La logique dit qu’il le faudrait, et pourtant quelque chose en vous résiste. Ou l’inverse : votre cœur tire d’un côté pendant que votre tête trouve des dizaines de raisons de s’arrêter. Le livre vous aide à regarder honnêtement ces situations et à cesser de voir chaque choix comme le risque d’une erreur irréversible.",
+    "Si vous préférez avancer pas à pas dans une décision, essayez l’[appli Decision Helper](app:head-heart) : elle vous aide à examiner la situation sous différents angles, à répondre à quelques questions et à comparer les arguments."
+   ]
+  },
+  {
+   "h2": "À qui s’adresse ce livre",
+   "p": [
+    "Il s’adresse à toute personne qui craint de faire le mauvais choix, qui hésite longtemps et repousse des décisions importantes, qu’il s’agisse du travail, d’un déménagement, des relations ou de ses propres projets. Il aidera aussi ceux qui décident vite mais se demandent ensuite pendant longtemps s’ils ont bien fait."
+   ]
+  },
+  {
+   "h2": "À propos de l’auteur",
+   "p": [
+    "Nikolay Shcherbakov écrit des livres sur la pensée, l’intuition, la pleine conscience et le changement personnel. Depuis plus de 20 ans, il étudie et pratique la méditation, la respiration, les affirmations, les techniques d’attention et l’auto-observation. Une question l’attire depuis longtemps : pourquoi certaines pensées nous aident-elles à avancer, tandis que d’autres nous enferment dans un doute sans fin ?"
+   ]
+  },
+  {
+   "h2": "Où l’acheter",
+   "p": [
+    "The Right Choice est actuellement disponible en russe sur Litres, sous le titre «Правильный выбор». Il n’existe pas encore d’édition en anglais. Si vous lisez l’anglais, [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well), sur l’art de moins s’inquiéter de l’avenir, est disponible sur Amazon."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Comment décider quand ma tête et mon cœur disent des choses différentes ?",
+   "a": "Le livre propose de peser vos options, de comprendre ce que vous voulez vraiment et de séparer la peur de l’intuition, afin de mieux voir ce qui se cache derrière chaque option."
+  },
+  {
+   "q": "Comment ne plus avoir peur de faire le mauvais choix ?",
+   "a": "L’auteur montre comment repérer où la peur retient une décision et comment trouver assez de clarté pour agir avec plus d’assurance."
+  },
+  {
+   "q": "Quelle différence avec The Intuition Code ?",
+   "a": "The Intuition Code porte sur le repérage des signaux intérieurs et la confiance en soi. The Right Choice applique cela à des décisions concrètes, quand la peur et le doute s’en mêlent."
+  },
+  {
+   "q": "The Right Choice existe-t-il en anglais ?",
+   "a": "Pas encore. Le livre est actuellement disponible en russe sur Litres."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-intuition-code"
+ ]
+}

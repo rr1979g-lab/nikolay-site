@@ -1,0 +1,77 @@
+{
+ "slug": "pill-reminder",
+ "title": "Rappel de médicaments sur Android : PILL REMINDER",
+ "description": "PILL REMINDER vous aide à créer des horaires et à recevoir des rappels à l’heure pour vos médicaments et routines quotidiennes. Sur Google Play.",
+ "h1": "PILL REMINDER : ne manquez plus aucun rappel important",
+ "lead": "Vous oubliez de prendre vos comprimés ou perdez le fil de vos routines quotidiennes ? PILL REMINDER est un outil simple pour créer des horaires et recevoir des rappels au bon moment.",
+ "sections": [
+  {
+   "h2": "Pourquoi il est si facile d’oublier ses médicaments",
+   "p": [
+    "Quand la journée est chargée, les petites tâches régulières sont les premières à passer à la trappe : un comprimé le matin, des vitamines après le déjeuner, une routine que vous vous étiez promis de tenir. Les pense-bêtes se perdent, et la mémoire n’est pas fiable quand on a beaucoup de choses en tête.",
+    "Une appli de rappel vous décharge de ce souci. Vous réglez l’horaire une fois, et votre téléphone vous prévient au bon moment, pour que vous puissiez vous concentrer sur votre journée."
+   ]
+  },
+  {
+   "h2": "Ce que fait PILL REMINDER",
+   "ul": [
+    "Créer des horaires pour les médicaments, les vitamines et d’autres tâches régulières.",
+    "Recevoir des rappels à l’heure selon votre horaire.",
+    "Suivre les rappels programmés au même endroit.",
+    "Faciliter la gestion des routines quotidiennes."
+   ]
+  },
+  {
+   "h2": "À qui s’adresse-t-elle ?",
+   "p": [
+    "PILL REMINDER s’adresse à toute personne qui prend des médicaments ou des compléments à heures fixes, à celles et ceux qui aident un proche âgé à suivre sa routine, et à tous ceux qui veulent simplement des rappels fiables pour des tâches quotidiennes importantes. Elle est conçue pour être simple et facile à utiliser.",
+    "Elle est utile aussi au-delà des médicaments : boire de l’eau, une courte pause d’étirements, une promenade quotidienne ou quelques minutes de calme. Si vous aimez les courtes pauses dans la journée, l’appli [MOMENT NOW](app:moment-now) propose des pratiques qui ramènent votre attention au présent."
+   ]
+  },
+  {
+   "h2": "Comment commencer",
+   "ul": [
+    "Installez PILL REMINDER depuis Google Play.",
+    "Ajoutez ce dont vous devez vous souvenir, par exemple un comprimé ou une routine quotidienne.",
+    "Réglez l’horaire et les heures qui correspondent à votre journée ou aux consignes de votre médecin.",
+    "Autorisez les notifications pour que les rappels arrivent à l’heure.",
+    "Consultez votre liste de temps en temps et mettez-la à jour quand votre emploi du temps change."
+   ]
+  },
+  {
+   "h2": "Note de sécurité importante",
+   "p": [
+    "PILL REMINDER est uniquement un outil de rappel. Elle ne remplace pas un médecin et ne donne pas d’avis médical. Suivez toujours les consignes de votre médecin ou de votre pharmacien sur le médicament à prendre, la dose et le moment, et posez-leur vos questions."
+   ]
+  },
+  {
+   "h2": "Pourquoi j’ai créé cette appli",
+   "p": [
+    "Je suis Nikolay Shcherbakov, auteur et créateur d’applications Android. Avec le temps, j’ai compris que les connaissances utiles doivent être portées dans la vie quotidienne, et que de petits gestes quotidiens façonnent nos journées plus que de grands plans. À côté de mes applis issues de la pratique, je crée des outils pour les tâches du quotidien. PILL REMINDER en fait partie : un petit assistant qui évite que des routines importantes se perdent. Si vous voulez aussi installer des habitudes stables, jetez un œil à [PERENNIAL](app:perennial)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Comment ne pas oublier de prendre mes médicaments chaque jour ?",
+   "a": "Réglez un horaire dans une appli de rappel et autorisez les notifications. PILL REMINDER vous permet de créer des horaires et de recevoir des rappels à l’heure."
+  },
+  {
+   "q": "Puis-je utiliser PILL REMINDER pour autre chose que des médicaments ?",
+   "a": "Oui. C’est un outil d’horaires et de rappels à l’heure, vous pouvez donc l’utiliser pour toute routine quotidienne importante."
+  },
+  {
+   "q": "L’appli m’indique-t-elle quel médicament prendre ?",
+   "a": "Non. L’appli ne fait que vous rappeler selon l’horaire que vous avez réglé. Les décisions concernant les médicaments et les doses relèvent de votre médecin."
+  },
+  {
+   "q": "Où télécharger PILL REMINDER ?",
+   "a": "PILL REMINDER est disponible pour Android sur Google Play."
+  }
+ ],
+ "related": [
+  "perennial",
+  "moment-now",
+  "minus-25-kg"
+ ]
+}

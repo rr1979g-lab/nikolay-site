@@ -1,0 +1,86 @@
+{
+ "slug": "breath-prana-moment",
+ "title": "Atemübungen zur Beruhigung: Breath Prana Moment",
+ "description": "Gestresst? Breath Prana Moment bietet Box Breathing, 4-7-8 und mehr, mit eigenen Sitzungen, Sprachführung und Statistik. Für Android.",
+ "h1": "Breath Prana Moment – Atemübungen für mehr Ruhe",
+ "lead": "Breath Prana Moment ist eine Android-App von Nikolay Shcherbakov mit geführten Atemtechniken, eigenen Sitzungen und Sprachansagen. Sie hilft Ihnen, sich zu entspannen, den Fokus wiederzufinden und täglich Ruhe zu üben.",
+ "sections": [
+  {
+   "h2": "Atemübungen, um bei Stress zur Ruhe zu kommen",
+   "p": [
+    "Wenn sich Stress aufbaut, ist die Atmung eines der wenigen Dinge, die Sie sofort verändern können. Ein paar Minuten langsames, strukturiertes Atmen schaffen eine Pause zwischen dem stressigen Moment und Ihrer Reaktion darauf. Schwierig ist, daran zu denken und den Rhythmus zu halten, ohne im Kopf mitzuzählen.",
+    "Breath Prana Moment übernimmt den Rhythmus für Sie, damit Sie sich ganz aufs Atmen konzentrieren können."
+   ]
+  },
+  {
+   "h2": "Atemtechniken in der App",
+   "p": [
+    "Die App vereint mehrere bekannte Atemmuster an einem Ort, darunter:"
+   ],
+   "ul": [
+    "Box Breathing (Quadratatmung)",
+    "4-7-8-Atmung",
+    "Equal Breathing (gleichmäßige Atmung)",
+    "Coherent Breathing (kohärente Atmung)",
+    "Weitere Techniken sowie die Möglichkeit, eigene Übungen zu erstellen"
+   ]
+  },
+  {
+   "h2": "Die wichtigsten Funktionen",
+   "ul": [
+    "Geführte Atemtechniken für Entspannung und Fokus",
+    "Eigene Sitzungen, die Sie nach Ihren Wünschen einstellen",
+    "Sprachführung, damit Sie die Augen schließen und einfach folgen können",
+    "Fortschrittsstatistik, um Ihre Praxis Tag für Tag wachsen zu sehen",
+    "Eigene Übungen neben den integrierten"
+   ]
+  },
+  {
+   "h2": "So beginnen Sie Ihre Atempraxis",
+   "ul": [
+    "Installieren Sie Breath Prana Moment aus Google Play auf Ihrem Android-Handy.",
+    "Setzen oder legen Sie sich bequem hin und wählen Sie zunächst eine Technik.",
+    "Schalten Sie die Sprachführung ein und folgen Sie dem Rhythmus einige Minuten lang.",
+    "Wenn Ihnen eine Technik vertraut ist, stellen Sie eine eigene Sitzung zusammen oder erstellen Sie eine eigene Übung.",
+    "Üben Sie täglich ein wenig und werfen Sie einen Blick auf Ihre Statistik."
+   ]
+  },
+  {
+   "h2": "Ein kurzer Sicherheitshinweis",
+   "p": [
+    "Atmen Sie sanft und erzwingen Sie den Atem nie. Wenn Ihnen schwindelig oder benommen wird oder Sie sich unwohl fühlen, beenden Sie die Übung und atmen Sie wieder normal. Die App ist ein Hilfsmittel zur Entspannung und für die persönliche Praxis, keine medizinische Behandlung. Wenn Sie gesundheitliche Beschwerden haben, sprechen Sie vor Beginn mit Ihrem Arzt."
+   ]
+  },
+  {
+   "h2": "Warum der Autor die App entwickelt hat",
+   "p": [
+    "Atemarbeit gehört seit mehr als 20 Jahren zur persönlichen Praxis von Nikolay Shcherbakov, neben Meditation, Affirmationen und Aufmerksamkeitstechniken. Er hat diese App gemacht, damit Menschen mit Atemübungen entspannen und im Alltag wieder Ruhe finden, nicht nur an einem freien Wochenende.",
+    "Sein Prinzip ist einfach: Veränderung braucht nicht immer komplizierte Systeme. Manchmal reichen ein paar bewusste Atemzüge vor der gewohnten Reaktion. Für kurze Übungen, die die Aufmerksamkeit in die Gegenwart zurückholen, sehen Sie sich [Moment Now](app:moment-now) an. Wenn Sorgen um die Zukunft Sie angespannt halten, geht das Buch [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well) ausführlich darauf ein."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welche Atemübungen helfen, sich zu beruhigen?",
+   "a": "Viele nutzen strukturierte Muster wie Box Breathing, 4-7-8, Equal Breathing oder Coherent Breathing. Breath Prana Moment enthält sie alle und führt Sie per Sprachansage durch die Übung."
+  },
+  {
+   "q": "Kann ich eine eigene Atemübung erstellen?",
+   "a": "Ja. Neben den integrierten Techniken können Sie in der App eigene Sitzungen einrichten und eigene Übungen hinzufügen."
+  },
+  {
+   "q": "Hat die App eine Sprachführung?",
+   "a": "Ja, Sprachansagen führen Sie durch jede Sitzung, sodass Sie nicht auf den Bildschirm schauen müssen."
+  },
+  {
+   "q": "Was tue ich, wenn mir bei einer Atemübung schwindelig wird?",
+   "a": "Brechen Sie die Übung ab und atmen Sie wieder normal und entspannt. Bei gesundheitlichen Bedenken fragen Sie vor dem Üben einen Arzt."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "intuition-trainer",
+  "what-if-everything-turns-out-well",
+  "the-intuition-code"
+ ]
+}

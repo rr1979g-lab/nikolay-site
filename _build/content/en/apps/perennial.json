@@ -1,0 +1,74 @@
+{
+  "slug": "perennial",
+  "title": "Perennial Habit Tracker: Build Habits That Last",
+  "description": "Struggling to stay consistent? Perennial habit tracker helps you build positive routines, mark daily progress and see your achievements. Try it on Android.",
+  "h1": "Perennial — small habits, lasting change",
+  "lead": "Perennial is a habit tracker for Android by Nikolay Shcherbakov. It helps you build healthy routines, mark your daily progress and turn small everyday actions into habits that stick.",
+  "sections": [
+    {
+      "h2": "How to build a habit and actually stick to it",
+      "p": [
+        "Starting a new habit is easy. Keeping it going after the first enthusiastic week is the hard part. Motivation fades, a busy day breaks the chain, and soon the plan is forgotten. Consistency comes less from big bursts of effort and more from small actions repeated day after day.",
+        "That is the idea behind Perennial. Like a perennial plant that comes back every year, a habit grows strong through regular, patient care. The app keeps your routines in view and shows you how far you have come."
+      ]
+    },
+    {
+      "h2": "What you can do with Perennial",
+      "ul": [
+        "Create the healthy habits you want to build",
+        "Mark your progress every day",
+        "Watch your achievements grow over time",
+        "Stay consistent by keeping your routines in sight",
+        "Turn small daily actions into lasting habits"
+      ]
+    },
+    {
+      "h2": "Who it is for",
+      "p": [
+        "Perennial suits anyone who wants more structure in their days: people starting a morning routine, a daily practice of reading, exercise or meditation, or simply trying to stop abandoning good intentions halfway. It works just as well for one habit as for several."
+      ]
+    },
+    {
+      "h2": "How to start tracking your habits",
+      "ul": [
+        "Install Perennial from Google Play on your Android phone.",
+        "Add one or two habits you genuinely want to keep, and make them small.",
+        "Mark each day you complete them.",
+        "Review your progress and achievements regularly.",
+        "Add a new habit only when the first ones feel natural."
+      ]
+    },
+    {
+      "h2": "Tips for staying consistent",
+      "p": [
+        "Start smaller than you think you need to. Five minutes a day you actually do is worth more than an hour you keep postponing. Link a new habit to something you already do every day, and if you miss a day, simply mark the next one. The record of small wins is what keeps you going."
+      ]
+    },
+    {
+      "h2": "Why the author created it",
+      "p": [
+        "One of the questions that has guided Nikolay Shcherbakov through more than 20 years of practice is how small daily actions gradually change our lives. He has seen it in his own experience, including more than 15 years of changing how he eats, which taught him how habits and well-being shift over time.",
+        "He also noticed that we can learn something useful, feel inspired, and a few days later slip back into old habits. Perennial exists to help new routines survive past that point. It pairs well with [Head & Heart](app:head-heart) for deciding what is worth changing, and with [Phone Detox](app:phone-detox) if screen time is the habit you want to replace."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does it take to build a habit?",
+      "a": "It varies from person to person and habit to habit. What matters most is repeating a small action regularly, and a tracker like Perennial helps you see that consistency."
+    },
+    {
+      "q": "What is the best way to track habits?",
+      "a": "Keep it simple: choose a few small habits, mark them every day and review your progress. Perennial is built around exactly this daily routine."
+    },
+    {
+      "q": "Can I track more than one habit?",
+      "a": "Yes, you can build several healthy habits and mark your daily progress for each of them."
+    },
+    {
+      "q": "Is Perennial available on iPhone?",
+      "a": "The app is currently available for Android on Google Play. There is no iPhone version yet."
+    }
+  ],
+  "related": ["head-heart", "phone-detox", "affirmation", "the-right-choice"]
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "head-heart",
+ "title": "Head & Heart: App para Tomar Decisões Difíceis",
+ "description": "Dividido entre duas opções? O Head & Heart ajuda a olhar uma escolha por vários lados, comparar argumentos e achar o próximo passo. Baixe no Android.",
+ "h1": "Head & Heart — tome decisões com confiança",
+ "lead": "Head & Heart é um app Android de Nikolay Shcherbakov para ajudar a decidir. Quando uma escolha é difícil, ele ajuda você a ver a situação por diferentes lados e a entender o que sua mente e seu coração estão dizendo.",
+ "sections": [
+  {
+   "h2": "Como tomar uma decisão quando você não consegue escolher",
+   "p": [
+    "Algumas decisões ficam travadas por semanas. Os argumentos lógicos apontam para um lado, os sentimentos puxam para o outro e, toda vez que você pensa no assunto, volta ao mesmo ponto. A indecisão cansa e muitas vezes esconde um fato simples: você ainda não olhou a escolha com clareza de todos os lados.",
+    "O Head & Heart dá estrutura a esse processo. Em vez de andar em círculos, você responde a algumas perguntas, coloca os argumentos lado a lado e avança para um próximo passo concreto."
+   ]
+  },
+  {
+   "h2": "No que o app ajuda",
+   "ul": [
+    "Olhar uma situação difícil de diferentes ângulos",
+    "Responder a algumas perguntas-guia sobre a sua escolha",
+    "Comparar os argumentos de cada opção",
+    "Entender o que sua mente e seu coração dizem",
+    "Descobrir o que está segurando você",
+    "Encontrar o próximo passo em vez de continuar travado"
+   ]
+  },
+  {
+   "h2": "Para quem é",
+   "p": [
+    "O app é para quem está dividido entre duas opções: uma proposta de emprego, uma mudança de cidade, uma conversa que você sempre adia ou uma escolha menor do dia a dia que não sai da sua cabeça. Ele é especialmente útil se você tende a analisar demais ou percebe que o medo e a dúvida, e não as opções em si, é que impedem você de decidir."
+   ]
+  },
+  {
+   "h2": "Como começar",
+   "ul": [
+    "Instale o Head & Heart pelo Google Play no seu celular Android.",
+    "Pense em uma decisão que anda ocupando sua mente ultimamente.",
+    "Responda às perguntas com sinceridade, sem tentar achar a resposta certa.",
+    "Compare os argumentos e observe onde a cabeça e o coração concordam ou divergem.",
+    "Escolha um próximo passo que você possa dar, mesmo pequeno."
+   ]
+  },
+  {
+   "h2": "Por que o autor criou o app",
+   "p": [
+    "Nikolay Shcherbakov escreveu sobre decisões no livro [The Right Choice](book:the-right-choice), que trata de como decidir quando a mente e os sentimentos dão respostas diferentes, de como entender o que você realmente quer e de como superar a indecisão. Na própria história, ele o descreve como um livro sobre os momentos em que o medo e a dúvida atrapalham a decisão.",
+    "Depois de anos de prática e escrita, ele percebeu que só ler não basta: no momento de uma escolha real, é preciso ter algo prático à mão. O Head & Heart foi feito para que as pessoas decidam de forma mais consciente, justamente quando precisam.",
+    "Se você também quer trabalhar a confiança nas primeiras impressões, experimente o [Intuition Trainer](app:intuition-trainer)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que fazer quando não consigo tomar uma decisão?",
+   "a": "Ajuda olhar a escolha por diferentes lados, anotar os argumentos de cada opção e perceber o que realmente está segurando você. O Head & Heart conduz você por essas etapas com algumas perguntas simples."
+  },
+  {
+   "q": "E se minha cabeça e meu coração dizem coisas diferentes?",
+   "a": "É exatamente a situação para a qual o app foi feito. Ele ajuda você a ouvir os dois lados, compará-los e encontrar um próximo passo com o qual você consiga conviver."
+  },
+  {
+   "q": "O app vai decidir por mim?",
+   "a": "Não. O Head & Heart ajuda você a pensar a situação até o fim e a encontrar seu próximo passo, mas a escolha continua sendo sua."
+  },
+  {
+   "q": "Existe um livro sobre o mesmo tema?",
+   "a": "Sim. The Right Choice, de Nikolay Shcherbakov, explora a tomada de decisão quando razão e sentimentos discordam."
+  }
+ ],
+ "related": [
+  "the-right-choice",
+  "intuition-trainer",
+  "perennial",
+  "the-intuition-code"
+ ]
+}

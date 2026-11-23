@@ -1,0 +1,74 @@
+{
+ "slug": "affirmation",
+ "title": "App de Afirmações Diárias para Confiança: Affirmation",
+ "description": "Quer trocar o diálogo interno negativo? O Affirmation traz frases positivas e práticas por tema para confiança e motivação. Baixe no Android.",
+ "h1": "Affirmation — afirmações diárias para a confiança",
+ "lead": "Affirmation é um app Android de Nikolay Shcherbakov com frases positivas e práticas por tema. Ele ajuda você a ganhar confiança, manter a motivação e encarar seus objetivos com mais atenção plena.",
+ "sections": [
+  {
+   "h2": "Como usar afirmações todos os dias",
+   "p": [
+    "A voz na sua cabeça nem sempre está do seu lado. Eu não consigo, não sou bom o bastante, não vai dar certo: essas frases se repetem tanto que passam a parecer fatos. As afirmações oferecem um contrapeso simples. Ao dar atenção com regularidade a frases de incentivo, você vai mudando, aos poucos, os pensamentos que pratica.",
+    "A palavra-chave é regularidade. Uma afirmação lida uma vez muda pouco. Uma prática diária e curta, retomada sempre, é o que molda seus hábitos de pensamento. O app Affirmation foi feito para facilitar esse retorno diário."
+   ]
+  },
+  {
+   "h2": "O que você encontra no app",
+   "ul": [
+    "Frases positivas para substituir o diálogo interno negativo",
+    "Práticas por tema para diferentes áreas da vida",
+    "Afirmações para a confiança",
+    "Afirmações para a motivação",
+    "Apoio para encarar seus objetivos com atenção e foco"
+   ]
+  },
+  {
+   "h2": "Para quem é",
+   "p": [
+    "O app serve para quem quer fortalecer a mentalidade: pessoas que tendem a se criticar demais, que trabalham por um objetivo e precisam de um lembrete diário do porquê, ou que simplesmente querem levar mais positividade ao dia. Não é preciso ter experiência com afirmações."
+   ]
+  },
+  {
+   "h2": "Como começar a praticar afirmações",
+   "ul": [
+    "Instale o Affirmation pelo Google Play no seu celular Android.",
+    "Escolha um tema importante para você agora, como confiança ou motivação.",
+    "Leia as frases devagar e perceba como você se sente.",
+    "Volte à prática todos os dias no mesmo horário, por exemplo de manhã.",
+    "Mantenha seus objetivos em mente e observe como seu diálogo interno muda."
+   ]
+  },
+  {
+   "h2": "Por que o autor criou o app",
+   "p": [
+    "As afirmações fazem parte da prática de Nikolay Shcherbakov há muitos anos, ao lado de meditação, respiração e técnicas de atenção. Ele descreve essa experiência no livro [Destiny to Order](book:destiny-to-order), que trata do poder das intenções diárias, da atenção aos seus objetivos e de moldar conscientemente seus hábitos de pensamento, e inclui um programa de afirmações de 30 dias.",
+    "Ele percebeu que a inspiração de um livro se apaga em poucos dias se a prática não entra na rotina. O app é a forma que ele encontrou de manter as afirmações ao alcance, para que alguns minutos de prática caibam em qualquer dia.",
+    "Para manter sua nova rotina, experimente o rastreador de hábitos [Perennial](app:perennial) e, para começar o dia com a mente calma, inclua uma prática curta do [Moment Now](app:moment-now)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "As afirmações realmente funcionam?",
+   "a": "As afirmações são uma forma de direcionar a atenção, com regularidade, para pensamentos encorajadores. Na experiência do autor, o que faz diferença é a prática diária ao longo do tempo, e por isso o app é construído em torno de uma rotina diária."
+  },
+  {
+   "q": "Qual é o melhor horário para fazer afirmações?",
+   "a": "Muita gente prefere a manhã, para dar o tom do dia, mas qualquer horário ao qual você consiga voltar com regularidade funciona."
+  },
+  {
+   "q": "O app tem afirmações para a confiança?",
+   "a": "Sim. O app inclui frases positivas e práticas por tema para confiança, motivação e uma abordagem consciente dos seus objetivos."
+  },
+  {
+   "q": "Existe um livro sobre o método de afirmações?",
+   "a": "Sim. Destiny to Order, de Nikolay Shcherbakov, descreve o método de afirmações dele e inclui um programa de 30 dias."
+  }
+ ],
+ "related": [
+  "destiny-to-order",
+  "moment-now",
+  "perennial",
+  "thoughts-in-circles"
+ ]
+}

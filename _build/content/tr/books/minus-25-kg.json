@@ -1,0 +1,75 @@
+{
+ "slug": "minus-25-kg",
+ "title": "Minus 25 kg: Kişisel Bir Kilo Verme Hikâyesi (Kitap)",
+ "description": "Minus 25 kg — and a Face Without Wrinkles!: Nikolay Shcherbakov'un alıştığı yiyeceklerden uzak geçen 15 yılın kişisel hikâyesi. Litres'te Rusça olarak mevcut.",
+ "h1": "Minus 25 kg — and a Face Without Wrinkles! (25 kilo eksik, kırışıksız bir yüz) Kişisel bir beslenme hikâyesi",
+ "lead": "Alıştığım yiyecekler olmadan geçen 15 yıl. Yazarın 2 ayda 25 kilo vermesinin dürüst, kişisel hikâyesi; hataların dökümüyle ve sihirli bir diyet vaadi olmadan.",
+ "sections": [
+  {
+   "h2": "Bu kitap ne anlatıyor?",
+   "p": [
+    "Fazla kilo, kalıcı olmayan yorucu diyetler, yaşlanma kaygısı: Pek çok insan bu mücadeleleri tanır. Bu kitap yeni bir kilo verme sistemi değil, yazarın kişisel hikâyesi: 25 kiloyu nasıl verdi, beslenme alışkanlıklarını nasıl değiştirdi ve görünümüne nasıl baktığını yeniden nasıl düşündü.",
+    "Nikolay Shcherbakov 15 yılı aşkın süredir gündelik gıdaların çoğu olmadan yaşıyor: kahve, şeker, un, et ve balık yok. Kitapta buraya nasıl geldiğini ve yol boyunca hangi hataları yaptığını dürüstçe anlatıyor."
+   ]
+  },
+  {
+   "h2": "Kitabın içinde neler var?",
+   "ul": [
+    "Kişisel bir hikâye: yazar 2 ayda 25 kiloyu nasıl verdi.",
+    "Kahve, şeker, un, et ve balık olmadan geçen 15 yıllık deneyim.",
+    "Yaptığı hataların dürüst bir dökümü.",
+    "Alışkanlıkların, iyi oluşun ve bedenle ilişkinin nasıl değiştiğine dair gözlemler.",
+    "Görünüşe özen göstermeye dair kişisel bir bakış."
+   ]
+  },
+  {
+   "h2": "Kişisel bir hikâye, tıbbi tavsiye değil",
+   "p": [
+    "Lütfen bunun bir kişinin kendi yolunu anlatan hikâyesi olduğunu unutmayın. Kitap bir diyet planı, tedavi programı ya da tıbbi tavsiye değildir ve kimsenin aynı sonuçları alacağını vaat etmez. Her beden farklıdır.",
+    "Beslenmenizi değiştirmeden, gıda gruplarını çıkarmadan ya da hızlı kilo vermeye çalışmadan önce mutlaka bir doktora danışın. Kronik bir rahatsızlığınız varsa, hamileyseniz, genç ya da yaşlıysanız bu özellikle önemlidir."
+   ]
+  },
+  {
+   "h2": "Bu kitaptan kimler hoşlanabilir?",
+   "p": [
+    "Yalnızca bir süre işe yarayan diyetlerden bıkmış ve yıllarca değişmiş bir beslenme düzeniyle yaşamış birinden gerçek bir hikâye okumak isteyenler. Kahveyi, şekeri, unu, eti ve balığı bırakmayı, tüm zorlukları ve hatalarıyla birlikte merak edenler. Ve kendi alışkanlıklarına daha yakından dikkat etmek için ilham arayan herkes."
+   ]
+  },
+  {
+   "h2": "Yazar hakkında",
+   "p": [
+    "Nikolay Shcherbakov düşünme, sezgi, alışkanlıklar ve kişisel değişim üzerine kitaplar yazıyor. 20 yılı aşkın süredir meditasyon, nefes çalışması ve kendini gözlemleme pratiği yapıyor; beslenme biçimini değiştirmenin hayatında özel bir yeri var. Kendi sözleriyle bu yol, alışkanlıkların, iyi oluşun ve kendi bedeniyle ilişkisinin nasıl değiştiğini gözlemlemesine olanak tanıdı.",
+    "Gündelik yemek yapmak için ayrıca, evde zaten olanlarla tarif bulmanıza yardımcı olan [Buzdolabınızdan Tarifler uygulamasını](app:fridge) da geliştirdi."
+   ]
+  },
+  {
+   "h2": "Nereden satın alınır?",
+   "p": [
+    "Minus 25 kg — and a Face Without Wrinkles! şu anda Litres'te Rusça olarak, «Минус 25 кг — и лицо без морщин!» adıyla mevcut. Henüz İngilizce baskısı yok. İngilizce okuyorsanız, yazarın [Thoughts in Circles](book:thoughts-in-circles) kitabı Amazon'da mevcut."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Yazar 25 kiloyu nasıl verdi?",
+   "a": "Kitap, beslenmesini değiştirmesinin ve 2 ayda 25 kilo vermesinin kişisel hikâyesini anlatır. Bu onun kendi deneyimidir, evrensel bir yöntem değildir."
+  },
+  {
+   "q": "Bu kitabı diyet planı olarak kullanabilir miyim?",
+   "a": "Hayır. Kişisel bir hikâyedir, tıbbi tavsiye değildir. Beslenmenizi değiştirmeden önce lütfen bir doktora danışın."
+  },
+  {
+   "q": "Yazar hangi yiyeceklerden vazgeçti?",
+   "a": "15 yılı aşkın süredir kahve, şeker, un, et ve balık olmadan yaşıyor."
+  },
+  {
+   "q": "Kitap İngilizce olarak mevcut mu?",
+   "a": "Henüz değil. Şu anda Litres'te Rusça olarak mevcut."
+  }
+ ],
+ "related": [
+  "fridge",
+  "ferment-lab",
+  "perennial"
+ ]
+}

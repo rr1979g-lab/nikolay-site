@@ -1,0 +1,75 @@
+{
+ "slug": "head-heart",
+ "title": "Head & Heart: Entscheidungshilfe-App bei schweren Wahlen",
+ "description": "Hin- und hergerissen? Head & Heart hilft, eine Entscheidung von mehreren Seiten zu betrachten, Argumente abzuwägen und den nächsten Schritt zu finden.",
+ "h1": "Head & Heart – Entscheidungen mit Zuversicht treffen",
+ "lead": "Head & Heart ist eine Entscheidungshilfe für Android von Nikolay Shcherbakov. Wenn eine Wahl schwerfällt, hilft sie Ihnen, die Situation von verschiedenen Seiten zu sehen und zu verstehen, was Ihr Verstand und Ihr Herz Ihnen sagen.",
+ "sections": [
+  {
+   "h2": "Wie entscheiden Sie, wenn Sie sich nicht festlegen können?",
+   "p": [
+    "Manche Entscheidungen bleiben wochenlang hängen. Die logischen Argumente weisen in eine Richtung, Ihre Gefühle ziehen in die andere, und jedes Mal, wenn Sie darüber nachdenken, landen Sie am selben Punkt. Unentschlossenheit ist ermüdend und verbirgt oft eine einfache Tatsache: Sie haben die Wahl noch nicht klar von allen Seiten betrachtet.",
+    "Head & Heart gibt diesem Prozess eine Struktur. Statt sich im Kreis zu drehen, beantworten Sie ein paar Fragen, stellen die Argumente nebeneinander und kommen zu einem konkreten nächsten Schritt."
+   ]
+  },
+  {
+   "h2": "Wobei Ihnen die App hilft",
+   "ul": [
+    "Eine schwierige Situation aus verschiedenen Blickwinkeln betrachten",
+    "Einige Leitfragen zu Ihrer Wahl beantworten",
+    "Die Argumente für jede Option abwägen",
+    "Verstehen, was Ihr Verstand und was Ihr Herz Ihnen jeweils sagen",
+    "Herausfinden, was Sie zurückhält",
+    "Ihren nächsten Schritt finden, statt festzustecken"
+   ]
+  },
+  {
+   "h2": "Für wen die App gedacht ist",
+   "p": [
+    "Die App ist für alle, die zwischen zwei Möglichkeiten schwanken: ein Jobangebot, ein Umzug, ein Gespräch, das Sie immer wieder aufschieben, oder eine kleinere Alltagsentscheidung, die Sie nicht loslässt. Besonders nützlich ist sie, wenn Sie dazu neigen, alles zu zerdenken, oder merken, dass Angst und Zweifel, nicht die Optionen selbst, Sie am Entscheiden hindern."
+   ]
+  },
+  {
+   "h2": "So fangen Sie an",
+   "ul": [
+    "Installieren Sie Head & Heart aus Google Play auf Ihrem Android-Handy.",
+    "Denken Sie an eine Entscheidung, die Sie in letzter Zeit beschäftigt.",
+    "Beantworten Sie die Fragen ehrlich, ohne nach der richtigen Antwort zu suchen.",
+    "Vergleichen Sie die Argumente und achten Sie darauf, wo Kopf und Herz übereinstimmen oder auseinandergehen.",
+    "Wählen Sie einen nächsten Schritt, den Sie gehen können, und sei er noch so klein."
+   ]
+  },
+  {
+   "h2": "Warum der Autor die App entwickelt hat",
+   "p": [
+    "Nikolay Shcherbakov hat in seinem Buch [The Right Choice](book:the-right-choice) über Entscheidungen geschrieben. Es zeigt, wie man entscheidet, wenn Verstand und Gefühle unterschiedliche Antworten geben, wie man versteht, was man wirklich will, und wie man Unentschlossenheit überwindet. In seiner Darstellung ist es ein Buch über die Momente, in denen Angst und Zweifel eine Entscheidung blockieren.",
+    "Nach Jahren der Praxis und des Schreibens erkannte er, dass Lesen allein nicht genügt: Im Moment einer echten Entscheidung braucht man etwas Praktisches zur Hand. Head & Heart wurde gemacht, damit Menschen Entscheidungen bewusster treffen können, genau dann, wenn es nötig ist.",
+    "Wenn Sie auch daran arbeiten möchten, Ihrem ersten Eindruck zu vertrauen, probieren Sie [Intuition Trainer](app:intuition-trainer)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was tun, wenn ich mich nicht entscheiden kann?",
+   "a": "Es hilft, die Wahl von verschiedenen Seiten zu betrachten, die Argumente für jede Option aufzuschreiben und zu bemerken, was Sie wirklich zurückhält. Head & Heart führt Sie mit ein paar einfachen Fragen durch diese Schritte."
+  },
+  {
+   "q": "Was ist, wenn Kopf und Herz etwas Unterschiedliches sagen?",
+   "a": "Genau für diese Situation ist die App gemacht. Sie hilft Ihnen, beide Seiten zu hören, sie zu vergleichen und einen nächsten Schritt zu finden, mit dem Sie leben können."
+  },
+  {
+   "q": "Trifft die App die Entscheidung für mich?",
+   "a": "Nein. Head & Heart hilft Ihnen, die Situation zu durchdenken und Ihren nächsten Schritt zu finden, aber die Entscheidung bleibt Ihre."
+  },
+  {
+   "q": "Gibt es ein Buch zum selben Thema?",
+   "a": "Ja. The Right Choice von Nikolay Shcherbakov behandelt das Entscheiden, wenn Vernunft und Gefühle uneins sind."
+  }
+ ],
+ "related": [
+  "the-right-choice",
+  "intuition-trainer",
+  "perennial",
+  "the-intuition-code"
+ ]
+}

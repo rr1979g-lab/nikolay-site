@@ -1,0 +1,77 @@
+{
+ "slug": "free-again",
+ "title": "App per smettere le cattive abitudini su Android: FREE AGAIN",
+ "description": "FREE AGAIN ti aiuta a costruire abitudini più consapevoli, seguire i progressi e riprendere il controllo di ciò che fai ogni giorno. Scaricala su Google Play.",
+ "h1": "FREE AGAIN — liberati dalle abitudini indesiderate",
+ "lead": "Ti senti intrappolato da abitudini di cui vorresti liberarti? FREE AGAIN ti aiuta a sviluppare consapevolezza, seguire i tuoi progressi e riprendere il controllo delle azioni di ogni giorno.",
+ "sections": [
+  {
+   "h2": "Come smettere una cattiva abitudine",
+   "p": [
+    "La maggior parte delle abitudini indesiderate funziona col pilota automatico. Prendiamo il telefono, lo snack o la solita reazione prima ancora di accorgerci della decisione. La sola forza di volontà dura raramente, perché l'abitudine scatta più in fretta del pensiero.",
+    "Per questo il primo passo è la consapevolezza. Quando inizi a notare il momento in cui l'abitudine si attiva, ottieni una piccola pausa, e in quella pausa puoi scegliere diversamente. FREE AGAIN si basa su questa idea: abitudini più consapevoli e più controllo su ciò che fai ogni giorno."
+   ]
+  },
+  {
+   "h2": "In cosa ti aiuta FREE AGAIN",
+   "ul": [
+    "Sviluppare consapevolezza sulle abitudini che vuoi cambiare.",
+    "Formare abitudini più consapevoli al posto delle reazioni automatiche.",
+    "Seguire i tuoi progressi per vedere quanta strada hai fatto.",
+    "Fare passi concreti verso una maggiore libertà personale, un giorno alla volta."
+   ]
+  },
+  {
+   "h2": "A chi è rivolta l'app",
+   "p": [
+    "FREE AGAIN è per chi sente che un'abitudine comanda la propria giornata invece del contrario, e vuole un modo calmo e pratico per cambiare le cose. Si adatta a chi preferisce piccoli passi costanti a regole rigide e a tentativi improvvisi del tipo tutto o niente.",
+    "Può aiutare con molti schemi quotidiani: prendere il telefono senza pensarci, rimandare, reagire sempre allo stesso modo nelle stesse situazioni. Il metodo è lo stesso per tutti: notare, fare una pausa, scegliere e andare avanti."
+   ]
+  },
+  {
+   "h2": "Come iniziare",
+   "ul": [
+    "Installa FREE AGAIN da Google Play.",
+    "Dai un nome a un'abitudine che vuoi cambiare: comincia con una sola.",
+    "Nota quando e perché si presenta: l'ora, il luogo, la sensazione che la precede.",
+    "Segna ogni giorno i tuoi progressi nell'app, anche le piccole vittorie.",
+    "Sii paziente con le ricadute e riprendi semplicemente il giorno dopo."
+   ]
+  },
+  {
+   "h2": "Piccoli passi che si sommano",
+   "p": [
+    "Il cambiamento non richiede sempre sistemi complessi. A volte basta fare una pausa prima di una reazione abituale o compiere una piccola azione. Se vuoi anche costruire nuove routine, prova il tracker di abitudini [PERENNIAL](app:perennial). Se la tua abitudine è lo scorrere senza fine, [PHONE DETOX](app:phone-detox) ti aiuta a ridurre le distrazioni dal telefono."
+   ]
+  },
+  {
+   "h2": "Perché ho creato FREE AGAIN",
+   "p": [
+    "Sono Nikolay Shcherbakov. Da oltre 20 anni pratico meditazione, tecniche di attenzione e auto-osservazione, e da più di 15 anni vivo senza molti alimenti di uso quotidiano. Questa esperienza mi ha mostrato come cambiano davvero le abitudini: attraverso l'osservazione, la pazienza e piccoli passi quotidiani, non con una trasformazione istantanea. FREE AGAIN è il mio tentativo di mettere questo approccio in uno strumento semplice."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Come si smette una cattiva abitudine?",
+   "a": "Comincia notando quando si presenta l'abitudine, poi scegli una piccola azione alternativa e segui i tuoi progressi. FREE AGAIN ti aiuta a sviluppare consapevolezza e a vedere i progressi nel tempo."
+  },
+  {
+   "q": "Quanto tempo ci vuole per cambiare un'abitudine?",
+   "a": "È diverso per ognuno. Ciò che conta di più è la costanza: piccoli passi quotidiani e tornare al proprio piano dopo le ricadute."
+  },
+  {
+   "q": "Che differenza c'è tra FREE AGAIN e un tracker di abitudini?",
+   "a": "FREE AGAIN si concentra sul liberarsi dalle abitudini indesiderate e sul riprendere il controllo. Per costruire nuove abitudini positive puoi usare il tracker PERENNIAL."
+  },
+  {
+   "q": "Dove posso scaricare FREE AGAIN?",
+   "a": "FREE AGAIN è disponibile per Android su Google Play."
+  }
+ ],
+ "related": [
+  "perennial",
+  "phone-detox",
+  "thoughts-in-circles"
+ ]
+}

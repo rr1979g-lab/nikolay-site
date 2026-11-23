@@ -1,0 +1,87 @@
+{
+ "slug": "ferment-lab",
+ "title": "Evde Fermantasyon Uygulaması: Ekşi Maya ve Turşu — FERMENT LAB",
+ "description": "FERMENT LAB, evde fermantasyonda sizi adım adım yönlendirir: ekşi mayalı ekmek, turşu, kvas, yoğurt, kombucha ve daha fazlası. Google Play'den indirin.",
+ "h1": "FERMENT LAB — evde fermantasyon adım adım",
+ "lead": "Evde fermantasyon yapmak istiyor ama nereden başlayacağınızı bilmiyor musunuz? FERMENT LAB, ekşi mayalı ekmek, turşu, kvas ve yoğurdu adım adım yapmanıza ve tariflerinizi düzenli tutmanıza yardımcı olur.",
+ "sections": [
+  {
+   "h2": "Evde fermantasyon başlangıçta neden zor gelir?",
+   "p": [
+    "Fermantasyon dışarıdan basit görünür: un ve su, lahana ve tuz, süt ve maya. Uygulamada ise yeni başlayanlar sık sık yolunu şaşırır; bir adımı unutur, süreleri karıştırır ya da geçen sefer işe yarayan tarifi kaybeder.",
+    "FERMENT LAB sürece düzen getirir. Tariflerinizi tek bir yerde tutar, süreci adım adım takip eder ve daha önce yaptıklarınıza geri dönebilirsiniz."
+   ]
+  },
+  {
+   "h2": "FERMENT LAB ile neler yapabilirsiniz?",
+   "ul": [
+    "Ekşi mayalı ekmek.",
+    "Turşu ve diğer fermente sebzeler.",
+    "Kvas.",
+    "Ev yapımı yoğurt.",
+    "Kombucha ve daha fazlası."
+   ]
+  },
+  {
+   "h2": "Uygulama nasıl yardımcı olur?",
+   "ul": [
+    "Fermantasyon sürecinde adım adım yönlendirme.",
+    "Tariflerinizi düzenleyebileceğiniz bir alan.",
+    "Süreci güvenle takip edebilmeniz için net bir yapı.",
+    "Temeller kolaylaştığında yeni fermantasyonları keşfetme imkânı."
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "Uygulama, evde ilk kez fermantasyon denemek isteyen yeni başlayanlar ile zaten ekşi mayalı ekmek pişiren ya da turşu yapan, tariflerini ve adımlarını tek yerde düzenlemek isteyen ev aşçıları için.",
+    "Yavaş, elde yapılan yemek pişirmeyi sevenlere de uygundur. Fermantasyon sabrı öğretir: hazırlarsınız, beklersiniz, gözlemlersiniz ve her partiden bir şey öğrenirsiniz. Her adımın yazılı olması bu öğrenmeyi çok kolaylaştırır, çünkü ne yaptığınızı görebilir ve işe yarayanı tekrarlayabilirsiniz."
+   ]
+  },
+  {
+   "h2": "Nasıl başlanır?",
+   "ul": [
+    "FERMENT LAB'i Google Play'den yükleyin.",
+    "Başlamak için basit bir proje seçin; örneğin yoğurt ya da turşu.",
+    "Adımları sırayla izleyin, hiçbirini atlamayın.",
+    "İşe yarayan tarifi tekrarlayabilmek için kaydedin.",
+    "Kendinizi hazır hissettiğinizde ekşi maya, kvas ya da kombuchaya geçin."
+   ]
+  },
+  {
+   "h2": "Mutfak güvenliği üzerine bir not",
+   "p": [
+    "Temiz kavanozlar ve aletler kullanın, her adımı dikkatle izleyin. Bir fermantasyonun görünüşü, kokusu ya da tadı bozuksa yemeyin. Sağlık sorunlarınız ya da beslenme kısıtlamalarınız varsa, beslenmenize yeni gıdalar eklemeden önce doktorunuza danışın."
+   ]
+  },
+  {
+   "h2": "FERMENT LAB'i neden geliştirdim?",
+   "p": [
+    "Ben Nikolay Shcherbakov. 15 yılı aşkın süredir beslenme biçimimi değiştiriyorum ve bu yol, evde pişirdiklerime çok dikkat etmemi sağladı. Bu kişisel deneyimi [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg) kitabımda anlattım. FERMENT LAB pratik bir mutfak yardımcısıdır; elinizdekilerle günlük yemek fikirleri için [FRIDGE](app:fridge)'e göz atın."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Evde fermantasyona nasıl başlanır?",
+   "a": "Yoğurt ya da turşu gibi basit bir projeyle başlayın ve adımları dikkatle izleyin. FERMENT LAB sizi süreç boyunca adım adım yönlendirir."
+  },
+  {
+   "q": "FERMENT LAB ile ekşi mayalı ekmek yapabilir miyim?",
+   "a": "Evet. Ekşi mayalı ekmek, uygulamanın turşu, kvas ve yoğurtla birlikte adım adım yapmanıza yardımcı olduğu şeylerden biridir."
+  },
+  {
+   "q": "Kendi tariflerimi kaydedebilir miyim?",
+   "a": "FERMENT LAB, işe yarayan tariflere geri dönebilmeniz için tariflerinizi düzenlemenize yardımcı olur."
+  },
+  {
+   "q": "FERMENT LAB'i nereden indirebilirim?",
+   "a": "FERMENT LAB, Android için Google Play'de bulunur."
+  }
+ ],
+ "related": [
+  "fridge",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "affirmation",
+ "title": "Affirmationen für Selbstvertrauen: Affirmation-App",
+ "description": "Negative Selbstgespräche ersetzen? Affirmation bietet positive Aussagen und Themenpraktiken für Selbstvertrauen und Motivation. Für Android.",
+ "h1": "Affirmation – tägliche Affirmationen für mehr Selbstvertrauen",
+ "lead": "Affirmation ist eine Android-App von Nikolay Shcherbakov mit positiven Aussagen und Themenpraktiken. Sie hilft Ihnen, Selbstvertrauen aufzubauen, motiviert zu bleiben und Ihre Ziele achtsamer anzugehen.",
+ "sections": [
+  {
+   "h2": "So nutzen Sie Affirmationen jeden Tag",
+   "p": [
+    "Die Stimme in Ihrem Kopf ist nicht immer auf Ihrer Seite. Ich kann das nicht, ich bin nicht gut genug, das klappt sowieso nicht: Diese Sätze wiederholen sich so oft, dass sie sich wie Tatsachen anfühlen. Affirmationen sind ein einfaches Gegengewicht. Wenn Sie ermutigenden Aussagen regelmäßig Ihre Aufmerksamkeit schenken, verändern Sie nach und nach die Gedanken, die Sie üben.",
+    "Das Schlüsselwort ist regelmäßig. Eine einzelne Affirmation, einmal gelesen, bewirkt wenig. Eine kurze tägliche Praxis, zu der Sie immer wieder zurückkehren, formt Ihre Denkgewohnheiten. Die App Affirmation macht diese tägliche Rückkehr leicht."
+   ]
+  },
+  {
+   "h2": "Was Sie in der App finden",
+   "ul": [
+    "Positive Aussagen, die negative Selbstgespräche ersetzen",
+    "Themenpraktiken für verschiedene Lebensbereiche",
+    "Affirmationen für Selbstvertrauen",
+    "Affirmationen für Motivation",
+    "Unterstützung für einen achtsamen, fokussierten Umgang mit Ihren Zielen"
+   ]
+  },
+  {
+   "h2": "Für wen die App gedacht ist",
+   "p": [
+    "Die App eignet sich für alle, die ihre innere Haltung stärken möchten: Menschen, die sich oft selbst kritisieren, auf ein Ziel hinarbeiten und täglich daran erinnert werden wollen, wofür, oder einfach mehr Positives in ihren Tag bringen möchten. Erfahrung mit Affirmationen ist nicht nötig."
+   ]
+  },
+  {
+   "h2": "So beginnen Sie eine Affirmationspraxis",
+   "ul": [
+    "Installieren Sie Affirmation aus Google Play auf Ihrem Android-Handy.",
+    "Wählen Sie ein Thema, das Ihnen gerade wichtig ist, etwa Selbstvertrauen oder Motivation.",
+    "Lesen Sie die Aussagen langsam und spüren Sie, wie sie auf Sie wirken.",
+    "Kehren Sie jeden Tag zur gleichen Zeit zu Ihrer Praxis zurück, zum Beispiel morgens.",
+    "Behalten Sie Ihre Ziele im Blick und beobachten Sie, wie sich Ihr innerer Dialog verändert."
+   ]
+  },
+  {
+   "h2": "Warum der Autor die App entwickelt hat",
+   "p": [
+    "Affirmationen gehören seit vielen Jahren zur Praxis von Nikolay Shcherbakov, neben Meditation, Atemarbeit und Aufmerksamkeitstechniken. Diese Erfahrung beschreibt er in seinem Buch [Destiny to Order](book:destiny-to-order). Es handelt von der Kraft täglicher Absichten, der Aufmerksamkeit für die eigenen Ziele und dem bewussten Formen der Denkgewohnheiten und enthält ein 30-Tage-Programm mit Affirmationen.",
+    "Ihm fiel auf, dass die Inspiration aus einem Buch nach wenigen Tagen verblasst, wenn die Praxis nicht zum Alltag wird. Die App ist seine Art, Affirmationen griffbereit zu halten, damit ein paar Minuten Übung in jeden Tag passen.",
+    "Damit Ihre neue Routine bleibt, probieren Sie den Gewohnheits-Tracker [Perennial](app:perennial), und für einen ruhigen Start in den Tag ergänzen Sie eine kurze Übung aus [Moment Now](app:moment-now)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Funktionieren Affirmationen wirklich?",
+   "a": "Affirmationen sind eine Möglichkeit, die Aufmerksamkeit regelmäßig auf ermutigende Gedanken zu lenken. Nach der Erfahrung des Autors macht die tägliche Praxis über längere Zeit den Unterschied, deshalb baut die App auf eine tägliche Routine."
+  },
+  {
+   "q": "Wann ist die beste Zeit für Affirmationen?",
+   "a": "Viele bevorzugen den Morgen, um den Ton für den Tag zu setzen, aber jede Zeit eignet sich, zu der Sie regelmäßig zurückkehren können."
+  },
+  {
+   "q": "Gibt es in der App Affirmationen für Selbstvertrauen?",
+   "a": "Ja. Die App enthält positive Aussagen und Themenpraktiken für Selbstvertrauen, Motivation und einen achtsamen Umgang mit Ihren Zielen."
+  },
+  {
+   "q": "Gibt es ein Buch zur Affirmationsmethode?",
+   "a": "Ja. Destiny to Order von Nikolay Shcherbakov beschreibt seine Affirmationsmethode und enthält ein 30-Tage-Programm."
+  }
+ ],
+ "related": [
+  "destiny-to-order",
+  "moment-now",
+  "perennial",
+  "thoughts-in-circles"
+ ]
+}

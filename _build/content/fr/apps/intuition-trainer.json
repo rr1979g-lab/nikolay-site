@@ -1,0 +1,77 @@
+{
+ "slug": "intuition-trainer",
+ "title": "Développer son intuition : appli Intuition Trainer",
+ "description": "Envie de mieux vous fier à votre instinct ? Intuition Trainer propose de courts exercices interactifs pour repérer votre premier signal et suivre vos progrès.",
+ "h1": "Intuition Trainer : apprenez à faire confiance à votre premier instinct",
+ "lead": "Intuition Trainer est une appli Android de Nikolay Shcherbakov qui vous aide à entraîner votre perception intuitive avec de courts exercices ludiques. Au lieu de lire sur l’intuition, vous la pratiquez quelques minutes à la fois.",
+ "sections": [
+  {
+   "h2": "Pourquoi il est si difficile de faire confiance à son intuition",
+   "p": [
+    "Nous avons presque tous vécu cela : une première impression vous dit une chose, puis une vague de doutes arrive et vous vous en dissuadez. Plus tard, il s’avère que le premier ressenti avait raison. Le problème n’est que rarement l’absence d’intuition. Le plus souvent, nous ne remarquons simplement pas le premier signal, ou nous le noyons sous les hésitations.",
+    "Intuition Trainer a été conçue pour cela. Elle transforme la question abstraite « comment développer son intuition ? » en une habitude quotidienne simple : repérer le premier signal, le vérifier, et voir combien de fois votre ressenti était juste."
+   ]
+  },
+  {
+   "h2": "Ce que fait l’appli",
+   "p": [
+    "L’appli repose sur de courts exercices interactifs et des défis ludiques. Chacun vous donne un instant pour saisir votre première impression avant que votre esprit analytique n’intervienne."
+   ],
+   "ul": [
+    "De courts exercices interactifs pour entraîner la perception intuitive",
+    "Un entraînement à repérer le tout premier signal intérieur",
+    "Un moyen de vérifier votre ressenti et de voir la justesse de vos instincts",
+    "Un suivi des progrès, pour voir vos résultats évoluer au fil du temps",
+    "Des exercices conçus pour renforcer la confiance en vos premières impressions"
+   ]
+  },
+  {
+   "h2": "À qui s’adresse-t-elle ?",
+   "p": [
+    "L’appli convient à toute personne qui a tendance à trop réfléchir, qui reste bloquée à remettre ses décisions en question, ou qui veut simplement savoir à quel point son intuition est fiable. Elle est aussi un bon complément pratique aux idées de [The Intuition Code](book:the-intuition-code), le livre de l’auteur sur la manière de distinguer le premier ressenti des doutes qui suivent."
+   ]
+  },
+  {
+   "h2": "Comment commencer à entraîner votre intuition",
+   "ul": [
+    "Installez Intuition Trainer depuis Google Play sur votre téléphone Android.",
+    "Choisissez une minute tranquille et essayez votre premier exercice sans vous presser.",
+    "Répondez avec votre première impression, pas avec une longue chaîne de raisonnements.",
+    "Vérifiez le résultat et remarquez ce que le premier signal vous a fait ressentir à ce moment-là.",
+    "Revenez régulièrement et suivez vos progrès sur plusieurs jours."
+   ]
+  },
+  {
+   "h2": "Pourquoi l’auteur l’a créée",
+   "p": [
+    "Nikolay Shcherbakov pratique depuis plus de 20 ans la méditation, la respiration, les affirmations, les techniques d’attention et l’auto-observation. L’intuition a été l’une des questions centrales de ce chemin : peut-on apprendre à l’entendre plus clairement ? Ses livres sur le sujet, dont [Open Up to Your Dreams](book:open-up-to-your-dreams), décrivent ce qu’il a découvert.",
+    "Il a pourtant constaté que lire ne suffit pas. Une bonne idée vous inspire pendant quelques jours, puis les vieilles habitudes reviennent. L’appli existe pour porter la pratique dans le quotidien : vous l’ouvrez, faites un court exercice, puis reprenez votre journée. Son but est d’entraîner votre attention à la première réponse intuitive.",
+    "Si vous voulez calmer l’esprit avant de pratiquer, essayez de l’associer à [Breath Prana Moment](app:breath-prana-moment)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Peut-on vraiment développer son intuition avec des exercices ?",
+   "a": "Intuition Trainer considère l’intuition comme une compétence d’attention : repérer le premier signal avant que les doutes ne prennent le dessus. De courts exercices réguliers et le suivi de vos résultats vous aident à voir la justesse de vos instincts."
+  },
+  {
+   "q": "Combien de temps dure une séance ?",
+   "a": "Les exercices sont courts : quelques minutes par jour suffisent pour faire de la pratique une habitude."
+  },
+  {
+   "q": "Intuition Trainer existe-t-elle sur iPhone ?",
+   "a": "L’appli est actuellement disponible pour Android sur Google Play. Il n’existe pas encore de version pour iPhone."
+  },
+  {
+   "q": "Y a-t-il un livre qui accompagne l’appli ?",
+   "a": "Oui. The Intuition Code et Open Up to Your Dreams de Nikolay Shcherbakov explorent l’intuition plus en profondeur et se marient bien avec les exercices."
+  }
+ ],
+ "related": [
+  "the-intuition-code",
+  "open-up-to-your-dreams",
+  "breath-prana-moment",
+  "head-heart"
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "breath-prana-moment",
+ "title": "Exercices de respiration anti-stress : Breath Prana Moment",
+ "description": "Stressé(e) ? Breath Prana Moment propose Box Breathing, 4-7-8 et plus, avec séances personnalisées, guidage vocal et statistiques de progrès. Sur Android.",
+ "h1": "Breath Prana Moment : des exercices de respiration pour le calme",
+ "lead": "Breath Prana Moment est une appli Android de Nikolay Shcherbakov avec des techniques de respiration guidées, des séances personnalisées et des indications vocales. Elle vous aide à vous détendre, à retrouver la concentration et à installer une habitude quotidienne de calme.",
+ "sections": [
+  {
+   "h2": "Des exercices de respiration pour se calmer quand on est stressé",
+   "p": [
+    "Quand le stress monte, la respiration est l’une des rares choses que vous pouvez changer tout de suite. Quelques minutes de respiration lente et structurée créent une pause entre le moment stressant et votre réaction. Le plus difficile est de penser à le faire et de garder un rythme régulier sans compter dans sa tête.",
+    "Breath Prana Moment s’occupe du rythme à votre place, pour que vous puissiez vous concentrer sur le simple fait de respirer."
+   ]
+  },
+  {
+   "h2": "Les techniques de respiration de l’appli",
+   "p": [
+    "L’appli réunit en un seul endroit plusieurs méthodes de respiration bien connues, notamment :"
+   ],
+   "ul": [
+    "Box Breathing (respiration carrée)",
+    "Respiration 4-7-8",
+    "Equal Breathing (respiration égale)",
+    "Coherent Breathing (cohérence cardiaque)",
+    "D’autres techniques, ainsi que la possibilité de créer vos propres exercices"
+   ]
+  },
+  {
+   "h2": "Principales fonctionnalités",
+   "ul": [
+    "Des techniques de respiration guidées pour la détente et la concentration",
+    "Des séances personnalisées que vous réglez à votre convenance",
+    "Un guidage vocal, pour fermer les yeux et se laisser guider",
+    "Des statistiques de progrès pour voir votre pratique évoluer jour après jour",
+    "Vos propres exercices à côté de ceux déjà intégrés"
+   ]
+  },
+  {
+   "h2": "Comment commencer une pratique de respiration",
+   "ul": [
+    "Installez Breath Prana Moment depuis Google Play sur votre téléphone Android.",
+    "Installez-vous confortablement, assis(e) ou allongé(e), et choisissez une technique pour commencer.",
+    "Activez le guidage vocal et suivez le rythme pendant quelques minutes.",
+    "Quand une technique vous devient familière, créez une séance personnalisée ou votre propre exercice.",
+    "Pratiquez un peu chaque jour et consultez vos statistiques de progrès."
+   ]
+  },
+  {
+   "h2": "Une brève note de sécurité",
+   "p": [
+    "Respirez en douceur et ne forcez jamais votre souffle. Si vous avez des vertiges, la tête qui tourne ou une sensation de malaise, arrêtez l’exercice et reprenez une respiration normale. L’appli est un outil de détente et de pratique personnelle, pas un traitement médical. Si vous avez un problème de santé, parlez-en à votre médecin avant de commencer des exercices de respiration."
+   ]
+  },
+  {
+   "h2": "Pourquoi l’auteur l’a créée",
+   "p": [
+    "La respiration fait partie de la pratique personnelle de Nikolay Shcherbakov depuis plus de 20 ans, avec la méditation, les affirmations et les techniques d’attention. Il a conçu cette appli pour aider chacun à utiliser la respiration afin de se détendre et de retrouver le calme au quotidien, et pas seulement pendant un week-end libre.",
+    "Son principe est simple : le changement n’exige pas toujours des systèmes compliqués. Parfois, quelques respirations conscientes avant une réaction habituelle suffisent. Pour de courts exercices qui ramènent l’attention au moment présent, découvrez [Moment Now](app:moment-now). Si c’est l’inquiétude pour l’avenir qui vous garde tendu(e), le livre [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well) l’explore en profondeur."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quels exercices de respiration aident à se calmer ?",
+   "a": "Beaucoup de personnes utilisent des schémas structurés comme Box Breathing, 4-7-8, Equal Breathing ou Coherent Breathing. Breath Prana Moment les propose tous et vous permet de les suivre avec un guidage vocal."
+  },
+  {
+   "q": "Puis-je créer mon propre exercice de respiration ?",
+   "a": "Oui. En plus des techniques intégrées, l’appli vous permet de configurer des séances personnalisées et d’ajouter vos propres exercices."
+  },
+  {
+   "q": "L’appli propose-t-elle un guidage vocal ?",
+   "a": "Oui, des indications vocales vous accompagnent pendant chaque séance, vous n’avez donc pas besoin de regarder l’écran."
+  },
+  {
+   "q": "Que faire si j’ai des vertiges pendant un exercice de respiration ?",
+   "a": "Arrêtez l’exercice et reprenez une respiration normale et détendue. Si vous avez des problèmes de santé, consultez un médecin avant de pratiquer."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "intuition-trainer",
+  "what-if-everything-turns-out-well",
+  "the-intuition-code"
+ ]
+}

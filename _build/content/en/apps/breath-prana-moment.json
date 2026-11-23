@@ -1,0 +1,81 @@
+{
+  "slug": "breath-prana-moment",
+  "title": "Breathing Exercises for Calm: Breath Prana Moment",
+  "description": "Feeling stressed? Breath Prana Moment offers Box Breathing, 4-7-8 and more, with custom sessions, voice guidance and progress stats. Try it on Android.",
+  "h1": "Breath Prana Moment — breathing exercises for calm",
+  "lead": "Breath Prana Moment is an Android app by Nikolay Shcherbakov with guided breathing techniques, custom sessions and voice prompts. It helps you relax, regain focus and build a daily habit of calm.",
+  "sections": [
+    {
+      "h2": "Breathing exercises to calm down when you feel stressed",
+      "p": [
+        "When stress builds up, the breath is one of the few things you can change right away. A few minutes of slow, structured breathing gives you a pause between a stressful moment and your reaction to it. The hard part is remembering to do it and keeping a steady rhythm without counting in your head.",
+        "Breath Prana Moment takes care of the rhythm for you, so you can focus on simply breathing."
+      ]
+    },
+    {
+      "h2": "Breathing techniques in the app",
+      "p": [
+        "The app brings together several well-known breathing patterns in one place, including:"
+      ],
+      "ul": [
+        "Box Breathing",
+        "4-7-8 breathing",
+        "Equal Breathing",
+        "Coherent Breathing",
+        "Other techniques, plus the option to create your own exercises"
+      ]
+    },
+    {
+      "h2": "Key features",
+      "ul": [
+        "Guided breathing techniques for relaxation and focus",
+        "Custom sessions you can set up to suit you",
+        "Voice guidance, so you can close your eyes and follow along",
+        "Progress statistics to see your practice grow day by day",
+        "Your own exercises alongside the built-in ones"
+      ]
+    },
+    {
+      "h2": "How to start a breathing practice",
+      "ul": [
+        "Install Breath Prana Moment from Google Play on your Android phone.",
+        "Sit or lie down comfortably and choose one technique to begin with.",
+        "Turn on voice guidance and follow the rhythm for a few minutes.",
+        "Once a technique feels familiar, set up a custom session or build your own exercise.",
+        "Practise a little every day and check your progress stats."
+      ]
+    },
+    {
+      "h2": "A short safety note",
+      "p": [
+        "Breathe gently and never force the breath. If you feel dizzy, light-headed or uncomfortable, stop the exercise and return to normal breathing. The app is a tool for relaxation and personal practice, not a medical treatment. If you have a health condition, talk to your doctor before starting breathing exercises."
+      ]
+    },
+    {
+      "h2": "Why the author created it",
+      "p": [
+        "Breathwork has been part of Nikolay Shcherbakov's personal practice for more than 20 years, alongside meditation, affirmations and attention techniques. He made this app to help people use breathing practices to relax and restore a sense of calm in everyday life, not just on a free weekend.",
+        "His principle is simple: change doesn't always need complex systems. Sometimes a few mindful breaths before a habitual reaction are enough. For short exercises that bring attention back to the present, see [Moment Now](app:moment-now). If anxiety about the future is what keeps you tense, the book [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well) explores it in depth."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What breathing exercises help you calm down?",
+      "a": "Many people use structured patterns such as Box Breathing, 4-7-8, Equal Breathing or Coherent Breathing. Breath Prana Moment includes all of these and lets you follow them with voice guidance."
+    },
+    {
+      "q": "Can I create my own breathing exercise?",
+      "a": "Yes. Besides the built-in techniques, the app lets you set up custom sessions and add your own exercises."
+    },
+    {
+      "q": "Does the app have voice guidance?",
+      "a": "Yes, voice prompts guide you through each session, so you don't need to watch the screen."
+    },
+    {
+      "q": "What should I do if I feel dizzy during a breathing exercise?",
+      "a": "Stop the exercise and return to normal, relaxed breathing. If you have health concerns, consult a doctor before practising."
+    }
+  ],
+  "related": ["moment-now", "intuition-trainer", "what-if-everything-turns-out-well", "the-intuition-code"]
+}

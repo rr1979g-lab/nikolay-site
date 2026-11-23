@@ -1,0 +1,85 @@
+{
+ "slug": "parent-lock",
+ "title": "Contrôle parental Android : appli PARENT LOCK",
+ "description": "PARENT LOCK est une appli de contrôle parental pour Android : fixez des règles d’usage du téléphone, choisissez les applis autorisées et planifiez le repos.",
+ "h1": "PARENT LOCK : le contrôle parental pour le téléphone Android de votre enfant",
+ "lead": "Vous vous inquiétez du temps que votre enfant passe devant un écran ? PARENT LOCK vous aide à fixer des règles claires d’usage du téléphone, à décider quelles applis sont autorisées et à ménager des temps de repos.",
+ "sections": [
+  {
+   "h2": "Ce que doit faire une appli de contrôle parental sur Android",
+   "p": [
+    "Un smartphone apporte beaucoup à un enfant : jeux, vidéos, messageries, devoirs et un flot constant de notifications. Sans règles, quelques minutes se transforment facilement en soirée entière, et une discussion en famille à ce sujet peut vite tourner à la dispute.",
+    "PARENT LOCK est conçue pour les parents qui veulent des règles simples et prévisibles plutôt que des batailles quotidiennes. L’idée n’est pas de confisquer le téléphone, mais de convenir ensemble de la façon de l’utiliser et de laisser l’appli vous aider à respecter cet accord."
+   ]
+  },
+  {
+   "h2": "Les principales fonctionnalités de PARENT LOCK",
+   "p": [
+    "L’appli se concentre sur les trois choses que les parents demandent le plus souvent :"
+   ],
+   "ul": [
+    "Règles d’usage du téléphone : fixez des limites claires sur la façon dont votre enfant utilise son téléphone.",
+    "Applis autorisées : choisissez les applis que votre enfant peut ouvrir et gérez l’accès aux autres.",
+    "Temps de repos : définissez les moments où le téléphone passe au second plan, pour laisser de la place au sommeil, aux devoirs, aux promenades et à la vie de famille.",
+    "Des habitudes numériques plus saines : des règles cohérentes aident l’enfant à adopter un meilleur rythme avec l’écran."
+   ]
+  },
+  {
+   "h2": "À qui s’adresse-t-elle ?",
+   "p": [
+    "PARENT LOCK s’adresse aux parents d’enfants qui ont déjà leur propre téléphone Android ou qui utilisent un appareil familial. Elle convient aux familles qui veulent limiter le temps d’écran des enfants en douceur, pas à pas, et qui préfèrent un réglage calme et clair à des tableaux de bord compliqués.",
+    "Elle est aussi utile quand un enfant reçoit son premier téléphone : il est bien plus facile de s’entendre sur des règles dès le début que de changer les habitudes plus tard."
+   ]
+  },
+  {
+   "h2": "Comment configurer le contrôle parental sur Android avec PARENT LOCK",
+   "ul": [
+    "Installez PARENT LOCK depuis Google Play sur le téléphone que votre enfant utilise.",
+    "Parlez d’abord avec votre enfant : expliquez quelles règles vous instaurez et pourquoi.",
+    "Choisissez les applis autorisées et décidez comment gérer les autres.",
+    "Définissez un temps de repos adapté à la journée de votre famille, par exemple le soir avant le coucher ou pendant les devoirs.",
+    "Revoyez les règles de temps en temps et ajustez-les à mesure que votre enfant grandit."
+   ]
+  },
+  {
+   "h2": "Quelques conseils pour limiter le temps d’écran",
+   "p": [
+    "Les règles fonctionnent mieux quand elles sont claires et identiques tous les jours. Expliquez-les à l’avance, tenez parole et montrez l’exemple : les enfants remarquent aussi la façon dont les adultes utilisent leur téléphone.",
+    "Si vous voulez réduire vos propres distractions, essayez [PHONE DETOX](app:phone-detox), et lisez notre guide sur le [contrôle parental sur Android](blog:parental-controls-android) pour d’autres idées."
+   ]
+  },
+  {
+   "h2": "Pourquoi j’ai créé PARENT LOCK",
+   "p": [
+    "Je suis Nikolay Shcherbakov. Depuis plus de 20 ans, je pratique la méditation, les techniques d’attention et l’auto-observation, et j’ai vu à quel point un téléphone peut détourner l’attention de la vraie vie. Mes applis visent à transformer des idées utiles en gestes simples du quotidien. PARENT LOCK est née du même principe : de petites règles cohérentes aident un enfant à garder un meilleur équilibre avec l’écran."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Comment configurer le contrôle parental sur un téléphone Android ?",
+   "a": "Installez PARENT LOCK depuis Google Play sur le téléphone de votre enfant, choisissez les applis autorisées et définissez un temps de repos. Expliquez ensuite les règles à votre enfant et ajustez-les au fil du temps."
+  },
+  {
+   "q": "Puis-je choisir les applis que mon enfant peut utiliser ?",
+   "a": "Oui. PARENT LOCK vous permet de choisir les applis autorisées et de gérer l’accès aux applis sur le téléphone de votre enfant."
+  },
+  {
+   "q": "Comment limiter le temps d’écran de mon enfant ?",
+   "a": "Définissez dans PARENT LOCK un temps de repos pour les heures où le téléphone ne doit pas être utilisé, par exemple avant le coucher ou pendant les devoirs. Des règles cohérentes marchent mieux que des interdictions ponctuelles."
+  },
+  {
+   "q": "Sur quels appareils PARENT LOCK fonctionne-t-elle ?",
+   "a": "PARENT LOCK est une appli Android disponible sur Google Play."
+  },
+  {
+   "q": "À partir de quel âge utiliser le contrôle parental ?",
+   "a": "Le moment le plus simple est celui du premier téléphone, car des règles convenues dès le départ sont plus faciles à tenir. Vous pourrez les assouplir à mesure que votre enfant grandit."
+  }
+ ],
+ "related": [
+  "phone-detox",
+  "perennial",
+  "free-again"
+ ]
+}

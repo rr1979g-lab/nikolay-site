@@ -1,0 +1,86 @@
+{
+ "slug": "breath-prana-moment",
+ "title": "Sakinleşmek İçin Nefes Egzersizleri: Breath Prana Moment",
+ "description": "Stresli misiniz? Breath Prana Moment; Box Breathing, 4-7-8 ve daha fazlasını özel seanslar, sesli yönlendirme ve ilerleme istatistikleriyle sunar. Android'de deneyin.",
+ "h1": "Breath Prana Moment — sakinleşmek için nefes egzersizleri",
+ "lead": "Breath Prana Moment, Nikolay Shcherbakov'un rehberli nefes teknikleri, özel seanslar ve sesli yönlendirmeler içeren Android uygulamasıdır. Rahatlamanıza, odaklanmanıza ve her gün sakinleşme alışkanlığı edinmenize yardımcı olur.",
+ "sections": [
+  {
+   "h2": "Stresliyken sakinleşmek için nefes egzersizleri",
+   "p": [
+    "Stres biriktiğinde, hemen değiştirebileceğiniz az sayıdaki şeyden biri nefestir. Birkaç dakikalık yavaş ve düzenli nefes, stresli bir an ile ona vereceğiniz tepki arasında bir mola sağlar. Zor olan, bunu yapmayı hatırlamak ve ritmi zihninizden saymadan sürdürmektir.",
+    "Breath Prana Moment ritmi sizin yerinize yönetir; siz de yalnızca nefes almaya odaklanırsınız."
+   ]
+  },
+  {
+   "h2": "Uygulamadaki nefes teknikleri",
+   "p": [
+    "Uygulama, bilinen birkaç nefes tekniğini tek bir yerde toplar; bunlardan bazıları şunlardır:"
+   ],
+   "ul": [
+    "Box Breathing (kutu nefesi)",
+    "4-7-8 nefesi",
+    "Equal Breathing (eşit nefes)",
+    "Coherent Breathing (uyumlu nefes)",
+    "Diğer teknikler ve kendi egzersizlerinizi oluşturma seçeneği"
+   ]
+  },
+  {
+   "h2": "Öne çıkan özellikler",
+   "ul": [
+    "Rahatlama ve odaklanma için rehberli nefes teknikleri",
+    "Size göre ayarlayabileceğiniz özel seanslar",
+    "Gözlerinizi kapatıp takip edebilmeniz için sesli yönlendirme",
+    "Pratiğinizin gün be gün büyüdüğünü görmeniz için ilerleme istatistikleri",
+    "Hazır egzersizlerin yanında kendi egzersizleriniz"
+   ]
+  },
+  {
+   "h2": "Nefes pratiğine nasıl başlanır?",
+   "ul": [
+    "Breath Prana Moment'ı Google Play'den Android telefonunuza yükleyin.",
+    "Rahat bir şekilde oturun ya da uzanın ve başlamak için tek bir teknik seçin.",
+    "Sesli yönlendirmeyi açın ve birkaç dakika boyunca ritmi takip edin.",
+    "Bir teknik size tanıdık gelmeye başlayınca özel bir seans ayarlayın ya da kendi egzersizinizi oluşturun.",
+    "Her gün biraz pratik yapın ve ilerleme istatistiklerinize göz atın."
+   ]
+  },
+  {
+   "h2": "Kısa bir güvenlik notu",
+   "p": [
+    "Nefesi nazikçe alın, asla zorlamayın. Baş dönmesi, sersemlik ya da rahatsızlık hissederseniz egzersizi bırakın ve normal nefes almaya dönün. Uygulama bir rahatlama ve kişisel pratik aracıdır, tıbbi bir tedavi değildir. Bir sağlık sorununuz varsa nefes egzersizlerine başlamadan önce doktorunuzla konuşun."
+   ]
+  },
+  {
+   "h2": "Yazar bu uygulamayı neden geliştirdi?",
+   "p": [
+    "Nefes çalışması, Nikolay Shcherbakov'un kişisel pratiğinde 20 yılı aşkın süredir meditasyon, olumlamalar ve dikkat teknikleriyle birlikte yer alıyor. Bu uygulamayı, insanların nefes pratiklerinden yararlanıp rahatlamasına ve gündelik hayatta, yalnızca boş bir hafta sonunda değil, huzur duygusunu yeniden bulmasına yardımcı olmak için yaptı.",
+    "İlkesi basit: Değişim için her zaman karmaşık sistemler gerekmez. Bazen alışkanlık hâline gelmiş bir tepkiden önce alınan birkaç bilinçli nefes yeter. Dikkati şimdiki ana getiren kısa egzersizler için [Moment Now](app:moment-now)'a bakın. Sizi gergin tutan şey gelecek kaygısıysa, [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well) kitabı bu konuyu derinlemesine ele alıyor."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Sakinleşmek için hangi nefes egzersizleri işe yarar?",
+   "a": "Birçok kişi Box Breathing, 4-7-8, Equal Breathing ya da Coherent Breathing gibi düzenli nefes kalıplarını kullanır. Breath Prana Moment bunların hepsini içerir ve sesli yönlendirmeyle takip etmenizi sağlar."
+  },
+  {
+   "q": "Kendi nefes egzersizimi oluşturabilir miyim?",
+   "a": "Evet. Uygulama, hazır tekniklerin yanı sıra özel seanslar ayarlamanıza ve kendi egzersizlerinizi eklemenize olanak tanır."
+  },
+  {
+   "q": "Uygulamada sesli yönlendirme var mı?",
+   "a": "Evet, sesli yönlendirmeler sizi her seansta adım adım yönlendirir; bu yüzden ekrana bakmanız gerekmez."
+  },
+  {
+   "q": "Nefes egzersizi sırasında başım dönerse ne yapmalıyım?",
+   "a": "Egzersizi bırakın ve normal, rahat nefes almaya dönün. Sağlık endişeleriniz varsa pratik yapmadan önce bir doktora danışın."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "intuition-trainer",
+  "what-if-everything-turns-out-well",
+  "the-intuition-code"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "affirmation",
+  "title": "Daily Affirmations App for Confidence: Affirmation",
+  "description": "Want to replace negative self-talk? Affirmation offers positive statements and themed practices for confidence and motivation. Get it on Android.",
+  "h1": "Affirmation — daily affirmations for confidence",
+  "lead": "Affirmation is an Android app by Nikolay Shcherbakov with positive statements and themed practices. It helps you build confidence, stay motivated and take a more mindful approach to your goals.",
+  "sections": [
+    {
+      "h2": "How to use affirmations every day",
+      "p": [
+        "The voice in your head is not always on your side. I can't, I'm not good enough, it won't work out: these phrases repeat so often that they start to feel like facts. Affirmations offer a simple counterweight. By regularly giving your attention to encouraging statements, you gradually change the thoughts you practise.",
+        "The key word is regularly. A single affirmation read once changes little. A short daily practice, returned to again and again, is what shapes your thinking habits. The Affirmation app is built to make that daily return easy."
+      ]
+    },
+    {
+      "h2": "What you will find in the app",
+      "ul": [
+        "Positive statements to replace negative self-talk",
+        "Themed practices for different areas of your life",
+        "Affirmations for confidence",
+        "Affirmations for motivation",
+        "Support for a mindful, focused approach to your goals"
+      ]
+    },
+    {
+      "h2": "Who it is for",
+      "p": [
+        "The app suits anyone who wants to strengthen their mindset: people who tend to criticise themselves, who are working towards a goal and need a daily reminder of why, or who simply want to bring more positivity into their day. No experience with affirmations is needed."
+      ]
+    },
+    {
+      "h2": "How to start an affirmation practice",
+      "ul": [
+        "Install Affirmation from Google Play on your Android phone.",
+        "Choose a theme that matters to you right now, such as confidence or motivation.",
+        "Read the statements slowly and notice how they feel.",
+        "Return to your practice at the same time each day, for example in the morning.",
+        "Keep your goals in mind and notice how your inner dialogue changes."
+      ]
+    },
+    {
+      "h2": "Why the author created it",
+      "p": [
+        "Affirmations have been part of Nikolay Shcherbakov's practice for many years, alongside meditation, breathwork and attention techniques. He describes that experience in his book [Destiny to Order](book:destiny-to-order), which covers the power of daily intentions, attention to your goals and consciously shaping your thinking habits, and includes a 30-day affirmation program.",
+        "He noticed that inspiration from a book fades after a few days unless the practice becomes part of everyday life. The app is his way of keeping affirmations within reach, so a few minutes of practice can fit into any day.",
+        "To keep your new routine going, try the habit tracker [Perennial](app:perennial), and to start the day with a calm mind, add a short practice from [Moment Now](app:moment-now)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do affirmations really work?",
+      "a": "Affirmations are a way of regularly directing your attention to encouraging thoughts. The author's experience is that daily practice over time is what makes the difference, which is why the app is built around a daily routine."
+    },
+    {
+      "q": "When is the best time to say affirmations?",
+      "a": "Many people prefer the morning, as a way to set the tone for the day, but any time you can return to regularly works."
+    },
+    {
+      "q": "Are there affirmations for confidence in the app?",
+      "a": "Yes. The app includes positive statements and themed practices for confidence, motivation and a mindful approach to your goals."
+    },
+    {
+      "q": "Is there a book about the affirmation method?",
+      "a": "Yes. Destiny to Order by Nikolay Shcherbakov describes his affirmation method and includes a 30-day program."
+    }
+  ],
+  "related": ["destiny-to-order", "moment-now", "perennial", "thoughts-in-circles"]
+}

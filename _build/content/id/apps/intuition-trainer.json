@@ -1,0 +1,77 @@
+{
+ "slug": "intuition-trainer",
+ "title": "Aplikasi Intuition Trainer: Cara Melatih Intuisi",
+ "description": "Ingin lebih percaya kata hati? Intuition Trainer menawarkan latihan interaktif singkat untuk menangkap sinyal pertama dan memantau kemajuan. Unduh di Android.",
+ "h1": "Intuition Trainer — belajar memercayai naluri pertama Anda",
+ "lead": "Intuition Trainer adalah aplikasi Android dari Nikolay Shcherbakov yang membantu Anda melatih persepsi intuitif lewat latihan singkat yang menyenangkan. Alih-alih membaca tentang intuisi, Anda mempraktikkannya beberapa menit setiap kali.",
+ "sections": [
+  {
+   "h2": "Mengapa begitu sulit memercayai intuisi",
+   "p": [
+    "Kebanyakan dari kita pernah mengalaminya: kesan pertama mengatakan satu hal, lalu gelombang keraguan datang dan Anda membujuk diri sendiri untuk berubah pikiran. Belakangan ternyata perasaan pertama itu benar. Masalahnya jarang karena intuisi tidak ada. Lebih sering kita tidak menyadari sinyal pertamanya, atau menenggelamkannya dalam keraguan berulang.",
+    "Intuition Trainer dibuat tepat untuk hal ini. Aplikasi ini mengubah pertanyaan abstrak tentang cara melatih intuisi menjadi kebiasaan harian yang sederhana: tangkap sinyal pertama, periksa, dan lihat seberapa sering firasat Anda tepat."
+   ]
+  },
+  {
+   "h2": "Apa yang dilakukan aplikasi ini",
+   "p": [
+    "Aplikasi ini dibangun di sekitar latihan interaktif singkat dan tantangan yang menyenangkan. Setiap latihan memberi Anda sesaat untuk menangkap kesan pertama sebelum pikiran yang menganalisis ikut campur."
+   ],
+   "ul": [
+    "Latihan interaktif singkat untuk melatih persepsi intuitif",
+    "Latihan menyadari sinyal batin yang paling pertama",
+    "Cara memeriksa firasat Anda dan melihat seberapa akurat naluri Anda",
+    "Pemantauan kemajuan, sehingga Anda bisa melihat hasil Anda berubah dari waktu ke waktu",
+    "Latihan yang dirancang untuk membangun kepercayaan pada kesan pertama Anda"
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "Aplikasi ini cocok untuk siapa saja yang cenderung berpikir berlebihan, terjebak meragukan keputusan, atau sekadar ingin tahu seberapa bisa diandalkan kata hatinya. Aplikasi ini juga menjadi pendamping praktis bagi gagasan dalam [The Intuition Code](book:the-intuition-code), buku penulis tentang cara membedakan perasaan pertama dari keraguan yang menyusul."
+   ]
+  },
+  {
+   "h2": "Cara memulai melatih intuisi",
+   "ul": [
+    "Pasang Intuition Trainer dari Google Play di ponsel Android Anda.",
+    "Pilih satu menit yang tenang dan coba latihan pertama tanpa terburu-buru.",
+    "Jawab dengan kesan pertama Anda, bukan dengan rantai panjang penalaran.",
+    "Periksa hasilnya dan rasakan bagaimana sinyal pertama itu terasa saat itu.",
+    "Kembali secara rutin dan ikuti kemajuan Anda selama beberapa hari."
+   ]
+  },
+  {
+   "h2": "Mengapa penulis membuatnya",
+   "p": [
+    "Nikolay Shcherbakov telah lebih dari 20 tahun menjalani meditasi, latihan napas, afirmasi, teknik perhatian, dan pengamatan diri. Intuisi menjadi salah satu pertanyaan utama dalam perjalanan itu: bisakah kita belajar mendengarnya dengan lebih jelas? Buku-bukunya tentang topik ini, termasuk [Open Up to Your Dreams](book:open-up-to-your-dreams), menggambarkan apa yang ia temukan.",
+    "Namun ia menyadari bahwa membaca saja tidak cukup. Gagasan yang bagus menginspirasi Anda beberapa hari, lalu kebiasaan lama kembali. Aplikasi ini ada untuk membawa latihan itu ke kehidupan sehari-hari: buka, lakukan latihan singkat, lalu lanjutkan hari Anda. Tujuannya adalah melatih perhatian Anda pada jawaban intuitif yang pertama.",
+    "Jika Anda ingin menenangkan pikiran sebelum berlatih, coba padukan dengan [Breath Prana Moment](app:breath-prana-moment)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Benarkah intuisi bisa dilatih dengan latihan?",
+   "a": "Intuition Trainer memandang intuisi sebagai keterampilan perhatian: menyadari sinyal pertama sebelum keraguan mengambil alih. Latihan singkat yang rutin dan pemantauan hasil membantu Anda melihat seberapa akurat naluri Anda."
+  },
+  {
+   "q": "Berapa lama satu sesi berlangsung?",
+   "a": "Latihannya singkat, jadi beberapa menit sehari sudah cukup untuk menjadikannya kebiasaan."
+  },
+  {
+   "q": "Apakah Intuition Trainer tersedia di iPhone?",
+   "a": "Saat ini aplikasi tersedia untuk Android di Google Play. Versi iPhone belum ada."
+  },
+  {
+   "q": "Adakah buku yang sejalan dengan aplikasi ini?",
+   "a": "Ada. The Intuition Code dan Open Up to Your Dreams karya Nikolay Shcherbakov membahas intuisi lebih dalam dan cocok dipadukan dengan latihan di aplikasi."
+  }
+ ],
+ "related": [
+  "the-intuition-code",
+  "open-up-to-your-dreams",
+  "breath-prana-moment",
+  "head-heart"
+ ]
+}

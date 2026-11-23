@@ -1,0 +1,79 @@
+{
+ "slug": "perennial",
+ "title": "Perennial: registro de hábitos para que duren",
+ "description": "¿Te cuesta ser constante? El registro de hábitos Perennial te ayuda a crear rutinas positivas, marcar tu progreso diario y ver tus logros. Pruébalo en Android.",
+ "h1": "Perennial — pequeños hábitos, cambios duraderos",
+ "lead": "Perennial es un registro de hábitos para Android de Nikolay Shcherbakov. Te ayuda a crear rutinas saludables, marcar tu progreso diario y convertir pequeñas acciones cotidianas en hábitos que se quedan.",
+ "sections": [
+  {
+   "h2": "Cómo crear un hábito y mantenerlo de verdad",
+   "p": [
+    "Empezar un hábito nuevo es fácil. Lo difícil es mantenerlo después de la primera semana de entusiasmo. La motivación se apaga, un día ajetreado rompe la cadena y pronto el plan se olvida. La constancia viene menos de grandes arranques de esfuerzo y más de pequeñas acciones repetidas día tras día.",
+    "Esa es la idea de Perennial. Como una planta perenne que vuelve cada año, un hábito se fortalece con cuidados regulares y pacientes. La app mantiene tus rutinas a la vista y te muestra cuánto has avanzado."
+   ]
+  },
+  {
+   "h2": "Qué puedes hacer con Perennial",
+   "ul": [
+    "Crear los hábitos saludables que quieres adquirir",
+    "Marcar tu progreso cada día",
+    "Ver crecer tus logros con el tiempo",
+    "Mantener la constancia teniendo tus rutinas a la vista",
+    "Convertir pequeñas acciones diarias en hábitos duraderos"
+   ]
+  },
+  {
+   "h2": "Para quién es",
+   "p": [
+    "Perennial es para quien quiere más estructura en sus días: personas que empiezan una rutina matutina, una práctica diaria de lectura, ejercicio o meditación, o que simplemente quieren dejar de abandonar a medias sus buenas intenciones. Funciona igual de bien con un solo hábito que con varios."
+   ]
+  },
+  {
+   "h2": "Cómo empezar a registrar tus hábitos",
+   "ul": [
+    "Instala Perennial desde Google Play en tu teléfono Android.",
+    "Añade uno o dos hábitos que de verdad quieras mantener, y hazlos pequeños.",
+    "Marca cada día en que los cumplas.",
+    "Revisa con regularidad tu progreso y tus logros.",
+    "Añade un hábito nuevo solo cuando los primeros te resulten naturales."
+   ]
+  },
+  {
+   "h2": "Consejos para ser constante",
+   "p": [
+    "Empieza con algo más pequeño de lo que crees necesario. Cinco minutos al día que sí haces valen más que una hora que sigues aplazando. Une un hábito nuevo a algo que ya haces todos los días y, si te saltas un día, simplemente marca el siguiente. El registro de pequeñas victorias es lo que te mantiene en marcha."
+   ]
+  },
+  {
+   "h2": "Por qué la creó el autor",
+   "p": [
+    "Una de las preguntas que han guiado a Nikolay Shcherbakov durante más de 20 años de práctica es cómo las pequeñas acciones diarias van cambiando nuestra vida. Lo ha visto en su propia experiencia, incluidos más de 15 años cambiando su manera de comer, que le enseñaron cómo evolucionan con el tiempo los hábitos y el bienestar.",
+    "También notó que podemos aprender algo útil, sentirnos inspirados y, unos días después, volver a los viejos hábitos. Perennial existe para ayudar a que las nuevas rutinas superen ese punto. Combina bien con [Head & Heart](app:head-heart) para decidir qué merece la pena cambiar, y con [Phone Detox](app:phone-detox) si el tiempo de pantalla es el hábito que quieres reemplazar."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto se tarda en crear un hábito?",
+   "a": "Varía de una persona a otra y de un hábito a otro. Lo que más importa es repetir con regularidad una acción pequeña, y un registro como Perennial te ayuda a ver esa constancia."
+  },
+  {
+   "q": "¿Cuál es la mejor forma de llevar un registro de hábitos?",
+   "a": "Hazlo simple: elige unos pocos hábitos pequeños, márcalos cada día y revisa tu progreso. Perennial está construida justo en torno a esta rutina diaria."
+  },
+  {
+   "q": "¿Puedo registrar más de un hábito?",
+   "a": "Sí, puedes crear varios hábitos saludables y marcar tu progreso diario en cada uno de ellos."
+  },
+  {
+   "q": "¿Perennial está disponible para iPhone?",
+   "a": "Por ahora la app está disponible para Android en Google Play. Todavía no hay versión para iPhone."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "phone-detox",
+  "affirmation",
+  "the-right-choice"
+ ]
+}

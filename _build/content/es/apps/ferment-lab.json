@@ -1,0 +1,87 @@
+{
+ "slug": "ferment-lab",
+ "title": "Fermentación casera: masa madre y encurtidos — FERMENT LAB",
+ "description": "FERMENT LAB te guía paso a paso en la fermentación casera: pan de masa madre, encurtidos, kvas, yogur, kombucha y más. Descárgala en Google Play.",
+ "h1": "FERMENT LAB — fermentación casera paso a paso",
+ "lead": "¿Quieres fermentar en casa pero no sabes por dónde empezar? FERMENT LAB te ayuda a preparar pan de masa madre, encurtidos, kvas y yogur paso a paso y a tener tus recetas en orden.",
+ "sections": [
+  {
+   "h2": "Por qué al principio la fermentación casera parece difícil",
+   "p": [
+    "Desde fuera, fermentar parece sencillo: harina y agua, col y sal, leche y un cultivo iniciador. En la práctica, los principiantes suelen perderse: olvidan un paso, confunden los tiempos o pierden la receta que les salió bien la última vez.",
+    "FERMENT LAB pone orden en el proceso. Guardas las recetas en un solo lugar, sigues el proceso paso a paso y puedes volver a lo que hiciste antes."
+   ]
+  },
+  {
+   "h2": "Qué puedes preparar con FERMENT LAB",
+   "ul": [
+    "Pan de masa madre.",
+    "Encurtidos y otras verduras fermentadas.",
+    "Kvas.",
+    "Yogur casero.",
+    "Kombucha y más."
+   ]
+  },
+  {
+   "h2": "Cómo te ayuda la app",
+   "ul": [
+    "Guía paso a paso a lo largo del proceso de fermentación.",
+    "Un lugar donde organizar tus recetas.",
+    "Una estructura clara para seguir el proceso con seguridad.",
+    "Espacio para explorar nuevos fermentados cuando lo básico te resulte fácil."
+   ]
+  },
+  {
+   "h2": "Para quién es",
+   "p": [
+    "La app es para principiantes que quieren probar la fermentación en casa por primera vez, y para quienes ya hacen pan de masa madre o encurtidos y quieren tener sus recetas y pasos organizados en un solo lugar.",
+    "También sirve para quien disfruta de la cocina lenta y artesanal. La fermentación enseña paciencia: preparas, esperas, observas y aprendes de cada tanda. Tener cada paso anotado hace ese aprendizaje mucho más fácil, porque puedes ver qué hiciste y repetir lo que funcionó."
+   ]
+  },
+  {
+   "h2": "Cómo empezar",
+   "ul": [
+    "Instala FERMENT LAB desde Google Play.",
+    "Elige un proyecto sencillo para empezar, por ejemplo yogur o encurtidos.",
+    "Sigue los pasos en orden y no te saltes ninguno.",
+    "Guarda la receta que te funcionó para poder repetirla.",
+    "Pasa a la masa madre, el kvas o la kombucha cuando te sientas listo."
+   ]
+  },
+  {
+   "h2": "Una nota sobre seguridad en la cocina",
+   "p": [
+    "Usa frascos y utensilios limpios y sigue cada paso con cuidado. Si un fermentado tiene mal aspecto, mal olor o mal sabor, no lo consumas. Si tienes problemas de salud o restricciones alimentarias, consulta con tu médico antes de incorporar nuevos alimentos a tu dieta."
+   ]
+  },
+  {
+   "h2": "Por qué creé FERMENT LAB",
+   "p": [
+    "Soy Nikolay Shcherbakov. Desde hace más de 15 años cambio mi manera de comer, y ese camino me hizo prestar mucha atención a lo que cocino en casa. Escribí sobre esta experiencia personal en el libro [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FERMENT LAB es una ayuda práctica para la cocina; para ideas de comidas cotidianas con lo que ya tienes, prueba [FRIDGE](app:fridge)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo empiezo a fermentar en casa?",
+   "a": "Empieza con un proyecto sencillo, como yogur o encurtidos, y sigue los pasos con cuidado. FERMENT LAB te guía por el proceso paso a paso."
+  },
+  {
+   "q": "¿Puedo hacer pan de masa madre con FERMENT LAB?",
+   "a": "Sí. El pan de masa madre es una de las cosas que la app te ayuda a preparar paso a paso, junto con encurtidos, kvas y yogur."
+  },
+  {
+   "q": "¿Puedo guardar mis propias recetas?",
+   "a": "FERMENT LAB te ayuda a organizar tus recetas para que puedas volver a las que te funcionaron."
+  },
+  {
+   "q": "¿Dónde puedo descargar FERMENT LAB?",
+   "a": "FERMENT LAB está disponible para Android en Google Play."
+  }
+ ],
+ "related": [
+  "fridge",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "the-right-choice",
+ "title": "Doğru Karar Nasıl Verilir — The Right Choice (Kitap)",
+ "description": "Nikolay Shcherbakov'dan The Right Choice: aklınız ve duygularınız çeliştiğinde nasıl karar verirsiniz, kararsızlığı nasıl aşarsınız. Şu anda Litres'te Rusça.",
+ "h1": "The Right Choice (Doğru Seçim) — akıl ve kalp çeliştiğinde nasıl karar verilir",
+ "lead": "Seçenekleri tartmaya, gerçekte ne istediğinizi anlamaya ve kararsızlığı aşmaya dair pratik bir yaklaşım. Hayatın önemli kararlarında daha az şüphe, daha çok güven.",
+ "sections": [
+  {
+   "h2": "The Right Choice ne anlatıyor?",
+   "p": [
+    "Yanlış yapmaktan korkarak her önemli kararda kıvranıyor musunuz? Aklınız bir dizi argüman sıralar, duygularınız başka bir yeri gösterir ve karar haftalarca ertelenir. Bazen birinin sizin yerinize karar vermesini istersiniz.",
+    "The Right Choice tam da bu anlarla ilgili: korku ve şüphe karar vermenin önüne geçtiğinde. Yazar pratik bir yaklaşım öneriyor: seçeneklerinizi sakince tartın, gerçekte ne istediğinizi anlayın ve korkuyu sezgiden ayırmayı öğrenin."
+   ]
+  },
+  {
+   "h2": "Emin olmadığınızda nasıl karar verilir: neler öğreneceksiniz?",
+   "ul": [
+    "Bitmeyen gidip gelmelerde takılmadan seçenekleri nasıl tartacağınızı.",
+    "Başkalarının beklentilerini değil, kendi isteklerinizi nasıl anlayacağınızı.",
+    "Farklı şeyler söylediklerinde korkuyu sezgiden nasıl ayıracağınızı.",
+    "Aklınız ve duygularınız farklı yanıtlar verdiğinde netliği nasıl bulacağınızı.",
+    "Kararsızlığı nasıl aşıp önemli seçimleri daha güvenle yapacağınızı."
+   ]
+  },
+  {
+   "h2": "Aklınız ve duygularınız çeliştiğinde",
+   "p": [
+    "En zor kararlar, apaçık doğru bir seçeneğin olmadığı kararlardır. Mantık yapmanız gerektiğini söyler, ama içinizde bir şey direnir. Ya da tam tersi: Kalbiniz bir yöne çeker, aklınız durmak için onlarca neden bulur. Kitap, böyle durumlara dürüstçe bakmanıza ve her seçimi geri dönüşsüz bir hata riski olarak görmeyi bırakmanıza yardımcı olur.",
+    "Bir kararı adım adım ele almayı tercih ediyorsanız [Karar Yardımcısı uygulamasını](app:head-heart) deneyin: duruma farklı yönlerden bakmanıza, birkaç soruyu yanıtlamanıza ve argümanları karşılaştırmanıza yardımcı olur."
+   ]
+  },
+  {
+   "h2": "Bu kitap kimler için?",
+   "p": [
+    "Yanlış seçim yapmaktan korkan, uzun süre tereddüt eden ve iş, taşınma, ilişkiler ya da kendi planları hakkındaki önemli kararları erteleyen herkes için. Hızlı karar verip sonra doğru olanı yapıp yapmadığını uzun uzun düşünenlere de yardımcı olacaktır."
+   ]
+  },
+  {
+   "h2": "Yazar hakkında",
+   "p": [
+    "Nikolay Shcherbakov düşünme, sezgi, farkındalık ve kişisel değişim üzerine kitaplar yazıyor. 20 yılı aşkın süredir meditasyon, nefes çalışması, olumlamalar, dikkat teknikleri ve kendini gözlemleme üzerine çalışıyor ve pratik yapıyor. Uzun zamandır bir soru onu çekiyor: Bazı düşünceler bizi neden ileri taşırken bazıları bizi bitmeyen şüphede hapsediyor?"
+   ]
+  },
+  {
+   "h2": "Nereden satın alınır?",
+   "p": [
+    "The Right Choice şu anda Litres'te Rusça olarak, «Правильный выбор» adıyla mevcut. Henüz İngilizce baskısı yok. İngilizce okuyorsanız, gelecek hakkında daha az endişelenmekle ilgili [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well) kitabı Amazon'da mevcut."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Aklım ve kalbim farklı şeyler söylediğinde nasıl karar veririm?",
+   "a": "Kitap seçeneklerinizi tartmanızı, gerçekte ne istediğinizi anlamanızı ve korkuyu sezgiden ayırmanızı önerir; böylece her seçeneğin ardında ne olduğu daha net hâle gelir."
+  },
+  {
+   "q": "Yanlış seçim yapma korkusunu nasıl yenerim?",
+   "a": "Yazar, korkunun bir kararı nerede geri tuttuğunu nasıl fark edeceğinizi ve daha güvenle harekete geçecek kadar netliği nasıl bulacağınızı gösteriyor."
+  },
+  {
+   "q": "The Intuition Code'dan farkı nedir?",
+   "a": "The Intuition Code iç sinyalleri fark etmek ve kendine güvenmekle ilgilidir. The Right Choice bunu, korku ve şüphe araya girdiğinde somut kararlara uygular."
+  },
+  {
+   "q": "The Right Choice İngilizce olarak mevcut mu?",
+   "a": "Henüz değil. Kitap şu anda Litres'te Rusça olarak mevcut."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-intuition-code"
+ ]
+}

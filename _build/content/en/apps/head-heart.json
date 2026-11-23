@@ -1,0 +1,70 @@
+{
+  "slug": "head-heart",
+  "title": "Head & Heart: Decision Helper App for Hard Choices",
+  "description": "Torn between two options? Head & Heart helps you look at a choice from different sides, compare arguments and find your next step. Get it on Android.",
+  "h1": "Head & Heart — make decisions with confidence",
+  "lead": "Head & Heart is a decision helper for Android by Nikolay Shcherbakov. When a choice is hard, it helps you see the situation from different sides and understand what your mind and your heart are telling you.",
+  "sections": [
+    {
+      "h2": "How to make a decision when you can't choose",
+      "p": [
+        "Some decisions get stuck for weeks. The logical arguments point one way, your feelings pull the other, and every time you think about it you end up in the same place. Indecision is tiring, and it often hides a simple fact: you haven't yet looked at the choice clearly from all sides.",
+        "Head & Heart gives that process a structure. Instead of going round in circles, you answer a few questions, put the arguments side by side and move towards a concrete next step."
+      ]
+    },
+    {
+      "h2": "What the app helps you do",
+      "ul": [
+        "Look at a difficult situation from different angles",
+        "Answer a few guiding questions about your choice",
+        "Compare the arguments for each option",
+        "Understand what your mind and your heart are each telling you",
+        "Uncover what is holding you back",
+        "Find your next step instead of staying stuck"
+      ]
+    },
+    {
+      "h2": "Who it is for",
+      "p": [
+        "The app is for anyone torn between two options: a job offer, a move, a conversation you keep putting off, or a smaller everyday choice that keeps nagging at you. It is especially useful if you tend to overanalyse, or if you notice that fear and doubt, rather than the options themselves, are what keeps you from deciding."
+      ]
+    },
+    {
+      "h2": "How to start",
+      "ul": [
+        "Install Head & Heart from Google Play on your Android phone.",
+        "Think of one decision that has been on your mind lately.",
+        "Answer the questions honestly, without trying to find the right answer.",
+        "Compare the arguments and notice where your head and heart agree or differ.",
+        "Choose one next step you can take, even a small one."
+      ]
+    },
+    {
+      "h2": "Why the author created it",
+      "p": [
+        "Nikolay Shcherbakov has written about decisions in his book [The Right Choice](book:the-right-choice), which looks at how to decide when your mind and your feelings give different answers, and how to understand what you really want and overcome indecision. In his story he describes it as a book about the moments when fear and doubt get in the way of making a decision.",
+        "After years of practice and writing he realised that reading alone is not enough: in the moment of a real choice, you need something practical at hand. Head & Heart was made so people can make decisions more consciously, right when they need to.",
+        "If you want to work on trusting your first impressions as well, try [Intuition Trainer](app:intuition-trainer)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I do when I can't make a decision?",
+      "a": "It helps to look at the choice from different sides, write down the arguments for each option and notice what is really holding you back. Head & Heart walks you through these steps with a few simple questions."
+    },
+    {
+      "q": "What if my head and heart say different things?",
+      "a": "That is exactly the situation the app is built for. It helps you hear both sides, compare them and find a next step you can live with."
+    },
+    {
+      "q": "Will the app make the decision for me?",
+      "a": "No. Head & Heart helps you think the situation through and find your next step, but the choice remains yours."
+    },
+    {
+      "q": "Is there a book on the same topic?",
+      "a": "Yes. The Right Choice by Nikolay Shcherbakov explores decision-making when reason and feelings disagree."
+    }
+  ],
+  "related": ["the-right-choice", "intuition-trainer", "perennial", "the-intuition-code"]
+}

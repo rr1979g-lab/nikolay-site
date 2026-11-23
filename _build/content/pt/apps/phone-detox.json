@@ -1,0 +1,78 @@
+{
+ "slug": "phone-detox",
+ "title": "Phone Detox: Como Parar de Rolar a Tela do Celular",
+ "description": "Cansado de rolar a tela? O Phone Detox ajuda a reduzir distrações do celular, reservar tempo para o que importa e medir o tempo livre. Veja no Android.",
+ "h1": "Phone Detox — retome o controle do seu tempo",
+ "lead": "Phone Detox é um app de equilíbrio digital para Android de Nikolay Shcherbakov. Ele ajuda você a reduzir as distrações do celular, quebrar maus hábitos com a tela e recuperar tempo para a vida real.",
+ "sections": [
+  {
+   "h2": "Como parar de ficar rolando a tela do celular o tempo todo",
+   "p": [
+    "Você pega o celular para ver uma mensagem e, vinte minutos depois, ainda está rolando a tela. Acontece com quase todo mundo, e só a força de vontade raramente resolve, porque o hábito roda no piloto automático. O que funciona melhor é tornar visível e deliberado o tempo que você quer proteger.",
+    "O Phone Detox é construído em torno dessa ideia. Em vez de simplesmente se culpar pelo tempo de tela, você reserva tempo para o que importa e vê quanto tempo realmente recuperou. Você pode ler mais sobre o hábito em si no artigo [como parar de ficar rolando a tela do celular](blog:how-to-stop-scrolling-your-phone)."
+   ]
+  },
+  {
+   "h2": "No que o app ajuda",
+   "ul": [
+    "Reduzir as distrações vindas do celular",
+    "Reservar tempo de foco para tarefas importantes e para a vida real",
+    "Quebrar maus hábitos com a tela, passo a passo",
+    "Acompanhar o tempo que você liberou"
+   ]
+  },
+  {
+   "h2": "Para quem é",
+   "p": [
+    "O Phone Detox é para quem sente que o celular toma mais atenção do que gostaria: quem pega o aparelho por hábito, tem dificuldade de se concentrar no trabalho ou nos estudos, ou quer mais noites sem feeds infinitos. É um primeiro passo prático rumo ao equilíbrio digital, sem precisar jogar o smartphone fora."
+   ]
+  },
+  {
+   "h2": "Como começar seu detox digital",
+   "ul": [
+    "Instale o Phone Detox pelo Google Play no seu celular Android.",
+    "Decida para o que você quer mais tempo: trabalho, família, leitura, descanso.",
+    "Reserve o seu primeiro bloco de tempo para essa atividade.",
+    "Deixe o celular de lado e perceba com que frequência surge a vontade de conferi-lo.",
+    "Veja o tempo que você liberou e repita amanhã."
+   ]
+  },
+  {
+   "h2": "Pequenos passos funcionam melhor que proibições rígidas",
+   "p": [
+    "Um detox digital não precisa significar uma semana inteira offline. Passos regulares e modestos são mais fáceis de manter: uma hora protegida, uma noite, uma manhã sem o feed. Ver o tempo liberado se acumular é um bom lembrete de que o esforço vale a pena."
+   ]
+  },
+  {
+   "h2": "Por que o autor criou o app",
+   "p": [
+    "Há mais de 20 anos Nikolay Shcherbakov trabalha a atenção por meio da meditação e da autoobservação. Ele vê com que facilidade a atenção se dispersa, e o celular é uma das forças que mais a puxam. Criou este app para reduzir a atração distrativa do celular e devolver o seu tempo a você.",
+    "O princípio central dele é que a mudança nem sempre exige sistemas complexos: às vezes basta fazer uma pausa antes de uma reação habitual. Para praticar essa pausa, experimente o [Moment Now](app:moment-now) e, para apoiar novas rotinas, use o rastreador de hábitos [Perennial](app:perennial)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como parar de rolar a tela do celular?",
+   "a": "Comece decidindo para que você quer o tempo e reservando um bloco específico para isso. O Phone Detox ajuda a reduzir distrações, proteger esse tempo e acompanhar quanto você liberou."
+  },
+  {
+   "q": "Preciso parar de usar o celular por completo?",
+   "a": "Não. O objetivo é o equilíbrio digital: menos distrações e mais tempo para o que importa, sem abrir mão do smartphone."
+  },
+  {
+   "q": "O Phone Detox está disponível para iPhone?",
+   "a": "No momento o app está disponível para Android no Google Play. Ainda não há versão para iPhone."
+  },
+  {
+   "q": "Consigo ver quanto tempo economizei?",
+   "a": "Sim. O Phone Detox acompanha o tempo que você liberou, para você ver seu progresso."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "perennial",
+  "what-if-everything-turns-out-well",
+  "parent-lock"
+ ]
+}

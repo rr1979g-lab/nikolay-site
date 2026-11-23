@@ -1,0 +1,78 @@
+{
+ "slug": "phone-detox",
+ "title": "Phone Detox: Cara Berhenti Scroll Ponsel Terus-menerus",
+ "description": "Lelah scroll tanpa henti? Phone Detox membantu mengurangi gangguan ponsel, menyisihkan waktu untuk hal penting, dan memantau waktu yang berhasil Anda dapatkan.",
+ "h1": "Phone Detox — ambil kembali kendali atas waktu Anda",
+ "lead": "Phone Detox adalah aplikasi keseimbangan digital untuk Android dari Nikolay Shcherbakov. Membantu Anda mengurangi gangguan dari ponsel, memutus kebiasaan layar yang tidak sehat, dan mendapatkan kembali waktu untuk kehidupan nyata.",
+ "sections": [
+  {
+   "h2": "Cara berhenti scroll ponsel terus-menerus",
+   "p": [
+    "Anda mengambil ponsel untuk mengecek satu pesan, dan dua puluh menit kemudian Anda masih scroll. Hampir semua orang mengalaminya, dan kemauan saja jarang menyelesaikannya, karena kebiasaan ini berjalan otomatis. Yang lebih berhasil adalah membuat waktu yang ingin Anda lindungi menjadi terlihat dan disengaja.",
+    "Phone Detox dibangun di sekitar gagasan itu. Alih-alih sekadar menyalahkan diri atas waktu layar, Anda menyisihkan waktu untuk hal yang penting dan melihat berapa banyak waktu yang sebenarnya berhasil Anda dapatkan kembali. Anda bisa membaca lebih lanjut tentang kebiasaannya dalam artikel [cara berhenti scroll ponsel](blog:how-to-stop-scrolling-your-phone)."
+   ]
+  },
+  {
+   "h2": "Apa yang dibantu oleh aplikasi ini",
+   "ul": [
+    "Mengurangi gangguan dari ponsel Anda",
+    "Menyisihkan waktu fokus untuk tugas penting dan kehidupan nyata",
+    "Memutus kebiasaan layar yang tidak sehat selangkah demi selangkah",
+    "Memantau waktu yang berhasil Anda bebaskan"
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "Phone Detox untuk siapa saja yang merasa ponsel mengambil perhatian lebih banyak daripada yang diinginkan: orang yang meraihnya karena kebiasaan, sulit berkonsentrasi saat bekerja atau belajar, atau ingin lebih banyak malam tanpa umpan media sosial yang tak berujung. Ini langkah pertama yang praktis menuju keseimbangan digital, tanpa harus membuang ponsel pintar Anda."
+   ]
+  },
+  {
+   "h2": "Cara memulai detoks digital Anda",
+   "ul": [
+    "Pasang Phone Detox dari Google Play di ponsel Android Anda.",
+    "Tentukan untuk apa Anda ingin lebih banyak waktu: pekerjaan, keluarga, membaca, istirahat.",
+    "Sisihkan blok waktu pertama Anda untuk kegiatan itu.",
+    "Singkirkan ponsel dan perhatikan seberapa sering dorongan untuk mengeceknya muncul.",
+    "Lihat waktu yang berhasil Anda bebaskan dan ulangi besok."
+   ]
+  },
+  {
+   "h2": "Langkah kecil lebih berhasil daripada larangan ketat",
+   "p": [
+    "Detoks digital tidak harus berarti seminggu penuh tanpa internet. Langkah-langkah sederhana yang teratur lebih mudah dijalani: satu jam yang dilindungi, satu malam, satu pagi tanpa umpan media sosial. Melihat waktu yang terkumpul bertambah menjadi pengingat yang baik bahwa usaha ini sepadan."
+   ]
+  },
+  {
+   "h2": "Mengapa penulis membuatnya",
+   "p": [
+    "Selama lebih dari 20 tahun Nikolay Shcherbakov bekerja dengan perhatian melalui meditasi dan pengamatan diri. Ia melihat betapa mudahnya perhatian terpecah, dan ponsel adalah salah satu tarikan terkuatnya. Ia membuat aplikasi ini untuk mengurangi tarikan ponsel yang mengganggu dan mengembalikan waktu Anda kepada Anda.",
+    "Prinsip utamanya adalah bahwa perubahan tidak selalu memerlukan sistem yang rumit: kadang cukup berhenti sejenak sebelum reaksi kebiasaan. Untuk melatih jeda itu, coba [Moment Now](app:moment-now), dan untuk mendukung rutinitas baru, gunakan pelacak kebiasaan [Perennial](app:perennial)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Bagaimana cara berhenti scroll ponsel?",
+   "a": "Mulailah dengan menentukan untuk apa Anda menginginkan waktu itu dan sisihkan blok waktu tertentu untuknya. Phone Detox membantu Anda mengurangi gangguan, melindungi waktu itu, dan memantau berapa banyak yang berhasil Anda bebaskan."
+  },
+  {
+   "q": "Apakah saya harus berhenti memakai ponsel sepenuhnya?",
+   "a": "Tidak. Tujuannya adalah keseimbangan digital: lebih sedikit gangguan dan lebih banyak waktu untuk hal yang penting, bukan meninggalkan ponsel pintar Anda."
+  },
+  {
+   "q": "Apakah Phone Detox tersedia di iPhone?",
+   "a": "Saat ini aplikasi tersedia untuk Android di Google Play. Versi iPhone belum ada."
+  },
+  {
+   "q": "Bisakah saya melihat berapa banyak waktu yang sudah saya hemat?",
+   "a": "Bisa. Phone Detox memantau waktu yang berhasil Anda bebaskan, sehingga Anda dapat melihat kemajuan Anda."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "perennial",
+  "what-if-everything-turns-out-well",
+  "parent-lock"
+ ]
+}

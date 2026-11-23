@@ -1,0 +1,74 @@
+{
+ "slug": "affirmation",
+ "title": "Affirmations positives au quotidien : appli Affirmation",
+ "description": "Remplacez le dialogue intérieur négatif : Affirmation propose des phrases positives et des pratiques thématiques pour la confiance et la motivation. Android.",
+ "h1": "Affirmation : des affirmations quotidiennes pour la confiance en soi",
+ "lead": "Affirmation est une appli Android de Nikolay Shcherbakov, avec des phrases positives et des pratiques thématiques. Elle vous aide à gagner en confiance, à rester motivé(e) et à aborder vos objectifs avec plus de conscience.",
+ "sections": [
+  {
+   "h2": "Comment utiliser les affirmations chaque jour",
+   "p": [
+    "La voix dans votre tête n’est pas toujours de votre côté. Je n’y arriverai pas, je ne suis pas à la hauteur, ça ne marchera pas : ces phrases se répètent si souvent qu’elles finissent par ressembler à des faits. Les affirmations offrent un contrepoids simple. En portant régulièrement votre attention sur des phrases encourageantes, vous modifiez peu à peu les pensées que vous cultivez.",
+    "Le mot clé est « régulièrement ». Une affirmation lue une seule fois change peu de choses. C’est une courte pratique quotidienne, à laquelle on revient sans cesse, qui façonne les habitudes de pensée. L’appli Affirmation est conçue pour faciliter ce retour quotidien."
+   ]
+  },
+  {
+   "h2": "Ce que vous trouverez dans l’appli",
+   "ul": [
+    "Des phrases positives pour remplacer le dialogue intérieur négatif",
+    "Des pratiques thématiques pour différents domaines de la vie",
+    "Des affirmations pour la confiance en soi",
+    "Des affirmations pour la motivation",
+    "Un soutien pour aborder vos objectifs de façon consciente et centrée"
+   ]
+  },
+  {
+   "h2": "À qui s’adresse-t-elle ?",
+   "p": [
+    "L’appli convient à toute personne qui souhaite renforcer son état d’esprit : ceux qui ont tendance à se critiquer, qui poursuivent un objectif et ont besoin d’un rappel quotidien de sa raison d’être, ou qui veulent simplement mettre plus de positif dans leur journée. Aucune expérience des affirmations n’est nécessaire."
+   ]
+  },
+  {
+   "h2": "Comment commencer une pratique d’affirmations",
+   "ul": [
+    "Installez Affirmation depuis Google Play sur votre téléphone Android.",
+    "Choisissez un thème qui compte pour vous en ce moment, comme la confiance ou la motivation.",
+    "Lisez les phrases lentement et observez ce que vous ressentez.",
+    "Revenez à votre pratique à la même heure chaque jour, par exemple le matin.",
+    "Gardez vos objectifs en tête et observez l’évolution de votre dialogue intérieur."
+   ]
+  },
+  {
+   "h2": "Pourquoi l’auteur l’a créée",
+   "p": [
+    "Les affirmations font partie de la pratique de Nikolay Shcherbakov depuis de nombreuses années, avec la méditation, la respiration et les techniques d’attention. Il décrit cette expérience dans son livre [Destiny to Order](book:destiny-to-order), qui aborde la force des intentions quotidiennes, l’attention portée à ses objectifs et la façon de façonner consciemment ses habitudes de pensée, et qui comprend un programme d’affirmations de 30 jours.",
+    "Il a constaté que l’inspiration d’un livre s’estompe au bout de quelques jours si la pratique n’entre pas dans le quotidien. L’appli est sa façon de garder les affirmations à portée de main, pour que quelques minutes de pratique tiennent dans n’importe quelle journée.",
+    "Pour maintenir votre nouvelle routine, essayez le suivi d’habitudes [Perennial](app:perennial), et pour commencer la journée l’esprit calme, ajoutez une courte pratique de [Moment Now](app:moment-now)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Les affirmations fonctionnent-elles vraiment ?",
+   "a": "Les affirmations sont une manière d’orienter régulièrement votre attention vers des pensées encourageantes. D’après l’expérience de l’auteur, c’est la pratique quotidienne, dans la durée, qui fait la différence ; c’est pourquoi l’appli repose sur une routine quotidienne."
+  },
+  {
+   "q": "Quel est le meilleur moment pour dire ses affirmations ?",
+   "a": "Beaucoup de personnes préfèrent le matin, pour donner le ton de la journée, mais tout moment auquel vous pouvez revenir régulièrement convient."
+  },
+  {
+   "q": "Y a-t-il des affirmations pour la confiance en soi dans l’appli ?",
+   "a": "Oui. L’appli comprend des phrases positives et des pratiques thématiques pour la confiance, la motivation et une approche consciente de vos objectifs."
+  },
+  {
+   "q": "Existe-t-il un livre sur la méthode des affirmations ?",
+   "a": "Oui. Destiny to Order de Nikolay Shcherbakov décrit sa méthode d’affirmations et comprend un programme de 30 jours."
+  }
+ ],
+ "related": [
+  "destiny-to-order",
+  "moment-now",
+  "perennial",
+  "thoughts-in-circles"
+ ]
+}

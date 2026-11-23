@@ -1,0 +1,75 @@
+{
+ "slug": "head-heart",
+ "title": "Head & Heart: Aplikasi Bantu Ambil Keputusan Sulit",
+ "description": "Bimbang di antara dua pilihan? Head & Heart membantu Anda melihat pilihan dari berbagai sisi, membandingkan argumen, dan menemukan langkah berikutnya. Unduh di Android.",
+ "h1": "Head & Heart — ambil keputusan dengan yakin",
+ "lead": "Head & Heart adalah aplikasi Android pembantu keputusan dari Nikolay Shcherbakov. Saat pilihan terasa sulit, aplikasi ini membantu Anda melihat situasi dari berbagai sisi dan memahami apa yang dikatakan pikiran dan hati Anda.",
+ "sections": [
+  {
+   "h2": "Cara mengambil keputusan saat tak bisa memilih",
+   "p": [
+    "Sebagian keputusan tertahan berminggu-minggu. Argumen logis mengarah ke satu sisi, perasaan menarik ke sisi lain, dan setiap kali memikirkannya Anda kembali ke titik yang sama. Ragu-ragu itu melelahkan, dan sering menyembunyikan fakta sederhana: Anda belum melihat pilihan itu dengan jernih dari semua sisi.",
+    "Head & Heart memberi proses itu sebuah struktur. Alih-alih berputar-putar, Anda menjawab beberapa pertanyaan, menaruh argumen berdampingan, dan bergerak menuju langkah berikutnya yang konkret."
+   ]
+  },
+  {
+   "h2": "Apa yang dibantu oleh aplikasi ini",
+   "ul": [
+    "Melihat situasi sulit dari berbagai sudut",
+    "Menjawab beberapa pertanyaan pemandu tentang pilihan Anda",
+    "Membandingkan argumen untuk setiap opsi",
+    "Memahami apa yang dikatakan pikiran dan hati Anda masing-masing",
+    "Menemukan apa yang menahan Anda",
+    "Menemukan langkah berikutnya alih-alih terus terjebak"
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "Aplikasi ini untuk siapa saja yang bimbang di antara dua pilihan: tawaran pekerjaan, pindah tempat tinggal, percakapan yang terus Anda tunda, atau pilihan sehari-hari yang lebih kecil tetapi terus mengganggu. Terutama berguna jika Anda cenderung berpikir berlebihan, atau menyadari bahwa rasa takut dan keraguan, bukan pilihannya sendiri, yang menghalangi Anda memutuskan."
+   ]
+  },
+  {
+   "h2": "Cara memulai",
+   "ul": [
+    "Pasang Head & Heart dari Google Play di ponsel Android Anda.",
+    "Pikirkan satu keputusan yang akhir-akhir ini memenuhi pikiran Anda.",
+    "Jawab pertanyaannya dengan jujur, tanpa berusaha mencari jawaban yang benar.",
+    "Bandingkan argumennya dan perhatikan di mana pikiran dan hati Anda sepakat atau berbeda.",
+    "Pilih satu langkah berikutnya yang bisa Anda ambil, sekecil apa pun."
+   ]
+  },
+  {
+   "h2": "Mengapa penulis membuatnya",
+   "p": [
+    "Nikolay Shcherbakov menulis tentang keputusan dalam bukunya [The Right Choice](book:the-right-choice), yang membahas cara memutuskan ketika pikiran dan perasaan memberi jawaban berbeda, serta cara memahami apa yang sebenarnya Anda inginkan dan mengatasi keraguan. Ia menyebutnya buku tentang saat-saat ketika rasa takut dan keraguan menghalangi pengambilan keputusan.",
+    "Setelah bertahun-tahun berlatih dan menulis, ia menyadari bahwa membaca saja tidak cukup: pada saat benar-benar harus memilih, Anda membutuhkan sesuatu yang praktis di tangan. Head & Heart dibuat agar orang dapat mengambil keputusan dengan lebih sadar, tepat ketika mereka membutuhkannya.",
+    "Jika Anda juga ingin melatih kepercayaan pada kesan pertama, coba [Intuition Trainer](app:intuition-trainer)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Apa yang harus dilakukan saat tidak bisa mengambil keputusan?",
+   "a": "Membantu jika Anda melihat pilihan dari berbagai sisi, menuliskan argumen untuk setiap opsi, dan menyadari apa yang sebenarnya menahan Anda. Head & Heart memandu Anda melalui langkah-langkah ini dengan beberapa pertanyaan sederhana."
+  },
+  {
+   "q": "Bagaimana jika pikiran dan hati saya berkata hal yang berbeda?",
+   "a": "Itulah situasi yang menjadi alasan aplikasi ini dibuat. Aplikasi membantu Anda mendengar kedua sisi, membandingkannya, dan menemukan langkah berikutnya yang bisa Anda terima."
+  },
+  {
+   "q": "Apakah aplikasi ini akan memutuskan untuk saya?",
+   "a": "Tidak. Head & Heart membantu Anda memikirkan situasi dengan matang dan menemukan langkah berikutnya, tetapi pilihannya tetap milik Anda."
+  },
+  {
+   "q": "Adakah buku dengan topik yang sama?",
+   "a": "Ada. The Right Choice karya Nikolay Shcherbakov membahas pengambilan keputusan ketika akal dan perasaan tidak sejalan."
+  }
+ ],
+ "related": [
+  "the-right-choice",
+  "intuition-trainer",
+  "perennial",
+  "the-intuition-code"
+ ]
+}

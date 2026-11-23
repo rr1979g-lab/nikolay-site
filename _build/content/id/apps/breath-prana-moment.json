@@ -1,0 +1,86 @@
+{
+ "slug": "breath-prana-moment",
+ "title": "Latihan Pernapasan untuk Tenang: Breath Prana Moment",
+ "description": "Sedang stres? Breath Prana Moment punya Box Breathing, 4-7-8 dan lainnya, dengan sesi kustom, panduan suara, dan statistik kemajuan. Coba di Android.",
+ "h1": "Breath Prana Moment — latihan pernapasan untuk ketenangan",
+ "lead": "Breath Prana Moment adalah aplikasi Android dari Nikolay Shcherbakov dengan teknik pernapasan terpandu, sesi kustom, dan petunjuk suara. Membantu Anda rileks, kembali fokus, dan membangun kebiasaan tenang setiap hari.",
+ "sections": [
+  {
+   "h2": "Latihan pernapasan untuk menenangkan diri saat stres",
+   "p": [
+    "Saat stres menumpuk, napas adalah salah satu hal yang bisa langsung Anda ubah. Beberapa menit bernapas pelan dan teratur memberi jeda antara momen yang menegangkan dan reaksi Anda. Yang sulit adalah mengingat untuk melakukannya dan menjaga irama yang stabil tanpa menghitung di dalam kepala.",
+    "Breath Prana Moment mengatur iramanya untuk Anda, sehingga Anda bisa fokus bernapas saja."
+   ]
+  },
+  {
+   "h2": "Teknik pernapasan di aplikasi",
+   "p": [
+    "Aplikasi ini menghimpun beberapa pola pernapasan yang terkenal dalam satu tempat, antara lain:"
+   ],
+   "ul": [
+    "Box Breathing",
+    "Pernapasan 4-7-8",
+    "Equal Breathing (napas seimbang)",
+    "Coherent Breathing (napas koheren)",
+    "Teknik lainnya, plus pilihan untuk membuat latihan Anda sendiri"
+   ]
+  },
+  {
+   "h2": "Fitur utama",
+   "ul": [
+    "Teknik pernapasan terpandu untuk relaksasi dan fokus",
+    "Sesi kustom yang bisa Anda atur sesuai kebutuhan",
+    "Panduan suara, sehingga Anda bisa memejamkan mata dan mengikutinya",
+    "Statistik kemajuan untuk melihat latihan Anda berkembang dari hari ke hari",
+    "Latihan buatan sendiri di samping latihan bawaan"
+   ]
+  },
+  {
+   "h2": "Cara memulai latihan pernapasan",
+   "ul": [
+    "Pasang Breath Prana Moment dari Google Play di ponsel Android Anda.",
+    "Duduk atau berbaring dengan nyaman, lalu pilih satu teknik untuk memulai.",
+    "Aktifkan panduan suara dan ikuti iramanya selama beberapa menit.",
+    "Setelah satu teknik terasa akrab, atur sesi kustom atau buat latihan Anda sendiri.",
+    "Berlatihlah sedikit setiap hari dan pantau statistik kemajuan Anda."
+   ]
+  },
+  {
+   "h2": "Catatan keselamatan singkat",
+   "p": [
+    "Bernapaslah dengan lembut dan jangan memaksakan napas. Jika Anda merasa pusing, melayang, atau tidak nyaman, hentikan latihan dan kembalilah bernapas seperti biasa. Aplikasi ini adalah alat untuk relaksasi dan latihan pribadi, bukan pengobatan medis. Jika Anda memiliki kondisi kesehatan tertentu, bicarakan dengan dokter sebelum memulai latihan pernapasan."
+   ]
+  },
+  {
+   "h2": "Mengapa penulis membuatnya",
+   "p": [
+    "Latihan napas sudah lebih dari 20 tahun menjadi bagian dari latihan pribadi Nikolay Shcherbakov, bersama meditasi, afirmasi, dan teknik perhatian. Ia membuat aplikasi ini agar orang bisa memakai latihan napas untuk rileks dan memulihkan rasa tenang dalam keseharian, bukan hanya saat akhir pekan yang longgar.",
+    "Prinsipnya sederhana: perubahan tidak selalu memerlukan sistem yang rumit. Kadang beberapa tarikan napas yang sadar sebelum reaksi kebiasaan sudah cukup. Untuk latihan singkat yang membawa perhatian kembali ke saat ini, lihat [Moment Now](app:moment-now). Jika kecemasan tentang masa depan yang membuat Anda tegang, buku [What If Everything Turns Out Well?](book:what-if-everything-turns-out-well) membahasnya secara mendalam."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Latihan pernapasan apa yang membantu menenangkan diri?",
+   "a": "Banyak orang memakai pola terstruktur seperti Box Breathing, 4-7-8, Equal Breathing, atau Coherent Breathing. Breath Prana Moment memuat semuanya dan memungkinkan Anda mengikutinya dengan panduan suara."
+  },
+  {
+   "q": "Bisakah saya membuat latihan pernapasan sendiri?",
+   "a": "Bisa. Selain teknik bawaan, aplikasi ini memungkinkan Anda mengatur sesi kustom dan menambahkan latihan Anda sendiri."
+  },
+  {
+   "q": "Apakah aplikasi ini punya panduan suara?",
+   "a": "Ya, petunjuk suara memandu Anda di setiap sesi, jadi Anda tidak perlu menatap layar."
+  },
+  {
+   "q": "Apa yang harus saya lakukan jika pusing saat latihan pernapasan?",
+   "a": "Hentikan latihan dan kembalilah bernapas dengan normal dan santai. Jika Anda punya masalah kesehatan, konsultasikan dengan dokter sebelum berlatih."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "intuition-trainer",
+  "what-if-everything-turns-out-well",
+  "the-intuition-code"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "free-again",
+  "title": "Break Bad Habits App for Android — FREE AGAIN",
+  "description": "FREE AGAIN helps you build more mindful habits, track your progress and take back control of everyday actions. Download it on Google Play for Android.",
+  "h1": "FREE AGAIN — break free from unwanted habits",
+  "lead": "Feel trapped by habits you would rather drop? FREE AGAIN helps you build awareness, track your progress and regain control over everyday actions.",
+  "sections": [
+    {
+      "h2": "How to break a bad habit",
+      "p": [
+        "Most unwanted habits run on autopilot. We reach for the phone, the snack or the familiar reaction before we even notice the decision. Willpower alone rarely lasts, because the habit happens faster than the thought.",
+        "That is why the first step is awareness. When you start noticing the moment a habit kicks in, you get a small pause — and in that pause you can choose differently. FREE AGAIN is built around this idea: more mindful habits and more control over what you do every day."
+      ]
+    },
+    {
+      "h2": "What FREE AGAIN helps with",
+      "ul": [
+        "Building awareness of the habits you want to change.",
+        "Forming more mindful habits instead of automatic reactions.",
+        "Tracking your progress so you can see how far you have come.",
+        "Taking meaningful steps toward greater personal freedom, one day at a time."
+      ]
+    },
+    {
+      "h2": "Who the app is for",
+      "p": [
+        "FREE AGAIN is for people who feel that some habit is running their day instead of the other way round, and who want a calm, practical way to change that. It suits those who prefer small steady steps over strict rules and sudden all-or-nothing attempts.",
+        "It can help with many kinds of everyday patterns: reaching for the phone without thinking, putting things off, reacting the same way in the same situations. The method is the same for each — notice, pause, choose, and keep going."
+      ]
+    },
+    {
+      "h2": "How to start",
+      "ul": [
+        "Install FREE AGAIN from Google Play.",
+        "Name one habit you want to change — start with just one.",
+        "Notice when and why it happens: the time, the place, the feeling before it.",
+        "Mark your progress in the app every day, including small wins.",
+        "Be patient with setbacks and simply continue the next day."
+      ]
+    },
+    {
+      "h2": "Small steps that add up",
+      "p": [
+        "Change doesn’t always require complex systems. Sometimes it is enough to pause before a habitual reaction or to take one small action. If you also want to build new routines, try the habit tracker [PERENNIAL](app:perennial). If your habit is endless scrolling, [PHONE DETOX](app:phone-detox) helps you cut down phone distractions."
+      ]
+    },
+    {
+      "h2": "Why I created FREE AGAIN",
+      "p": [
+        "I am Nikolay Shcherbakov. For more than 20 years I have practiced meditation, attention techniques and self-observation, and for more than 15 years I have lived without many everyday foods. That experience showed me how habits really change: through noticing, patience and daily small steps rather than instant transformation. FREE AGAIN is my attempt to put that approach into a simple tool."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I break a bad habit?",
+      "a": "Start by noticing when the habit happens, then choose one small alternative action and track your progress. FREE AGAIN helps you build awareness and see your progress over time."
+    },
+    {
+      "q": "How long does it take to change a habit?",
+      "a": "It is different for everyone. What matters most is consistency: small daily steps and returning to your plan after setbacks."
+    },
+    {
+      "q": "What is the difference between FREE AGAIN and a habit tracker?",
+      "a": "FREE AGAIN focuses on breaking free from unwanted habits and regaining control. To build new positive habits, you can use the habit tracker PERENNIAL."
+    },
+    {
+      "q": "Where can I download FREE AGAIN?",
+      "a": "FREE AGAIN is available for Android on Google Play."
+    }
+  ],
+  "related": [
+    "perennial",
+    "phone-detox",
+    "thoughts-in-circles"
+  ]
+}

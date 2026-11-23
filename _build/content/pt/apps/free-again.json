@@ -1,0 +1,77 @@
+{
+ "slug": "free-again",
+ "title": "App para Largar Maus Hábitos no Android — FREE AGAIN",
+ "description": "O FREE AGAIN ajuda você a criar hábitos mais conscientes, acompanhar seu progresso e retomar o controle das ações do dia a dia. Baixe no Google Play.",
+ "h1": "FREE AGAIN — liberte-se dos hábitos indesejados",
+ "lead": "Sente-se preso a hábitos que gostaria de largar? O FREE AGAIN ajuda você a desenvolver consciência, acompanhar seu progresso e retomar o controle das ações do dia a dia.",
+ "sections": [
+  {
+   "h2": "Como largar um mau hábito",
+   "p": [
+    "A maioria dos hábitos indesejados roda no piloto automático. Pegamos o celular, o lanche ou a reação de sempre antes mesmo de perceber a decisão. Só a força de vontade raramente dura, porque o hábito acontece mais rápido que o pensamento.",
+    "Por isso o primeiro passo é a consciência. Quando você começa a notar o instante em que o hábito dispara, ganha uma pequena pausa, e nessa pausa pode escolher diferente. O FREE AGAIN é construído em torno dessa ideia: hábitos mais conscientes e mais controle sobre o que você faz todos os dias."
+   ]
+  },
+  {
+   "h2": "Em que o FREE AGAIN ajuda",
+   "ul": [
+    "Desenvolver consciência dos hábitos que você quer mudar.",
+    "Formar hábitos mais conscientes no lugar de reações automáticas.",
+    "Acompanhar seu progresso para ver o quanto você já avançou.",
+    "Dar passos significativos rumo a mais liberdade pessoal, um dia de cada vez."
+   ]
+  },
+  {
+   "h2": "Para quem é o app",
+   "p": [
+    "O FREE AGAIN é para quem sente que algum hábito comanda o seu dia, e não o contrário, e quer uma forma calma e prática de mudar isso. Serve para quem prefere passos pequenos e constantes a regras rígidas e tentativas repentinas de tudo ou nada.",
+    "Ele pode ajudar com muitos tipos de padrão do cotidiano: pegar o celular sem pensar, procrastinar, reagir sempre do mesmo jeito nas mesmas situações. O método é o mesmo para todos: notar, pausar, escolher e seguir em frente."
+   ]
+  },
+  {
+   "h2": "Como começar",
+   "ul": [
+    "Instale o FREE AGAIN pelo Google Play.",
+    "Escolha um hábito que você quer mudar, começando por apenas um.",
+    "Observe quando e por que ele acontece: o horário, o lugar, o sentimento que vem antes.",
+    "Registre seu progresso no app todos os dias, incluindo as pequenas vitórias.",
+    "Tenha paciência com os tropeços e simplesmente continue no dia seguinte."
+   ]
+  },
+  {
+   "h2": "Pequenos passos que se somam",
+   "p": [
+    "A mudança nem sempre exige sistemas complexos. Às vezes basta fazer uma pausa antes de uma reação habitual ou dar uma pequena ação. Se você também quer criar novas rotinas, experimente o rastreador de hábitos [PERENNIAL](app:perennial). Se o seu hábito é rolar a tela sem parar, o [PHONE DETOX](app:phone-detox) ajuda a reduzir as distrações do celular."
+   ]
+  },
+  {
+   "h2": "Por que criei o FREE AGAIN",
+   "p": [
+    "Eu sou Nikolay Shcherbakov. Há mais de 20 anos pratico meditação, técnicas de atenção e autoobservação, e há mais de 15 anos vivo sem muitos alimentos comuns do dia a dia. Essa experiência me mostrou como os hábitos realmente mudam: pela observação, pela paciência e por pequenos passos diários, e não por uma transformação instantânea. O FREE AGAIN é a minha tentativa de colocar essa abordagem em uma ferramenta simples."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como largar um mau hábito?",
+   "a": "Comece notando quando o hábito acontece, depois escolha uma pequena ação alternativa e acompanhe seu progresso. O FREE AGAIN ajuda você a desenvolver consciência e a ver seu progresso ao longo do tempo."
+  },
+  {
+   "q": "Quanto tempo leva para mudar um hábito?",
+   "a": "É diferente para cada pessoa. O que mais importa é a constância: pequenos passos diários e voltar ao seu plano depois dos tropeços."
+  },
+  {
+   "q": "Qual é a diferença entre o FREE AGAIN e um rastreador de hábitos?",
+   "a": "O FREE AGAIN foca em se libertar de hábitos indesejados e retomar o controle. Para criar novos hábitos positivos, você pode usar o rastreador de hábitos PERENNIAL."
+  },
+  {
+   "q": "Onde posso baixar o FREE AGAIN?",
+   "a": "O FREE AGAIN está disponível para Android no Google Play."
+  }
+ ],
+ "related": [
+  "perennial",
+  "phone-detox",
+  "thoughts-in-circles"
+ ]
+}

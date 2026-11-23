@@ -1,0 +1,85 @@
+{
+ "slug": "parent-lock",
+ "title": "Android İçin Ebeveyn Denetimi Uygulaması — PARENT LOCK",
+ "description": "PARENT LOCK bir Android ebeveyn denetimi uygulamasıdır: çocuğunuz için telefon kuralları belirleyin, izin verilen uygulamaları seçin ve dinlenme zamanı planlayın. Google Play'de.",
+ "h1": "PARENT LOCK — çocuğunuzun Android telefonu için ebeveyn denetimi",
+ "lead": "Çocuğunuzun ekran başında geçirdiği süre için mi endişeleniyorsunuz? PARENT LOCK, telefon kullanımı için net kurallar koymanıza, hangi uygulamalara izin verileceğine karar vermenize ve dinlenmeye yer açmanıza yardımcı olur.",
+ "sections": [
+  {
+   "h2": "Android için bir ebeveyn denetimi uygulaması neler yapmalı?",
+   "p": [
+    "Akıllı telefon çocuğa çok şey sunar: oyunlar, videolar, sohbetler, ödevler ve durmayan bildirimler. Hiçbir kural olmadığında birkaç dakikanın koca bir akşama dönüşmesi çok kolaydır ve bu konudaki bir aile konuşması çabucak tartışmaya dönebilir.",
+    "PARENT LOCK, günlük kavgalar yerine basit ve öngörülebilir kurallar isteyen ebeveynler için yapıldı. Amaç telefonu elinden almak değil, nasıl kullanılacağı konusunda anlaşmak ve bu anlaşmayı sürdürmenizde uygulamanın size yardımcı olmasını sağlamak."
+   ]
+  },
+  {
+   "h2": "PARENT LOCK'ın temel özellikleri",
+   "p": [
+    "Uygulama, ebeveynlerin en sık istediği üç şeye odaklanır:"
+   ],
+   "ul": [
+    "Telefon kullanım kuralları — çocuğunuzun telefonu nasıl kullanacağına dair net sınırlar belirleyin.",
+    "İzin verilen uygulamalar — çocuğunuzun hangi uygulamaları açabileceğini seçin ve diğerlerine erişimi yönetin.",
+    "Dinlenme zamanı — telefonun geri planda kaldığı bir zaman belirleyin; böylece uyku, ödev, yürüyüş ve aile vakti için yer kalsın.",
+    "Daha güvenli dijital alışkanlıklar — tutarlı kurallar, çocuğun ekranla daha sağlıklı bir ritme alışmasına yardımcı olur."
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "PARENT LOCK, kendi Android telefonu olan ya da ortak bir aile cihazı kullanan çocukların ebeveynleri için. Çocukların ekran süresini yumuşak bir şekilde, adım adım sınırlamak isteyen ve karmaşık panolar yerine sakin, net bir kurulumu tercih eden ailelere uygundur.",
+    "Çocuk ilk telefonunu aldığında da işe yarar: kurallar üzerinde en başta anlaşmak, alışkanlıkları sonradan değiştirmekten çok daha kolaydır."
+   ]
+  },
+  {
+   "h2": "PARENT LOCK ile Android'de ebeveyn denetimi nasıl kurulur?",
+   "ul": [
+    "PARENT LOCK'ı Google Play'den çocuğunuzun kullandığı telefona yükleyin.",
+    "Önce çocuğunuzla konuşun: hangi kuralları neden getirdiğinizi açıklayın.",
+    "İzin verilen uygulamaları seçin ve geri kalanlara nasıl davranılacağına karar verin.",
+    "Ailenizin gününe uyan dinlenme zamanını belirleyin; örneğin uykudan önceki akşam saatleri ya da ödev saatleri.",
+    "Kuralları zaman zaman gözden geçirin ve çocuğunuz büyüdükçe ayarlayın."
+   ]
+  },
+  {
+   "h2": "Ekran süresini sınırlamak için birkaç ipucu",
+   "p": [
+    "Kurallar net olduğunda ve her gün aynı olduğunda en iyi işe yarar. Onları önceden açıklayın, sözünüzde durun ve iyi bir örnek olun: Çocuklar yetişkinlerin telefonlarını nasıl kullandığını da fark eder.",
+    "Kendi telefon dikkat dağınıklığınızı azaltmak isterseniz [PHONE DETOX](app:phone-detox)'u deneyin ve daha fazla fikir için [Android'de ebeveyn denetimi](blog:parental-controls-android) rehberimizi okuyun."
+   ]
+  },
+  {
+   "h2": "PARENT LOCK'ı neden geliştirdim?",
+   "p": [
+    "Ben Nikolay Shcherbakov. 20 yılı aşkın süredir meditasyon, dikkat teknikleri ve kendini gözlemleme çalışıyorum ve bir telefonun dikkati gerçek hayattan ne kadar güçlü çekebildiğini gördüm. Uygulamalarım, faydalı fikirleri basit gündelik adımlara dönüştürmek için yapıldı. PARENT LOCK da aynı ilkeden doğdu: küçük ve tutarlı kurallar, çocuğun ekranla daha sağlıklı bir denge kurmasına yardımcı olur."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Android telefonda ebeveyn denetimi nasıl kurulur?",
+   "a": "PARENT LOCK'ı Google Play'den çocuğunuzun telefonuna yükleyin, izin verilen uygulamaları seçin ve dinlenme zamanını belirleyin. Ardından kuralları çocuğunuza açıklayın ve zamanla ayarlayın."
+  },
+  {
+   "q": "Çocuğumun hangi uygulamaları kullanabileceğini seçebilir miyim?",
+   "a": "Evet. PARENT LOCK izin verilen uygulamaları seçmenize ve çocuğunuzun telefonundaki uygulamalara erişimi yönetmenize olanak tanır."
+  },
+  {
+   "q": "Çocuğumun ekran süresini nasıl sınırlayabilirim?",
+   "a": "PARENT LOCK'ta telefonun kullanılmaması gereken saatler için, örneğin uykudan önce ya da ödev sırasında, dinlenme zamanı belirleyin. Tutarlı kurallar, ara sıra konan yasaklardan daha iyi işe yarar."
+  },
+  {
+   "q": "PARENT LOCK hangi cihazlarda çalışır?",
+   "a": "PARENT LOCK, Google Play'de bulunan bir Android uygulamasıdır."
+  },
+  {
+   "q": "Ebeveyn denetimine hangi yaşta başlamalıyım?",
+   "a": "En kolay zaman çocuğun ilk telefonunu aldığı andır; çünkü baştan üzerinde anlaşılan kuralları sürdürmek daha kolaydır. Çocuğunuz büyüdükçe kuralları gevşetebilirsiniz."
+  }
+ ],
+ "related": [
+  "phone-detox",
+  "perennial",
+  "free-again"
+ ]
+}

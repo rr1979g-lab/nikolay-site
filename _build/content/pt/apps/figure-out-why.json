@@ -1,0 +1,77 @@
+{
+ "slug": "figure-out-why",
+ "title": "Descubra a Causa de um Problema — App FIGURE OUT WHY",
+ "description": "O FIGURE OUT WHY ajuda a explorar possíveis causas, organizar os pensamentos e planejar próximos passos quando um problema se repete. Teste no Android.",
+ "h1": "FIGURE OUT WHY — descubra o motivo por trás do problema",
+ "lead": "Sem entender por que a mesma coisa sempre acontece? O FIGURE OUT WHY é uma ferramenta de análise estruturada de uma situação: informações, perguntas e possíveis causas reunidas em um só lugar.",
+ "sections": [
+  {
+   "h2": "Por que o mesmo problema continua se repetindo?",
+   "p": [
+    "Algumas situações se repetem sem parar: o mesmo conflito, o mesmo atraso, o mesmo erro. Quando tentamos entendê-las só de cabeça, os pensamentos giram em círculos, fatos se misturam com suposições e fica difícil saber por onde começar.",
+    "O FIGURE OUT WHY ajuda você a desacelerar e olhar a situação passo a passo. Em vez de uma conclusão apressada, você trabalha com as informações que tem, as perguntas que ainda precisa responder e as causas que podem estar por trás."
+   ]
+  },
+  {
+   "h2": "No que o app ajuda",
+   "ul": [
+    "Estruturar as informações sobre uma situação em vez de guardar tudo na cabeça.",
+    "Explorar possíveis causas e olhar o problema de vários ângulos.",
+    "Organizar os pensamentos para que fatos, suposições e perguntas não se misturem.",
+    "Preparar perguntas para investigar melhor: o que verificar, perguntar ou descobrir a seguir.",
+    "Chegar a próximos passos práticos, em vez de uma análise sem fim."
+   ]
+  },
+  {
+   "h2": "Para quem é",
+   "p": [
+    "O app é para quem quer entender uma situação com mais clareza: um problema recorrente no trabalho, uma dúvida nos estudos ou em um projeto, uma questão doméstica ou um padrão pessoal que você sempre nota. Ele é útil quando você precisa colocar as coisas em ordem com calma antes de decidir o que fazer."
+   ]
+  },
+  {
+   "h2": "Como começar",
+   "ul": [
+    "Instale o FIGURE OUT WHY pelo Google Play.",
+    "Descreva em poucas palavras simples a situação que você quer entender.",
+    "Anote o que você já sabe e o que ainda não está claro.",
+    "Percorra as possíveis causas uma a uma, sem correr para um veredito.",
+    "Registre as perguntas a investigar e escolha um próximo passo prático."
+   ]
+  },
+  {
+   "h2": "Pensamento estruturado e decisões melhores",
+   "p": [
+    "Entender a causa muitas vezes já é metade da solução. Quando você enxerga a situação com clareza, a próxima decisão fica mais fácil. Na hora de escolher, o [HEAD & HEART](app:head-heart) ajuda a comparar argumentos, e o livro [The Right Choice](book:the-right-choice) explora como o medo e a dúvida atrapalham as decisões."
+   ]
+  },
+  {
+   "h2": "Por que fiz este app",
+   "p": [
+    "Eu sou Nikolay Shcherbakov. Há mais de 20 anos pratico autoobservação e técnicas de atenção, e sempre me interessei por entender por que alguns pensamentos nos ajudam a avançar enquanto outros nos prendem na dúvida. Não quero ficar só na teoria: prefiro testar ideias, notar erros e descobrir o que funciona. O FIGURE OUT WHY transforma esse hábito de questionar com cuidado em uma ferramenta simples para usar em qualquer dia."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como descobrir a causa de um problema?",
+   "a": "Separe fatos de suposições, liste as possíveis causas e verifique uma por uma. O FIGURE OUT WHY oferece uma estrutura para fazer exatamente isso."
+  },
+  {
+   "q": "Para que serve o FIGURE OUT WHY?",
+   "a": "É uma ferramenta para a análise estruturada de informações, perguntas e possíveis causas. Ajuda a entender uma situação e a preparar perguntas para investigar melhor."
+  },
+  {
+   "q": "O app é só para problemas de trabalho?",
+   "a": "Não. Você pode usá-lo em qualquer situação que queira entender: trabalho, estudos, projetos, vida cotidiana ou padrões pessoais."
+  },
+  {
+   "q": "Onde posso baixar o FIGURE OUT WHY?",
+   "a": "O app está disponível para Android no Google Play."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "the-right-choice",
+  "thoughts-in-circles"
+ ]
+}

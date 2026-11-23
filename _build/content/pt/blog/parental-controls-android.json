@@ -1,0 +1,118 @@
+{
+ "slug": "parental-controls-android",
+ "date": "2026-11-23",
+ "title": "Controle Parental no Android para Crianças | Parent Lock",
+ "description": "Como configurar o controle parental no Android: regras a combinar, ferramentas do Google, Parent Lock para apps permitidos e descanso, e dicas por idade.",
+ "h1": "Controle parental no Android: como limitar o celular do seu filho",
+ "lead": "O primeiro smartphone é um grande passo para a criança e uma preocupação para os pais. Veja como definir limites sensatos em um celular Android, passo a passo, sem transformar o tempo de tela em uma batalha diária.",
+ "sections": [
+  {
+   "h2": "Comece pelas regras, não pelas configurações",
+   "p": [
+    "Qualquer app de controle parental funciona melhor quando apoia regras que a família já conversou. Se os limites aparecem de repente e sem explicação, as crianças tendem a procurar atalhos. Se entendem por que os limites existem, é muito mais provável que os aceitem.",
+    "Sentem-se juntos e combinem algumas bases antes de mexer nas configurações:"
+   ],
+   "ul": [
+    "Quanto tempo por dia para jogos, vídeos e redes sociais, e se nos fins de semana é diferente.",
+    "Quando o celular fica desligado: durante a lição de casa, nas refeições, uma hora antes de dormir e durante a noite.",
+    "Quais apps são permitidos e como a criança pode pedir um novo.",
+    "Onde o celular dorme à noite. Um carregador no corredor ou na cozinha é uma regra simples e eficaz.",
+    "O que acontece se as regras forem quebradas e como elas vão mudar conforme a criança cresce."
+   ]
+  },
+  {
+   "h2": "Opções nativas: Google Family Link e configurações do Play",
+   "p": [
+    "O Google oferece uma ferramenta gratuita de controle parental chamada Family Link. Você a instala no celular dos pais, vincula a conta Google da criança e passa a gerenciar o aparelho Android dela a partir do seu. Os principais recursos são bem conhecidos: aprovar ou bloquear downloads do Google Play, definir limites diários de tempo de tela e um horário de dormir, e ver a localização do aparelho em um mapa.",
+    "Mesmo sem o Family Link, a Google Play Store tem controles parentais próprios nas configurações, em que você pode restringir o conteúdo por classificação etária e proteger a configuração com um PIN. Muitos celulares Android também têm ferramentas de Bem-estar digital, com temporizadores de apps e modo hora de dormir. São úteis para crianças maiores e para pais que querem dar o exemplo de hábitos saudáveis.",
+    "O Family Link é uma escolha sólida para muitas famílias, mas está atrelado a contas Google e ao jeito do Google de gerenciar dispositivos. Alguns pais preferem um app mais simples e independente no celular da criança, focado em regras diárias e tempo de descanso."
+   ]
+  },
+  {
+   "h2": "Como configurar o controle parental no Android: passo a passo",
+   "p": [
+    "Seja qual for a ferramenta escolhida, a ordem dos passos é mais ou menos a mesma."
+   ],
+   "ul": [
+    "Atualize o celular e crie um bloqueio de tela que só você conheça para as configurações, ou um PIN separado para o controle parental.",
+    "Instale a ferramenta de controle parental e dê a ela as permissões que pedir. Sem elas, os limites não funcionam de forma confiável.",
+    "Escolha os apps permitidos. Comece pelo essencial: ligações, mensagens, mapas, apps da escola, câmera.",
+    "Defina limites diários para o entretenimento e um tempo de descanso claro: horário da lição de casa e a noite antes de dormir.",
+    "Ative as restrições de idade no Google Play e no YouTube e a Pesquisa Segura (SafeSearch) no navegador.",
+    "Teste tudo no celular da criança: tente abrir um app bloqueado e veja o que acontece quando o tempo acaba.",
+    "Mostre ao seu filho como funciona e combinem uma data para revisar as regras juntos, por exemplo uma vez por mês."
+   ]
+  },
+  {
+   "h2": "Parent Lock: apps permitidos e tempo de descanso em um só lugar",
+   "p": [
+    "O [Parent Lock](app:parent-lock) é um app Android de Nikolay Shcherbakov construído em torno dessas mesmas necessidades do dia a dia. Ele ajuda os pais a definir regras para o uso do celular da criança, escolher quais apps são permitidos e definir o tempo de descanso, quando o celular deve ficar de lado para o sono, a lição de casa ou o tempo em família.",
+    "O foco está em limites saudáveis, e não em vigilância. Você decide de quais apps seu filho realmente precisa, protege o tempo em que o celular não deve distrair e incentiva hábitos digitais mais seguros. Pode ser usado sozinho ou junto com as ferramentas nativas do Google: por exemplo, o Family Link para a localização e o Parent Lock para a rotina diária de apps permitidos e descanso."
+   ]
+  },
+  {
+   "h2": "Dicas por idade",
+   "p": [
+    "Os limites devem crescer com a criança. O que protege uma criança de sete anos vai frustrar um adolescente de quinze."
+   ],
+   "ul": [
+    "Menos de 8 anos: sessões curtas e supervisionadas, uma pequena lista de apps aprovados e nenhuma rede social. O celular fica em cômodos compartilhados.",
+    "8 a 12 anos: limites diários claros, tempo de descanso à noite e aprovação para cada app novo. Converse sobre o que eles veem online.",
+    "13 a 15 anos: mais liberdade em troca de responsabilidade. Combinem os limites juntos e revisem-nos com regularidade.",
+    "16 anos ou mais: passe do controle para a orientação. Mantenha a regra da noite e foque nas habilidades de autorregulação."
+   ]
+  },
+  {
+   "h2": "Sobre o que conversar além dos limites",
+   "p": [
+    "Nenhuma configuração consegue fechar a internet por completo, então as crianças também precisam das suas próprias habilidades de segurança. Converse sobre algumas regras simples e volte a elas de vez em quando."
+   ],
+   "ul": [
+    "Não compartilhe seu endereço, escola, senhas ou fotos com pessoas que você não conhece.",
+    "Se alguém online assustar você, pedir que guarde segredos dos seus pais ou sugerir um encontro, conte a um adulto imediatamente.",
+    "Não toque em links de mensagens suspeitas nem digite dados da conta nelas.",
+    "Lembre-se de que tudo o que você publica pode ficar na internet por muito tempo.",
+    "Saiba que você não será punido por nos contar com sinceridade algo ruim que aconteceu. Essa regra é o que realmente protege uma criança."
+   ]
+  },
+  {
+   "h2": "Erros comuns dos pais",
+   "p": [
+    "O erro mais comum é confiar apenas na tecnologia. As crianças são criativas, e um adolescente determinado muitas vezes encontra um jeito de contornar as restrições. As configurações são um apoio, não um substituto da confiança e da conversa.",
+    "Outro erro é impor limites que os próprios adultos ignoram. Se os pais rolam a tela no jantar, uma proibição de celular à mesa não soa convincente. Nosso artigo sobre [como parar de rolar o celular](blog:how-to-stop-scrolling-your-phone) traz passos práticos para a família toda. Por fim, evite usar o tempo de tela como principal recompensa ou castigo: isso faz o celular parecer ainda mais valioso."
+   ]
+  },
+  {
+   "h2": "Converse, revise, ajuste",
+   "p": [
+    "O controle parental no Android não é uma configuração feita uma única vez. Converse com seu filho a cada poucas semanas: o que funciona, o que parece injusto, de quais apps novos ele precisa para a escola ou os hobbies. Quando as crianças veem que as regras podem ser discutidas e mudam conforme demonstram responsabilidade, aprendem a gerenciar o próprio tempo de tela, que é o verdadeiro objetivo."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como colocar controle parental em um celular Android?",
+   "a": "Combine primeiro as regras com seu filho e depois use uma ferramenta como o Google Family Link ou um app separado como o Parent Lock para escolher os apps permitidos e definir limites. Ative também as restrições de idade nas configurações do Google Play."
+  },
+  {
+   "q": "O Google Family Link é gratuito?",
+   "a": "Sim, o Family Link é a ferramenta gratuita do Google. Ele permite aos pais aprovar downloads de apps, definir limites de tempo de tela e ver a localização do aparelho."
+  },
+  {
+   "q": "Quanto tempo de tela é adequado para uma criança?",
+   "a": "Não há um número único para todas as famílias. Foque em proteger o sono, a lição de casa, a atividade física e o tempo juntos, e mantenha o tempo de tela de entretenimento dentro de limites combinados e revistos conforme a criança cresce."
+  },
+  {
+   "q": "Uma criança consegue burlar o controle parental?",
+   "a": "Às vezes, principalmente as mais velhas. Use um PIN que só você conheça, confira as configurações com regularidade e, acima de tudo, continue conversando: é mais difícil querer burlar regras que a criança entende."
+  },
+  {
+   "q": "O que o Parent Lock faz?",
+   "a": "O Parent Lock ajuda os pais a definir regras para o uso do celular da criança, escolher os apps permitidos e definir o tempo de descanso, para que o celular não distraia durante o sono, a lição de casa ou o tempo em família."
+  }
+ ],
+ "related": [
+  "parent-lock",
+  "phone-detox"
+ ]
+}

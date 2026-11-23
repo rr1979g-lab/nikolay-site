@@ -1,0 +1,78 @@
+{
+ "slug": "fridge",
+ "title": "O que Cozinhar com o que Tenho — App FRIDGE de Receitas",
+ "description": "Não sabe o que cozinhar? O FRIDGE ajuda a achar ideias de refeição com os ingredientes da geladeira e a desperdiçar menos. Baixe no Google Play.",
+ "h1": "FRIDGE — receitas com o que já está na sua geladeira",
+ "lead": "Parado diante da geladeira sem saber o que cozinhar? O FRIDGE ajuda você a encontrar ideias de refeição com os ingredientes que você já tem.",
+ "sections": [
+  {
+   "h2": "O que cozinhar com o que você tem",
+   "p": [
+    "Acontece com todo mundo: a geladeira não está vazia, mas nada vem à cabeça. Alguns legumes, uns ovos, meio pacote de queijo, e no fim você pede comida ou volta ao mercado, enquanto as sobras vão para o lixo em silêncio.",
+    "O FRIDGE parte do outro lado. Em vez de procurar uma receita e depois comprar os ingredientes, você começa pelo que já existe e busca pratos que dá para fazer com isso."
+   ]
+  },
+  {
+   "h2": "No que o FRIDGE ajuda",
+   "ul": [
+    "Encontrar receitas com os produtos que já estão na geladeira.",
+    "Ter ideias de refeição quando você não sabe o que cozinhar.",
+    "Aproveitar os ingredientes e jogar menos comida fora.",
+    "Tornar o cozinhar do dia a dia mais fácil e menos estressante."
+   ]
+  },
+  {
+   "h2": "Para quem é",
+   "p": [
+    "O FRIDGE é para quem cozinha em casa e quer menos trabalho: pessoas ocupadas que precisam de uma ideia rápida para o jantar, famílias que querem desperdiçar menos comida, estudantes que estão aprendendo a cozinhar e todo mundo que cansou de perguntar “o que vai ser o jantar?” toda noite.",
+    "Ele é especialmente útil no fim da semana, quando a geladeira tem um pouco de tudo e o bastante de nada. Algumas ideias na hora certa podem transformar essas sobras em uma refeição de verdade."
+   ]
+  },
+  {
+   "h2": "Como começar",
+   "ul": [
+    "Instale o FRIDGE pelo Google Play.",
+    "Olhe dentro da geladeira e anote os ingredientes que você tem.",
+    "Procure ideias de receita com base nesses ingredientes.",
+    "Escolha um prato e cozinhe.",
+    "Comece pelo que precisa ser consumido primeiro, para reduzir o desperdício de comida."
+   ]
+  },
+  {
+   "h2": "Cozinhe mais, desperdice menos",
+   "p": [
+    "Cozinhar com o que se tem não é só prático. Economiza tempo de compras, ajuda a planejar melhor as refeições e deixa você mais atento ao que compra. Se quiser ir além na cozinha e experimentar pão de fermentação natural, conservas ou iogurte caseiro, dê uma olhada no [FERMENT LAB](app:ferment-lab).",
+    "Se você tem alguma condição de saúde ou restrição alimentar, consulte seu médico antes de fazer grandes mudanças na alimentação."
+   ]
+  },
+  {
+   "h2": "Por que fiz o FRIDGE",
+   "p": [
+    "Eu sou Nikolay Shcherbakov. Há mais de 15 anos venho mudando a forma como me alimento e vivendo sem muitos alimentos comuns, então a pergunta “o que posso cozinhar com o que tenho?” aparece o tempo todo na minha cozinha. Compartilhei minha experiência pessoal no livro [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). O FRIDGE é uma ferramenta simples do dia a dia que ajuda a responder a essa pergunta rapidamente."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Existe um app que encontra receitas com os ingredientes que tenho?",
+   "a": "Sim. O FRIDGE ajuda você a encontrar receitas e ideias de refeição com os produtos que já estão na sua geladeira."
+  },
+  {
+   "q": "O que cozinhar quando não sei o que fazer?",
+   "a": "Comece pelo que você já tem. O FRIDGE sugere ideias de pratos com base nos seus ingredientes, então você não precisa ir ao mercado primeiro."
+  },
+  {
+   "q": "Como reduzir o desperdício de comida em casa?",
+   "a": "Cozinhe primeiro os ingredientes que precisam ser consumidos logo e planeje as refeições em torno do que já está na geladeira. O FRIDGE foi pensado para ajudar nisso."
+  },
+  {
+   "q": "Onde posso baixar o FRIDGE?",
+   "a": "O FRIDGE está disponível para Android no Google Play."
+  }
+ ],
+ "related": [
+  "ferment-lab",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

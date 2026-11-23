@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_build/
+
+Sitemap: https://nikolayshcherbakov.com/sitemap.xml
+Host: nikolayshcherbakov.com

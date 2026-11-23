@@ -1,0 +1,73 @@
+{
+  "slug": "phone-detox",
+  "title": "Phone Detox: How to Stop Scrolling Your Phone",
+  "description": "Tired of endless scrolling? Phone Detox helps you cut phone distractions, set aside time for what matters and track the time you free up. Get it on Android.",
+  "h1": "Phone Detox — take back control of your time",
+  "lead": "Phone Detox is a digital balance app for Android by Nikolay Shcherbakov. It helps you reduce phone distractions, break unhealthy screen habits and reclaim time for real life.",
+  "sections": [
+    {
+      "h2": "How to stop scrolling your phone all the time",
+      "p": [
+        "You pick up the phone to check one message, and twenty minutes later you are still scrolling. It happens to almost everyone, and willpower alone rarely fixes it, because the habit runs on autopilot. What works better is making the time you want to protect visible and deliberate.",
+        "Phone Detox is built around that idea. Instead of simply blaming yourself for screen time, you set aside time for what matters and see how much time you have actually won back. You can read more about the habit itself in the article [how to stop scrolling your phone](blog:how-to-stop-scrolling-your-phone)."
+      ]
+    },
+    {
+      "h2": "What the app helps you do",
+      "ul": [
+        "Cut down distractions from your phone",
+        "Set aside focused time for important tasks and real life",
+        "Break unhealthy screen habits step by step",
+        "Track the time you have freed up"
+      ]
+    },
+    {
+      "h2": "Who it is for",
+      "p": [
+        "Phone Detox is for anyone who feels the phone takes more of their attention than they would like: people who reach for it out of habit, find it hard to concentrate on work or study, or want more evenings without endless feeds. It is a practical first step towards digital balance, without throwing your smartphone away."
+      ]
+    },
+    {
+      "h2": "How to start your digital detox",
+      "ul": [
+        "Install Phone Detox from Google Play on your Android phone.",
+        "Decide what you want more time for: work, family, reading, rest.",
+        "Set aside your first block of time for that activity.",
+        "Put the phone aside and notice how often the urge to check it appears.",
+        "Look at the time you have freed up and repeat tomorrow."
+      ]
+    },
+    {
+      "h2": "Small steps work better than strict bans",
+      "p": [
+        "A digital detox doesn't have to mean a dramatic week offline. Regular, modest steps are easier to keep: one protected hour, one evening, one morning without the feed. Seeing the freed-up time adds up is a good reminder of why the effort is worth it."
+      ]
+    },
+    {
+      "h2": "Why the author created it",
+      "p": [
+        "For more than 20 years Nikolay Shcherbakov has worked with attention through meditation and self-observation. He sees how easily attention gets scattered, and the phone is one of the strongest pulls on it. He created this app to reduce the distracting pull of your phone and give your time back to you.",
+        "His core principle is that change doesn't always need complex systems: sometimes it's enough to pause before a habitual reaction. To practise that pause, try [Moment Now](app:moment-now), and to support new routines, use the habit tracker [Perennial](app:perennial)."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I stop scrolling my phone?",
+      "a": "Start by deciding what you want the time for and setting aside a specific block for it. Phone Detox helps you cut distractions, protect that time and track how much you have freed up."
+    },
+    {
+      "q": "Do I have to stop using my phone completely?",
+      "a": "No. The goal is digital balance: fewer distractions and more time for what matters, not giving up your smartphone."
+    },
+    {
+      "q": "Is Phone Detox available on iPhone?",
+      "a": "The app is currently available for Android on Google Play. There is no iPhone version yet."
+    },
+    {
+      "q": "Can I see how much time I have saved?",
+      "a": "Yes. Phone Detox tracks the time you have freed up, so you can watch your progress."
+    }
+  ],
+  "related": ["moment-now", "perennial", "what-if-everything-turns-out-well", "parent-lock"]
+}

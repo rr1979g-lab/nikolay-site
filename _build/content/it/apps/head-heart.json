@@ -1,0 +1,75 @@
+{
+ "slug": "head-heart",
+ "title": "Head & Heart: app per decidere nelle scelte difficili",
+ "description": "Diviso tra due opzioni? Head & Heart ti aiuta a guardare una scelta da più lati, confrontare gli argomenti e trovare il passo successivo. Su Android.",
+ "h1": "Head & Heart — prendi decisioni con sicurezza",
+ "lead": "Head & Heart è un'app per Android di Nikolay Shcherbakov che aiuta a decidere. Quando una scelta è difficile, ti aiuta a vedere la situazione da più lati e a capire cosa ti dicono la mente e il cuore.",
+ "sections": [
+  {
+   "h2": "Come prendere una decisione quando non riesci a scegliere",
+   "p": [
+    "Alcune decisioni restano in sospeso per settimane. Gli argomenti logici spingono in una direzione, le emozioni nell'altra, e ogni volta che ci pensi finisci nello stesso punto. L'indecisione stanca, e spesso nasconde un fatto semplice: non hai ancora guardato la scelta con chiarezza da tutti i lati.",
+    "Head & Heart dà a questo processo una struttura. Invece di girare in tondo, rispondi ad alcune domande, metti gli argomenti uno accanto all'altro e ti avvicini a un passo successivo concreto."
+   ]
+  },
+  {
+   "h2": "Cosa ti aiuta a fare l'app",
+   "ul": [
+    "Guardare una situazione difficile da angolazioni diverse",
+    "Rispondere ad alcune domande guida sulla tua scelta",
+    "Confrontare gli argomenti a favore di ogni opzione",
+    "Capire cosa ti dicono la mente e il cuore",
+    "Scoprire cosa ti frena",
+    "Trovare il passo successivo invece di restare bloccato"
+   ]
+  },
+  {
+   "h2": "A chi è rivolta",
+   "p": [
+    "L'app è per chiunque sia diviso tra due opzioni: un'offerta di lavoro, un trasloco, una conversazione che continui a rimandare o una scelta quotidiana più piccola che non ti dà pace. È particolarmente utile se tendi a pensare troppo, o se noti che a impedirti di decidere sono la paura e il dubbio, più che le opzioni in sé."
+   ]
+  },
+  {
+   "h2": "Come iniziare",
+   "ul": [
+    "Installa Head & Heart da Google Play sul tuo telefono Android.",
+    "Pensa a una decisione che ti occupa la mente ultimamente.",
+    "Rispondi alle domande con onestà, senza cercare la risposta giusta.",
+    "Confronta gli argomenti e nota dove testa e cuore concordano o divergono.",
+    "Scegli un passo successivo che puoi fare, anche piccolo."
+   ]
+  },
+  {
+   "h2": "Perché l'autore l'ha creata",
+   "p": [
+    "Nikolay Shcherbakov ha scritto delle decisioni nel libro [The Right Choice](book:the-right-choice), che esamina come decidere quando la mente e i sentimenti danno risposte diverse, come capire cosa vuoi davvero e superare l'indecisione. Nel suo racconto lo descrive come un libro sui momenti in cui paura e dubbio ostacolano la decisione.",
+    "Dopo anni di pratica e di scrittura ha capito che leggere da solo non basta: nel momento di una scelta reale serve qualcosa di pratico a portata di mano. Head & Heart è nata perché le persone possano decidere in modo più consapevole, proprio quando serve.",
+    "Se vuoi lavorare anche sulla fiducia nelle tue prime impressioni, prova [Intuition Trainer](app:intuition-trainer)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Cosa devo fare quando non riesco a decidere?",
+   "a": "Aiuta guardare la scelta da più lati, scrivere gli argomenti a favore di ogni opzione e notare cosa ti frena davvero. Head & Heart ti accompagna in questi passaggi con poche domande semplici."
+  },
+  {
+   "q": "E se la testa e il cuore dicono cose diverse?",
+   "a": "È proprio la situazione per cui l'app è stata pensata. Ti aiuta ad ascoltare entrambe le voci, a confrontarle e a trovare un passo successivo con cui puoi stare in pace."
+  },
+  {
+   "q": "L'app decide al posto mio?",
+   "a": "No. Head & Heart ti aiuta a riflettere sulla situazione e a trovare il passo successivo, ma la scelta resta tua."
+  },
+  {
+   "q": "Esiste un libro sullo stesso tema?",
+   "a": "Sì. The Right Choice di Nikolay Shcherbakov esplora il decidere quando ragione e sentimenti non sono d'accordo."
+  }
+ ],
+ "related": [
+  "the-right-choice",
+  "intuition-trainer",
+  "perennial",
+  "the-intuition-code"
+ ]
+}

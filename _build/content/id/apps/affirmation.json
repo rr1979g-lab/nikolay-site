@@ -1,0 +1,74 @@
+{
+ "slug": "affirmation",
+ "title": "Aplikasi Afirmasi Harian untuk Percaya Diri: Affirmation",
+ "description": "Ingin mengganti dialog batin yang negatif? Affirmation menyediakan kalimat positif dan latihan bertema untuk percaya diri dan motivasi. Unduh di Android.",
+ "h1": "Affirmation — afirmasi harian untuk rasa percaya diri",
+ "lead": "Affirmation adalah aplikasi Android dari Nikolay Shcherbakov dengan kalimat positif dan latihan bertema. Aplikasi ini membantu Anda membangun rasa percaya diri, tetap termotivasi, dan menjalani tujuan dengan lebih sadar.",
+ "sections": [
+  {
+   "h2": "Cara memakai afirmasi setiap hari",
+   "p": [
+    "Suara dalam kepala tidak selalu berpihak pada kita. Aku tidak bisa, aku tidak cukup baik, ini pasti gagal: kalimat-kalimat ini diulang begitu sering sampai terasa seperti fakta. Afirmasi menawarkan penyeimbang yang sederhana. Dengan rutin memberi perhatian pada pernyataan yang menyemangati, Anda perlahan mengubah pikiran yang Anda latih.",
+    "Kata kuncinya adalah rutin. Satu afirmasi yang dibaca sekali saja tidak banyak mengubah apa pun. Latihan singkat setiap hari, yang terus diulang, itulah yang membentuk kebiasaan berpikir. Aplikasi Affirmation dibuat agar kembali berlatih setiap hari terasa mudah."
+   ]
+  },
+  {
+   "h2": "Apa saja yang ada di aplikasi",
+   "ul": [
+    "Kalimat positif untuk menggantikan dialog batin yang negatif",
+    "Latihan bertema untuk berbagai bidang kehidupan",
+    "Afirmasi untuk rasa percaya diri",
+    "Afirmasi untuk motivasi",
+    "Dukungan untuk pendekatan yang sadar dan fokus pada tujuan Anda"
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "Aplikasi ini cocok untuk siapa saja yang ingin memperkuat pola pikirnya: orang yang cenderung mengkritik diri sendiri, yang sedang mengejar suatu tujuan dan butuh pengingat harian mengapa ia melakukannya, atau yang sekadar ingin menghadirkan lebih banyak hal positif dalam harinya. Tidak perlu pengalaman dengan afirmasi."
+   ]
+  },
+  {
+   "h2": "Cara memulai latihan afirmasi",
+   "ul": [
+    "Pasang Affirmation dari Google Play di ponsel Android Anda.",
+    "Pilih tema yang penting bagi Anda saat ini, misalnya percaya diri atau motivasi.",
+    "Baca kalimat-kalimatnya perlahan dan rasakan kesannya.",
+    "Kembali berlatih pada waktu yang sama setiap hari, misalnya di pagi hari.",
+    "Ingat tujuan Anda dan perhatikan bagaimana dialog batin Anda berubah."
+   ]
+  },
+  {
+   "h2": "Mengapa penulis membuatnya",
+   "p": [
+    "Afirmasi sudah bertahun-tahun menjadi bagian dari latihan Nikolay Shcherbakov, bersama meditasi, latihan napas, dan teknik perhatian. Ia menceritakan pengalaman itu dalam bukunya [Destiny to Order](book:destiny-to-order), yang membahas kekuatan niat harian, perhatian pada tujuan, dan pembentukan kebiasaan berpikir secara sadar, serta memuat program afirmasi 30 hari.",
+    "Ia melihat bahwa semangat dari sebuah buku memudar setelah beberapa hari kalau latihannya tidak menjadi bagian dari keseharian. Aplikasi ini caranya menjaga afirmasi tetap dekat, sehingga beberapa menit latihan bisa muat di hari apa pun.",
+    "Untuk menjaga rutinitas baru Anda, coba pelacak kebiasaan [Perennial](app:perennial), dan untuk memulai hari dengan pikiran tenang, tambahkan latihan singkat dari [Moment Now](app:moment-now)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Apakah afirmasi benar-benar berhasil?",
+   "a": "Afirmasi adalah cara untuk mengarahkan perhatian secara rutin pada pikiran yang menyemangati. Menurut pengalaman penulis, latihan harian dalam jangka waktu panjanglah yang membuat perbedaan, karena itu aplikasi ini dibangun di sekitar rutinitas harian."
+  },
+  {
+   "q": "Kapan waktu terbaik untuk mengucapkan afirmasi?",
+   "a": "Banyak orang memilih pagi hari untuk menentukan suasana hari itu, tetapi waktu apa pun yang bisa Anda lakukan secara rutin sama baiknya."
+  },
+  {
+   "q": "Apakah ada afirmasi untuk percaya diri di aplikasi ini?",
+   "a": "Ada. Aplikasi ini memuat kalimat positif dan latihan bertema untuk percaya diri, motivasi, dan pendekatan yang sadar terhadap tujuan Anda."
+  },
+  {
+   "q": "Apakah ada buku tentang metode afirmasi ini?",
+   "a": "Ada. Destiny to Order karya Nikolay Shcherbakov menjelaskan metode afirmasinya dan menyertakan program 30 hari."
+  }
+ ],
+ "related": [
+  "destiny-to-order",
+  "moment-now",
+  "perennial",
+  "thoughts-in-circles"
+ ]
+}

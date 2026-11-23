@@ -1,0 +1,87 @@
+{
+ "slug": "ferment-lab",
+ "title": "Aplikasi Fermentasi Rumahan: Sourdough & Acar — FERMENT LAB",
+ "description": "FERMENT LAB memandu fermentasi di rumah langkah demi langkah: roti sourdough, acar, kvass, yogurt, kombucha, dan lainnya. Unduh di Google Play.",
+ "h1": "FERMENT LAB — fermentasi di rumah langkah demi langkah",
+ "lead": "Ingin fermentasi di rumah tapi bingung mulai dari mana? FERMENT LAB membantu Anda membuat roti sourdough, acar, kvass, dan yogurt langkah demi langkah serta merapikan resep Anda.",
+ "sections": [
+  {
+   "h2": "Mengapa fermentasi rumahan terasa sulit di awal",
+   "p": [
+    "Dari luar, fermentasi tampak sederhana: tepung dan air, kubis dan garam, susu dan starter. Kenyataannya pemula sering tersesat — lupa satu langkah, keliru waktu, atau kehilangan resep yang berhasil terakhir kali.",
+    "FERMENT LAB membawa keteraturan ke dalam prosesnya. Resep Anda tersimpan di satu tempat, Anda mengikuti prosesnya langkah demi langkah, dan bisa kembali melihat apa yang dulu Anda lakukan."
+   ]
+  },
+  {
+   "h2": "Apa yang bisa Anda buat dengan FERMENT LAB",
+   "ul": [
+    "Roti sourdough.",
+    "Acar dan sayuran fermentasi lainnya.",
+    "Kvass.",
+    "Yogurt buatan sendiri.",
+    "Kombucha dan lainnya."
+   ]
+  },
+  {
+   "h2": "Bagaimana aplikasi ini membantu",
+   "ul": [
+    "Panduan langkah demi langkah melalui proses fermentasi.",
+    "Tempat untuk merapikan resep Anda.",
+    "Struktur yang jelas agar Anda bisa mengikuti prosesnya dengan percaya diri.",
+    "Ruang untuk menjelajahi fermentasi baru setelah dasar-dasarnya terasa mudah."
+   ]
+  },
+  {
+   "h2": "Cocok untuk siapa",
+   "p": [
+    "Aplikasi ini untuk pemula yang ingin mencoba fermentasi di rumah untuk pertama kali, dan untuk Anda yang sudah membuat sourdough atau acar dan ingin resep serta langkah-langkahnya tertata di satu tempat.",
+    "Aplikasi ini juga cocok bagi siapa saja yang menikmati memasak secara perlahan dengan tangan sendiri. Fermentasi mengajarkan kesabaran: Anda menyiapkan, menunggu, mengamati, dan belajar dari setiap adonan. Dengan semua langkah tercatat, belajar jadi jauh lebih mudah, karena Anda bisa melihat apa yang sudah dilakukan dan mengulang yang berhasil."
+   ]
+  },
+  {
+   "h2": "Cara memulai",
+   "ul": [
+    "Pasang FERMENT LAB dari Google Play.",
+    "Pilih satu proyek sederhana untuk memulai — misalnya yogurt atau acar.",
+    "Ikuti langkah-langkahnya secara berurutan dan jangan ada yang dilewati.",
+    "Simpan resep yang berhasil agar bisa Anda ulangi.",
+    "Lanjut ke sourdough, kvass, atau kombucha saat Anda merasa siap."
+   ]
+  },
+  {
+   "h2": "Catatan tentang keamanan di dapur",
+   "p": [
+    "Gunakan toples dan alat yang bersih serta ikuti setiap langkah dengan teliti. Jika hasil fermentasi terlihat, berbau, atau terasa aneh, jangan dimakan. Jika Anda memiliki kondisi kesehatan atau pantangan makanan, tanyakan dulu kepada dokter sebelum menambahkan makanan baru ke menu Anda."
+   ]
+  },
+  {
+   "h2": "Mengapa saya membuat FERMENT LAB",
+   "p": [
+    "Saya Nikolay Shcherbakov. Selama lebih dari 15 tahun saya mengubah cara makan saya, dan perjalanan itu membuat saya sangat memperhatikan apa yang saya masak di rumah. Saya menulis pengalaman pribadi ini dalam buku [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FERMENT LAB adalah pembantu dapur yang praktis; untuk ide masakan sehari-hari dari bahan yang sudah ada, coba [FRIDGE](app:fridge)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Bagaimana cara memulai fermentasi di rumah?",
+   "a": "Mulailah dengan satu proyek sederhana, seperti yogurt atau acar, dan ikuti langkah-langkahnya dengan teliti. FERMENT LAB memandu Anda langkah demi langkah."
+  },
+  {
+   "q": "Bisakah saya membuat roti sourdough dengan FERMENT LAB?",
+   "a": "Bisa. Roti sourdough adalah salah satu yang dibantu aplikasi ini langkah demi langkah, bersama acar, kvass, dan yogurt."
+  },
+  {
+   "q": "Bisakah saya menyimpan resep sendiri?",
+   "a": "FERMENT LAB membantu Anda merapikan resep sehingga Anda bisa kembali ke resep yang berhasil."
+  },
+  {
+   "q": "Di mana saya bisa mengunduh FERMENT LAB?",
+   "a": "FERMENT LAB tersedia untuk Android di Google Play."
+  }
+ ],
+ "related": [
+  "fridge",
+  "minus-25-kg",
+  "perennial"
+ ]
+}

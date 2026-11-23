@@ -1,0 +1,78 @@
+{
+ "slug": "phone-detox",
+ "title": "Phone Detox: Telefonda Sürekli Kaydırmayı Bırakma",
+ "description": "Bitmeyen kaydırmadan yoruldunuz mu? Phone Detox telefondaki dikkat dağıtıcıları azaltmanıza, önemli işlere zaman ayırmanıza ve kazandığınız zamanı takip etmenize yardım eder.",
+ "h1": "Phone Detox — zamanınızın kontrolünü geri alın",
+ "lead": "Phone Detox, Nikolay Shcherbakov'un Android için dijital denge uygulamasıdır. Telefondaki dikkat dağıtıcıları azaltmanıza, sağlıksız ekran alışkanlıklarını bırakmanıza ve gerçek hayat için zaman kazanmanıza yardımcı olur.",
+ "sections": [
+  {
+   "h2": "Telefonda sürekli kaydırmayı nasıl bırakırsınız?",
+   "p": [
+    "Tek bir mesaja bakmak için telefonu eline alırsınız ve yirmi dakika sonra hâlâ kaydırıyorsunuzdur. Neredeyse herkesin başına gelir ve irade tek başına nadiren çözer, çünkü alışkanlık otomatik pilotta çalışır. Daha iyi işleyen şey, korumak istediğiniz zamanı görünür ve bilinçli kılmaktır.",
+    "Phone Detox bu fikir üzerine kurulu. Ekran süresi için kendinizi suçlamak yerine, önemli olan şeylere zaman ayırır ve gerçekte ne kadar zaman kazandığınızı görürsünüz. Alışkanlığın kendisi hakkında daha fazlasını [telefonda kaydırmayı nasıl bırakırsınız](blog:how-to-stop-scrolling-your-phone) makalesinde okuyabilirsiniz."
+   ]
+  },
+  {
+   "h2": "Uygulama neler yapmanıza yardımcı olur?",
+   "ul": [
+    "Telefondan gelen dikkat dağıtıcıları azaltmak",
+    "Önemli işler ve gerçek hayat için odaklı zaman ayırmak",
+    "Sağlıksız ekran alışkanlıklarını adım adım bırakmak",
+    "Kazandığınız zamanı takip etmek"
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "Phone Detox, telefonun dikkatinin istediğinden fazlasını aldığını hisseden herkes için: alışkanlıkla ona uzananlar, işe ya da derse odaklanmakta zorlananlar veya bitmeyen akışlardan uzak daha fazla akşam isteyenler. Akıllı telefonunuzu atmadan dijital dengeye doğru pratik bir ilk adımdır."
+   ]
+  },
+  {
+   "h2": "Dijital detoksa nasıl başlanır?",
+   "ul": [
+    "Phone Detox'u Google Play'den Android telefonunuza yükleyin.",
+    "Daha fazla zaman ayırmak istediğiniz şeye karar verin: iş, aile, okuma, dinlenme.",
+    "Bu etkinlik için ilk zaman bloğunuzu ayırın.",
+    "Telefonu kenara koyun ve ona bakma isteğinin ne sıklıkla ortaya çıktığını fark edin.",
+    "Kazandığınız zamana bakın ve yarın tekrarlayın."
+   ]
+  },
+  {
+   "h2": "Küçük adımlar, katı yasaklardan daha iyi işler",
+   "p": [
+    "Dijital detoks, bir hafta boyunca çevrimdışı kalmak gibi köklü bir şey olmak zorunda değil. Düzenli ve ölçülü adımları sürdürmek daha kolaydır: korunan bir saat, bir akşam, akıştan uzak bir sabah. Kazandığınız zamanın birikerek arttığını görmek, bu çabanın neden değdiğini hatırlatan iyi bir göstergedir."
+   ]
+  },
+  {
+   "h2": "Yazar bu uygulamayı neden geliştirdi?",
+   "p": [
+    "Nikolay Shcherbakov 20 yılı aşkın süredir meditasyon ve kendini gözlemleme yoluyla dikkatle çalışıyor. Dikkatin ne kadar kolay dağıldığını görüyor ve telefon, onun üzerindeki en güçlü çekimlerden biri. Bu uygulamayı, telefonun dikkat dağıtıcı çekimini azaltmak ve zamanınızı size geri vermek için yarattı.",
+    "Temel ilkesi şu: Değişim her zaman karmaşık sistemler gerektirmez; bazen alışkanlık hâline gelmiş bir tepkiden önce duraklamak yeter. Bu duraklamayı pratik etmek için [Moment Now](app:moment-now)'ı, yeni rutinleri desteklemek için ise [Perennial](app:perennial) alışkanlık takipçisini kullanın."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Telefonda kaydırmayı nasıl bırakırım?",
+   "a": "O zamanı ne için istediğinize karar vererek ve bunun için belirli bir blok ayırarak başlayın. Phone Detox dikkat dağıtıcıları azaltmanıza, o zamanı korumanıza ve ne kadar zaman kazandığınızı takip etmenize yardımcı olur."
+  },
+  {
+   "q": "Telefonumu tamamen bırakmam gerekiyor mu?",
+   "a": "Hayır. Amaç dijital denge: daha az dikkat dağıtıcı ve önemli şeylere daha fazla zaman; akıllı telefonunuzdan vazgeçmek değil."
+  },
+  {
+   "q": "Phone Detox iPhone'da var mı?",
+   "a": "Uygulama şu anda Android için Google Play'de mevcut. Henüz iPhone sürümü yok."
+  },
+  {
+   "q": "Ne kadar zaman kazandığımı görebilir miyim?",
+   "a": "Evet. Phone Detox kazandığınız zamanı takip eder; böylece ilerlemenizi izleyebilirsiniz."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "perennial",
+  "what-if-everything-turns-out-well",
+  "parent-lock"
+ ]
+}

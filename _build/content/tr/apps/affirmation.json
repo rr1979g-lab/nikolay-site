@@ -1,0 +1,74 @@
+{
+ "slug": "affirmation",
+ "title": "Özgüven İçin Günlük Olumlama Uygulaması: Affirmation",
+ "description": "Olumsuz iç sesi değiştirmek mi istiyorsunuz? Affirmation, özgüven ve motivasyon için olumlu cümleler ve temalı pratikler sunar. Android'de indirin.",
+ "h1": "Affirmation — özgüven için günlük olumlamalar",
+ "lead": "Affirmation, Nikolay Shcherbakov'un olumlu cümleler ve temalı pratikler içeren Android uygulamasıdır. Özgüven kazanmanıza, motive kalmanıza ve hedeflerinize daha bilinçli yaklaşmanıza yardımcı olur.",
+ "sections": [
+  {
+   "h2": "Olumlamalar her gün nasıl kullanılır?",
+   "p": [
+    "Zihnimizdeki ses her zaman bizden yana olmaz. Yapamam, yeterince iyi değilim, olmayacak: Bu cümleler o kadar sık tekrarlanır ki zamanla birer gerçek gibi gelmeye başlar. Olumlamalar basit bir denge unsuru sunar. Cesaret verici cümlelere düzenli olarak dikkat verdikçe, zihninizde alıştığınız düşünceleri de yavaş yavaş değiştirirsiniz.",
+    "Buradaki anahtar kelime düzenlilik. Bir kez okunan tek bir olumlama pek bir şey değiştirmez. Düşünce alışkanlıklarınızı şekillendiren şey, tekrar tekrar dönülen kısa bir günlük pratiktir. Affirmation uygulaması, bu günlük dönüşü kolaylaştırmak için tasarlandı."
+   ]
+  },
+  {
+   "h2": "Uygulamada neler var?",
+   "ul": [
+    "Olumsuz iç sesin yerini alacak olumlu cümleler",
+    "Hayatınızın farklı alanları için temalı pratikler",
+    "Özgüven için olumlamalar",
+    "Motivasyon için olumlamalar",
+    "Hedeflerinize farkındalıklı ve odaklı yaklaşmanız için destek"
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "Uygulama, zihin yapısını güçlendirmek isteyen herkese uygundur: kendini sık eleştirenlere, bir hedefe doğru ilerleyip neden başladığını her gün hatırlamak isteyenlere ya da gününe biraz daha olumluluk katmak isteyenlere. Olumlama konusunda önceden deneyim sahibi olmanız gerekmez."
+   ]
+  },
+  {
+   "h2": "Olumlama pratiğine nasıl başlanır?",
+   "ul": [
+    "Affirmation uygulamasını Google Play'den Android telefonunuza yükleyin.",
+    "Şu an sizin için önemli olan bir tema seçin; örneğin özgüven ya da motivasyon.",
+    "Cümleleri yavaş yavaş okuyun ve size nasıl hissettirdiklerine dikkat edin.",
+    "Pratiğinize her gün aynı saatte, örneğin sabahları geri dönün.",
+    "Hedeflerinizi aklınızda tutun ve iç diyaloğunuzun nasıl değiştiğini gözlemleyin."
+   ]
+  },
+  {
+   "h2": "Yazar bu uygulamayı neden geliştirdi?",
+   "p": [
+    "Olumlamalar, Nikolay Shcherbakov'un uzun yıllardır meditasyon, nefes çalışmaları ve dikkat teknikleriyle birlikte sürdürdüğü pratiğin bir parçası. Bu deneyimi, günlük niyetlerin gücünü, hedeflere dikkat vermeyi ve düşünce alışkanlıklarını bilinçli biçimde şekillendirmeyi ele alan ve 30 günlük bir olumlama programı da içeren [Destiny to Order](book:destiny-to-order) kitabında anlatıyor.",
+    "Bir kitaptan alınan ilhamın, pratik gündelik hayatın parçası olmazsa birkaç gün içinde sönüp gittiğini fark etti. Uygulama, olumlamaları hep elinizin altında tutmanın yolu; böylece birkaç dakikalık pratik her güne sığabilir.",
+    "Yeni rutininizi sürdürmek için [Perennial](app:perennial) alışkanlık takipçisini deneyin; güne sakin bir zihinle başlamak için de [Moment Now](app:moment-now)'dan kısa bir pratik ekleyin."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Olumlamalar gerçekten işe yarar mı?",
+   "a": "Olumlamalar, dikkatinizi düzenli olarak cesaret verici düşüncelere yöneltmenin bir yoludur. Yazarın deneyimine göre fark yaratan şey zaman içinde sürdürülen günlük pratiktir; uygulama da bu yüzden günlük bir rutin etrafında kurgulandı."
+  },
+  {
+   "q": "Olumlama yapmak için en iyi zaman ne zaman?",
+   "a": "Birçok kişi güne ton vermek için sabahı tercih eder; ancak düzenli olarak dönebildiğiniz her zaman uygundur."
+  },
+  {
+   "q": "Uygulamada özgüven için olumlamalar var mı?",
+   "a": "Evet. Uygulamada özgüven, motivasyon ve hedeflere farkındalıklı yaklaşım için olumlu cümleler ve temalı pratikler bulunur."
+  },
+  {
+   "q": "Olumlama yöntemi hakkında bir kitap var mı?",
+   "a": "Evet. Nikolay Shcherbakov'un Destiny to Order kitabı olumlama yöntemini anlatır ve 30 günlük bir program içerir."
+  }
+ ],
+ "related": [
+  "destiny-to-order",
+  "moment-now",
+  "perennial",
+  "thoughts-in-circles"
+ ]
+}

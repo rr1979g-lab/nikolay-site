@@ -1,0 +1,75 @@
+{
+ "slug": "the-intuition-code",
+ "title": "Sezgi Nasıl Geliştirilir — The Intuition Code (Kitap)",
+ "description": "Nikolay Shcherbakov'dan The Intuition Code: iç sinyalleri fark edin, ilk hissi ardından gelen şüphelerden ayırın ve öz güveninizi geliştirin. Litres'te Rusça.",
+ "h1": "The Intuition Code (Sezgi Kodu) — iç sinyallerinizi nasıl duyar ve kendinize nasıl güvenirsiniz",
+ "lead": "Gözlem, egzersizler ve kişisel deneyim yoluyla sezgiyi pratikte geliştirmeye dair bir kitap: iç sinyalleri nasıl fark edeceğiniz, ilk hissi ardından gelen şüphelerden nasıl ayıracağınız ve öz güveni nasıl geliştireceğiniz.",
+ "sections": [
+  {
+   "h2": "The Intuition Code ne anlatıyor?",
+   "p": [
+    "Hiç bir içgüdüyü yok sayıp sonra pişman oldunuz mu? Sezgi çoğu zaman ilk konuşan olur, ama sesi çabucak mantık yürütmeler, korkular ve bitmeyen “ya şöyle olursa”lar tarafından bastırılır. Zamanla kendimize güvenmeyi bırakırız ve bize ait gibi hissettirmeyen seçimler yaparız.",
+    "The Intuition Code sezgiyi gizemli bir yetenek olarak değil, geliştirilebilecek bir beceri olarak ele alıyor. Yazar kendi deneyimine dayanarak onunla gözlem ve egzersizler yoluyla çalışmayı öneriyor: ilk sinyali fark etmeyi, onu anlamayı ve hissinizi kontrol etmeyi öğrenmek."
+   ]
+  },
+  {
+   "h2": "Sezgi nasıl geliştirilir: neler öğreneceksiniz?",
+   "ul": [
+    "Şüphe onları bastırmadan önce ilk iç sinyallerinizi nasıl fark edeceğinizi.",
+    "İlk hissi, ardından gelen düşünce ve kaygılardan nasıl ayıracağınızı.",
+    "Kendini gözlemleme ve düzenli egzersizlerle sezgiyi nasıl geliştireceğinizi.",
+    "Hissinizi kendi deneyiminizle nasıl sınayacağınızı.",
+    "Öz güveni adım adım nasıl inşa edip kararları daha emin vereceğinizi."
+   ]
+  },
+  {
+   "h2": "Egzersizler ve pratik",
+   "p": [
+    "Kitabın odağı pratik. Sezgiyi yalnızca onun hakkında okuyarak geliştiremezsiniz: gözlemlemeniz, denemeniz ve sonuçları fark etmeniz gerekir. Bu yüzden kitap, kendinizi daha iyi duymayı yavaş yavaş öğrenmeniz için sıradan bir güne sığdırabileceğiniz egzersizler içeriyor.",
+    "Günlük antrenman için yazar ayrıca [Intuition Trainer uygulamasını](app:intuition-trainer) geliştirdi: ilk sinyali fark etmenize, hissinizi kontrol etmenize ve ilerlemenizi takip etmenize yardımcı olan kısa interaktif egzersizler."
+   ]
+  },
+  {
+   "h2": "Bu kitap kimler için?",
+   "p": [
+    "İç sesini duyamayan ya da ona güvenmeye cesaret edemeyen, kararlarını sorgulayıp sonra ilk izlenimini dinlemiş olmayı dileyenler için. Kendini ve tepkilerini daha iyi anlamak isteyen herkesin de ilgisini çekecektir."
+   ]
+  },
+  {
+   "h2": "Yazar hakkında",
+   "p": [
+    "Nikolay Shcherbakov düşünme, sezgi, farkındalık ve kişisel değişim üzerine kitaplar yazıyor. 20 yılı aşkın süredir meditasyon, nefes çalışması, olumlamalar, dikkat teknikleri ve kendini gözlemleme üzerine çalışıyor ve pratik yapıyor. Onu hep çeken bir soru var: Sezgimizi daha net duymayı öğrenebilir miyiz? Kendi sözleriyle The Intuition Code, ilk iç sinyali fark etmeyi öğrenmenize yardımcı olur."
+   ]
+  },
+  {
+   "h2": "Nereden satın alınır?",
+   "p": [
+    "The Intuition Code şu anda Litres'te Rusça olarak, «Код интуиции» adıyla mevcut. Henüz İngilizce baskısı yok. İngilizce okuyorsanız, Amazon'da mevcut olan yazarın [Thoughts in Circles](book:thoughts-in-circles) kitabıyla başlayabilirsiniz."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Sezgimi geliştirmeye nasıl başlarım?",
+   "a": "Kitap gözlemle başlamayı önerir: ilk iç sinyali fark edin ve onu ardından gelen şüphelerden ayırmayı öğrenin. Sonra beceriyi egzersizlerle pekiştirin."
+  },
+  {
+   "q": "Kitapta sezgi egzersizleri var mı?",
+   "a": "Evet. Sezgi pratikte geliştirilir: gözlem, egzersizler ve kişisel deneyim yoluyla."
+  },
+  {
+   "q": "Sezgiyi korkudan nasıl ayırt edebilirim?",
+   "a": "Kitaptaki temel becerilerden biri ilk hissi ardından gelen şüphelerden ayırmaktır. Yazarın The Right Choice kitabı, karar verirken korkuyu sezgiden ayırmayı daha derinlemesine ele alır."
+  },
+  {
+   "q": "The Intuition Code İngilizce olarak mevcut mu?",
+   "a": "Henüz değil. Kitap şu anda Litres'te Rusça olarak mevcut."
+  }
+ ],
+ "related": [
+  "intuition-trainer",
+  "breath-prana-moment",
+  "the-right-choice",
+  "open-up-to-your-dreams"
+ ]
+}

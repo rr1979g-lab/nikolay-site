@@ -1,0 +1,77 @@
+{
+ "slug": "free-again",
+ "title": "Kötü Alışkanlıkları Bırakma Uygulaması — FREE AGAIN",
+ "description": "FREE AGAIN daha farkındalıklı alışkanlıklar edinmenize, ilerlemenizi takip etmenize ve gündelik davranışlarınızın kontrolünü geri almanıza yardım eder. Android için Google Play'de.",
+ "h1": "FREE AGAIN — istemediğiniz alışkanlıklardan kurtulun",
+ "lead": "Bırakmak istediğiniz alışkanlıkların tuzağında mı hissediyorsunuz? FREE AGAIN farkındalık kazanmanıza, ilerlemenizi takip etmenize ve gündelik davranışlarınızın kontrolünü yeniden elinize almanıza yardımcı olur.",
+ "sections": [
+  {
+   "h2": "Kötü bir alışkanlık nasıl bırakılır?",
+   "p": [
+    "İstenmeyen alışkanlıkların çoğu otomatik pilotta çalışır. Telefona, atıştırmalığa ya da alıştığımız tepkiye, karar verdiğimizi fark etmeden uzanırız. İrade tek başına nadiren yeter; çünkü alışkanlık düşünceden daha hızlı devreye girer.",
+    "Bu yüzden ilk adım farkındalıktır. Alışkanlığın devreye girdiği anı fark etmeye başladığınızda küçük bir duraklama elde edersiniz ve o duraklamada farklı bir seçim yapabilirsiniz. FREE AGAIN bu fikir üzerine kurulu: daha farkındalıklı alışkanlıklar ve her gün yaptıklarınız üzerinde daha fazla kontrol."
+   ]
+  },
+  {
+   "h2": "FREE AGAIN hangi konularda yardımcı olur?",
+   "ul": [
+    "Değiştirmek istediğiniz alışkanlıklar konusunda farkındalık kazanmak.",
+    "Otomatik tepkiler yerine daha farkındalıklı alışkanlıklar oluşturmak.",
+    "Ne kadar yol kat ettiğinizi görmek için ilerlemenizi takip etmek.",
+    "Her gün bir adım atarak daha fazla kişisel özgürlüğe doğru anlamlı adımlar atmak."
+   ]
+  },
+  {
+   "h2": "Uygulama kimler için?",
+   "p": [
+    "FREE AGAIN, günlerini kendisinin değil de bir alışkanlığın yönettiğini hisseden ve bunu değiştirmek için sakin, pratik bir yol arayan insanlar için. Katı kurallar ve ani, ya hep ya hiç denemeler yerine küçük ve istikrarlı adımları tercih edenlere uygundur.",
+    "Gündelik hayattaki pek çok kalıba yardımcı olabilir: düşünmeden telefona uzanmak, işleri ertelemek, aynı durumlarda hep aynı şekilde tepki vermek. Yöntem hepsi için aynı: fark edin, duraklayın, seçin ve devam edin."
+   ]
+  },
+  {
+   "h2": "Nasıl başlanır?",
+   "ul": [
+    "FREE AGAIN'i Google Play'den yükleyin.",
+    "Değiştirmek istediğiniz tek bir alışkanlığın adını koyun; yalnızca bir tanesiyle başlayın.",
+    "Ne zaman ve neden ortaya çıktığını fark edin: saati, yeri, öncesindeki duyguyu.",
+    "İlerlemenizi, küçük başarılar dahil, her gün uygulamada işaretleyin.",
+    "Aksaklıklara karşı sabırlı olun ve ertesi gün kaldığınız yerden devam edin."
+   ]
+  },
+  {
+   "h2": "Birikerek büyüyen küçük adımlar",
+   "p": [
+    "Değişim her zaman karmaşık sistemler gerektirmez. Bazen alışkanlık hâline gelmiş bir tepkiden önce duraklamak ya da tek bir küçük eylemde bulunmak yeter. Yeni rutinler de oluşturmak isterseniz [PERENNIAL](app:perennial) alışkanlık takipçisini deneyin. Alışkanlığınız bitmeyen kaydırmaysa, [PHONE DETOX](app:phone-detox) telefon dikkat dağınıklığını azaltmanıza yardımcı olur."
+   ]
+  },
+  {
+   "h2": "FREE AGAIN'i neden geliştirdim?",
+   "p": [
+    "Ben Nikolay Shcherbakov. 20 yılı aşkın süredir meditasyon, dikkat teknikleri ve kendini gözlemleme çalışıyorum; 15 yılı aşkın süredir de gündelik gıdaların çoğu olmadan yaşıyorum. Bu deneyim bana alışkanlıkların gerçekte nasıl değiştiğini gösterdi: ani dönüşümle değil, fark etme, sabır ve her gün atılan küçük adımlarla. FREE AGAIN bu yaklaşımı basit bir araca dökme girişimim."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kötü bir alışkanlığı nasıl bırakırım?",
+   "a": "Alışkanlığın ne zaman ortaya çıktığını fark ederek başlayın, ardından küçük bir alternatif eylem seçin ve ilerlemenizi takip edin. FREE AGAIN farkındalık kazanmanıza ve zaman içindeki ilerlemenizi görmenize yardımcı olur."
+  },
+  {
+   "q": "Bir alışkanlığı değiştirmek ne kadar sürer?",
+   "a": "Herkes için farklıdır. En önemli şey düzenliliktir: küçük günlük adımlar ve aksaklıklardan sonra planınıza dönmek."
+  },
+  {
+   "q": "FREE AGAIN ile bir alışkanlık takipçisi arasındaki fark nedir?",
+   "a": "FREE AGAIN istenmeyen alışkanlıklardan kurtulmaya ve kontrolü geri kazanmaya odaklanır. Yeni olumlu alışkanlıklar oluşturmak için PERENNIAL alışkanlık takipçisini kullanabilirsiniz."
+  },
+  {
+   "q": "FREE AGAIN'i nereden indirebilirim?",
+   "a": "FREE AGAIN, Android için Google Play'de bulunur."
+  }
+ ],
+ "related": [
+  "perennial",
+  "phone-detox",
+  "thoughts-in-circles"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "pill-reminder",
+ "title": "Android İçin İlaç Hatırlatıcı Uygulaması — PILL REMINDER",
+ "description": "PILL REMINDER, ilaçlar ve günlük rutinler için program oluşturmanıza ve zamanında hatırlatma almanıza yardım eder; önemli hiçbir şey aklınızdan çıkmaz. Google Play'de.",
+ "h1": "PILL REMINDER — önemli bir hatırlatmayı asla kaçırmayın",
+ "lead": "İlaçlarınızı almayı mı unutuyorsunuz ya da günlük rutinlerinizi mi karıştırıyorsunuz? PILL REMINDER, program oluşturmak ve hatırlatmaları tam zamanında almak için basit bir araçtır.",
+ "sections": [
+  {
+   "h2": "İlaçları unutmak neden bu kadar kolay?",
+   "p": [
+    "Gün yoğun olduğunda, küçük düzenli işler ilk aksayanlardır: sabah bir tablet, öğle yemeğinden sonra vitaminler, kendinize sürdüreceğinize söz verdiğiniz bir rutin. Yapışkan notlar kaybolur ve aklınızda çok şey varken hafıza güvenilir değildir.",
+    "Hatırlatma uygulaması bu yükü zihninizden alır. Programı bir kez ayarlarsınız ve telefonunuz doğru zamanda hatırlatır; siz de gününüze odaklanabilirsiniz."
+   ]
+  },
+  {
+   "h2": "PILL REMINDER ne yapar?",
+   "ul": [
+    "İlaçlar, vitaminler ve diğer düzenli işler için programlar oluşturur.",
+    "Programınıza göre zamanında hatırlatmalar alırsınız.",
+    "Planlanmış hatırlatmaları tek bir yerden takip edersiniz.",
+    "Gündelik rutinleri yönetmeyi kolaylaştırır."
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "PILL REMINDER, ilaç ya da takviyeleri belirli bir programa göre alan herkes, yaşlı bir yakınının rutinini hatırlamasına yardım eden kişiler ve günlük önemli işler için güvenilir hatırlatmalar isteyenler için. Basit ve kullanımı kolay olması amaçlandı.",
+    "İlacın ötesinde de işe yarar: su içmek, kısa bir esneme molası, günlük yürüyüş ya da birkaç dakikalık sakinlik. Gün içinde kısa duraklamaları seviyorsanız, [MOMENT NOW](app:moment-now) uygulaması dikkatinizi şimdiye geri getiren pratikler sunar."
+   ]
+  },
+  {
+   "h2": "Nasıl başlanır?",
+   "ul": [
+    "PILL REMINDER'ı Google Play'den yükleyin.",
+    "Hatırlamanız gerekeni ekleyin; örneğin bir ilaç ya da günlük bir rutin.",
+    "Gününüze ya da doktorunuzun talimatlarına uyan programı ve saatleri ayarlayın.",
+    "Hatırlatmaların zamanında gelmesi için bildirimlere izin verin.",
+    "Listenizi ara sıra kontrol edin ve programınız değiştiğinde güncelleyin."
+   ]
+  },
+  {
+   "h2": "Önemli güvenlik notu",
+   "p": [
+    "PILL REMINDER yalnızca bir hatırlatma aracıdır. Doktorun yerini tutmaz ve tıbbi tavsiye vermez. Hangi ilacı, ne kadar ve ne zaman alacağınız konusunda her zaman doktorunuzun ya da eczacınızın talimatlarına uyun ve aklınıza takılan bir şey varsa onlara sorun."
+   ]
+  },
+  {
+   "h2": "Bu uygulamayı neden yaptım?",
+   "p": [
+    "Ben Nikolay Shcherbakov, bir yazar ve Android uygulamaları geliştiricisiyim. Zamanla, yararlı bilginin gündelik hayata taşınması gerektiğini ve küçük günlük eylemlerin günlerimizi büyük planlardan daha çok şekillendirdiğini fark ettim. Pratik odaklı uygulamalarımın yanında günlük işler için araçlar da geliştiriyorum. PILL REMINDER bunlardan biri: önemli rutinlerin kaybolmasını önleyen küçük bir yardımcı. İstikrarlı alışkanlıklar edinmek de isterseniz [PERENNIAL](app:perennial)'a göz atın."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "İlaçlarımı her gün almayı nasıl hatırlayabilirim?",
+   "a": "Bir hatırlatma uygulamasında program ayarlayın ve bildirimlere izin verin. PILL REMINDER program oluşturmanıza ve hatırlatmaları zamanında almanıza olanak tanır."
+  },
+  {
+   "q": "PILL REMINDER'ı ilaç dışındaki şeyler için de kullanabilir miyim?",
+   "a": "Evet. Programlar ve zamanında hatırlatmalar için bir araçtır; bu yüzden önemli her günlük rutin için kullanabilirsiniz."
+  },
+  {
+   "q": "Uygulama bana hangi ilacı almam gerektiğini söyler mi?",
+   "a": "Hayır. Uygulama yalnızca belirlediğiniz programa göre hatırlatır. İlaç ve doz kararları doktorunuza aittir."
+  },
+  {
+   "q": "PILL REMINDER'ı nereden indirebilirim?",
+   "a": "PILL REMINDER, Android için Google Play'de bulunur."
+  }
+ ],
+ "related": [
+  "perennial",
+  "moment-now",
+  "minus-25-kg"
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "head-heart",
+ "title": "Head & Heart: Zor Seçimler İçin Karar Verme Uygulaması",
+ "description": "İki seçenek arasında mı kaldınız? Head & Heart, bir seçime farklı yönlerden bakmanıza, argümanları karşılaştırmanıza ve sonraki adımı bulmanıza yardım eder. Android'de.",
+ "h1": "Head & Heart — kararları güvenle verin",
+ "lead": "Head & Heart, Nikolay Shcherbakov'un Android için karar verme yardımcısıdır. Seçim zorlaştığında durumu farklı yönlerden görmenize ve aklınızın ile kalbinizin ne söylediğini anlamanıza yardımcı olur.",
+ "sections": [
+  {
+   "h2": "Karar veremediğinizde ne yapmalısınız?",
+   "p": [
+    "Bazı kararlar haftalarca askıda kalır. Mantıklı argümanlar bir yöne işaret eder, duygularınız diğer yöne çeker ve her düşündüğünüzde aynı yere varırsınız. Kararsızlık yorucudur ve çoğu zaman basit bir gerçeği gizler: Seçime henüz tüm yönlerden net bir şekilde bakmadınız.",
+    "Head & Heart bu sürece bir yapı kazandırır. Daireler çizmek yerine birkaç soruyu yanıtlar, argümanları yan yana koyar ve somut bir sonraki adıma doğru ilerlersiniz."
+   ]
+  },
+  {
+   "h2": "Uygulama neler yapmanıza yardımcı olur?",
+   "ul": [
+    "Zor bir duruma farklı açılardan bakmak",
+    "Seçiminizle ilgili yönlendirici birkaç soruyu yanıtlamak",
+    "Her seçenek için argümanları karşılaştırmak",
+    "Aklınızın ve kalbinizin ayrı ayrı ne söylediğini anlamak",
+    "Sizi neyin engellediğini ortaya çıkarmak",
+    "Takılıp kalmak yerine sonraki adımınızı bulmak"
+   ]
+  },
+  {
+   "h2": "Kimler için uygun?",
+   "p": [
+    "Uygulama, iki seçenek arasında kalan herkes için: bir iş teklifi, bir taşınma, erteleyip durduğunuz bir konuşma ya da sizi rahatsız etmeyi sürdüren daha küçük bir gündelik seçim. Fazla analiz etmeye yatkınsanız ya da sizi karar vermekten alıkoyanın seçeneklerin kendisi değil korku ve şüphe olduğunu fark ediyorsanız özellikle işe yarar."
+   ]
+  },
+  {
+   "h2": "Nasıl başlanır?",
+   "ul": [
+    "Head & Heart'ı Google Play'den Android telefonunuza yükleyin.",
+    "Son zamanlarda aklınızı meşgul eden tek bir karar düşünün.",
+    "Doğru yanıtı bulmaya çalışmadan, soruları dürüstçe yanıtlayın.",
+    "Argümanları karşılaştırın ve aklınızla kalbinizin nerede uyuştuğuna ya da ayrıştığına dikkat edin.",
+    "Atabileceğiniz tek bir sonraki adımı seçin; küçük bile olsa."
+   ]
+  },
+  {
+   "h2": "Yazar bu uygulamayı neden geliştirdi?",
+   "p": [
+    "Nikolay Shcherbakov kararlar üzerine [The Right Choice](book:the-right-choice) kitabını yazdı; kitap aklınız ile duygularınız farklı yanıtlar verdiğinde nasıl karar verileceğini, gerçekte ne istediğinizi nasıl anlayacağınızı ve kararsızlığın nasıl aşılacağını ele alıyor. Anlatısında bu kitabı, korku ve şüphenin karar vermenin önüne geçtiği anlar hakkında bir kitap olarak tanımlıyor.",
+    "Yıllar süren pratik ve yazı çalışmasından sonra, yalnızca okumanın yetmediğini fark etti: gerçek bir seçim anında elinizin altında pratik bir şey olması gerekir. Head & Heart, insanların kararları tam ihtiyaç duydukları anda daha bilinçli verebilmesi için yapıldı.",
+    "İlk izlenimlerinize güvenme üzerinde de çalışmak isterseniz [Intuition Trainer](app:intuition-trainer)'ı deneyin."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Karar veremediğimde ne yapmalıyım?",
+   "a": "Seçime farklı yönlerden bakmak, her seçenek için argümanları yazmak ve sizi gerçekte neyin engellediğini fark etmek işe yarar. Head & Heart sizi bu adımlardan birkaç basit soruyla geçirir."
+  },
+  {
+   "q": "Aklım ve kalbim farklı şeyler söylüyorsa ne yapmalıyım?",
+   "a": "Uygulama tam olarak bu durum için yapıldı. Her iki tarafı da duymanıza, karşılaştırmanıza ve içinize sinecek bir sonraki adımı bulmanıza yardımcı olur."
+  },
+  {
+   "q": "Uygulama kararı benim yerime verir mi?",
+   "a": "Hayır. Head & Heart durumu enine boyuna düşünmenize ve sonraki adımı bulmanıza yardımcı olur, ama seçim sizin elinizde kalır."
+  },
+  {
+   "q": "Aynı konuda bir kitap var mı?",
+   "a": "Evet. Nikolay Shcherbakov'un The Right Choice kitabı, akıl ve duygular çeliştiğinde karar vermeyi ele alır."
+  }
+ ],
+ "related": [
+  "the-right-choice",
+  "intuition-trainer",
+  "perennial",
+  "the-intuition-code"
+ ]
+}
