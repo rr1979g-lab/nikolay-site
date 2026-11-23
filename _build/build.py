@@ -23,8 +23,10 @@ APP_SLUGS = ["intuition-trainer", "moment-now", "breath-prana-moment", "head-hea
              "figure-out-why", "free-again", "pill-reminder", "parent-lock", "ferment-lab", "fridge", "life-compass", "frame-ai"]
 BOOK_SLUGS = ["thoughts-in-circles", "what-if-everything-turns-out-well", "destiny-to-order", "the-intuition-code", "the-right-choice", "minus-25-kg", "open-up-to-your-dreams"]
 BOOK_SLUGS_RU = ["mysli-po-krugu", "a-chto-esli-vse-budet-horosho", "sudba-po-zakazu", "kod-intuicii", "pravilnyj-vybor", "minus-25-kg", "otkrojsya-svoim-mechtam"]
-BLOG_SLUGS = ["how-to-stop-scrolling-your-phone", "parental-controls-android", "how-to-develop-intuition", "breathing-exercises-for-calm"]
-BLOG_SLUGS_RU = ["kak-perestat-sidet-v-telefone", "roditelskij-kontrol-na-android", "kak-razvit-intuiciyu", "dyhatelnye-praktiki-dlya-spokojstviya"]
+# blog posts, newest first: _build/blog.json
+_BLOG = json.load(open(os.path.join(B, "blog.json"), encoding="utf-8"))["posts"]
+BLOG_SLUGS = [p["slug"] for p in _BLOG]
+BLOG_SLUGS_RU = [p["slug_ru"] for p in _BLOG]
 APP_CAT = ["EducationalApplication", "HealthApplication", "HealthApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication",
            "EducationalApplication", "HealthApplication", "HealthApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "MultimediaApplication"]
 FULL_NAMES = ["Intuition Trainer: Grow Your Mind", "MOMENT NOW: Mindfulness", "BREATH PRANA MOMENT", "Head & Heart: Decision Helper",
