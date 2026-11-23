@@ -1,0 +1,118 @@
+{
+ "slug": "parental-controls-android",
+ "date": "2026-11-23",
+ "title": "Android'de Çocuklar İçin Ebeveyn Denetimi | Parent Lock",
+ "description": "Android'de ebeveyn denetimi nasıl kurulur: anlaşılacak kurallar, Google'ın yerleşik araçları, Parent Lock ile izin verilen uygulamalar ve yaşa göre ipuçları.",
+ "h1": "Android'de ebeveyn denetimi: çocuğunuzun telefonu nasıl sınırlanır",
+ "lead": "İlk akıllı telefon çocuk için büyük bir adım, ebeveyn için bir endişedir. İşte ekran süresini günlük bir savaşa dönüştürmeden bir Android telefonda mantıklı sınırların adım adım nasıl koyulacağı.",
+ "sections": [
+  {
+   "h2": "Ayarlarla değil, kurallarla başlayın",
+   "p": [
+    "Her ebeveyn denetimi uygulaması, ailenin zaten konuştuğu kuralları desteklediğinde en iyi işler. Sınırlar aniden ve açıklama olmadan ortaya çıkarsa çocuklar çözüm yolları aramaya meyleder. Sınırların neden var olduğunu anlarlarsa onları kabul etme olasılıkları çok daha yüksektir.",
+    "Ayarlara dokunmadan önce birlikte oturun ve birkaç temel konuda anlaşın:"
+   ],
+   "ul": [
+    "Oyunlar, videolar ve sosyal medya için günde ne kadar süre ve hafta sonlarının farklı olup olmadığı.",
+    "Telefonun ne zaman kapalı olacağı: ödev sırasında, yemeklerde, yatmadan bir saat önce ve geceleyin.",
+    "Hangi uygulamalara izin verildiği ve çocuğun yeni bir tanesini nasıl isteyebileceği.",
+    "Telefonun geceleri nerede uyuyacağı. Koridorda ya da mutfakta bir şarj cihazı, basit ve etkili bir kuraldır.",
+    "Kurallar çiğnenirse ne olacağı ve çocuk büyüdükçe kuralların nasıl değişeceği."
+   ]
+  },
+  {
+   "h2": "Yerleşik seçenekler: Google Family Link ve Play ayarları",
+   "p": [
+    "Google, Family Link adında ücretsiz bir ebeveyn denetimi aracı sunar. Ebeveynin telefonuna yüklersiniz, çocuğun Google hesabını bağlarsınız ve ardından çocuğun Android cihazını kendi cihazınızdan yönetirsiniz. Ana özellikleri iyi bilinir: Google Play'den uygulama indirmelerini onaylamak ya da engellemek, günlük ekran süresi sınırları ve bir uyku vakti belirlemek ve cihazın konumunu haritada görmek.",
+    "Family Link olmadan da Google Play Store ayarlarında kendi ebeveyn denetimleri vardır; burada içeriği yaş derecelendirmesine göre kısıtlayabilir ve ayarı bir PIN ile koruyabilirsiniz. Birçok Android telefonda ayrıca uygulama zamanlayıcıları ve uyku vakti modu olan Dijital Denge araçları da bulunur. Bunlar büyük çocuklar ve sağlıklı alışkanlıklara kendisi örnek olmak isteyen ebeveynler için kullanışlıdır.",
+    "Family Link birçok aile için sağlam bir seçimdir, ama Google hesaplarına ve Google'ın cihaz yönetme biçimine bağlıdır. Bazı ebeveynler, çocuğun telefonunda günlük kurallara ve dinlenme zamanına odaklanan daha basit, ayrı bir uygulamayı tercih eder."
+   ]
+  },
+  {
+   "h2": "Android'de ebeveyn denetimi nasıl kurulur: adım adım",
+   "p": [
+    "Hangi aracı seçerseniz seçin, adımların sırası kabaca aynıdır."
+   ],
+   "ul": [
+    "Telefonu güncelleyin ve ayarlar için yalnızca sizin bildiğiniz bir ekran kilidi ya da ebeveyn denetimi için ayrı bir PIN oluşturun.",
+    "Ebeveyn denetimi aracını yükleyin ve istediği izinleri verin. Onlar olmadan sınırlar güvenilir şekilde çalışamaz.",
+    "İzin verilen uygulamaları seçin. Temel olanlarla başlayın: aramalar, mesajlar, haritalar, okul uygulamaları, bir kamera.",
+    "Eğlence için günlük sınırlar ve net bir dinlenme zamanı belirleyin: ödev saatleri ve uykudan önceki akşam.",
+    "Google Play ve YouTube'da yaş kısıtlamalarını açın ve tarayıcıda Güvenli Arama'yı etkinleştirin.",
+    "Her şeyi çocuğun telefonunda test edin: engellenmiş bir uygulamayı açmayı deneyin ve süre bittiğinde ne olduğunu kontrol edin.",
+    "Çocuğunuza nasıl çalıştığını gösterin ve kuralları birlikte gözden geçirmek için bir tarih belirleyin; örneğin ayda bir."
+   ]
+  },
+  {
+   "h2": "Parent Lock: izin verilen uygulamalar ve dinlenme zamanı tek yerde",
+   "p": [
+    "[Parent Lock](app:parent-lock), Nikolay Shcherbakov'un bu gündelik ihtiyaçlar etrafında kurulmuş Android uygulamasıdır. Ebeveynlerin çocuğun telefon kullanımı için kurallar belirlemesine, hangi uygulamalara izin verileceğini seçmesine ve telefonun uyku, ödev ya da aile zamanı için kenara çekilmesi gereken dinlenme zamanını ayarlamasına yardımcı olur.",
+    "Odak, gözetim değil sağlıklı sınırlar üzerinedir. Çocuğunuzun gerçekten hangi uygulamalara ihtiyacı olduğuna karar verir, telefonun dikkat dağıtmaması gereken zamanı korur ve daha güvenli dijital alışkanlıkları teşvik edersiniz. Tek başına ya da Google'ın yerleşik araçlarının yanında kullanılabilir: örneğin konum için Family Link, izin verilen uygulamaların ve dinlenmenin günlük rutini için Parent Lock."
+   ]
+  },
+  {
+   "h2": "Yaşa göre ipuçları",
+   "p": [
+    "Sınırlar çocukla birlikte büyümelidir. Yedi yaşındaki bir çocuğu koruyan şey, on beş yaşındakini bunaltır."
+   ],
+   "ul": [
+    "8 yaş altı: kısa, gözetimli oturumlar, onaylı küçük bir uygulama listesi ve sosyal medya yok. Telefon ortak alanlarda kalır.",
+    "8–12 yaş: net günlük sınırlar, akşamları dinlenme zamanı ve her yeni uygulama için onay. Çevrimiçi gördükleri hakkında konuşun.",
+    "13–15 yaş: sorumluluk karşılığında daha fazla özgürlük. Sınırlar üzerinde birlikte anlaşın ve düzenli olarak gözden geçirin.",
+    "16 yaş ve üzeri: denetimden koçluğa geçin. Gece kuralını koruyun ve öz düzenleme becerilerine odaklanın."
+   ]
+  },
+  {
+   "h2": "Sınırların dışında neler konuşulmalı?",
+   "p": [
+    "Hiçbir ayar interneti tamamen kapatamaz; bu yüzden çocukların kendi güvenlik becerilerine de ihtiyacı vardır. Birkaç basit kuralı konuşun ve zaman zaman onlara dönün."
+   ],
+   "ul": [
+    "Adresinizi, okulunuzu, şifrelerinizi veya fotoğraflarınızı tanımadığınız kişilerle paylaşmayın.",
+    "Çevrimiçi biri sizi korkutuyorsa, ebeveynlerinizden sır saklamanızı istiyorsa ya da buluşmayı öneriyorsa hemen bir yetişkine söyleyin.",
+    "Şüpheli mesajlardaki bağlantılara dokunmayın ve oraya hesap bilgilerinizi girmeyin.",
+    "Paylaştığınız her şeyin uzun süre çevrimiçi kalabileceğini unutmayın.",
+    "Başınıza gelen kötü bir şeyi dürüstçe anlattığınız için cezalandırılmayacağınızı bilin. Bir çocuğu gerçekten güvende tutan bu kuraldır."
+   ]
+  },
+  {
+   "h2": "Ebeveynlerin sık yaptığı hatalar",
+   "p": [
+    "En yaygın hata yalnızca teknolojiye güvenmektir. Çocuklar yaratıcıdır ve kararlı bir genç çoğu zaman kısıtlamaları aşmanın bir yolunu bulabilir. Ayarlar bir destektir; güvenin ve konuşmanın yerini almaz.",
+    "Bir diğer hata, yetişkinlerin kendilerinin umursamadığı sınırlar koymaktır. Ebeveynler yemekte kaydırıyorsa masada telefon yasağı ikna edici gelmez. [Telefonda kaydırmayı nasıl bırakırsınız](blog:how-to-stop-scrolling-your-phone) makalemizde tüm aile için pratik adımlar var. Son olarak, ekran süresini ana ödül ya da ceza olarak kullanmaktan kaçının: bu, telefonu daha da değerli gösterir."
+   ]
+  },
+  {
+   "h2": "Konuşun, gözden geçirin, ayarlayın",
+   "p": [
+    "Android'de ebeveyn denetimi tek seferlik bir kurulum değildir. Birkaç haftada bir çocuğunuzla görüşün: neyin işe yaradığı, neyin haksız hissettirdiği, okul ya da hobiler için hangi yeni uygulamalara ihtiyaç duyduğu. Çocuklar kuralların konuşulabildiğini ve sorumluluk gösterdikçe değiştiğini gördüklerinde kendi ekran sürelerini yönetmeyi öğrenir; asıl hedef de budur."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Android telefona ebeveyn denetimi nasıl konur?",
+   "a": "Önce çocuğunuzla kurallar üzerinde anlaşın, ardından izin verilen uygulamaları seçmek ve sınırlar koymak için Google Family Link gibi bir araç ya da Parent Lock gibi ayrı bir uygulama kullanın. Ayrıca Google Play ayarlarında yaş kısıtlamalarını açın."
+  },
+  {
+   "q": "Google Family Link ücretsiz mi?",
+   "a": "Evet, Family Link Google'ın ücretsiz aracıdır. Ebeveynlerin uygulama indirmelerini onaylamasına, ekran süresi sınırları koymasına ve cihazın konumunu görmesine olanak tanır."
+  },
+  {
+   "q": "Bir çocuk için ne kadar ekran süresi doğrudur?",
+   "a": "Her aile için tek bir sayı yoktur. Uykuyu, ödevi, fiziksel aktiviteyi ve birlikte geçirilen zamanı korumaya odaklanın ve eğlence ekran süresini birlikte anlaştığınız, çocuk büyüdükçe gözden geçirdiğiniz sınırlar içinde tutun."
+  },
+  {
+   "q": "Bir çocuk ebeveyn denetimini aşabilir mi?",
+   "a": "Bazen, özellikle büyük çocuklar. Yalnızca sizin bildiğiniz bir PIN kullanın, ayarları düzenli kontrol edin ve en önemlisi konuşmayı sürdürün: çocuğun anladığı kuralları aşmayı istemek daha zordur."
+  },
+  {
+   "q": "Parent Lock ne yapar?",
+   "a": "Parent Lock, ebeveynlerin çocuğun telefon kullanımı için kurallar belirlemesine, izin verilen uygulamaları seçmesine ve dinlenme zamanı ayarlamasına yardımcı olur; böylece telefon uyku, ödev ya da aile zamanında dikkat dağıtmaz."
+  }
+ ],
+ "related": [
+  "parent-lock",
+  "phone-detox"
+ ]
+}
