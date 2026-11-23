@@ -370,11 +370,26 @@ def faq_html(doc, lang):
     return f'<section class="faq" aria-labelledby="faq-h"><h2 id="faq-h">{esc(U(lang, "faq_h"))}</h2>{qs}</section>'
 
 
+def screen_files(slug, lang):
+    """Russian screenshots for ru/uk pages, English for the rest; a flat folder is used for every language"""
+    base = os.path.join(ROOT, "img", "screens", slug)
+    order = ["ru", "en"] if lang in ("ru", "uk") else ["en"]
+    for sub in order:
+        files = sorted(glob.glob(os.path.join(base, sub, "*.webp")))
+        if files:
+            return [f"/img/screens/{slug}/{sub}/{os.path.basename(f)}" for f in files]
+    return [f"/img/screens/{slug}/{os.path.basename(f)}" for f in sorted(glob.glob(os.path.join(base, "*.webp")))]
+
+
 def screens_html(slug, lang, name):
-    files = sorted(glob.glob(os.path.join(ROOT, "img", "screens", slug, "*.webp")))
+    files = screen_files(slug, lang)
     if not files:
         return ""
-    imgs = "".join(f'<img src="/img/screens/{slug}/{os.path.basename(f)}" alt="{esc(name)} — {esc(U(lang, "screens_h"))} {n + 1}" loading="lazy" decoding="async" width="360" height="780">' for n, f in enumerate(files))
+    def size(u):
+        from PIL import Image
+        with Image.open(ROOT + u) as im:
+            return im.size
+    imgs = "".join(f'<img src="{u}" alt="{esc(name)} — {esc(U(lang, "screens_h"))} {n + 1}" loading="lazy" decoding="async" width="{size(u)[0]}" height="{size(u)[1]}">' for n, u in enumerate(files))
     return f'<section class="screens" aria-labelledby="sc-h"><h2 id="sc-h">{esc(U(lang, "screens_h"))}</h2><div class="sc-row">{imgs}</div></section>'
 
 
@@ -438,6 +453,8 @@ def build_item(kind, i):
                        "applicationCategory": APP_CAT[i], "description": doc["description"], "url": SITE + path, "image": SITE + img,
                        "installUrl": a["url"], "downloadUrl": a["url"], "inLanguage": HREFLANG.get(lang, lang),
                        "author": {"@id": SITE + "/#person", "@type": "Person", "name": "Nikolay Shcherbakov"}}
+            if screen_files(slug, lang):
+                main_ld["screenshot"] = [SITE + u for u in screen_files(slug, lang)]
             if i in FREE_APPS:
                 main_ld["offers"] = {"@type": "Offer", "price": "0", "priceCurrency": "USD"}
         else:
