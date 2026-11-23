@@ -1,0 +1,118 @@
+{
+ "slug": "parental-controls-android",
+ "date": "2026-11-23",
+ "title": "Kontrol Orang Tua di Android untuk Anak | Parent Lock",
+ "description": "Cara mengatur kontrol orang tua di Android: aturan yang perlu disepakati, alat bawaan Google, Parent Lock untuk aplikasi yang diizinkan dan waktu istirahat, serta tips per usia.",
+ "h1": "Kontrol orang tua di Android: cara membatasi ponsel anak Anda",
+ "lead": "Ponsel pintar pertama adalah langkah besar bagi anak dan kekhawatiran bagi orang tua. Berikut cara menetapkan batas yang masuk akal di ponsel Android, selangkah demi selangkah, tanpa membuat waktu layar menjadi pertengkaran harian.",
+ "sections": [
+  {
+   "h2": "Mulailah dari aturan, bukan dari pengaturan",
+   "p": [
+    "Aplikasi kontrol orang tua apa pun bekerja paling baik bila mendukung aturan yang sudah dibicarakan keluarga. Jika batasan muncul tiba-tiba tanpa penjelasan, anak cenderung mencari akal untuk menyiasatinya. Jika mereka mengerti mengapa batasan itu ada, mereka jauh lebih mungkin menerimanya.",
+    "Duduklah bersama dan sepakati beberapa dasar sebelum menyentuh pengaturan:"
+   ],
+   "ul": [
+    "Berapa lama per hari untuk gim, video, dan media sosial, dan apakah akhir pekan berbeda.",
+    "Kapan ponsel dimatikan: saat mengerjakan PR, saat makan, satu jam sebelum tidur, dan semalaman.",
+    "Aplikasi mana yang diizinkan, dan bagaimana anak bisa meminta aplikasi baru.",
+    "Di mana ponsel “tidur” pada malam hari. Pengisi daya di lorong atau dapur adalah aturan yang sederhana dan efektif.",
+    "Apa yang terjadi jika aturan dilanggar, dan bagaimana aturan akan berubah seiring anak bertumbuh."
+   ]
+  },
+  {
+   "h2": "Pilihan bawaan: Google Family Link dan pengaturan Play",
+   "p": [
+    "Google menawarkan alat kontrol orang tua gratis bernama Family Link. Anda memasangnya di ponsel orang tua, menautkan akun Google anak, lalu mengelola perangkat Android anak dari ponsel Anda sendiri. Fitur utamanya sudah dikenal luas: menyetujui atau memblokir unduhan aplikasi dari Google Play, menetapkan batas waktu layar harian dan waktu tidur, serta melihat lokasi perangkat di peta.",
+    "Bahkan tanpa Family Link, Google Play Store punya kontrol orang tua sendiri di pengaturannya, tempat Anda bisa membatasi konten berdasarkan peringkat usia dan mengamankan pengaturan itu dengan PIN. Banyak ponsel Android juga memiliki alat Digital Wellbeing dengan timer aplikasi dan mode waktu tidur. Alat-alat ini berguna untuk anak yang lebih besar dan untuk orang tua yang ingin memberi contoh kebiasaan sehat.",
+    "Family Link adalah pilihan yang solid bagi banyak keluarga, tetapi terikat pada akun Google dan cara Google mengelola perangkat. Sebagian orang tua lebih suka aplikasi terpisah yang lebih sederhana di ponsel anak, yang berfokus pada aturan harian dan waktu istirahat."
+   ]
+  },
+  {
+   "h2": "Cara mengatur kontrol orang tua di Android: langkah demi langkah",
+   "p": [
+    "Apa pun alat yang Anda pilih, urutan langkahnya kurang lebih sama."
+   ],
+   "ul": [
+    "Perbarui ponsel dan buat kunci layar yang hanya Anda ketahui untuk pengaturan, atau PIN tersendiri untuk kontrol orang tua.",
+    "Pasang alat kontrol orang tua dan berikan izin yang diminta. Tanpa izin itu, batasan tidak bisa bekerja dengan andal.",
+    "Pilih aplikasi yang diizinkan. Mulailah dari yang esensial: telepon, pesan, peta, aplikasi sekolah, kamera.",
+    "Tetapkan batas harian untuk hiburan dan waktu istirahat yang jelas: jam mengerjakan PR dan malam sebelum tidur.",
+    "Aktifkan pembatasan usia di Google Play dan YouTube, dan nyalakan SafeSearch di peramban.",
+    "Uji semuanya di ponsel anak: coba buka aplikasi yang diblokir dan periksa apa yang terjadi saat waktu habis.",
+    "Tunjukkan kepada anak cara kerjanya dan sepakati tanggal untuk meninjau aturan bersama, misalnya sebulan sekali."
+   ]
+  },
+  {
+   "h2": "Parent Lock: aplikasi yang diizinkan dan waktu istirahat di satu tempat",
+   "p": [
+    "[Parent Lock](app:parent-lock) adalah aplikasi Android dari Nikolay Shcherbakov yang dibangun di sekitar kebutuhan sehari-hari yang sama. Aplikasi ini membantu orang tua menetapkan aturan pemakaian ponsel anak, memilih aplikasi yang diizinkan, dan mengatur waktu istirahat, saat ponsel perlu menepi untuk tidur, PR, atau waktu keluarga.",
+    "Fokusnya pada batasan yang sehat, bukan pengawasan. Anda menentukan aplikasi apa yang benar-benar dibutuhkan anak, melindungi waktu ketika ponsel tidak boleh mengganggu, dan mendorong kebiasaan digital yang lebih aman. Aplikasi ini bisa dipakai sendiri atau bersama alat bawaan Google: misalnya, Family Link untuk lokasi dan Parent Lock untuk rutinitas harian aplikasi yang diizinkan dan waktu istirahat."
+   ]
+  },
+  {
+   "h2": "Tips menurut usia",
+   "p": [
+    "Batasan harus ikut tumbuh bersama anak. Apa yang melindungi anak tujuh tahun akan membuat anak lima belas tahun kesal."
+   ],
+   "ul": [
+    "Di bawah 8 tahun: sesi singkat yang diawasi, daftar kecil aplikasi yang disetujui, dan tanpa media sosial. Ponsel tetap di ruang bersama.",
+    "8–12 tahun: batas harian yang jelas, waktu istirahat di malam hari, dan persetujuan untuk setiap aplikasi baru. Bicarakan apa yang mereka lihat di internet.",
+    "13–15 tahun: kebebasan lebih besar sebagai imbalan tanggung jawab. Sepakati batasan bersama dan tinjau secara berkala.",
+    "16+ tahun: beralihlah dari mengontrol ke membimbing. Pertahankan aturan semalaman dan fokus pada keterampilan mengatur diri."
+   ]
+  },
+  {
+   "h2": "Apa yang dibicarakan selain batasan",
+   "p": [
+    "Tidak ada pengaturan yang bisa menutup internet sepenuhnya, jadi anak juga perlu keterampilan keamanan sendiri. Bicarakan beberapa aturan sederhana dan kembali ke sana dari waktu ke waktu."
+   ],
+   "ul": [
+    "Jangan bagikan alamat, sekolah, kata sandi, atau foto kepada orang yang tidak kamu kenal.",
+    "Jika seseorang di internet membuatmu takut, memintamu merahasiakan sesuatu dari orang tua, atau mengajak bertemu, segera beri tahu orang dewasa.",
+    "Jangan mengetuk tautan di pesan yang mencurigakan atau memasukkan data akun di sana.",
+    "Ingat bahwa apa pun yang kamu unggah bisa bertahan lama di internet.",
+    "Ketahuilah bahwa kamu tidak akan dihukum karena jujur menceritakan hal buruk yang terjadi. Aturan inilah yang benar-benar menjaga anak tetap aman."
+   ]
+  },
+  {
+   "h2": "Kesalahan umum orang tua",
+   "p": [
+    "Kesalahan yang paling umum adalah hanya mengandalkan teknologi. Anak-anak itu kreatif, dan remaja yang bertekad sering bisa menemukan jalan memutar. Pengaturan adalah penopang, bukan pengganti kepercayaan dan percakapan.",
+    "Kesalahan lain adalah menetapkan batasan yang justru diabaikan oleh orang dewasa. Jika orang tua scroll saat makan malam, larangan ponsel di meja makan tidak akan terdengar meyakinkan. Artikel kami tentang [cara berhenti scroll ponsel](blog:how-to-stop-scrolling-your-phone) berisi langkah praktis untuk seluruh keluarga. Terakhir, hindari menjadikan waktu layar sebagai hadiah atau hukuman utama: itu membuat ponsel tampak semakin berharga."
+   ]
+  },
+  {
+   "h2": "Bicara, tinjau, sesuaikan",
+   "p": [
+    "Kontrol orang tua di Android bukan pengaturan sekali jadi. Tanyakan kabar anak Anda setiap beberapa pekan: apa yang berjalan baik, apa yang terasa tidak adil, aplikasi baru apa yang mereka butuhkan untuk sekolah atau hobi. Ketika anak melihat bahwa aturan bisa dibicarakan dan berubah seiring mereka menunjukkan tanggung jawab, mereka belajar mengatur waktu layarnya sendiri, dan itulah tujuan sebenarnya."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Bagaimana cara memasang kontrol orang tua di ponsel Android?",
+   "a": "Sepakati aturan dengan anak terlebih dahulu, lalu gunakan alat seperti Google Family Link atau aplikasi terpisah seperti Parent Lock untuk memilih aplikasi yang diizinkan dan menetapkan batas. Aktifkan juga pembatasan usia di pengaturan Google Play."
+  },
+  {
+   "q": "Apakah Google Family Link gratis?",
+   "a": "Ya, Family Link adalah alat gratis dari Google. Orang tua dapat menyetujui unduhan aplikasi, menetapkan batas waktu layar, dan melihat lokasi perangkat."
+  },
+  {
+   "q": "Berapa lama waktu layar yang pas untuk anak?",
+   "a": "Tidak ada satu angka yang cocok untuk setiap keluarga. Fokuslah melindungi tidur, PR, aktivitas fisik, dan waktu bersama, dan jaga waktu layar hiburan dalam batas yang Anda sepakati dan tinjau seiring anak bertumbuh."
+  },
+  {
+   "q": "Bisakah anak menembus kontrol orang tua?",
+   "a": "Kadang bisa, terutama anak yang lebih besar. Gunakan PIN yang hanya Anda ketahui, periksa pengaturan secara berkala, dan yang terpenting, terus berbicara: aturan yang dimengerti anak lebih sulit ingin ditembus."
+  },
+  {
+   "q": "Apa fungsi Parent Lock?",
+   "a": "Parent Lock membantu orang tua menetapkan aturan pemakaian ponsel anak, memilih aplikasi yang diizinkan, dan mengatur waktu istirahat, agar ponsel tidak mengganggu saat tidur, PR, atau waktu keluarga."
+  }
+ ],
+ "related": [
+  "parent-lock",
+  "phone-detox"
+ ]
+}
