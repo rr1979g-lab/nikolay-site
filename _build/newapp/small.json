@@ -1,0 +1,14 @@
+{
+ "ru": {
+  "name": "LIFE COMPASS",
+  "sub": "Компас жизни",
+  "desc": "Один небольшой шаг каждый день в важной сфере жизни, программы на 30 дней, карта баланса и вечерний дневник.",
+  "head": "Создавайте жизнь, которую хотите"
+ },
+ "en": {
+  "name": "LIFE COMPASS",
+  "sub": "Life compass",
+  "desc": "One small step every day in an important area of life, 30-day programs, a life balance map and an evening journal.",
+  "head": "Create the life you want"
+ }
+}

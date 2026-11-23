@@ -20,13 +20,13 @@ OG_LOCALE = {"en": "en_US", "ru": "ru_RU", "uk": "uk_UA", "ar": "ar_AR", "zh": "
 RTL = {"ar", "he"}
 
 APP_SLUGS = ["intuition-trainer", "moment-now", "breath-prana-moment", "head-heart", "phone-detox", "perennial", "affirmation",
-             "figure-out-why", "free-again", "pill-reminder", "parent-lock", "ferment-lab", "fridge"]
+             "figure-out-why", "free-again", "pill-reminder", "parent-lock", "ferment-lab", "fridge", "life-compass"]
 BOOK_SLUGS = ["thoughts-in-circles", "what-if-everything-turns-out-well", "destiny-to-order", "the-intuition-code", "the-right-choice", "minus-25-kg", "open-up-to-your-dreams"]
 BOOK_SLUGS_RU = ["mysli-po-krugu", "a-chto-esli-vse-budet-horosho", "sudba-po-zakazu", "kod-intuicii", "pravilnyj-vybor", "minus-25-kg", "otkrojsya-svoim-mechtam"]
 BLOG_SLUGS = ["how-to-stop-scrolling-your-phone", "parental-controls-android", "how-to-develop-intuition", "breathing-exercises-for-calm"]
 BLOG_SLUGS_RU = ["kak-perestat-sidet-v-telefone", "roditelskij-kontrol-na-android", "kak-razvit-intuiciyu", "dyhatelnye-praktiki-dlya-spokojstviya"]
 APP_CAT = ["EducationalApplication", "HealthApplication", "HealthApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication",
-           "EducationalApplication", "HealthApplication", "HealthApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication"]
+           "EducationalApplication", "HealthApplication", "HealthApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication"]
 FREE_APPS = {1, 2}  # MOMENT NOW, BREATH PRANA MOMENT (as on the site)
 
 PRUNE = ["I18N", "STORY", "FEAT", "APP_TXT", "BOOK_TXT", "ML_TXT", "EXTRA", "CF_TXT", "CT_TXT", "FREE_TXT", "APP_HINT", "ALSO_TXT", "RV_TXT"]
