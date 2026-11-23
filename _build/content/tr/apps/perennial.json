@@ -1,19 +1,19 @@
 {
  "slug": "perennial",
- "title": "Perennial Alışkanlık Takipçisi: Kalıcı Alışkanlıklar Edinin",
- "description": "İstikrarlı olmakta zorlanıyor musunuz? Perennial alışkanlık takipçisi olumlu rutinler kurmanıza, günlük ilerlemeyi işaretlemenize yardım eder. Android'de.",
- "h1": "Perennial — küçük alışkanlıklar, kalıcı değişim",
- "lead": "Perennial, Nikolay Shcherbakov'un Android için alışkanlık takipçisidir. Sağlıklı rutinler oluşturmanıza, günlük ilerlemenizi işaretlemenize ve küçük gündelik eylemleri kalıcı alışkanlıklara dönüştürmenize yardımcı olur.",
+ "title": "Quit & Build Alışkanlık Takipçisi: Kalıcı Alışkanlıklar Edinin",
+ "description": "İstikrarlı olmakta zorlanıyor musunuz? Quit & Build alışkanlık takipçisi olumlu rutinler kurmanıza, günlük ilerlemeyi işaretlemenize yardım eder. Android'de.",
+ "h1": "Quit & Build — küçük alışkanlıklar, kalıcı değişim",
+ "lead": "Quit & Build, Nikolay Shcherbakov'un Android için alışkanlık takipçisidir. Sağlıklı rutinler oluşturmanıza, günlük ilerlemenizi işaretlemenize ve küçük gündelik eylemleri kalıcı alışkanlıklara dönüştürmenize yardımcı olur.",
  "sections": [
   {
    "h2": "Bir alışkanlık nasıl edinilir ve sürdürülür?",
    "p": [
     "Yeni bir alışkanlığa başlamak kolaydır. Zor olan, coşkulu ilk haftanın ardından onu sürdürmektir. Motivasyon azalır, yoğun bir gün zinciri koparır ve kısa sürede plan unutulur. İstikrar, büyük çaba patlamalarından çok, her gün tekrarlanan küçük eylemlerden gelir.",
-    "Perennial'in arkasındaki fikir bu. Her yıl yeniden filizlenen çok yıllık bir bitki gibi, alışkanlık da düzenli ve sabırlı bakımla güçlenir. Uygulama rutinlerinizi gözünüzün önünde tutar ve ne kadar yol aldığınızı gösterir."
+    "Quit & Build'in arkasındaki fikir bu. Her yıl yeniden filizlenen çok yıllık bir bitki gibi, alışkanlık da düzenli ve sabırlı bakımla güçlenir. Uygulama rutinlerinizi gözünüzün önünde tutar ve ne kadar yol aldığınızı gösterir."
    ]
   },
   {
-   "h2": "Perennial ile neler yapabilirsiniz?",
+   "h2": "Quit & Build ile neler yapabilirsiniz?",
    "ul": [
     "Edinmek istediğiniz sağlıklı alışkanlıkları oluşturmak",
     "İlerlemenizi her gün işaretlemek",
@@ -25,13 +25,13 @@
   {
    "h2": "Kimler için uygun?",
    "p": [
-    "Perennial, günlerine daha fazla düzen katmak isteyen herkese uygundur: sabah rutini başlatanlar, günlük okuma, egzersiz ya da meditasyon pratiği edinmek isteyenler veya iyi niyetleri yarı yolda bırakmayı bırakmaya çalışanlar. Tek bir alışkanlık için olduğu kadar birkaç alışkanlık için de iyi çalışır."
+    "Quit & Build, günlerine daha fazla düzen katmak isteyen herkese uygundur: sabah rutini başlatanlar, günlük okuma, egzersiz ya da meditasyon pratiği edinmek isteyenler veya iyi niyetleri yarı yolda bırakmayı bırakmaya çalışanlar. Tek bir alışkanlık için olduğu kadar birkaç alışkanlık için de iyi çalışır."
    ]
   },
   {
    "h2": "Alışkanlıklarınızı takip etmeye nasıl başlanır?",
    "ul": [
-    "Perennial'ı Google Play'den Android telefonunuza yükleyin.",
+    "Quit & Build'ı Google Play'den Android telefonunuza yükleyin.",
     "Gerçekten sürdürmek istediğiniz bir ya da iki alışkanlık ekleyin ve onları küçük tutun.",
     "Tamamladığınız her günü işaretleyin.",
     "İlerlemenizi ve başarılarınızı düzenli olarak gözden geçirin.",
@@ -48,25 +48,25 @@
    "h2": "Yazar bu uygulamayı neden geliştirdi?",
    "p": [
     "Nikolay Shcherbakov'a 20 yılı aşkın pratiği boyunca yol gösteren sorulardan biri, küçük günlük eylemlerin hayatlarımızı zamanla nasıl değiştirdiği. Bunu kendi deneyiminde gördü; beslenme biçimini 15 yılı aşkın süredir değiştirmesi, ona alışkanlıkların ve iyi oluşun zamanla nasıl kaydığını öğretti.",
-    "Yararlı bir şey öğrenip ilham alabildiğimizi, birkaç gün sonra da eski alışkanlıklara geri dönebildiğimizi fark etti. Perennial, yeni rutinlerin o noktayı aşıp ayakta kalmasına yardımcı olmak için var. Neyin değiştirmeye değer olduğuna karar vermek için [Head & Heart](app:head-heart) ile, değiştirmek istediğiniz alışkanlık ekran süresiyse [Phone Detox](app:phone-detox) ile iyi eşleşir."
+    "Yararlı bir şey öğrenip ilham alabildiğimizi, birkaç gün sonra da eski alışkanlıklara geri dönebildiğimizi fark etti. Quit & Build, yeni rutinlerin o noktayı aşıp ayakta kalmasına yardımcı olmak için var. Neyin değiştirmeye değer olduğuna karar vermek için [Head & Heart](app:head-heart) ile, değiştirmek istediğiniz alışkanlık ekran süresiyse [Phone Detox](app:phone-detox) ile iyi eşleşir."
    ]
   }
  ],
  "faq": [
   {
    "q": "Bir alışkanlık edinmek ne kadar sürer?",
-   "a": "Kişiden kişiye ve alışkanlıktan alışkanlığa değişir. En önemli şey küçük bir eylemi düzenli olarak tekrarlamaktır; Perennial gibi bir takipçi de bu istikrarı görmenize yardımcı olur."
+   "a": "Kişiden kişiye ve alışkanlıktan alışkanlığa değişir. En önemli şey küçük bir eylemi düzenli olarak tekrarlamaktır; Quit & Build gibi bir takipçi de bu istikrarı görmenize yardımcı olur."
   },
   {
    "q": "Alışkanlıkları takip etmenin en iyi yolu nedir?",
-   "a": "Basit tutun: birkaç küçük alışkanlık seçin, her gün işaretleyin ve ilerlemenizi gözden geçirin. Perennial tam olarak bu günlük rutin etrafında kurgulandı."
+   "a": "Basit tutun: birkaç küçük alışkanlık seçin, her gün işaretleyin ve ilerlemenizi gözden geçirin. Quit & Build tam olarak bu günlük rutin etrafında kurgulandı."
   },
   {
    "q": "Birden fazla alışkanlığı takip edebilir miyim?",
    "a": "Evet, birkaç sağlıklı alışkanlık oluşturabilir ve her biri için günlük ilerlemenizi işaretleyebilirsiniz."
   },
   {
-   "q": "Perennial iPhone'da var mı?",
+   "q": "Quit & Build iPhone'da var mı?",
    "a": "Uygulama şu anda Android için Google Play'de mevcut. Henüz iPhone sürümü yok."
   }
  ],

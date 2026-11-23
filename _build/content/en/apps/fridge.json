@@ -1,19 +1,19 @@
 {
   "slug": "fridge",
-  "title": "What to Cook With What I Have — FRIDGE Recipe App",
-  "description": "Don’t know what to cook? FRIDGE helps you find meal ideas from the ingredients already in your fridge and waste less food. Download it on Google Play.",
-  "h1": "FRIDGE — recipes from what’s already in your fridge",
-  "lead": "Standing in front of the fridge with no idea what to cook? FRIDGE helps you find meal ideas from the ingredients you already have.",
+  "title": "What to Cook With What I Have — MY FRIDGE Recipe App",
+  "description": "Don’t know what to cook? MY FRIDGE helps you find meal ideas from the ingredients already in your fridge and waste less food. Download it on Google Play.",
+  "h1": "MY FRIDGE — recipes from what’s already in your fridge",
+  "lead": "Standing in front of the fridge with no idea what to cook? MY FRIDGE helps you find meal ideas from the ingredients you already have.",
   "sections": [
     {
       "h2": "What to cook with what you have",
       "p": [
         "It happens to everyone: the fridge is not empty, but nothing comes to mind. A few vegetables, some eggs, half a pack of cheese — and in the end you order food or go shopping again, while the leftovers quietly go to waste.",
-        "FRIDGE starts from the other side. Instead of searching for a recipe and then buying ingredients, you start with what is already there and look for dishes you can make from it."
+        "MY FRIDGE starts from the other side. Instead of searching for a recipe and then buying ingredients, you start with what is already there and look for dishes you can make from it."
       ]
     },
     {
-      "h2": "What FRIDGE helps you do",
+      "h2": "What MY FRIDGE helps you do",
       "ul": [
         "Find recipes from the products already in your fridge.",
         "Get meal ideas when you don’t know what to cook.",
@@ -24,14 +24,14 @@
     {
       "h2": "Who it is for",
       "p": [
-        "FRIDGE is for anyone who cooks at home and wants less hassle: busy people who need a quick dinner idea, families who want to waste less food, students learning to cook and anyone tired of asking “what’s for dinner?” every evening.",
+        "MY FRIDGE is for anyone who cooks at home and wants less hassle: busy people who need a quick dinner idea, families who want to waste less food, students learning to cook and anyone tired of asking “what’s for dinner?” every evening.",
         "It is especially handy at the end of the week, when the fridge holds a little of everything and not enough of anything. A few ideas at the right moment can turn those leftovers into a proper meal."
       ]
     },
     {
       "h2": "How to start",
       "ul": [
-        "Install FRIDGE from Google Play.",
+        "Install MY FRIDGE from Google Play.",
         "Look in your fridge and note the ingredients you have.",
         "Find recipe ideas based on those ingredients.",
         "Pick a dish and cook it.",
@@ -46,28 +46,28 @@
       ]
     },
     {
-      "h2": "Why I made FRIDGE",
+      "h2": "Why I made MY FRIDGE",
       "p": [
-        "I am Nikolay Shcherbakov. For more than 15 years I have been changing how I eat and living without many everyday foods, so the question “what can I cook from what I have?” comes up in my kitchen all the time. I shared my personal experience in the book [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FRIDGE is a simple everyday tool that helps answer that question quickly."
+        "I am Nikolay Shcherbakov. For more than 15 years I have been changing how I eat and living without many everyday foods, so the question “what can I cook from what I have?” comes up in my kitchen all the time. I shared my personal experience in the book [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). MY FRIDGE is a simple everyday tool that helps answer that question quickly."
       ]
     }
   ],
   "faq": [
     {
       "q": "Is there an app that finds recipes from ingredients I have?",
-      "a": "Yes. FRIDGE helps you find recipes and meal ideas from the products already in your fridge."
+      "a": "Yes. MY FRIDGE helps you find recipes and meal ideas from the products already in your fridge."
     },
     {
       "q": "What can I cook when I don’t know what to make?",
-      "a": "Start with what you already have. FRIDGE suggests dish ideas based on your ingredients, so you don’t have to go shopping first."
+      "a": "Start with what you already have. MY FRIDGE suggests dish ideas based on your ingredients, so you don’t have to go shopping first."
     },
     {
       "q": "How can I reduce food waste at home?",
-      "a": "Cook from the ingredients that need to be used up first and plan meals around what is already in your fridge. FRIDGE is designed to help with that."
+      "a": "Cook from the ingredients that need to be used up first and plan meals around what is already in your fridge. MY FRIDGE is designed to help with that."
     },
     {
-      "q": "Where can I download FRIDGE?",
-      "a": "FRIDGE is available for Android on Google Play."
+      "q": "Where can I download MY FRIDGE?",
+      "a": "MY FRIDGE is available for Android on Google Play."
     }
   ],
   "related": [

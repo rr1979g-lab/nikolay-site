@@ -1,19 +1,19 @@
 {
  "slug": "fridge",
- "title": "Cosa cucinare con quello che ho in casa — app FRIDGE",
- "description": "Non sai cosa cucinare? FRIDGE ti aiuta a trovare idee per i pasti con gli ingredienti che hai già in frigo e a sprecare meno cibo. Scaricala su Google Play.",
- "h1": "FRIDGE — ricette con quello che hai già in frigo",
- "lead": "Sei davanti al frigo senza idee su cosa cucinare? FRIDGE ti aiuta a trovare idee per i pasti con gli ingredienti che hai già.",
+ "title": "Cosa cucinare con quello che ho in casa — app MY FRIDGE",
+ "description": "Non sai cosa cucinare? MY FRIDGE ti aiuta a trovare idee per i pasti con gli ingredienti che hai già in frigo e a sprecare meno cibo. Scaricala su Google Play.",
+ "h1": "MY FRIDGE — ricette con quello che hai già in frigo",
+ "lead": "Sei davanti al frigo senza idee su cosa cucinare? MY FRIDGE ti aiuta a trovare idee per i pasti con gli ingredienti che hai già.",
  "sections": [
   {
    "h2": "Cosa cucinare con quello che hai",
    "p": [
     "Succede a tutti: il frigo non è vuoto, ma non viene in mente niente. Qualche verdura, qualche uovo, mezza confezione di formaggio, e alla fine ordini da mangiare o rifai la spesa, mentre gli avanzi vanno silenziosamente sprecati.",
-    "FRIDGE parte dall'altro lato. Invece di cercare una ricetta e poi comprare gli ingredienti, parti da ciò che c'è già e cerchi i piatti che puoi preparare."
+    "MY FRIDGE parte dall'altro lato. Invece di cercare una ricetta e poi comprare gli ingredienti, parti da ciò che c'è già e cerchi i piatti che puoi preparare."
    ]
   },
   {
-   "h2": "In cosa ti aiuta FRIDGE",
+   "h2": "In cosa ti aiuta MY FRIDGE",
    "ul": [
     "Trovare ricette con i prodotti che hai già in frigo.",
     "Avere idee per i pasti quando non sai cosa cucinare.",
@@ -24,14 +24,14 @@
   {
    "h2": "A chi è rivolta",
    "p": [
-    "FRIDGE è per chiunque cucini a casa e voglia meno complicazioni: persone impegnate che cercano un'idea veloce per la cena, famiglie che vogliono sprecare meno cibo, studenti che imparano a cucinare e chiunque sia stanco di chiedersi ogni sera «cosa mangiamo?».",
+    "MY FRIDGE è per chiunque cucini a casa e voglia meno complicazioni: persone impegnate che cercano un'idea veloce per la cena, famiglie che vogliono sprecare meno cibo, studenti che imparano a cucinare e chiunque sia stanco di chiedersi ogni sera «cosa mangiamo?».",
     "È particolarmente comoda a fine settimana, quando il frigo contiene un po' di tutto e abbastanza di niente. Qualche idea al momento giusto può trasformare quegli avanzi in un vero pasto."
    ]
   },
   {
    "h2": "Come iniziare",
    "ul": [
-    "Installa FRIDGE da Google Play.",
+    "Installa MY FRIDGE da Google Play.",
     "Guarda nel frigo e annota gli ingredienti che hai.",
     "Trova idee di ricette in base a quegli ingredienti.",
     "Scegli un piatto e cucinalo.",
@@ -46,28 +46,28 @@
    ]
   },
   {
-   "h2": "Perché ho creato FRIDGE",
+   "h2": "Perché ho creato MY FRIDGE",
    "p": [
-    "Sono Nikolay Shcherbakov. Da oltre 15 anni cambio il mio modo di mangiare e vivo senza molti alimenti di uso quotidiano, quindi la domanda «cosa posso cucinare con quello che ho?» si presenta continuamente nella mia cucina. Ho condiviso la mia esperienza personale nel libro [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). FRIDGE è un semplice strumento di ogni giorno che aiuta a rispondere rapidamente a questa domanda."
+    "Sono Nikolay Shcherbakov. Da oltre 15 anni cambio il mio modo di mangiare e vivo senza molti alimenti di uso quotidiano, quindi la domanda «cosa posso cucinare con quello che ho?» si presenta continuamente nella mia cucina. Ho condiviso la mia esperienza personale nel libro [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg). MY FRIDGE è un semplice strumento di ogni giorno che aiuta a rispondere rapidamente a questa domanda."
    ]
   }
  ],
  "faq": [
   {
    "q": "Esiste un'app che trova ricette con gli ingredienti che ho?",
-   "a": "Sì. FRIDGE ti aiuta a trovare ricette e idee per i pasti con i prodotti che hai già in frigo."
+   "a": "Sì. MY FRIDGE ti aiuta a trovare ricette e idee per i pasti con i prodotti che hai già in frigo."
   },
   {
    "q": "Cosa posso cucinare quando non so cosa preparare?",
-   "a": "Parti da ciò che hai già. FRIDGE suggerisce idee di piatti in base ai tuoi ingredienti, così non devi prima andare a fare la spesa."
+   "a": "Parti da ciò che hai già. MY FRIDGE suggerisce idee di piatti in base ai tuoi ingredienti, così non devi prima andare a fare la spesa."
   },
   {
    "q": "Come posso ridurre lo spreco alimentare in casa?",
-   "a": "Cucina prima gli ingredienti da consumare per primi e pianifica i pasti in base a ciò che hai già in frigo. FRIDGE è pensata per aiutarti in questo."
+   "a": "Cucina prima gli ingredienti da consumare per primi e pianifica i pasti in base a ciò che hai già in frigo. MY FRIDGE è pensata per aiutarti in questo."
   },
   {
-   "q": "Dove posso scaricare FRIDGE?",
-   "a": "FRIDGE è disponibile per Android su Google Play."
+   "q": "Dove posso scaricare MY FRIDGE?",
+   "a": "MY FRIDGE è disponibile per Android su Google Play."
   }
  ],
  "related": [

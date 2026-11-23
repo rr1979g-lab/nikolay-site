@@ -1,9 +1,9 @@
 {
  "slug": "pill-reminder",
- "title": "App promemoria pillole per Android — PILL REMINDER",
- "description": "PILL REMINDER ti aiuta a creare orari e ricevere promemoria puntuali per pillole e routine quotidiane, così niente di importante sfugge. Su Google Play.",
- "h1": "PILL REMINDER — non perdere mai un promemoria importante",
- "lead": "Dimentichi di prendere le pillole o perdi il filo delle routine quotidiane? PILL REMINDER è uno strumento semplice per creare programmi e ricevere promemoria al momento giusto.",
+ "title": "App promemoria pillole per Android — VOVREMYA",
+ "description": "VOVREMYA ti aiuta a creare orari e ricevere promemoria puntuali per pillole e routine quotidiane, così niente di importante sfugge. Su Google Play.",
+ "h1": "VOVREMYA — non perdere mai un promemoria importante",
+ "lead": "Dimentichi di prendere le pillole o perdi il filo delle routine quotidiane? VOVREMYA è uno strumento semplice per creare programmi e ricevere promemoria al momento giusto.",
  "sections": [
   {
    "h2": "Perché è così facile dimenticare le pillole",
@@ -13,7 +13,7 @@
    ]
   },
   {
-   "h2": "Cosa fa PILL REMINDER",
+   "h2": "Cosa fa VOVREMYA",
    "ul": [
     "Creare programmi per pillole, vitamine e altri compiti regolari.",
     "Ricevere promemoria puntuali secondo il tuo programma.",
@@ -24,14 +24,14 @@
   {
    "h2": "A chi è rivolta",
    "p": [
-    "PILL REMINDER è per chi prende medicinali o integratori a orari fissi, per chi aiuta un familiare anziano a ricordare la sua routine e per chi vuole semplicemente promemoria affidabili per i compiti importanti di ogni giorno. È pensata per essere semplice e facile da usare.",
+    "VOVREMYA è per chi prende medicinali o integratori a orari fissi, per chi aiuta un familiare anziano a ricordare la sua routine e per chi vuole semplicemente promemoria affidabili per i compiti importanti di ogni giorno. È pensata per essere semplice e facile da usare.",
     "Aiuta anche oltre le medicine: bere acqua, una breve pausa di stretching, una passeggiata quotidiana o qualche minuto di calma. Se ti piacciono le brevi pause durante la giornata, l'app [MOMENT NOW](app:moment-now) offre pratiche che riportano l'attenzione al presente."
    ]
   },
   {
    "h2": "Come iniziare",
    "ul": [
-    "Installa PILL REMINDER da Google Play.",
+    "Installa VOVREMYA da Google Play.",
     "Aggiungi ciò che devi ricordare, per esempio una pillola o una routine quotidiana.",
     "Imposta il programma e gli orari adatti alla tua giornata o alle indicazioni del tuo medico.",
     "Consenti le notifiche, così i promemoria arrivano in orario.",
@@ -41,23 +41,23 @@
   {
    "h2": "Importante nota di sicurezza",
    "p": [
-    "PILL REMINDER è solo uno strumento di promemoria. Non sostituisce il medico e non dà consigli medici. Segui sempre le indicazioni del tuo medico o del farmacista su quale medicinale prendere, in che quantità e quando, e chiedi a loro se hai dubbi."
+    "VOVREMYA è solo uno strumento di promemoria. Non sostituisce il medico e non dà consigli medici. Segui sempre le indicazioni del tuo medico o del farmacista su quale medicinale prendere, in che quantità e quando, e chiedi a loro se hai dubbi."
    ]
   },
   {
    "h2": "Perché ho creato questa app",
    "p": [
-    "Sono Nikolay Shcherbakov, autore e creatore di app Android. Col tempo ho capito che le conoscenze utili vanno portate nella vita di ogni giorno e che le piccole azioni quotidiane plasmano le nostre giornate più dei grandi piani. Accanto alle mie app basate sulla pratica, creo strumenti per i compiti di ogni giorno. PILL REMINDER è uno di questi: un piccolo aiuto che evita che le routine importanti si perdano. Se vuoi costruire anche abitudini stabili, dai un'occhiata a [PERENNIAL](app:perennial)."
+    "Sono Nikolay Shcherbakov, autore e creatore di app Android. Col tempo ho capito che le conoscenze utili vanno portate nella vita di ogni giorno e che le piccole azioni quotidiane plasmano le nostre giornate più dei grandi piani. Accanto alle mie app basate sulla pratica, creo strumenti per i compiti di ogni giorno. VOVREMYA è uno di questi: un piccolo aiuto che evita che le routine importanti si perdano. Se vuoi costruire anche abitudini stabili, dai un'occhiata a [QUIT & BUILD](app:perennial)."
    ]
   }
  ],
  "faq": [
   {
    "q": "Come posso ricordarmi di prendere le pillole ogni giorno?",
-   "a": "Imposta un programma in un'app di promemoria e consenti le notifiche. PILL REMINDER ti permette di creare programmi e ricevere promemoria in orario."
+   "a": "Imposta un programma in un'app di promemoria e consenti le notifiche. VOVREMYA ti permette di creare programmi e ricevere promemoria in orario."
   },
   {
-   "q": "Posso usare PILL REMINDER per cose diverse dalle pillole?",
+   "q": "Posso usare VOVREMYA per cose diverse dalle pillole?",
    "a": "Sì. È uno strumento per programmi e promemoria puntuali, quindi puoi usarlo per qualsiasi routine quotidiana importante."
   },
   {
@@ -65,8 +65,8 @@
    "a": "No. L'app ti ricorda solo ciò che hai impostato nel programma. Le decisioni su medicinali e dosaggio spettano al tuo medico."
   },
   {
-   "q": "Dove posso scaricare PILL REMINDER?",
-   "a": "PILL REMINDER è disponibile per Android su Google Play."
+   "q": "Dove posso scaricare VOVREMYA?",
+   "a": "VOVREMYA è disponibile per Android su Google Play."
   }
  ],
  "related": [

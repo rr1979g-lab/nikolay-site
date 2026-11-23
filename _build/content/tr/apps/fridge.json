@@ -1,19 +1,19 @@
 {
  "slug": "fridge",
- "title": "Elimdekilerle Ne Pişirsem — FRIDGE Tarif Uygulaması",
- "description": "Ne pişireceğinizi bilmiyor musunuz? FRIDGE, buzdolabınızdaki malzemelerle yemek fikirleri bulmanıza ve israfı azaltmanıza yardım eder. Google Play'de.",
- "h1": "FRIDGE — buzdolabınızdakilerle tarifler",
- "lead": "Buzdolabının önünde ne pişireceğinizi bilmeden mi duruyorsunuz? FRIDGE, elinizdeki malzemelerle yemek fikirleri bulmanıza yardımcı olur.",
+ "title": "Elimdekilerle Ne Pişirsem — MY FRIDGE Tarif Uygulaması",
+ "description": "Ne pişireceğinizi bilmiyor musunuz? MY FRIDGE, buzdolabınızdaki malzemelerle yemek fikirleri bulmanıza ve israfı azaltmanıza yardım eder. Google Play'de.",
+ "h1": "MY FRIDGE — buzdolabınızdakilerle tarifler",
+ "lead": "Buzdolabının önünde ne pişireceğinizi bilmeden mi duruyorsunuz? MY FRIDGE, elinizdeki malzemelerle yemek fikirleri bulmanıza yardımcı olur.",
  "sections": [
   {
    "h2": "Elinizdekilerle ne pişirebilirsiniz?",
    "p": [
     "Herkesin başına gelir: buzdolabı boş değildir ama aklınıza hiçbir şey gelmez. Birkaç sebze, biraz yumurta, yarım paket peynir. Sonunda ya yemek sipariş edersiniz ya da yeniden alışverişe çıkarsınız, artanlar da sessizce çöpe gider.",
-    "FRIDGE işe öbür uçtan başlar. Önce bir tarif arayıp sonra malzeme almak yerine, zaten elinizde olanlardan yola çıkar ve onlarla yapabileceğiniz yemekleri ararsınız."
+    "MY FRIDGE işe öbür uçtan başlar. Önce bir tarif arayıp sonra malzeme almak yerine, zaten elinizde olanlardan yola çıkar ve onlarla yapabileceğiniz yemekleri ararsınız."
    ]
   },
   {
-   "h2": "FRIDGE neler yapmanıza yardımcı olur?",
+   "h2": "MY FRIDGE neler yapmanıza yardımcı olur?",
    "ul": [
     "Buzdolabınızdaki ürünlerle yapılabilecek tarifleri bulmak.",
     "Ne pişireceğinizi bilmediğinizde yemek fikirleri almak.",
@@ -24,14 +24,14 @@
   {
    "h2": "Kimler için uygun?",
    "p": [
-    "FRIDGE, evde yemek yapan ve daha az uğraşmak isteyen herkes için: hızlı bir akşam yemeği fikrine ihtiyaç duyan yoğun insanlar, daha az yemek israf etmek isteyen aileler, yemek yapmayı öğrenen öğrenciler ve her akşam “akşam ne yesek?” sorusundan yorulanlar.",
+    "MY FRIDGE, evde yemek yapan ve daha az uğraşmak isteyen herkes için: hızlı bir akşam yemeği fikrine ihtiyaç duyan yoğun insanlar, daha az yemek israf etmek isteyen aileler, yemek yapmayı öğrenen öğrenciler ve her akşam “akşam ne yesek?” sorusundan yorulanlar.",
     "Özellikle buzdolabında her şeyden biraz olup hiçbirinden yeterince bulunmayan hafta sonlarında işe yarar. Doğru anda gelen birkaç fikir, o artıkları gerçek bir öğüne dönüştürebilir."
    ]
   },
   {
    "h2": "Nasıl başlanır?",
    "ul": [
-    "FRIDGE'i Google Play'den yükleyin.",
+    "MY FRIDGE'i Google Play'den yükleyin.",
     "Buzdolabınıza bakın ve elinizdeki malzemeleri not edin.",
     "Bu malzemelere göre tarif fikirleri bulun.",
     "Bir yemek seçin ve pişirin.",
@@ -46,28 +46,28 @@
    ]
   },
   {
-   "h2": "FRIDGE'i neden yaptım?",
+   "h2": "MY FRIDGE'i neden yaptım?",
    "p": [
-    "Ben Nikolay Shcherbakov. 15 yılı aşkın süredir beslenme biçimimi değiştiriyorum ve gündelik gıdaların çoğu olmadan yaşıyorum; bu yüzden “elimdekilerle ne pişirebilirim?” sorusu mutfağımda sürekli karşıma çıkar. Kişisel deneyimimi [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg) kitabında paylaştım. FRIDGE, bu soruyu hızlıca yanıtlamaya yardımcı olan basit bir günlük araçtır."
+    "Ben Nikolay Shcherbakov. 15 yılı aşkın süredir beslenme biçimimi değiştiriyorum ve gündelik gıdaların çoğu olmadan yaşıyorum; bu yüzden “elimdekilerle ne pişirebilirim?” sorusu mutfağımda sürekli karşıma çıkar. Kişisel deneyimimi [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg) kitabında paylaştım. MY FRIDGE, bu soruyu hızlıca yanıtlamaya yardımcı olan basit bir günlük araçtır."
    ]
   }
  ],
  "faq": [
   {
    "q": "Elimdeki malzemelerle tarif bulan bir uygulama var mı?",
-   "a": "Evet. FRIDGE, buzdolabınızdaki ürünlerle tarifler ve yemek fikirleri bulmanıza yardımcı olur."
+   "a": "Evet. MY FRIDGE, buzdolabınızdaki ürünlerle tarifler ve yemek fikirleri bulmanıza yardımcı olur."
   },
   {
    "q": "Ne yapacağımı bilmediğimde ne pişirebilirim?",
-   "a": "Zaten elinizde olanlardan başlayın. FRIDGE malzemelerinize göre yemek fikirleri önerir; böylece önce alışverişe çıkmanız gerekmez."
+   "a": "Zaten elinizde olanlardan başlayın. MY FRIDGE malzemelerinize göre yemek fikirleri önerir; böylece önce alışverişe çıkmanız gerekmez."
   },
   {
    "q": "Evde yemek israfını nasıl azaltabilirim?",
-   "a": "Önce tüketilmesi gereken malzemelerle pişirin ve öğünlerinizi buzdolabınızda zaten bulunanlara göre planlayın. FRIDGE bu konuda yardımcı olmak için tasarlandı."
+   "a": "Önce tüketilmesi gereken malzemelerle pişirin ve öğünlerinizi buzdolabınızda zaten bulunanlara göre planlayın. MY FRIDGE bu konuda yardımcı olmak için tasarlandı."
   },
   {
-   "q": "FRIDGE'i nereden indirebilirim?",
-   "a": "FRIDGE, Android için Google Play'de bulunur."
+   "q": "MY FRIDGE'i nereden indirebilirim?",
+   "a": "MY FRIDGE, Android için Google Play'de bulunur."
   }
  ],
  "related": [

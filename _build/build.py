@@ -27,6 +27,10 @@ BLOG_SLUGS = ["how-to-stop-scrolling-your-phone", "parental-controls-android", "
 BLOG_SLUGS_RU = ["kak-perestat-sidet-v-telefone", "roditelskij-kontrol-na-android", "kak-razvit-intuiciyu", "dyhatelnye-praktiki-dlya-spokojstviya"]
 APP_CAT = ["EducationalApplication", "HealthApplication", "HealthApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication",
            "EducationalApplication", "HealthApplication", "HealthApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "LifestyleApplication", "MultimediaApplication"]
+FULL_NAMES = ["Intuition Trainer: Grow Your Mind", "MOMENT NOW: Mindfulness", "BREATH PRANA MOMENT", "Head & Heart: Decision Helper",
+              "PHONE DETOX", "Habit Tracker: Quit & Build", "Affirmation Daily Affirmations", "Figure out why? AI explainer",
+              "FreeAgain: Quit Vape & Habits", "Vovremya Reminders", "Parent Lock: Parental Control", "FERMENT LAB: Fermentation",
+              "My Fridge: Smart Recipes", "Life Compass: Self Improvement", "Frame AI: Video Editor"]
 FREE_APPS = {1, 2}  # MOMENT NOW, BREATH PRANA MOMENT (as on the site)
 
 PRUNE = ["I18N", "STORY", "FEAT", "APP_TXT", "BOOK_TXT", "ML_TXT", "EXTRA", "CF_TXT", "CT_TXT", "FREE_TXT", "APP_HINT", "ALSO_TXT", "RV_TXT"]
@@ -446,10 +450,12 @@ def build_item(kind, i):
         if kind == "apps":
             a = META["apps"][i]
             name, img, og = a["n"], a["img"], f"/img/og/app-{slug}.jpg"
+            full = FULL_NAMES[i] if i < len(FULL_NAMES) else name
             visual = f'<img class="pg-icon" src="{img}" alt="{esc(name)}" width="120" height="120">'
             cta = gp_button(lang, a["url"], slug) + f'<p class="pg-note">{esc(U(lang, "android_only"))}{" · " + esc(U(lang, "free")) if i in FREE_APPS else ""}</p>'
-            kicker = f'{esc(U(lang, "app_word"))} · Android'
-            main_ld = {"@context": "https://schema.org", "@type": "SoftwareApplication", "name": name, "operatingSystem": "Android",
+            kicker = f'{esc(U(lang, "app_word"))} · Android · Google Play: {esc(full)}'
+            full = FULL_NAMES[i] if i < len(FULL_NAMES) else name
+            main_ld = {"@context": "https://schema.org", "@type": "SoftwareApplication", "name": full, "alternateName": name, "operatingSystem": "Android",
                        "applicationCategory": APP_CAT[i], "description": doc["description"], "url": SITE + path, "image": SITE + img,
                        "installUrl": a["url"], "downloadUrl": a["url"], "inLanguage": HREFLANG.get(lang, lang),
                        "author": {"@id": SITE + "/#person", "@type": "Person", "name": "Nikolay Shcherbakov"}}

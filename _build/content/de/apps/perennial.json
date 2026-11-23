@@ -1,19 +1,19 @@
 {
  "slug": "perennial",
- "title": "Perennial Habit Tracker: Gewohnheiten, die bleiben",
- "description": "Fällt es schwer, dranzubleiben? Der Habit Tracker Perennial hilft Ihnen, positive Routinen aufzubauen, tägliche Fortschritte festzuhalten und Erfolge zu sehen.",
- "h1": "Perennial – kleine Gewohnheiten, dauerhafte Veränderung",
- "lead": "Perennial ist ein Gewohnheits-Tracker für Android von Nikolay Shcherbakov. Er hilft Ihnen, gesunde Routinen aufzubauen, Ihre täglichen Fortschritte festzuhalten und aus kleinen Alltagshandlungen Gewohnheiten zu machen, die bleiben.",
+ "title": "Quit & Build Habit Tracker: Gewohnheiten, die bleiben",
+ "description": "Fällt es schwer, dranzubleiben? Der Habit Tracker Quit & Build hilft Ihnen, positive Routinen aufzubauen, tägliche Fortschritte festzuhalten und Erfolge zu sehen.",
+ "h1": "Quit & Build – kleine Gewohnheiten, dauerhafte Veränderung",
+ "lead": "Quit & Build ist ein Gewohnheits-Tracker für Android von Nikolay Shcherbakov. Er hilft Ihnen, gesunde Routinen aufzubauen, Ihre täglichen Fortschritte festzuhalten und aus kleinen Alltagshandlungen Gewohnheiten zu machen, die bleiben.",
  "sections": [
   {
    "h2": "Wie Sie eine Gewohnheit aufbauen und wirklich dabeibleiben",
    "p": [
     "Eine neue Gewohnheit zu beginnen ist leicht. Schwer ist es, nach der ersten begeisterten Woche dranzubleiben. Die Motivation lässt nach, ein voller Tag unterbricht die Kette, und bald ist der Plan vergessen. Beständigkeit entsteht weniger durch große Kraftakte als durch kleine Handlungen, die Tag für Tag wiederholt werden.",
-    "Das ist die Idee hinter Perennial. Wie eine mehrjährige Pflanze, die jedes Jahr wiederkommt, wird eine Gewohnheit durch regelmäßige, geduldige Pflege stark. Die App hält Ihre Routinen im Blick und zeigt Ihnen, wie weit Sie gekommen sind."
+    "Das ist die Idee hinter Quit & Build. Wie eine mehrjährige Pflanze, die jedes Jahr wiederkommt, wird eine Gewohnheit durch regelmäßige, geduldige Pflege stark. Die App hält Ihre Routinen im Blick und zeigt Ihnen, wie weit Sie gekommen sind."
    ]
   },
   {
-   "h2": "Was Sie mit Perennial tun können",
+   "h2": "Was Sie mit Quit & Build tun können",
    "ul": [
     "Die gesunden Gewohnheiten anlegen, die Sie aufbauen möchten",
     "Jeden Tag Ihren Fortschritt festhalten",
@@ -25,13 +25,13 @@
   {
    "h2": "Für wen die App gedacht ist",
    "p": [
-    "Perennial passt zu allen, die mehr Struktur in ihre Tage bringen möchten: wer mit einer Morgenroutine beginnt, mit täglichem Lesen, Sport oder Meditation, oder einfach nicht mehr auf halbem Weg aufgeben will. Sie eignet sich für eine einzelne Gewohnheit ebenso wie für mehrere."
+    "Quit & Build passt zu allen, die mehr Struktur in ihre Tage bringen möchten: wer mit einer Morgenroutine beginnt, mit täglichem Lesen, Sport oder Meditation, oder einfach nicht mehr auf halbem Weg aufgeben will. Sie eignet sich für eine einzelne Gewohnheit ebenso wie für mehrere."
    ]
   },
   {
    "h2": "So beginnen Sie, Ihre Gewohnheiten zu verfolgen",
    "ul": [
-    "Installieren Sie Perennial aus Google Play auf Ihrem Android-Handy.",
+    "Installieren Sie Quit & Build aus Google Play auf Ihrem Android-Handy.",
     "Fügen Sie eine oder zwei Gewohnheiten hinzu, die Sie wirklich behalten möchten, und halten Sie sie klein.",
     "Markieren Sie jeden Tag, an dem Sie sie erledigt haben.",
     "Sehen Sie sich Ihren Fortschritt und Ihre Erfolge regelmäßig an.",
@@ -48,25 +48,25 @@
    "h2": "Warum der Autor die App entwickelt hat",
    "p": [
     "Eine der Fragen, die Nikolay Shcherbakov durch mehr als 20 Jahre Praxis begleitet haben, ist, wie kleine tägliche Handlungen unser Leben allmählich verändern. Er hat es an sich selbst erlebt, auch in mehr als 15 Jahren veränderter Ernährung, die ihn lehrte, wie sich Gewohnheiten und Wohlbefinden mit der Zeit wandeln.",
-    "Ihm fiel außerdem auf, dass wir etwas Nützliches lernen, inspiriert sind und nach ein paar Tagen in alte Gewohnheiten zurückfallen. Perennial soll helfen, dass neue Routinen über diesen Punkt hinaus Bestand haben. Die App passt gut zu [Head & Heart](app:head-heart), um zu entscheiden, was sich zu ändern lohnt, und zu [Phone Detox](app:phone-detox), wenn die Bildschirmzeit die Gewohnheit ist, die Sie ersetzen möchten."
+    "Ihm fiel außerdem auf, dass wir etwas Nützliches lernen, inspiriert sind und nach ein paar Tagen in alte Gewohnheiten zurückfallen. Quit & Build soll helfen, dass neue Routinen über diesen Punkt hinaus Bestand haben. Die App passt gut zu [Head & Heart](app:head-heart), um zu entscheiden, was sich zu ändern lohnt, und zu [Phone Detox](app:phone-detox), wenn die Bildschirmzeit die Gewohnheit ist, die Sie ersetzen möchten."
    ]
   }
  ],
  "faq": [
   {
    "q": "Wie lange dauert es, eine Gewohnheit aufzubauen?",
-   "a": "Das ist von Mensch zu Mensch und von Gewohnheit zu Gewohnheit verschieden. Am wichtigsten ist, eine kleine Handlung regelmäßig zu wiederholen, und ein Tracker wie Perennial hilft Ihnen, diese Beständigkeit zu sehen."
+   "a": "Das ist von Mensch zu Mensch und von Gewohnheit zu Gewohnheit verschieden. Am wichtigsten ist, eine kleine Handlung regelmäßig zu wiederholen, und ein Tracker wie Quit & Build hilft Ihnen, diese Beständigkeit zu sehen."
   },
   {
    "q": "Wie verfolge ich Gewohnheiten am besten?",
-   "a": "Halten Sie es einfach: Wählen Sie ein paar kleine Gewohnheiten, markieren Sie sie jeden Tag und prüfen Sie Ihren Fortschritt. Perennial ist genau auf diese tägliche Routine ausgerichtet."
+   "a": "Halten Sie es einfach: Wählen Sie ein paar kleine Gewohnheiten, markieren Sie sie jeden Tag und prüfen Sie Ihren Fortschritt. Quit & Build ist genau auf diese tägliche Routine ausgerichtet."
   },
   {
    "q": "Kann ich mehr als eine Gewohnheit verfolgen?",
    "a": "Ja, Sie können mehrere gesunde Gewohnheiten aufbauen und für jede Ihren täglichen Fortschritt festhalten."
   },
   {
-   "q": "Gibt es Perennial für das iPhone?",
+   "q": "Gibt es Quit & Build für das iPhone?",
    "a": "Die App ist derzeit für Android bei Google Play erhältlich. Eine iPhone-Version gibt es noch nicht."
   }
  ],

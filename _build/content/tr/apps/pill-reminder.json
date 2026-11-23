@@ -1,9 +1,9 @@
 {
  "slug": "pill-reminder",
- "title": "Android İçin İlaç Hatırlatıcı Uygulaması — PILL REMINDER",
- "description": "PILL REMINDER, ilaçlar ve günlük rutinler için program oluşturmanıza ve zamanında hatırlatma almanıza yardım eder. Android için Google Play'de.",
- "h1": "PILL REMINDER — önemli bir hatırlatmayı asla kaçırmayın",
- "lead": "İlaçlarınızı almayı mı unutuyorsunuz ya da günlük rutinlerinizi mi karıştırıyorsunuz? PILL REMINDER, program oluşturmak ve hatırlatmaları tam zamanında almak için basit bir araçtır.",
+ "title": "Android İçin İlaç Hatırlatıcı Uygulaması — VOVREMYA",
+ "description": "VOVREMYA, ilaçlar ve günlük rutinler için program oluşturmanıza ve zamanında hatırlatma almanıza yardım eder. Android için Google Play'de.",
+ "h1": "VOVREMYA — önemli bir hatırlatmayı asla kaçırmayın",
+ "lead": "İlaçlarınızı almayı mı unutuyorsunuz ya da günlük rutinlerinizi mi karıştırıyorsunuz? VOVREMYA, program oluşturmak ve hatırlatmaları tam zamanında almak için basit bir araçtır.",
  "sections": [
   {
    "h2": "İlaçları unutmak neden bu kadar kolay?",
@@ -13,7 +13,7 @@
    ]
   },
   {
-   "h2": "PILL REMINDER ne yapar?",
+   "h2": "VOVREMYA ne yapar?",
    "ul": [
     "İlaçlar, vitaminler ve diğer düzenli işler için programlar oluşturur.",
     "Programınıza göre zamanında hatırlatmalar alırsınız.",
@@ -24,14 +24,14 @@
   {
    "h2": "Kimler için uygun?",
    "p": [
-    "PILL REMINDER, ilaç ya da takviyeleri belirli bir programa göre alan herkes, yaşlı bir yakınının rutinini hatırlamasına yardım eden kişiler ve günlük önemli işler için güvenilir hatırlatmalar isteyenler için. Basit ve kullanımı kolay olması amaçlandı.",
+    "VOVREMYA, ilaç ya da takviyeleri belirli bir programa göre alan herkes, yaşlı bir yakınının rutinini hatırlamasına yardım eden kişiler ve günlük önemli işler için güvenilir hatırlatmalar isteyenler için. Basit ve kullanımı kolay olması amaçlandı.",
     "İlacın ötesinde de işe yarar: su içmek, kısa bir esneme molası, günlük yürüyüş ya da birkaç dakikalık sakinlik. Gün içinde kısa duraklamaları seviyorsanız, [MOMENT NOW](app:moment-now) uygulaması dikkatinizi şimdiye geri getiren pratikler sunar."
    ]
   },
   {
    "h2": "Nasıl başlanır?",
    "ul": [
-    "PILL REMINDER'ı Google Play'den yükleyin.",
+    "VOVREMYA'ı Google Play'den yükleyin.",
     "Hatırlamanız gerekeni ekleyin; örneğin bir ilaç ya da günlük bir rutin.",
     "Gününüze ya da doktorunuzun talimatlarına uyan programı ve saatleri ayarlayın.",
     "Hatırlatmaların zamanında gelmesi için bildirimlere izin verin.",
@@ -41,23 +41,23 @@
   {
    "h2": "Önemli güvenlik notu",
    "p": [
-    "PILL REMINDER yalnızca bir hatırlatma aracıdır. Doktorun yerini tutmaz ve tıbbi tavsiye vermez. Hangi ilacı, ne kadar ve ne zaman alacağınız konusunda her zaman doktorunuzun ya da eczacınızın talimatlarına uyun ve aklınıza takılan bir şey varsa onlara sorun."
+    "VOVREMYA yalnızca bir hatırlatma aracıdır. Doktorun yerini tutmaz ve tıbbi tavsiye vermez. Hangi ilacı, ne kadar ve ne zaman alacağınız konusunda her zaman doktorunuzun ya da eczacınızın talimatlarına uyun ve aklınıza takılan bir şey varsa onlara sorun."
    ]
   },
   {
    "h2": "Bu uygulamayı neden yaptım?",
    "p": [
-    "Ben Nikolay Shcherbakov, bir yazar ve Android uygulamaları geliştiricisiyim. Zamanla, yararlı bilginin gündelik hayata taşınması gerektiğini ve küçük günlük eylemlerin günlerimizi büyük planlardan daha çok şekillendirdiğini fark ettim. Pratik odaklı uygulamalarımın yanında günlük işler için araçlar da geliştiriyorum. PILL REMINDER bunlardan biri: önemli rutinlerin kaybolmasını önleyen küçük bir yardımcı. İstikrarlı alışkanlıklar edinmek de isterseniz [PERENNIAL](app:perennial)'a göz atın."
+    "Ben Nikolay Shcherbakov, bir yazar ve Android uygulamaları geliştiricisiyim. Zamanla, yararlı bilginin gündelik hayata taşınması gerektiğini ve küçük günlük eylemlerin günlerimizi büyük planlardan daha çok şekillendirdiğini fark ettim. Pratik odaklı uygulamalarımın yanında günlük işler için araçlar da geliştiriyorum. VOVREMYA bunlardan biri: önemli rutinlerin kaybolmasını önleyen küçük bir yardımcı. İstikrarlı alışkanlıklar edinmek de isterseniz [QUIT & BUILD](app:perennial)'a göz atın."
    ]
   }
  ],
  "faq": [
   {
    "q": "İlaçlarımı her gün almayı nasıl hatırlayabilirim?",
-   "a": "Bir hatırlatma uygulamasında program ayarlayın ve bildirimlere izin verin. PILL REMINDER program oluşturmanıza ve hatırlatmaları zamanında almanıza olanak tanır."
+   "a": "Bir hatırlatma uygulamasında program ayarlayın ve bildirimlere izin verin. VOVREMYA program oluşturmanıza ve hatırlatmaları zamanında almanıza olanak tanır."
   },
   {
-   "q": "PILL REMINDER'ı ilaç dışındaki şeyler için de kullanabilir miyim?",
+   "q": "VOVREMYA'ı ilaç dışındaki şeyler için de kullanabilir miyim?",
    "a": "Evet. Programlar ve zamanında hatırlatmalar için bir araçtır; bu yüzden önemli her günlük rutin için kullanabilirsiniz."
   },
   {
@@ -65,8 +65,8 @@
    "a": "Hayır. Uygulama yalnızca belirlediğiniz programa göre hatırlatır. İlaç ve doz kararları doktorunuza aittir."
   },
   {
-   "q": "PILL REMINDER'ı nereden indirebilirim?",
-   "a": "PILL REMINDER, Android için Google Play'de bulunur."
+   "q": "VOVREMYA'ı nereden indirebilirim?",
+   "a": "VOVREMYA, Android için Google Play'de bulunur."
   }
  ],
  "related": [

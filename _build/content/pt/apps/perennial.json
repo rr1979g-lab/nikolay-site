@@ -1,19 +1,19 @@
 {
  "slug": "perennial",
- "title": "Perennial: Rastreador de Hábitos que Duram",
- "description": "Difícil manter a constância? O rastreador de hábitos Perennial ajuda a criar rotinas positivas, marcar o progresso diário e ver conquistas. Teste no Android.",
- "h1": "Perennial — pequenos hábitos, mudança duradoura",
- "lead": "Perennial é um rastreador de hábitos para Android de Nikolay Shcherbakov. Ele ajuda você a criar rotinas saudáveis, marcar seu progresso diário e transformar pequenas ações do dia a dia em hábitos que ficam.",
+ "title": "Quit & Build: Rastreador de Hábitos que Duram",
+ "description": "Difícil manter a constância? O rastreador de hábitos Quit & Build ajuda a criar rotinas positivas, marcar o progresso diário e ver conquistas. Teste no Android.",
+ "h1": "Quit & Build — pequenos hábitos, mudança duradoura",
+ "lead": "Quit & Build é um rastreador de hábitos para Android de Nikolay Shcherbakov. Ele ajuda você a criar rotinas saudáveis, marcar seu progresso diário e transformar pequenas ações do dia a dia em hábitos que ficam.",
  "sections": [
   {
    "h2": "Como criar um hábito e realmente mantê-lo",
    "p": [
     "Começar um hábito novo é fácil. Difícil é manter depois da primeira semana de entusiasmo. A motivação diminui, um dia cheio quebra a sequência e logo o plano é esquecido. A constância vem menos de grandes explosões de esforço e mais de pequenas ações repetidas dia após dia.",
-    "Essa é a ideia por trás do Perennial. Como uma planta perene que volta todo ano, um hábito fica forte com cuidado regular e paciente. O app mantém suas rotinas à vista e mostra o quanto você já avançou."
+    "Essa é a ideia por trás do Quit & Build. Como uma planta perene que volta todo ano, um hábito fica forte com cuidado regular e paciente. O app mantém suas rotinas à vista e mostra o quanto você já avançou."
    ]
   },
   {
-   "h2": "O que você pode fazer com o Perennial",
+   "h2": "O que você pode fazer com o Quit & Build",
    "ul": [
     "Criar os hábitos saudáveis que você quer desenvolver",
     "Marcar seu progresso todos os dias",
@@ -25,13 +25,13 @@
   {
    "h2": "Para quem é",
    "p": [
-    "O Perennial serve para quem quer mais estrutura nos dias: quem está começando uma rotina matinal, uma prática diária de leitura, exercício ou meditação, ou simplesmente quer parar de abandonar boas intenções pela metade. Funciona tão bem para um hábito quanto para vários."
+    "O Quit & Build serve para quem quer mais estrutura nos dias: quem está começando uma rotina matinal, uma prática diária de leitura, exercício ou meditação, ou simplesmente quer parar de abandonar boas intenções pela metade. Funciona tão bem para um hábito quanto para vários."
    ]
   },
   {
    "h2": "Como começar a acompanhar seus hábitos",
    "ul": [
-    "Instale o Perennial pelo Google Play no seu celular Android.",
+    "Instale o Quit & Build pelo Google Play no seu celular Android.",
     "Adicione um ou dois hábitos que você realmente quer manter, e faça-os pequenos.",
     "Marque cada dia em que você os cumprir.",
     "Revise seu progresso e suas conquistas com regularidade.",
@@ -48,25 +48,25 @@
    "h2": "Por que o autor criou o app",
    "p": [
     "Uma das perguntas que guiaram Nikolay Shcherbakov por mais de 20 anos de prática é como pequenas ações diárias mudam nossa vida aos poucos. Ele viu isso na própria experiência, inclusive em mais de 15 anos mudando a forma de se alimentar, o que lhe ensinou como hábitos e bem-estar se transformam com o tempo.",
-    "Ele também percebeu que podemos aprender algo útil, nos inspirar e, poucos dias depois, voltar aos velhos hábitos. O Perennial existe para ajudar as novas rotinas a sobreviver a esse ponto. Combina bem com o [Head & Heart](app:head-heart), para decidir o que vale a pena mudar, e com o [Phone Detox](app:phone-detox), se o tempo de tela é o hábito que você quer substituir."
+    "Ele também percebeu que podemos aprender algo útil, nos inspirar e, poucos dias depois, voltar aos velhos hábitos. O Quit & Build existe para ajudar as novas rotinas a sobreviver a esse ponto. Combina bem com o [Head & Heart](app:head-heart), para decidir o que vale a pena mudar, e com o [Phone Detox](app:phone-detox), se o tempo de tela é o hábito que você quer substituir."
    ]
   }
  ],
  "faq": [
   {
    "q": "Quanto tempo leva para criar um hábito?",
-   "a": "Varia de pessoa para pessoa e de hábito para hábito. O que mais importa é repetir uma ação pequena com regularidade, e um rastreador como o Perennial ajuda você a ver essa constância."
+   "a": "Varia de pessoa para pessoa e de hábito para hábito. O que mais importa é repetir uma ação pequena com regularidade, e um rastreador como o Quit & Build ajuda você a ver essa constância."
   },
   {
    "q": "Qual é a melhor forma de acompanhar hábitos?",
-   "a": "Mantenha simples: escolha poucos hábitos pequenos, marque-os todos os dias e revise seu progresso. O Perennial é construído em torno exatamente dessa rotina diária."
+   "a": "Mantenha simples: escolha poucos hábitos pequenos, marque-os todos os dias e revise seu progresso. O Quit & Build é construído em torno exatamente dessa rotina diária."
   },
   {
    "q": "Posso acompanhar mais de um hábito?",
    "a": "Sim, você pode criar vários hábitos saudáveis e marcar o progresso diário de cada um."
   },
   {
-   "q": "O Perennial está disponível para iPhone?",
+   "q": "O Quit & Build está disponível para iPhone?",
    "a": "No momento o app está disponível para Android no Google Play. Ainda não há versão para iPhone."
   }
  ],

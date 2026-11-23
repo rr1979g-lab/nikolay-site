@@ -1,19 +1,19 @@
 {
  "slug": "fridge",
- "title": "Was koche ich heute? Rezepte aus dem Kühlschrank – FRIDGE",
- "description": "Keine Idee, was Sie kochen sollen? FRIDGE findet Gerichte aus den Zutaten, die schon im Kühlschrank liegen, und hilft, weniger wegzuwerfen. Bei Google Play.",
- "h1": "FRIDGE – Rezepte aus dem, was schon im Kühlschrank liegt",
- "lead": "Sie stehen vor dem Kühlschrank und haben keine Idee, was Sie kochen sollen? FRIDGE hilft Ihnen, Gerichte aus den Zutaten zu finden, die Sie bereits haben.",
+ "title": "Was koche ich heute? Rezepte aus dem Kühlschrank – MY FRIDGE",
+ "description": "Keine Idee, was Sie kochen sollen? MY FRIDGE findet Gerichte aus den Zutaten, die schon im Kühlschrank liegen, und hilft, weniger wegzuwerfen. Bei Google Play.",
+ "h1": "MY FRIDGE – Rezepte aus dem, was schon im Kühlschrank liegt",
+ "lead": "Sie stehen vor dem Kühlschrank und haben keine Idee, was Sie kochen sollen? MY FRIDGE hilft Ihnen, Gerichte aus den Zutaten zu finden, die Sie bereits haben.",
  "sections": [
   {
    "h2": "Was kochen mit dem, was da ist?",
    "p": [
     "Das kennt jeder: Der Kühlschrank ist nicht leer, aber es fällt einem nichts ein. Etwas Gemüse, ein paar Eier, ein halbes Päckchen Käse – am Ende bestellen Sie Essen oder gehen wieder einkaufen, während die Reste leise verderben.",
-    "FRIDGE geht von der anderen Seite heran. Statt erst ein Rezept zu suchen und dann Zutaten zu kaufen, beginnen Sie mit dem, was schon da ist, und suchen Gerichte, die sich daraus zubereiten lassen."
+    "MY FRIDGE geht von der anderen Seite heran. Statt erst ein Rezept zu suchen und dann Zutaten zu kaufen, beginnen Sie mit dem, was schon da ist, und suchen Gerichte, die sich daraus zubereiten lassen."
    ]
   },
   {
-   "h2": "Wobei FRIDGE Ihnen hilft",
+   "h2": "Wobei MY FRIDGE Ihnen hilft",
    "ul": [
     "Rezepte aus den Produkten finden, die schon im Kühlschrank liegen.",
     "Ideen für Mahlzeiten bekommen, wenn Sie nicht wissen, was Sie kochen sollen.",
@@ -24,14 +24,14 @@
   {
    "h2": "Für wen die App gedacht ist",
    "p": [
-    "FRIDGE ist für alle, die zu Hause kochen und weniger Aufwand wollen: Berufstätige, die schnell eine Idee fürs Abendessen brauchen, Familien, die weniger Essen verschwenden möchten, Studierende, die kochen lernen, und alle, die es leid sind, sich jeden Abend zu fragen: „Was gibt es heute?“",
+    "MY FRIDGE ist für alle, die zu Hause kochen und weniger Aufwand wollen: Berufstätige, die schnell eine Idee fürs Abendessen brauchen, Familien, die weniger Essen verschwenden möchten, Studierende, die kochen lernen, und alle, die es leid sind, sich jeden Abend zu fragen: „Was gibt es heute?“",
     "Besonders praktisch ist sie am Ende der Woche, wenn der Kühlschrank von allem ein bisschen und von nichts genug enthält. Ein paar Ideen im richtigen Moment machen aus den Resten eine richtige Mahlzeit."
    ]
   },
   {
    "h2": "So fangen Sie an",
    "ul": [
-    "Installieren Sie FRIDGE aus Google Play.",
+    "Installieren Sie MY FRIDGE aus Google Play.",
     "Schauen Sie in Ihren Kühlschrank und notieren Sie die Zutaten, die Sie haben.",
     "Finden Sie Rezeptideen anhand dieser Zutaten.",
     "Wählen Sie ein Gericht und kochen Sie es.",
@@ -46,28 +46,28 @@
    ]
   },
   {
-   "h2": "Warum ich FRIDGE entwickelt habe",
+   "h2": "Warum ich MY FRIDGE entwickelt habe",
    "p": [
-    "Ich bin Nikolay Shcherbakov. Seit mehr als 15 Jahren verändere ich meine Ernährung und lebe ohne viele alltägliche Lebensmittel, daher stellt sich die Frage „Was kann ich aus dem kochen, was ich habe?“ in meiner Küche ständig. Meine persönliche Erfahrung habe ich im Buch [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg) geteilt. FRIDGE ist ein einfaches Alltagswerkzeug, das hilft, diese Frage schnell zu beantworten."
+    "Ich bin Nikolay Shcherbakov. Seit mehr als 15 Jahren verändere ich meine Ernährung und lebe ohne viele alltägliche Lebensmittel, daher stellt sich die Frage „Was kann ich aus dem kochen, was ich habe?“ in meiner Küche ständig. Meine persönliche Erfahrung habe ich im Buch [Minus 25 kg — and a Face Without Wrinkles!](book:minus-25-kg) geteilt. MY FRIDGE ist ein einfaches Alltagswerkzeug, das hilft, diese Frage schnell zu beantworten."
    ]
   }
  ],
  "faq": [
   {
    "q": "Gibt es eine App, die Rezepte aus meinen vorhandenen Zutaten findet?",
-   "a": "Ja. FRIDGE hilft Ihnen, Rezepte und Gerichteideen aus den Produkten zu finden, die schon in Ihrem Kühlschrank liegen."
+   "a": "Ja. MY FRIDGE hilft Ihnen, Rezepte und Gerichteideen aus den Produkten zu finden, die schon in Ihrem Kühlschrank liegen."
   },
   {
    "q": "Was kann ich kochen, wenn ich nicht weiß, was?",
-   "a": "Beginnen Sie mit dem, was Sie schon haben. FRIDGE schlägt Gerichte passend zu Ihren Zutaten vor, sodass Sie nicht erst einkaufen müssen."
+   "a": "Beginnen Sie mit dem, was Sie schon haben. MY FRIDGE schlägt Gerichte passend zu Ihren Zutaten vor, sodass Sie nicht erst einkaufen müssen."
   },
   {
    "q": "Wie kann ich zu Hause Lebensmittelverschwendung verringern?",
-   "a": "Kochen Sie zuerst die Zutaten, die aufgebraucht werden müssen, und planen Sie Mahlzeiten rund um das, was schon im Kühlschrank liegt. FRIDGE soll dabei helfen."
+   "a": "Kochen Sie zuerst die Zutaten, die aufgebraucht werden müssen, und planen Sie Mahlzeiten rund um das, was schon im Kühlschrank liegt. MY FRIDGE soll dabei helfen."
   },
   {
-   "q": "Wo kann ich FRIDGE laden?",
-   "a": "FRIDGE ist für Android bei Google Play erhältlich."
+   "q": "Wo kann ich MY FRIDGE laden?",
+   "a": "MY FRIDGE ist für Android bei Google Play erhältlich."
   }
  ],
  "related": [

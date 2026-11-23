@@ -1,19 +1,19 @@
 {
  "slug": "perennial",
- "title": "Suivi d’habitudes : Perennial, des habitudes durables",
- "description": "Du mal à rester régulier(ère) ? Le suivi d’habitudes Perennial vous aide à installer de bonnes routines, à noter vos progrès au jour le jour. Sur Android.",
- "h1": "Perennial : de petites habitudes, un changement durable",
- "lead": "Perennial est un suivi d’habitudes pour Android, créé par Nikolay Shcherbakov. Il vous aide à installer des routines saines, à noter vos progrès quotidiens et à transformer de petits gestes de tous les jours en habitudes qui durent.",
+ "title": "Suivi d’habitudes : Quit & Build, des habitudes durables",
+ "description": "Du mal à rester régulier(ère) ? Le suivi d’habitudes Quit & Build vous aide à installer de bonnes routines, à noter vos progrès au jour le jour. Sur Android.",
+ "h1": "Quit & Build : de petites habitudes, un changement durable",
+ "lead": "Quit & Build est un suivi d’habitudes pour Android, créé par Nikolay Shcherbakov. Il vous aide à installer des routines saines, à noter vos progrès quotidiens et à transformer de petits gestes de tous les jours en habitudes qui durent.",
  "sections": [
   {
    "h2": "Comment installer une habitude et la tenir vraiment",
    "p": [
     "Commencer une nouvelle habitude est facile. La garder après la première semaine d’enthousiasme est le plus difficile. La motivation s’estompe, une journée chargée casse la chaîne, et bientôt le plan est oublié. La régularité vient moins des grands coups d’effort que de petites actions répétées jour après jour.",
-    "C’est l’idée de Perennial. Comme une plante vivace qui revient chaque année, une habitude se renforce grâce à des soins réguliers et patients. L’appli garde vos routines sous les yeux et vous montre le chemin parcouru."
+    "C’est l’idée de Quit & Build. Comme une plante vivace qui revient chaque année, une habitude se renforce grâce à des soins réguliers et patients. L’appli garde vos routines sous les yeux et vous montre le chemin parcouru."
    ]
   },
   {
-   "h2": "Ce que vous pouvez faire avec Perennial",
+   "h2": "Ce que vous pouvez faire avec Quit & Build",
    "ul": [
     "Créer les habitudes saines que vous voulez installer",
     "Noter vos progrès chaque jour",
@@ -25,13 +25,13 @@
   {
    "h2": "À qui s’adresse-t-il ?",
    "p": [
-    "Perennial convient à toute personne qui veut plus de structure dans ses journées : celles et ceux qui démarrent une routine matinale, une pratique quotidienne de lecture, de sport ou de méditation, ou qui cherchent simplement à ne plus abandonner leurs bonnes intentions à mi-chemin. Il fonctionne aussi bien pour une habitude que pour plusieurs."
+    "Quit & Build convient à toute personne qui veut plus de structure dans ses journées : celles et ceux qui démarrent une routine matinale, une pratique quotidienne de lecture, de sport ou de méditation, ou qui cherchent simplement à ne plus abandonner leurs bonnes intentions à mi-chemin. Il fonctionne aussi bien pour une habitude que pour plusieurs."
    ]
   },
   {
    "h2": "Comment commencer à suivre vos habitudes",
    "ul": [
-    "Installez Perennial depuis Google Play sur votre téléphone Android.",
+    "Installez Quit & Build depuis Google Play sur votre téléphone Android.",
     "Ajoutez une ou deux habitudes que vous voulez vraiment garder, et faites-les petites.",
     "Marquez chaque jour où vous les accomplissez.",
     "Passez régulièrement en revue vos progrès et vos réussites.",
@@ -48,25 +48,25 @@
    "h2": "Pourquoi l’auteur l’a créé",
    "p": [
     "L’une des questions qui guident Nikolay Shcherbakov depuis plus de 20 ans de pratique est de savoir comment de petits gestes quotidiens changent peu à peu nos vies. Il l’a constaté dans sa propre expérience, notamment pendant plus de 15 ans de changement de son alimentation, qui lui a appris comment les habitudes et le bien-être évoluent avec le temps.",
-    "Il a aussi remarqué qu’on peut apprendre quelque chose d’utile, se sentir inspiré, puis retomber dans ses anciennes habitudes quelques jours plus tard. Perennial existe pour aider les nouvelles routines à survivre au-delà de ce cap. Il se marie bien avec [Head & Heart](app:head-heart) pour décider de ce qui vaut la peine d’être changé, et avec [Phone Detox](app:phone-detox) si le temps d’écran est l’habitude que vous voulez remplacer."
+    "Il a aussi remarqué qu’on peut apprendre quelque chose d’utile, se sentir inspiré, puis retomber dans ses anciennes habitudes quelques jours plus tard. Quit & Build existe pour aider les nouvelles routines à survivre au-delà de ce cap. Il se marie bien avec [Head & Heart](app:head-heart) pour décider de ce qui vaut la peine d’être changé, et avec [Phone Detox](app:phone-detox) si le temps d’écran est l’habitude que vous voulez remplacer."
    ]
   }
  ],
  "faq": [
   {
    "q": "Combien de temps faut-il pour installer une habitude ?",
-   "a": "Cela varie d’une personne à l’autre et d’une habitude à l’autre. Le plus important est de répéter régulièrement une petite action, et un suivi comme Perennial vous aide à voir cette régularité."
+   "a": "Cela varie d’une personne à l’autre et d’une habitude à l’autre. Le plus important est de répéter régulièrement une petite action, et un suivi comme Quit & Build vous aide à voir cette régularité."
   },
   {
    "q": "Quelle est la meilleure façon de suivre ses habitudes ?",
-   "a": "Restez simple : choisissez quelques petites habitudes, marquez-les chaque jour et passez en revue vos progrès. Perennial est conçu précisément autour de cette routine quotidienne."
+   "a": "Restez simple : choisissez quelques petites habitudes, marquez-les chaque jour et passez en revue vos progrès. Quit & Build est conçu précisément autour de cette routine quotidienne."
   },
   {
    "q": "Puis-je suivre plus d’une habitude ?",
    "a": "Oui, vous pouvez installer plusieurs habitudes saines et noter vos progrès quotidiens pour chacune."
   },
   {
-   "q": "Perennial existe-t-il sur iPhone ?",
+   "q": "Quit & Build existe-t-il sur iPhone ?",
    "a": "L’appli est actuellement disponible pour Android sur Google Play. Il n’existe pas encore de version pour iPhone."
   }
  ],
