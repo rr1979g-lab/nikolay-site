@@ -1,0 +1,76 @@
+{
+ "slug": "frame-ai",
+ "title": "Frame AI: editor video con IA, da foto a video, sottotitoli",
+ "description": "Frame AI trasforma una foto in un video di 8 secondi con audio, monta le clip in un reel, aggiunge voce e sottotitoli automatici. Editor video per Android.",
+ "h1": "Frame AI – un editor video con IA per video brevi",
+ "lead": "Cosa giriamo oggi? Frame AI trasforma le tue foto in video, monta automaticamente reel dalle tue clip, dà voce al tuo testo e aggiunge i sottotitoli: tutto sul telefono, senza software complicati.",
+ "sections": [
+  {
+   "h2": "Da foto a video con l’IA",
+   "p": [
+    "Scegli una foto e descrivi il movimento con parole tue, per esempio «si volta verso la fotocamera e sorride, con il vento tra i capelli». Frame AI crea un video di 8 secondi con audio. Ci sono prompt già pronti come «un lieve sorriso e un battito di ciglia» o «zoom lento della camera», e il pulsante gratuito Aiuto testo trasforma poche parole in un prompt preciso.",
+    "Scegli il formato verticale 9:16 per i social o orizzontale 16:9 per YouTube, e la modalità Veloce (720p) o Qualità (1080p). La generazione usa i crediti dell’app. Per creare il video, la foto viene inviata a Google."
+   ]
+  },
+  {
+   "h2": "Montaggio automatico in un paio di minuti",
+   "p": [
+    "Seleziona foto e video e l’app monta il reel per te: sceglie ritmo, transizioni, movimento e colori adatti al tuo materiale e migliora ogni clip. Aggiungi un titolo e scegli un rapporto d’aspetto: 9:16, 16:9, 1:1, 4:5 o 3:4. L’animazione delle foto nel montaggio automatico fa parte di Pro."
+   ]
+  },
+  {
+   "h2": "Cos’altro sa fare l’editor",
+   "ul": [
+    "Sintesi vocale: voci IA e veri doppiatori, fino a 3000 caratteri.",
+    "Sottotitoli automatici: riconoscono il parlato nelle tracce video e audio e sincronizzano con precisione le didascalie; mostra 1, 2 o 3 parole oppure un’intera frase e correggi ogni riga.",
+    "Pulizia della voce: elimina rumore, vento e musica e mantiene la voce.",
+    "Miglioramento automatico: luminosità, colori e bilanciamento del bianco con un tocco.",
+    "Ridimensionamento foto: formati pronti per Google Play (banner, icona, screenshot), Instagram, YouTube o personalizzati.",
+    "Progetti salvati, annulla e ripeti, ed esportazione del video finito."
+   ]
+  },
+  {
+   "h2": "A chi è rivolto Frame AI",
+   "p": [
+    "A chiunque realizzi video brevi per Reels, TikTok, Shorts o pubblicità, gestisca un blog o promuova un’attività e voglia un video curato in fretta, senza computer. L’autore realizza in Frame AI i video pubblicitari per le sue app, come [PHONE DETOX](app:phone-detox) e [MOMENT NOW](app:moment-now)."
+   ]
+  },
+  {
+   "h2": "Gratis e Pro",
+   "p": [
+    "Puoi installare l’app e usare l’editor gratuitamente. La generazione di video con IA e la voce fuori campo usano crediti, e alcune funzioni, come l’animazione delle foto nel montaggio automatico, fanno parte di Frame AI Pro. I progetti si sincronizzano con il tuo account; i contenuti multimediali restano sul tuo dispositivo."
+   ]
+  },
+  {
+   "h2": "Come iniziare",
+   "ol": [
+    "Installa Frame AI da Google Play e scegli la lingua.",
+    "Tocca Nuovo progetto oppure scegli Video IA, montaggio automatico, voce fuori campo o sottotitoli.",
+    "Aggiungi foto o video, regola il risultato e tocca Esporta."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Come trasformo una foto in un video?",
+   "a": "Apri Video IA, scegli una foto e descrivi il movimento. Frame AI crea un video di 8 secondi con audio in 9:16 o 16:9."
+  },
+  {
+   "q": "Frame AI è gratuita?",
+   "a": "L’app e l’editor di base sono gratuiti. Video IA e voce fuori campo usano crediti, e alcune funzioni fanno parte di Pro."
+  },
+  {
+   "q": "Può aggiungere i sottotitoli automaticamente?",
+   "a": "Sì. I sottotitoli automatici riconoscono il parlato nel video e sincronizzano il testo; puoi modificare ogni riga."
+  },
+  {
+   "q": "Esiste una versione per iPhone?",
+   "a": "Non ancora: Frame AI è disponibile per Android su Google Play."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "phone-detox",
+  "life-compass"
+ ]
+}

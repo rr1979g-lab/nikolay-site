@@ -1,0 +1,76 @@
+{
+ "slug": "frame-ai",
+ "title": "Frame AI : montage vidéo IA, photo en vidéo, sous-titres",
+ "description": "Frame AI transforme une photo en vidéo de 8 secondes avec son, monte vos clips en reel, ajoute une voix off et des sous-titres auto. Éditeur vidéo pour Android.",
+ "h1": "Frame AI : un éditeur vidéo IA pour vos vidéos courtes",
+ "lead": "Qu’allons-nous filmer aujourd’hui ? Frame AI transforme vos photos en vidéo, monte automatiquement des reels à partir de vos clips, prête une voix à votre texte et ajoute des sous-titres, le tout sur votre téléphone, sans logiciel compliqué.",
+ "sections": [
+  {
+   "h2": "Photo en vidéo avec l’IA",
+   "p": [
+    "Choisissez une photo et décrivez le mouvement avec vos propres mots, par exemple « elle se tourne vers la caméra et sourit, les cheveux dans le vent ». Frame AI crée une vidéo de 8 secondes avec du son. Des prompts prêts à l’emploi comme « un léger sourire et un clignement d’yeux » ou « zoom lent de la caméra » vous aident, et le bouton gratuit Aide à la rédaction transforme quelques mots en prompt précis.",
+    "Choisissez le format vertical 9:16 pour les réseaux sociaux ou horizontal 16:9 pour YouTube, ainsi que le mode Rapide (720p) ou Qualité (1080p). La génération utilise les crédits de l’appli. Pour créer la vidéo, la photo est envoyée à Google."
+   ]
+  },
+  {
+   "h2": "Montage auto en quelques minutes",
+   "p": [
+    "Sélectionnez des photos et des vidéos, et l’appli monte le reel pour vous : elle choisit le rythme, les transitions, le mouvement et les couleurs adaptés à vos images, et améliore chaque clip. Ajoutez un titre et choisissez un format : 9:16, 16:9, 1:1, 4:5 ou 3:4. L’animation des photos dans le montage auto fait partie de Pro."
+   ]
+  },
+  {
+   "h2": "Ce que l’éditeur sait faire d’autre",
+   "ul": [
+    "Synthèse vocale : voix IA et vrais comédiens de doublage, jusqu’à 3 000 caractères.",
+    "Sous-titres auto : reconnaît la parole dans les pistes vidéo et audio et synchronise précisément les sous-titres ; affichez 1, 2 ou 3 mots, ou une phrase entière, et corrigez chaque ligne.",
+    "Nettoyage de la voix : supprime le bruit, le vent et la musique, et conserve la voix.",
+    "Amélioration auto : luminosité, couleurs et balance des blancs en un geste.",
+    "Redimensionnement de photos : formats prêts pour Google Play (bannière, icône, capture d’écran), Instagram, YouTube ou sur mesure.",
+    "Projets enregistrés, annuler et rétablir, et export de la vidéo terminée."
+   ]
+  },
+  {
+   "h2": "À qui s’adresse Frame AI",
+   "p": [
+    "À toute personne qui crée des vidéos courtes pour Reels, TikTok, Shorts ou des publicités, tient un blog ou fait la promotion d’une activité, et veut une belle vidéo rapidement, sans ordinateur. L’auteur réalise dans Frame AI les vidéos publicitaires de ses propres applis, comme [PHONE DETOX](app:phone-detox) et [MOMENT NOW](app:moment-now)."
+   ]
+  },
+  {
+   "h2": "Gratuit et Pro",
+   "p": [
+    "Vous pouvez installer l’appli et utiliser l’éditeur gratuitement. La génération de vidéos IA et la voix off utilisent des crédits, et certaines fonctions, comme l’animation des photos dans le montage auto, font partie de Frame AI Pro. Les projets se synchronisent avec votre compte ; les médias restent sur votre appareil."
+   ]
+  },
+  {
+   "h2": "Pour commencer",
+   "ol": [
+    "Installez Frame AI depuis Google Play et choisissez votre langue.",
+    "Touchez Nouveau projet ou choisissez Vidéo IA, montage auto, voix off ou sous-titres.",
+    "Ajoutez des photos ou des vidéos, ajustez le résultat et touchez Exporter."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Comment transformer une photo en vidéo ?",
+   "a": "Ouvrez Vidéo IA, choisissez une photo et décrivez le mouvement. Frame AI crée une vidéo de 8 secondes avec du son, en 9:16 ou 16:9."
+  },
+  {
+   "q": "Frame AI est-elle gratuite ?",
+   "a": "L’appli et l’éditeur de base sont gratuits. La vidéo IA et la voix off utilisent des crédits, et certaines fonctions font partie de Pro."
+  },
+  {
+   "q": "Peut-elle ajouter des sous-titres automatiquement ?",
+   "a": "Oui. Les sous-titres auto reconnaissent la parole de votre vidéo et synchronisent le texte ; vous pouvez modifier chaque ligne."
+  },
+  {
+   "q": "Existe-t-il une version pour iPhone ?",
+   "a": "Pas encore : Frame AI est disponible pour Android sur Google Play."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "phone-detox",
+  "life-compass"
+ ]
+}

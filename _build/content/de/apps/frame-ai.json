@@ -1,0 +1,76 @@
+{
+ "slug": "frame-ai",
+ "title": "Frame AI: KI-Videoeditor, Foto zu Video, Untertitel",
+ "description": "Frame AI macht aus einem Foto ein 8-Sekunden-Video mit Ton, schneidet Clips automatisch zum Reel, ergänzt Sprecher und Untertitel. Videoeditor für Android.",
+ "h1": "Frame AI – ein KI-Videoeditor für Kurzvideos",
+ "lead": "Was drehen wir heute? Frame AI macht aus Ihren Fotos Videos, schneidet Reels automatisch aus Ihren Clips, vertont Ihren Text und fügt Untertitel hinzu – alles auf dem Smartphone, ohne komplizierte Software.",
+ "sections": [
+  {
+   "h2": "Foto zu Video mit KI",
+   "p": [
+    "Wählen Sie ein Foto und beschreiben Sie die Bewegung mit eigenen Worten, zum Beispiel „Sie dreht sich zur Kamera und lächelt, der Wind weht durch ihr Haar“. Frame AI erstellt daraus ein 8-Sekunden-Video mit Ton. Es gibt fertige Prompts wie „ein leichtes Lächeln und ein Zwinkern“ oder „langsamer Kamerazoom“, und die kostenlose Schaltfläche Texthilfe macht aus wenigen Worten einen präzisen Prompt.",
+    "Wählen Sie Hochformat 9:16 für soziale Netzwerke oder Querformat 16:9 für YouTube sowie den Modus Schnell (720p) oder Qualität (1080p). Für die Erstellung werden App-Credits verbraucht. Um das Video zu erzeugen, wird das Foto an Google gesendet."
+   ]
+  },
+  {
+   "h2": "Automatischer Schnitt in wenigen Minuten",
+   "p": [
+    "Wählen Sie Fotos und Videos aus, und die App schneidet das Reel für Sie: Sie wählt Tempo, Übergänge, Bewegung und Farben passend zu Ihrem Material und verbessert jeden Clip. Fügen Sie einen Titel hinzu und wählen Sie ein Seitenverhältnis: 9:16, 16:9, 1:1, 4:5 oder 3:4. Das Animieren von Fotos im Auto-Schnitt gehört zu Pro."
+   ]
+  },
+  {
+   "h2": "Was der Editor noch kann",
+   "ul": [
+    "Text-to-Speech: KI-Stimmen und echte Sprecher, bis zu 3000 Zeichen.",
+    "Auto-Untertitel: erkennen Sprache in Video- und Audiospuren und takten die Untertitel präzise; zeigen Sie 1, 2 oder 3 Wörter oder einen ganzen Satz an und korrigieren Sie jede Zeile.",
+    "Stimmbereinigung: entfernt Rauschen, Wind und Musik und behält die Stimme.",
+    "Auto-Optimierung: Helligkeit, Farben und Weißabgleich mit einem Tipp.",
+    "Foto-Größen: fertige Formate für Google Play (Banner, Icon, Screenshot), Instagram, YouTube oder benutzerdefiniert.",
+    "Gespeicherte Projekte, Rückgängig und Wiederholen sowie Export des fertigen Videos."
+   ]
+  },
+  {
+   "h2": "Für wen Frame AI gedacht ist",
+   "p": [
+    "Für alle, die Kurzvideos für Reels, TikTok, Shorts oder Werbung erstellen, einen Blog betreiben oder ein Unternehmen bewerben und schnell ein ordentliches Video ohne Computer haben möchten. Der Autor produziert die Werbevideos für seine eigenen Apps in Frame AI, etwa für [PHONE DETOX](app:phone-detox) und [MOMENT NOW](app:moment-now)."
+   ]
+  },
+  {
+   "h2": "Kostenlos und Pro",
+   "p": [
+    "Sie können die App installieren und den Editor kostenlos nutzen. KI-Videoerstellung und Vertonung verbrauchen Credits, und einige Funktionen, etwa das Animieren von Fotos im Auto-Schnitt, gehören zu Frame AI Pro. Projekte werden mit Ihrem Konto synchronisiert; die Medien bleiben auf Ihrem Gerät."
+   ]
+  },
+  {
+   "h2": "So fangen Sie an",
+   "ol": [
+    "Installieren Sie Frame AI aus Google Play und wählen Sie Ihre Sprache.",
+    "Tippen Sie auf Neues Projekt oder wählen Sie KI-Video, Auto-Schnitt, Vertonung oder Untertitel.",
+    "Fügen Sie Fotos oder Videos hinzu, passen Sie das Ergebnis an und tippen Sie auf Exportieren."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie mache ich aus einem Foto ein Video?",
+   "a": "Öffnen Sie KI-Video, wählen Sie ein Foto und beschreiben Sie die Bewegung. Frame AI erstellt ein 8-Sekunden-Video mit Ton im Format 9:16 oder 16:9."
+  },
+  {
+   "q": "Ist Frame AI kostenlos?",
+   "a": "Die App und der Basis-Editor sind kostenlos. KI-Video und Vertonung verbrauchen Credits, und einige Funktionen gehören zu Pro."
+  },
+  {
+   "q": "Kann die App automatisch Untertitel hinzufügen?",
+   "a": "Ja. Die Auto-Untertitel erkennen die Sprache in Ihrem Video und takten den Text; Sie können jede Zeile bearbeiten."
+  },
+  {
+   "q": "Gibt es eine iPhone-Version?",
+   "a": "Noch nicht – Frame AI ist für Android bei Google Play erhältlich."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "phone-detox",
+  "life-compass"
+ ]
+}

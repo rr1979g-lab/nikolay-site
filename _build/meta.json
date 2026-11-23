@@ -171,6 +171,11 @@
    "n": "LIFE COMPASS",
    "url": "https://play.google.com/store/apps/details?id=com.nikolay.lifecompass",
    "img": "/img/d7c916322b.webp"
+  },
+  {
+   "n": "FRAME AI",
+   "url": "https://play.google.com/store/apps/details?id=com.nikolay.frameai",
+   "img": "/img/bde9b69e11.webp"
   }
  ],
  "books": [
@@ -442,6 +447,10 @@
    {
     "head": "Create the life you want",
     "desc": "One small step every day in an important area of life, 30-day programs, a life balance map and an evening journal."
+   },
+   {
+    "head": "Photo to video and AI editing",
+    "desc": "Photo to video, auto-edit, text to speech and auto subtitles — short videos right on your phone."
    }
   ],
   "ar": [
@@ -500,6 +509,10 @@
    {
     "head": "اصنع الحياة التي تريدها",
     "desc": "خطوة صغيرة كل يوم في مجال مهم من حياتك، وبرامج لمدة 30 يومًا، وخريطة لتوازن الحياة، ويوميات مسائية."
+   },
+   {
+    "head": "فيديو من صورة ومونتاج بالذكاء الاصطناعي",
+    "desc": "فيديو من صورة ومونتاج تلقائي وتحويل النص إلى كلام وترجمة تلقائية — مقاطع قصيرة على هاتفك مباشرة."
    }
   ],
   "bn": [
@@ -558,6 +571,10 @@
    {
     "head": "যে জীবন চান তা গড়ুন",
     "desc": "প্রতিদিন জীবনের একটি গুরুত্বপূর্ণ ক্ষেত্রে একটি ছোট পদক্ষেপ, ৩০ দিনের প্রোগ্রাম, জীবনের ভারসাম্যের মানচিত্র ও সন্ধ্যার ডায়েরি।"
+   },
+   {
+    "head": "ছবি থেকে ভিডিও ও AI এডিটিং",
+    "desc": "ছবি থেকে ভিডিও, অটো-এডিট, টেক্সট থেকে স্পিচ ও অটো সাবটাইটেল — ছোট ভিডিও সরাসরি আপনার ফোনে।"
    }
   ],
   "zh": [
@@ -616,6 +633,10 @@
    {
     "head": "创造你想要的生活",
     "desc": "每天在生活的重要领域迈出一小步，30天计划、生活平衡地图和晚间日记。"
+   },
+   {
+    "head": "照片变视频，AI 智能剪辑",
+    "desc": "照片变视频、自动剪辑、文字转语音和自动字幕，在手机上轻松制作短视频。"
    }
   ],
   "fr": [
@@ -674,6 +695,10 @@
    {
     "head": "Créez la vie que vous voulez",
     "desc": "Un petit pas chaque jour dans un domaine important de la vie, des programmes de 30 jours, une carte de l'équilibre et un journal du soir."
+   },
+   {
+    "head": "Photo en vidéo et montage IA",
+    "desc": "Photo en vidéo, montage auto, voix off et sous-titres automatiques : des vidéos courtes directement sur votre téléphone."
    }
   ],
   "de": [
@@ -732,6 +757,10 @@
    {
     "head": "Gestalten Sie das Leben, das Sie wollen",
     "desc": "Jeden Tag ein kleiner Schritt in einem wichtigen Lebensbereich, 30-Tage-Programme, eine Balance-Karte und ein Abendtagebuch."
+   },
+   {
+    "head": "Foto zu Video und KI-Schnitt",
+    "desc": "Foto zu Video, Auto-Schnitt, Vertonung und automatische Untertitel – Kurzvideos direkt auf Ihrem Smartphone."
    }
   ],
   "he": [
@@ -790,6 +819,10 @@
    {
     "head": "צרו את החיים שאתם רוצים",
     "desc": "צעד קטן בכל יום בתחום חשוב בחיים, תוכניות ל-30 יום, מפת איזון ויומן ערב."
+   },
+   {
+    "head": "סרטון מתמונה ועריכה עם AI",
+    "desc": "סרטון מתמונה, עריכה אוטומטית, טקסט לדיבור וכתוביות אוטומטיות — סרטונים קצרים ישר בטלפון."
    }
   ],
   "hi": [
@@ -848,6 +881,10 @@
    {
     "head": "मनचाहा जीवन बनाइए",
     "desc": "हर दिन जीवन के एक अहम क्षेत्र में एक छोटा कदम, 30 दिन के प्रोग्राम, जीवन-संतुलन का नक्शा और शाम की डायरी।"
+   },
+   {
+    "head": "फ़ोटो से वीडियो और AI एडिटिंग",
+    "desc": "फ़ोटो से वीडियो, ऑटो-एडिट, टेक्स्ट से आवाज़ और ऑटो सबटाइटल — छोटे वीडियो सीधे आपके फ़ोन पर।"
    }
   ],
   "id": [
@@ -906,6 +943,10 @@
    {
     "head": "Ciptakan hidup yang Anda inginkan",
     "desc": "Satu langkah kecil setiap hari di bidang kehidupan yang penting, program 30 hari, peta keseimbangan, dan jurnal malam."
+   },
+   {
+    "head": "Foto jadi video dan editing AI",
+    "desc": "Foto jadi video, edit otomatis, teks ke suara, dan subtitle otomatis — video pendek langsung di ponsel Anda."
    }
   ],
   "it": [
@@ -964,6 +1005,10 @@
    {
     "head": "Crea la vita che vuoi",
     "desc": "Un piccolo passo ogni giorno in un'area importante della vita, programmi di 30 giorni, una mappa dell'equilibrio e un diario serale."
+   },
+   {
+    "head": "Da foto a video e montaggio con IA",
+    "desc": "Da foto a video, montaggio automatico, voce fuori campo e sottotitoli automatici: video brevi direttamente sul telefono."
    }
   ],
   "ja": [
@@ -1022,6 +1067,10 @@
    {
     "head": "望む人生をつくろう",
     "desc": "人生の大切な分野で毎日ひとつ小さな一歩。30日プログラム、バランスマップ、夜の日記。"
+   },
+   {
+    "head": "写真から動画へ、AIで編集",
+    "desc": "写真から動画、自動編集、テキスト読み上げ、自動字幕。ショート動画をスマホだけで作れます。"
    }
   ],
   "ko": [
@@ -1080,6 +1129,10 @@
    {
     "head": "원하는 삶을 만드세요",
     "desc": "삶의 중요한 영역에서 매일 작은 한 걸음, 30일 프로그램, 균형 지도, 저녁 일기."
+   },
+   {
+    "head": "사진을 영상으로, AI 편집까지",
+    "desc": "사진을 영상으로, 자동 편집, 텍스트 음성 변환, 자동 자막까지. 휴대폰으로 숏폼 영상을 만드세요."
    }
   ],
   "mr": [
@@ -1138,6 +1191,10 @@
    {
     "head": "हवे तसे आयुष्य घडवा",
     "desc": "आयुष्याच्या एका महत्त्वाच्या क्षेत्रात रोज एक छोटे पाऊल, ३० दिवसांचे प्रोग्राम, जीवन-संतुलनाचा नकाशा आणि संध्याकाळची डायरी."
+   },
+   {
+    "head": "फोटोचा व्हिडिओ आणि AI एडिटिंग",
+    "desc": "फोटोचा व्हिडिओ, ऑटो-एडिट, टेक्स्ट टू स्पीच आणि ऑटो सबटायटल — छोटे व्हिडिओ थेट तुमच्या फोनवर."
    }
   ],
   "pt": [
@@ -1196,6 +1253,10 @@
    {
     "head": "Crie a vida que você quer",
     "desc": "Um pequeno passo por dia em uma área importante da vida, programas de 30 dias, um mapa de equilíbrio e um diário noturno."
+   },
+   {
+    "head": "Foto em vídeo e edição com IA",
+    "desc": "Foto em vídeo, edição automática, narração e legendas automáticas: vídeos curtos direto no seu celular."
    }
   ],
   "ru": [
@@ -1254,6 +1315,10 @@
    {
     "head": "Создавайте жизнь, которую хотите",
     "desc": "Один небольшой шаг каждый день в важной сфере жизни, программы на 30 дней, карта баланса и вечерний дневник."
+   },
+   {
+    "head": "Видео из фото и монтаж с ИИ",
+    "desc": "Видео из фото, автомонтаж, озвучка текста и автосубтитры — короткие ролики прямо на телефоне."
    }
   ],
   "es": [
@@ -1312,6 +1377,10 @@
    {
     "head": "Crea la vida que quieres",
     "desc": "Un pequeño paso cada día en un área importante de la vida, programas de 30 días, un mapa de equilibrio y un diario nocturno."
+   },
+   {
+    "head": "De foto a vídeo y montaje con IA",
+    "desc": "De foto a vídeo, montaje automático, locución y subtítulos automáticos: vídeos cortos directamente en tu móvil."
    }
   ],
   "ta": [
@@ -1370,6 +1439,10 @@
    {
     "head": "நீங்கள் விரும்பும் வாழ்க்கையை உருவாக்குங்கள்",
     "desc": "தினமும் வாழ்க்கையின் ஒரு முக்கிய துறையில் ஒரு சிறிய அடி, 30 நாள் திட்டங்கள், வாழ்க்கைச் சமநிலை வரைபடம், மாலை நாட்குறிப்பு."
+   },
+   {
+    "head": "புகைப்படத்திலிருந்து வீடியோ, AI தொகுப்பு",
+    "desc": "புகைப்படத்திலிருந்து வீடியோ, தானியங்கித் தொகுப்பு, உரையிலிருந்து பேச்சு, தானியங்கி வசனங்கள் — குறுகிய வீடியோக்கள் உங்கள் தொலைபேசியிலேயே."
    }
   ],
   "te": [
@@ -1428,6 +1501,10 @@
    {
     "head": "మీరు కోరుకున్న జీవితాన్ని సృష్టించుకోండి",
     "desc": "ప్రతి రోజూ జీవితంలోని ఒక ముఖ్య రంగంలో ఒక చిన్న అడుగు, 30 రోజుల ప్రోగ్రామ్‌లు, జీవిత సమతుల్యత మ్యాప్, సాయంత్రం డైరీ."
+   },
+   {
+    "head": "ఫోటో నుండి వీడియో, AI ఎడిటింగ్",
+    "desc": "ఫోటో నుండి వీడియో, ఆటో-ఎడిట్, టెక్స్ట్ నుండి స్పీచ్, ఆటో సబ్‌టైటిళ్లు — చిన్న వీడియోలు నేరుగా మీ ఫోన్‌లో."
    }
   ],
   "tr": [
@@ -1486,6 +1563,10 @@
    {
     "head": "İstediğiniz hayatı yaratın",
     "desc": "Hayatın önemli bir alanında her gün küçük bir adım, 30 günlük programlar, bir denge haritası ve akşam günlüğü."
+   },
+   {
+    "head": "Fotoğraftan video ve yapay zekâ kurgusu",
+    "desc": "Fotoğraftan video, otomatik kurgu, seslendirme ve otomatik altyazı: kısa videolar doğrudan telefonunuzda."
    }
   ],
   "uk": [
@@ -1544,6 +1625,10 @@
    {
     "head": "Створюйте життя, якого прагнете",
     "desc": "Один невеликий крок щодня в важливій сфері життя, програми на 30 днів, карта балансу та вечірній щоденник."
+   },
+   {
+    "head": "Відео з фото та монтаж зі ШІ",
+    "desc": "Відео з фото, автомонтаж, озвучення тексту й автосубтитри — короткі ролики просто на телефоні."
    }
   ]
  },

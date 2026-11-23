@@ -1,0 +1,14 @@
+{
+ "ru": {
+  "name": "FRAME AI",
+  "sub": "Видеоредактор с ИИ",
+  "desc": "Видео из фото, автомонтаж, озвучка текста и автосубтитры — короткие ролики прямо на телефоне.",
+  "head": "Видео из фото и монтаж с ИИ"
+ },
+ "en": {
+  "name": "FRAME AI",
+  "sub": "AI video editor",
+  "desc": "Photo to video, auto-edit, text to speech and auto subtitles — short videos right on your phone.",
+  "head": "Photo to video and AI editing"
+ }
+}

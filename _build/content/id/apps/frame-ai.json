@@ -1,0 +1,76 @@
+{
+ "slug": "frame-ai",
+ "title": "Frame AI — editor video AI: ubah foto jadi video, subtitle",
+ "description": "Frame AI mengubah foto jadi video 8 detik bersuara, menyunting klip jadi reel otomatis, serta menambah voiceover dan subtitle. Editor video untuk Android.",
+ "h1": "Frame AI — editor video AI untuk video pendek",
+ "lead": "Hari ini mau syuting apa? Frame AI mengubah foto menjadi video, menyunting reel dari klip Anda secara otomatis, mengubah teks jadi suara, dan menambahkan subtitle — semua di ponsel, tanpa perangkat lunak rumit.",
+ "sections": [
+  {
+   "h2": "Foto jadi video dengan AI",
+   "p": [
+    "Pilih foto dan jelaskan gerakannya dengan kata-kata Anda sendiri, misalnya \"dia menoleh ke kamera dan tersenyum, rambutnya tertiup angin\". Frame AI membuat video 8 detik lengkap dengan suara. Tersedia prompt siap pakai seperti \"senyum tipis dan kedipan mata\" atau \"zoom kamera perlahan\", dan tombol Text help gratis mengubah beberapa kata menjadi prompt yang tepat.",
+    "Pilih vertikal 9:16 untuk media sosial atau horizontal 16:9 untuk YouTube, serta mode Fast (720p) atau Quality (1080p). Pembuatan video memakai kredit di dalam aplikasi. Untuk membuat video, foto dikirim ke Google."
+   ]
+  },
+  {
+   "h2": "Edit otomatis dalam beberapa menit",
+   "p": [
+    "Pilih foto dan video, lalu aplikasi menyunting reel untuk Anda: memilih tempo, transisi, gerakan, dan warna yang cocok dengan rekaman Anda serta memperbagus setiap klip. Tambahkan judul dan pilih rasio aspek: 9:16, 16:9, 1:1, 4:5, atau 3:4. Menganimasikan foto dalam edit otomatis adalah bagian dari Pro."
+   ]
+  },
+  {
+   "h2": "Apa lagi yang bisa dilakukan editor ini",
+   "ul": [
+    "Teks ke suara: suara AI dan pengisi suara sungguhan, hingga 3000 karakter.",
+    "Subtitle otomatis: mengenali ucapan di trek video dan audio lalu mengatur waktu teks dengan tepat; tampilkan 1, 2, atau 3 kata atau satu frasa utuh, dan perbaiki baris mana pun.",
+    "Pembersihan suara: menghilangkan derau, angin, dan musik, hanya menyisakan suara bicara.",
+    "Perbaikan otomatis: kecerahan, warna, dan white balance dalam satu ketukan.",
+    "Ubah ukuran foto: ukuran siap pakai untuk Google Play (banner, ikon, tangkapan layar), Instagram, YouTube, atau ukuran kustom.",
+    "Proyek tersimpan, undo dan redo, serta ekspor video jadi."
+   ]
+  },
+  {
+   "h2": "Frame AI cocok untuk siapa",
+   "p": [
+    "Untuk siapa saja yang membuat video pendek untuk Reels, TikTok, Shorts, atau iklan, mengelola blog, atau mempromosikan bisnis, dan ingin video rapi dengan cepat tanpa komputer. Penulisnya membuat video iklan untuk aplikasinya sendiri di Frame AI, seperti [PHONE DETOX](app:phone-detox) dan [MOMENT NOW](app:moment-now)."
+   ]
+  },
+  {
+   "h2": "Gratis dan Pro",
+   "p": [
+    "Anda bisa memasang aplikasi dan memakai editornya secara gratis. Pembuatan video AI dan voiceover memakai kredit, dan beberapa fitur, seperti menganimasikan foto dalam edit otomatis, adalah bagian dari Frame AI Pro. Proyek disinkronkan dengan akun Anda; media tetap berada di perangkat Anda."
+   ]
+  },
+  {
+   "h2": "Cara memulai",
+   "ol": [
+    "Pasang Frame AI dari Google Play dan pilih bahasa Anda.",
+    "Ketuk New project atau pilih video AI, edit otomatis, voiceover, atau subtitle.",
+    "Tambahkan foto atau video, sesuaikan hasilnya, lalu ketuk Export."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Bagaimana cara mengubah foto menjadi video?",
+   "a": "Buka video AI, pilih foto, dan jelaskan gerakannya. Frame AI membuat video 8 detik dengan suara dalam rasio 9:16 atau 16:9."
+  },
+  {
+   "q": "Apakah Frame AI gratis?",
+   "a": "Aplikasi dan editor dasarnya gratis. Video AI dan voiceover memakai kredit, dan beberapa fitur adalah bagian dari Pro."
+  },
+  {
+   "q": "Apakah bisa menambahkan subtitle secara otomatis?",
+   "a": "Bisa. Subtitle otomatis mengenali ucapan di video Anda dan mengatur waktu teksnya; setiap baris bisa Anda edit."
+  },
+  {
+   "q": "Apakah ada versi iPhone?",
+   "a": "Belum — Frame AI tersedia untuk Android di Google Play."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "phone-detox",
+  "life-compass"
+ ]
+}

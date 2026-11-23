@@ -1,0 +1,76 @@
+{
+ "slug": "frame-ai",
+ "title": "Frame AI: editor de vídeo con IA, foto a vídeo, subtítulos",
+ "description": "Frame AI convierte una foto en vídeo de 8 segundos con sonido, monta tus clips en reel, añade locución y subtítulos automáticos. Editor de vídeo para Android.",
+ "h1": "Frame AI: un editor de vídeo con IA para vídeos cortos",
+ "lead": "¿Qué grabamos hoy? Frame AI convierte tus fotos en vídeo, monta reels automáticamente con tus clips, pone voz a tu texto y añade subtítulos, todo en tu móvil y sin programas complicados.",
+ "sections": [
+  {
+   "h2": "De foto a vídeo con IA",
+   "p": [
+    "Elige una foto y describe el movimiento con tus propias palabras, por ejemplo: «se gira hacia la cámara y sonríe, con el viento en el pelo». Frame AI crea un vídeo de 8 segundos con sonido. Hay prompts listos como «una leve sonrisa y un parpadeo» o «zoom lento de la cámara», y el botón gratuito Ayuda con el texto convierte un par de palabras en un prompt preciso.",
+    "Elige formato vertical 9:16 para redes sociales u horizontal 16:9 para YouTube, y el modo Rápido (720p) o Calidad (1080p). La generación usa créditos de la app. Para crear el vídeo, la foto se envía a Google."
+   ]
+  },
+  {
+   "h2": "Montaje automático en un par de minutos",
+   "p": [
+    "Selecciona fotos y vídeos y la app monta el reel por ti: elige el ritmo, las transiciones, el movimiento y el color que mejor van con tus imágenes y mejora cada clip. Añade un título y elige una relación de aspecto: 9:16, 16:9, 1:1, 4:5 o 3:4. Animar fotos en el montaje automático forma parte de Pro."
+   ]
+  },
+  {
+   "h2": "Qué más puede hacer el editor",
+   "ul": [
+    "Texto a voz: voces de IA y actores de voz reales, hasta 3000 caracteres.",
+    "Subtítulos automáticos: reconocen el habla en pistas de vídeo y audio y sincronizan los subtítulos con precisión; muestra 1, 2 o 3 palabras o una frase entera y corrige cualquier línea.",
+    "Limpieza de voz: elimina ruido, viento y música y conserva la voz.",
+    "Mejora automática: brillo, color y balance de blancos con un toque.",
+    "Cambio de tamaño de fotos: medidas listas para Google Play (banner, icono, captura), Instagram, YouTube o personalizadas.",
+    "Proyectos guardados, deshacer y rehacer, y exportación del vídeo terminado."
+   ]
+  },
+  {
+   "h2": "Para quién es Frame AI",
+   "p": [
+    "Para quien hace vídeos cortos para Reels, TikTok, Shorts o anuncios, lleva un blog o promociona un negocio y quiere un vídeo cuidado rápidamente, sin ordenador. El autor crea en Frame AI los vídeos publicitarios de sus propias apps, como [PHONE DETOX](app:phone-detox) y [MOMENT NOW](app:moment-now)."
+   ]
+  },
+  {
+   "h2": "Gratis y Pro",
+   "p": [
+    "Puedes instalar la app y usar el editor gratis. La generación de vídeo con IA y la locución usan créditos, y algunas funciones, como animar fotos en el montaje automático, forman parte de Frame AI Pro. Los proyectos se sincronizan con tu cuenta; los archivos multimedia se quedan en tu dispositivo."
+   ]
+  },
+  {
+   "h2": "Cómo empezar",
+   "ol": [
+    "Instala Frame AI desde Google Play y elige tu idioma.",
+    "Toca Nuevo proyecto o elige Vídeo con IA, montaje automático, locución o subtítulos.",
+    "Añade fotos o vídeos, ajusta el resultado y toca Exportar."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo convierto una foto en vídeo?",
+   "a": "Abre Vídeo con IA, elige una foto y describe el movimiento. Frame AI crea un vídeo de 8 segundos con sonido en 9:16 o 16:9."
+  },
+  {
+   "q": "¿Frame AI es gratis?",
+   "a": "La app y el editor básico son gratis. El vídeo con IA y la locución usan créditos, y algunas funciones forman parte de Pro."
+  },
+  {
+   "q": "¿Puede añadir subtítulos automáticamente?",
+   "a": "Sí. Los subtítulos automáticos reconocen el habla de tu vídeo y sincronizan el texto; puedes editar cada línea."
+  },
+  {
+   "q": "¿Hay versión para iPhone?",
+   "a": "Todavía no: Frame AI está disponible para Android en Google Play."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "phone-detox",
+  "life-compass"
+ ]
+}

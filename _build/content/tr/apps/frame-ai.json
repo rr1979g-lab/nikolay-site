@@ -1,0 +1,76 @@
+{
+ "slug": "frame-ai",
+ "title": "Frame AI: yapay zekâlı video editörü, fotoğraftan video",
+ "description": "Frame AI, fotoğrafı sesli 8 saniyelik videoya dönüştürür, klipleri otomatik reel yapar, seslendirme ve otomatik altyazı ekler. Android için video editörü.",
+ "h1": "Frame AI – kısa videolar için yapay zekâlı video editörü",
+ "lead": "Bugün ne çekiyoruz? Frame AI fotoğraflarınızı videoya dönüştürür, kliplerinizden otomatik olarak reel kurgular, metninizi seslendirir ve altyazı ekler; hepsi telefonunuzda, karmaşık bir program olmadan.",
+ "sections": [
+  {
+   "h2": "Yapay zekâ ile fotoğraftan video",
+   "p": [
+    "Bir fotoğraf seçin ve hareketi kendi sözcüklerinizle anlatın, örneğin “kameraya dönüp gülümsüyor, rüzgâr saçlarını savuruyor”. Frame AI sesli 8 saniyelik bir video oluşturur. “Hafif bir gülümseme ve göz kırpma” ya da “yavaş kamera yakınlaştırması” gibi hazır istemler vardır; ücretsiz Metin yardımı düğmesi birkaç sözcüğü net bir isteme dönüştürür.",
+    "Sosyal medya için dikey 9:16 ya da YouTube için yatay 16:9 biçimini, ayrıca Hızlı (720p) veya Kaliteli (1080p) modunu seçin. Üretim, uygulama içi kredileri kullanır. Videoyu oluşturmak için fotoğraf Google’a gönderilir."
+   ]
+  },
+  {
+   "h2": "Birkaç dakikada otomatik kurgu",
+   "p": [
+    "Fotoğraf ve videoları seçin, uygulama reel’i sizin için kurgulasın: görüntülerinize uygun tempoyu, geçişleri, hareketi ve rengi seçer, her klibi iyileştirir. Bir başlık ekleyin ve en boy oranını seçin: 9:16, 16:9, 1:1, 4:5 veya 3:4. Otomatik kurguda fotoğrafları canlandırmak Pro’nun bir parçasıdır."
+   ]
+  },
+  {
+   "h2": "Editör başka neler yapabilir",
+   "ul": [
+    "Metinden konuşmaya: yapay zekâ sesleri ve gerçek ses sanatçıları, 3000 karaktere kadar.",
+    "Otomatik altyazı: video ve ses kanallarındaki konuşmayı tanır, altyazıları hassas biçimde zamanlar; 1, 2 veya 3 sözcüğü ya da tüm cümleyi gösterebilir, her satırı düzeltebilirsiniz.",
+    "Ses temizleme: gürültüyü, rüzgârı ve müziği kaldırır, sesi korur.",
+    "Otomatik iyileştirme: parlaklık, renk ve beyaz dengesi tek dokunuşla.",
+    "Fotoğraf boyutlandırma: Google Play (banner, simge, ekran görüntüsü), Instagram, YouTube için hazır boyutlar ya da özel boyut.",
+    "Kayıtlı projeler, geri al ve yinele, bitmiş videoyu dışa aktarma."
+   ]
+  },
+  {
+   "h2": "Frame AI kimler için",
+   "p": [
+    "Reels, TikTok, Shorts veya reklamlar için kısa videolar çeken, blog yazan ya da bir işi tanıtan ve bilgisayar olmadan hızlıca düzgün bir video isteyen herkes için. Yazar, kendi uygulamalarının reklam videolarını, örneğin [PHONE DETOX](app:phone-detox) ve [MOMENT NOW](app:moment-now) için olanları, Frame AI ile hazırlıyor."
+   ]
+  },
+  {
+   "h2": "Ücretsiz ve Pro",
+   "p": [
+    "Uygulamayı yükleyip editörü ücretsiz kullanabilirsiniz. Yapay zekâ ile video üretimi ve seslendirme kredi harcar; otomatik kurguda fotoğrafları canlandırmak gibi bazı özellikler Frame AI Pro’nun parçasıdır. Projeler hesabınızla eşitlenir; medya dosyaları cihazınızda kalır."
+   ]
+  },
+  {
+   "h2": "Nasıl başlanır",
+   "ol": [
+    "Frame AI’ı Google Play’den yükleyin ve dilinizi seçin.",
+    "Yeni proje’ye dokunun ya da Yapay zekâ video, otomatik kurgu, seslendirme veya altyazıyı seçin.",
+    "Fotoğraf veya video ekleyin, sonucu ayarlayın ve Dışa aktar’a dokunun."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Fotoğrafı nasıl videoya dönüştürürüm?",
+   "a": "Yapay zekâ video’yu açın, bir fotoğraf seçin ve hareketi anlatın. Frame AI sesli 8 saniyelik bir videoyu 9:16 veya 16:9 olarak oluşturur."
+  },
+  {
+   "q": "Frame AI ücretsiz mi?",
+   "a": "Uygulama ve temel editör ücretsizdir. Yapay zekâ video ve seslendirme kredi harcar, bazı özellikler Pro’nun parçasıdır."
+  },
+  {
+   "q": "Altyazıyı otomatik ekleyebilir mi?",
+   "a": "Evet. Otomatik altyazı, videonuzdaki konuşmayı tanır ve metni zamanlar; her satırı düzenleyebilirsiniz."
+  },
+  {
+   "q": "iPhone sürümü var mı?",
+   "a": "Henüz yok; Frame AI, Google Play’de Android için sunuluyor."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "phone-detox",
+  "life-compass"
+ ]
+}

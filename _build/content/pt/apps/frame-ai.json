@@ -1,0 +1,76 @@
+{
+ "slug": "frame-ai",
+ "title": "Frame AI: editor de vídeo com IA, foto em vídeo, legendas",
+ "description": "O Frame AI transforma foto em vídeo de 8 segundos com som, edita seus clipes em reel, adiciona narração e legendas automáticas. Editor de vídeo para Android.",
+ "h1": "Frame AI – um editor de vídeo com IA para vídeos curtos",
+ "lead": "O que vamos gravar hoje? O Frame AI transforma suas fotos em vídeo, edita reels automaticamente a partir dos seus clipes, dá voz ao seu texto e adiciona legendas, tudo no celular, sem programas complicados.",
+ "sections": [
+  {
+   "h2": "Foto em vídeo com IA",
+   "p": [
+    "Escolha uma foto e descreva o movimento com suas próprias palavras, por exemplo: “ela se vira para a câmera e sorri, com o vento no cabelo”. O Frame AI cria um vídeo de 8 segundos com som. Há prompts prontos, como “um leve sorriso e uma piscada” ou “zoom lento da câmera”, e o botão gratuito Ajuda com o texto transforma poucas palavras em um prompt preciso.",
+    "Escolha o formato vertical 9:16 para redes sociais ou horizontal 16:9 para o YouTube, e o modo Rápido (720p) ou Qualidade (1080p). A geração usa créditos do app. Para criar o vídeo, a foto é enviada ao Google."
+   ]
+  },
+  {
+   "h2": "Edição automática em poucos minutos",
+   "p": [
+    "Selecione fotos e vídeos e o app edita o reel para você: escolhe ritmo, transições, movimento e cores que combinam com o seu material e melhora cada clipe. Adicione um título e escolha a proporção: 9:16, 16:9, 1:1, 4:5 ou 3:4. Animar fotos na edição automática faz parte do Pro."
+   ]
+  },
+  {
+   "h2": "O que mais o editor faz",
+   "ul": [
+    "Texto para fala: vozes de IA e dubladores reais, com até 3.000 caracteres.",
+    "Legendas automáticas: reconhecem a fala em faixas de vídeo e áudio e sincronizam as legendas com precisão; mostre 1, 2 ou 3 palavras ou a frase inteira e corrija qualquer linha.",
+    "Limpeza de voz: remove ruído, vento e música e mantém a voz.",
+    "Melhoria automática: brilho, cor e balanço de branco em um toque.",
+    "Redimensionar fotos: tamanhos prontos para o Google Play (banner, ícone, captura de tela), Instagram, YouTube ou personalizados.",
+    "Projetos salvos, desfazer e refazer, e exportação do vídeo finalizado."
+   ]
+  },
+  {
+   "h2": "Para quem é o Frame AI",
+   "p": [
+    "Para quem faz vídeos curtos para Reels, TikTok, Shorts ou anúncios, mantém um blog ou divulga um negócio e quer um vídeo caprichado rapidamente, sem computador. O autor faz os vídeos de divulgação dos próprios apps no Frame AI, como [PHONE DETOX](app:phone-detox) e [MOMENT NOW](app:moment-now)."
+   ]
+  },
+  {
+   "h2": "Grátis e Pro",
+   "p": [
+    "Você pode instalar o app e usar o editor de graça. A geração de vídeo com IA e a narração usam créditos, e alguns recursos, como animar fotos na edição automática, fazem parte do Frame AI Pro. Os projetos são sincronizados com a sua conta; as mídias ficam no seu dispositivo."
+   ]
+  },
+  {
+   "h2": "Como começar",
+   "ol": [
+    "Instale o Frame AI pelo Google Play e escolha o idioma.",
+    "Toque em Novo projeto ou escolha Vídeo com IA, edição automática, narração ou legendas.",
+    "Adicione fotos ou vídeos, ajuste o resultado e toque em Exportar."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como transformar uma foto em vídeo?",
+   "a": "Abra Vídeo com IA, escolha uma foto e descreva o movimento. O Frame AI cria um vídeo de 8 segundos com som em 9:16 ou 16:9."
+  },
+  {
+   "q": "O Frame AI é gratuito?",
+   "a": "O app e o editor básico são gratuitos. Vídeo com IA e narração usam créditos, e alguns recursos fazem parte do Pro."
+  },
+  {
+   "q": "Ele adiciona legendas automaticamente?",
+   "a": "Sim. As legendas automáticas reconhecem a fala do seu vídeo e sincronizam o texto; você pode editar cada linha."
+  },
+  {
+   "q": "Existe versão para iPhone?",
+   "a": "Ainda não: o Frame AI está disponível para Android no Google Play."
+  }
+ ],
+ "related": [
+  "moment-now",
+  "phone-detox",
+  "life-compass"
+ ]
+}

@@ -1,7 +1,7 @@
 // 1200x630 preview images for social networks -> /img/og/
 const { chromium } = require('playwright'); const fs=require('fs'); const path=require('path'); const serve=require('./serve');
 const M=JSON.parse(fs.readFileSync(__dirname+'/meta.json','utf8'));
-const APP_SLUGS=["intuition-trainer","moment-now","breath-prana-moment","head-heart","phone-detox","perennial","affirmation","figure-out-why","free-again","pill-reminder","parent-lock","ferment-lab","fridge","life-compass"];
+const APP_SLUGS=["intuition-trainer","moment-now","breath-prana-moment","head-heart","phone-detox","perennial","affirmation","figure-out-why","free-again","pill-reminder","parent-lock","ferment-lab","fridge","life-compass","frame-ai"];
 const BOOK_SLUGS=["thoughts-in-circles","what-if-everything-turns-out-well","destiny-to-order","the-intuition-code","the-right-choice","minus-25-kg","open-up-to-your-dreams"];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const page=(visual,kick,title,sub)=>`<!doctype html><meta charset=utf-8><style>
