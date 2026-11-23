@@ -617,5 +617,8 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
 .dlg .close{justify-self:end}
 @media (max-width:480px){.dlg-top,.dlg-top.app-d{grid-template-columns:1fr}}
 
+/* "Contacts" link lands on the contact form, not on the Telegram panel above it */
+#contact{scroll-margin-top:96px}
+
 /* home: link to app page */
 .appc-a{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px}.more-app{font-size:14px}

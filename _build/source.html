@@ -631,6 +631,9 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
 .dlg blockquote{margin:4px 0;padding:12px 16px;border-radius:14px;background:#FFF6E0;font:600 italic 19px var(--display);color:var(--navy)}
 .dlg .close{justify-self:end}
 @media (max-width:480px){.dlg-top,.dlg-top.app-d{grid-template-columns:1fr}}
+
+/* "Contacts" link lands on the contact form, not on the Telegram panel above it */
+#contact{scroll-margin-top:96px}
 </style>
 
 </head>
@@ -782,7 +785,7 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
     </div>
   </section>
 
-  <section class="block" id="contact">
+  <section class="block" id="connect">
     <div class="wrap duo">
       <div class="panel sun" id="free">
         <div class="eyebrow" data-t="free_eyebrow"></div>
@@ -805,7 +808,7 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
           <p class="ml-note" data-t="ml_note"></p>
         </form>
       </div>
-      <div class="panel">
+      <div class="panel" id="contact">
         <div class="eyebrow" data-t="contact_eyebrow"></div>
         <h2 data-t="contact_title"></h2>
         <p data-t="contact_lead"></p>
