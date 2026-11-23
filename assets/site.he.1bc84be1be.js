@@ -183,6 +183,11 @@ BOOKS.forEach(b=>{ const x=BEN_TXT[b.ru.t]; if(x){ b.ru.ben=x[0]; b.en.ben=x[1];
 APPS.push(...[{"k": "FL", "c": "#8A6A2E", "n": "FERMENT LAB", "img": "/img/ad91a9400a.webp", "url": "https://play.google.com/store/apps/details?id=com.fermentlab.app", "ru": ["Домашняя ферментация", "Хотите ферментировать дома? Готовьте хлеб на закваске, соленья, квас и йогурт шаг за шагом."], "en": ["Home fermentation", "Want to ferment at home? Make sourdough bread, pickles, kvass and yogurt step by step."]}, {"k": "FR", "c": "#2F6B5E", "n": "MY FRIDGE", "img": "/img/adc1df88a7.webp", "url": "https://play.google.com/store/apps/details?id=com.nikolay.myfridge", "ru": ["Рецепты из холодильника", "Не знаете, что приготовить? Находите рецепты из того, что уже есть в холодильнике."], "en": ["Recipes from your fridge", "Don’t know what to cook? Find recipes from what’s already in your fridge."]}]);
 APPS.push({"k": "LC", "c": "#1F6B45", "n": "LIFE COMPASS", "img": "/img/d7c916322b.webp", "url": "https://play.google.com/store/apps/details?id=com.nikolay.lifecompass", "ru": ["Компас жизни", "Один небольшой шаг каждый день в важной сфере жизни, программы на 30 дней, карта баланса и вечерний дневник."], "en": ["Life compass", "One small step every day in an important area of life, 30-day programs, a life balance map and an evening journal."]});
 APPS.push({"k": "FA", "c": "#4B2A8A", "n": "FRAME AI", "img": "/img/bde9b69e11.webp", "url": "https://play.google.com/store/apps/details?id=com.nikolay.frameai", "ru": ["Видеоредактор с ИИ", "Видео из фото, автомонтаж, озвучка текста и автосубтитры — короткие ролики прямо на телефоне."], "en": ["AI video editor", "Photo to video, auto-edit, text to speech and auto subtitles — short videos right on your phone."]});
+/* Apps still in Google Play closed testing: show "Coming soon to Google Play" instead of a download button. Remove an id when the app goes public. */
+const SOON_IDS=["com.nikolay.why", "com.nikolay.freeagain", "com.nikolay.pillreminder", "com.nikolay.perennial", "com.nikolay.affirm", "com.fermentlab.app", "com.nikolay.myfridge", "com.nikolay.lifecompass", "com.nikolay.frameai"];
+const SOON_TXT={"en": "Coming soon to Google Play", "ru": "Скоро в Google Play", "uk": "Незабаром у Google Play", "ar": "قريبًا على Google Play", "zh": "即将登陆 Google Play", "fr": "Bientôt sur Google Play", "de": "Bald bei Google Play", "he": "בקרוב ב-Google Play", "hi": "जल्द ही Google Play पर", "id": "Segera hadir di Google Play", "it": "Presto su Google Play", "ja": "まもなく Google Play で公開", "ko": "곧 Google Play 출시", "pt": "Em breve no Google Play", "es": "Próximamente en Google Play", "tr": "Yakında Google Play'de", "bn": "শীঘ্রই Google Play-তে", "mr": "लवकरच Google Play वर", "te": "త్వరలో Google Play లో", "ta": "விரைவில் Google Play-இல்"};
+const isSoon=a=>{ const m=a&&a.url&&a.url.match(/[?&]id=([\w.]+)/); return !!m&&SOON_IDS.indexOf(m[1])>=0; };
+const soonBtn=()=>`<span class="btn sm off" aria-disabled="true">${esc(SOON_TXT[lang]||SOON_TXT.en)}</span>`;
 COURSES[2].url="https://t.me/+2fahYtmjKA1lNGJk";
 Object.assign(T.ru,{status_open:"Открыт",join_course:"Присоединиться в Telegram"});
 Object.assign(T.en,{status_open:"Open",join_course:"Join on Telegram"});
@@ -256,7 +261,7 @@ function render(){
 
   document.getElementById("apps-list").innerHTML = APPS.map((a,i)=>{
     const x=(APP_TXT[lang]||APP_TXT.en)[i]||{head:a[lang]?a[lang][0]:"",desc:a[lang]?a[lang][1]:""};
-    const btn=a.url?`<a class="btn gold sm" href="${a.url}" target="_blank" rel="noopener">${t("gp")}</a>`:`<span class="btn sm off" aria-disabled="true">${t("soon")}</span>`;
+    const btn=isSoon(a)?soonBtn():a.url?`<a class="btn gold sm" href="${a.url}" target="_blank" rel="noopener">${t("gp")}</a>`:`<span class="btn sm off" aria-disabled="true">${t("soon")}</span>`;
     return `<article class="appc${isFree(a)?" is-free":""}">${appIcon(a)}<div class="appc-b"><b>${esc(a.n)} <span class="plat">${t("android")}</span>${freeTag(a)}</b><h3>${esc(x.head)}</h3><p>${esc(x.desc)}</p><div class="appc-a">${btn}<a class="linkbtn more-app" href="${appHref(i)}">${esc(MORE_TXT[lang]||MORE_TXT.en)} <span aria-hidden="true">→</span></a></div></div></article>`;
   }).join("");
 
@@ -331,7 +336,7 @@ const TOPICS = {
 const PATHS = [{t:"path1",b:0,a:1,c:0},{t:"path2",b:4,a:3,c:5},{t:"path3",b:1,a:2,c:3}];
 const LOTUS = '<svg class="lotus" viewBox="0 0 100 100" aria-hidden="true"><defs><radialGradient id="lotus-g" cx="50%" cy="60%" r="50%"><stop offset="0" stop-color="#FFF6C8"/><stop offset=".5" stop-color="#FFC93C" stop-opacity=".55"/><stop offset="1" stop-color="#FFC93C" stop-opacity="0"/></radialGradient><linearGradient id="lotus-p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF1B0"/><stop offset="1" stop-color="#F2A31A"/></linearGradient></defs><circle cx="50" cy="58" r="40" fill="url(#lotus-g)"/><g fill="url(#lotus-p)" stroke="#FFE9A6" stroke-width=".8"><path d="M50 22c8 9 9 22 0 38-9-16-8-29 0-38z"/><path d="M50 60c-6-12-16-18-28-18 2 13 12 19 28 18z"/><path d="M50 60c6-12 16-18 28-18-2 13-12 19-28 18z"/><path d="M50 60c-10-6-22-6-32 0 10 7 22 7 32 0z" opacity=".85"/><path d="M50 60c10-6 22-6 32 0-10 7-22 7-32 0z" opacity=".85"/></g><g fill="#FFF8D8"><circle cx="20" cy="22" r=".9"/><circle cx="80" cy="18" r="1.1"/><circle cx="72" cy="80" r=".8"/><circle cx="26" cy="78" r="1"/><circle cx="86" cy="50" r=".7"/><circle cx="12" cy="52" r=".8"/></g></svg>';
 const SUN = '<svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="9" fill="#fff"/><g stroke="#fff" stroke-width="3" stroke-linecap="round"><path d="M24 4v6M24 38v6M4 24h6M38 24h6M9.9 9.9l4.2 4.2M33.9 33.9l4.2 4.2M9.9 38.1l4.2-4.2M33.9 14.1l4.2-4.2"/></g></svg>';
-const appBtn = a => a.url ? `<a class="btn gold sm" href="${a.url}" target="_blank" rel="noopener">${t("gp")}</a>` : `<span class="btn sm off" aria-disabled="true">${t("soon")}</span>`;
+const appBtn = a => isSoon(a) ? soonBtn() : a.url ? `<a class="btn gold sm" href="${a.url}" target="_blank" rel="noopener">${t("gp")}</a>` : `<span class="btn sm off" aria-disabled="true">${t("soon")}</span>`;
 const bookHead = i => ((BOOK_TXT[lang]||BOOK_TXT.en)[i]||{}).head || "";
 const appHead = i => ((APP_TXT[lang]||APP_TXT.en)[i]||{}).head || "";
 function courseBtn(c){ return c.url ? `<a class="btn gold sm" href="${c.url}" target="_blank" rel="noopener">${t("join_course")}</a>` : `<span class="pill soon">${t("status_soon")}</span>`; }
@@ -658,7 +663,7 @@ const PROMO_TXT={"en": ["Today's pick", "Download on Google Play", "Maybe later"
   const fromAd=!!q||/[?&](utm_[a-z]+|fbclid|gclid|yclid)=/i.test(location.search); if(!fromAd) return;
   const slug=q||PROMO_DEFAULT; if(!slug||slug==="none") return;
   let item=null;
-  const ai=APPS.findIndex((a,i)=>slugOf(a)===slug||(typeof APP_SLUGS!=="undefined"&&APP_SLUGS[i]===slug)); if(ai>=0 && APPS[ai].url) item={type:"app",i:ai};
+  const ai=APPS.findIndex((a,i)=>slugOf(a)===slug||(typeof APP_SLUGS!=="undefined"&&APP_SLUGS[i]===slug)); if(ai>=0 && APPS[ai].url && !isSoon(APPS[ai])) item={type:"app",i:ai};
   const bi=SLUGS.indexOf(slug); if(!item && bi>=0) item={type:"book",i:bi};
   if(!item) return;
   const key="ns-promo-"+slug; try{ if(!q && sessionStorage.getItem(key)) return; }catch(e){}

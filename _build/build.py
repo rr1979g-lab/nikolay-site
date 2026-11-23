@@ -31,6 +31,8 @@ FULL_NAMES = ["Intuition Trainer: Grow Your Mind", "MOMENT NOW: Mindfulness", "B
               "PHONE DETOX", "Habit Tracker: Quit & Build", "Affirmation Daily Affirmations", "Figure out why? AI explainer",
               "FreeAgain: Quit Vape & Habits", "Vovremya Reminders", "Parent Lock: Parental Control", "FERMENT LAB: Fermentation",
               "My Fridge: Smart Recipes", "Life Compass: Self Improvement", "Frame AI: Video Editor"]
+SOON_SLUGS = {"figure-out-why", "free-again", "pill-reminder", "perennial", "affirmation", "ferment-lab", "fridge", "life-compass", "frame-ai"}  # closed testing in Google Play
+SOON_TXT = json.load(open(os.path.join(B, "soon.json"), encoding="utf-8"))
 FREE_APPS = {1, 2}  # MOMENT NOW, BREATH PRANA MOMENT (as on the site)
 
 PRUNE = ["I18N", "STORY", "FEAT", "APP_TXT", "BOOK_TXT", "ML_TXT", "EXTRA", "CF_TXT", "CT_TXT", "FREE_TXT", "APP_HINT", "ALSO_TXT", "RV_TXT"]
@@ -452,13 +454,15 @@ def build_item(kind, i):
             name, img, og = a["n"], a["img"], f"/img/og/app-{slug}.jpg"
             full = FULL_NAMES[i] if i < len(FULL_NAMES) else name
             visual = f'<img class="pg-icon" src="{img}" alt="{esc(name)}" width="120" height="120">'
-            cta = gp_button(lang, a["url"], slug) + f'<p class="pg-note">{esc(U(lang, "android_only"))}{" · " + esc(U(lang, "free")) if i in FREE_APPS else ""}</p>'
+            cta = (f'<span class="btn gold off" aria-disabled="true"><span>{esc(SOON_TXT.get(lang, SOON_TXT["en"]))}</span></span>' if slug in SOON_SLUGS else gp_button(lang, a["url"], slug)) + f'<p class="pg-note">{esc(U(lang, "android_only"))}{" · " + esc(U(lang, "free")) if i in FREE_APPS else ""}</p>'
             kicker = f'{esc(U(lang, "app_word"))} · Android · Google Play: {esc(full)}'
             full = FULL_NAMES[i] if i < len(FULL_NAMES) else name
             main_ld = {"@context": "https://schema.org", "@type": "SoftwareApplication", "name": full, "alternateName": name, "operatingSystem": "Android",
                        "applicationCategory": APP_CAT[i], "description": doc["description"], "url": SITE + path, "image": SITE + img,
                        "installUrl": a["url"], "downloadUrl": a["url"], "inLanguage": HREFLANG.get(lang, lang),
                        "author": {"@id": SITE + "/#person", "@type": "Person", "name": "Nikolay Shcherbakov"}}
+            if slug in SOON_SLUGS:
+                main_ld.pop("installUrl", None); main_ld.pop("downloadUrl", None)
             if screen_files(slug, lang):
                 main_ld["screenshot"] = [SITE + u for u in screen_files(slug, lang)]
             if i in FREE_APPS:
