@@ -376,7 +376,7 @@ def screen_files(slug, lang):
     order = ["ru", "en"] if lang in ("ru", "uk") else ["en"]
     for sub in order:
         files = sorted(glob.glob(os.path.join(base, sub, "*.webp")))
-        if files:
+        if len(files) > 1:  # more than the language-picker screen alone
             return [f"/img/screens/{slug}/{sub}/{os.path.basename(f)}" for f in files]
     return [f"/img/screens/{slug}/{os.path.basename(f)}" for f in sorted(glob.glob(os.path.join(base, "*.webp")))]
 
