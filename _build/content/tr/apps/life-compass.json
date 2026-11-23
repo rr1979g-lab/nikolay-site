@@ -1,0 +1,78 @@
+{
+ "slug": "life-compass",
+ "title": "Life Compass — günlük adım, hedef ve denge uygulaması",
+ "description": "Life Compass: her gün küçük bir adım, 30 günlük programlar, yaşam dengesi haritası ve akşam günlüğü. Nikolay Shcherbakov'un Android uygulaması.",
+ "h1": "Life Compass — istediğiniz hayatı her seferinde bir adımla kurun",
+ "lead": "“Günlerinizi sadece geçirmeyin. İstediğiniz hayatı yaratın.” Life Compass her gün hayatınızın önemli bir alanında küçük bir adım önerir ve bu adımların nasıl gerçek bir değişime dönüştüğünü gösterir.",
+ "sections": [
+  {
+   "h2": "Neden bir yaşam pusulasına ihtiyacınız var",
+   "p": [
+    "Büyük hedefler çoğu zaman ağır gelir ve biz de onları ertelleriz. Life Compass farklı çalışır: uzun bir yapılacaklar listesi yerine bugün için net bir adım alırsınız; örneğin 15 dakikada “Küçük bir ilgi gösterisi: yakınınız için, istemediği halde küçük bir şey yapın”.",
+    "Adımı kabul edebilir, başka biriyle değiştirebilir ya da “Bugün olmaz” diyebilirsiniz. Uygulama imkânsızı istemek yerine gününüze uyum sağlar. Süreklilik büyüklükten daha önemlidir; bu yüzden ana ekran kaç gün adım attığınızı gösterir."
+   ]
+  },
+  {
+   "h2": "Uygulamada neler var",
+   "ul": [
+    "Hayatın bir alanında günlük adım: zihin, ilişkiler, finans, sağlık ve daha fazlası.",
+    "30 günlük programlar (Premium): Sakin zihin — daha az endişelenmek için 30 gün, ayrıca Enerji ve uyku ile Hayalinize giden yol. Her haftanın kendine özgü bir odağı vardır.",
+    "Bahçeniz: her alan, siz harekete geçtikçe tohumdan filize dönüşür.",
+    "Hayat haritası: tüm alanların dengesi ve ilerlemeniz tek ekranda.",
+    "Akşam: günü gözden geçirmek için birkaç dakika — neler iyi gitti, neler zordu, yarın neyi değiştirmeli. Yazın ya da sesle dikte edin.",
+    "Karar yardımı: zor bir seçim adımlara bölünür.",
+    "Düşünceler, fikirler ve gözlemler için notlar.",
+    "Haftalık ve aylık özetler, gelecekteki kendinizden bir mektup, hatırlatıcılar."
+   ]
+  },
+  {
+   "h2": "Premium",
+   "p": [
+    "Günlük adım, bahçe, yaşam haritası, akşam günlüğü, karar yardımı ve notlar ücretsizdir. Premium; 30 günlük programları, Mentor'ın önerilerini (adımlarınıza, ruh halinize ve hedeflerinize göre her gün kişisel bir ipucu), Hedeflerim bölümünü ve size neyin yaradığına dair raporları açar."
+   ]
+  },
+  {
+   "h2": "Kayıtlarınız size ait kalır",
+   "p": [
+    "Kayıtlarınız cihazınızda saklanır ve istediğiniz zaman silebilirsiniz. Profilde tüm verilerinizi JSON dosyasına aktarma ve verileri tamamen sıfırlama seçeneği bulunur."
+   ]
+  },
+  {
+   "h2": "Nasıl başlanır",
+   "ol": [
+    "Life Compass'ı Google Play'den yükleyin ve dilinizi seçin.",
+    "Kısa tanıtımı geçin: uygulama hedeflerinizi sorar.",
+    "Günün ilk adımını kabul edin ve akşam nasıl geçtiğini değerlendirmek için geri dönün."
+   ]
+  },
+  {
+   "h2": "Yazar bu uygulamayı neden yaptı",
+   "p": [
+    "Nikolay Shcherbakov yıllardır küçük bilinçli eylemlerin bir hayatı nasıl değiştirdiği üzerine yazıyor. Life Compass bu fikri günlük bir uygulamaya dönüştürür. Seçimler ve kararlar hakkında daha derine inmek için [The Right Choice](book:the-right-choice) kitabına ve [HEAD & HEART](app:head-heart) uygulamasına göz atın."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Life Compass ücretsiz mi?",
+   "a": "Evet. Yükleyip günlük adımı, bahçeyi, akşam günlüğünü ve notları ücretsiz kullanabilirsiniz. 30 günlük programlar, Mentor'ın önerileri, hedefler ve raporlar Premium'a dahildir."
+  },
+  {
+   "q": "Günde ne kadar zaman alır?",
+   "a": "Genellikle günlük adım için 10–15 dakika, akşam için birkaç dakika. Yoğun bir günde adımı değiştirebilir veya erteleyebilirsiniz."
+  },
+  {
+   "q": "Kayıtlarım nerede saklanır?",
+   "a": "Telefonunuzda. Profilinizden bunları JSON dosyasına aktarabilir veya tamamen silebilirsiniz."
+  },
+  {
+   "q": "iPhone sürümü var mı?",
+   "a": "Henüz yok — Life Compass, Google Play'de Android için mevcuttur."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-right-choice"
+ ]
+}

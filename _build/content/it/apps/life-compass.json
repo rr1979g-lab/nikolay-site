@@ -1,0 +1,78 @@
+{
+ "slug": "life-compass",
+ "title": "Life Compass — app per passi quotidiani e obiettivi di vita",
+ "description": "Life Compass: un piccolo passo ogni giorno, programmi di 30 giorni, una mappa dell'equilibrio di vita e un diario serale. App Android di Nikolay Shcherbakov.",
+ "h1": "Life Compass — costruisci la vita che vuoi, un passo alla volta",
+ "lead": "«Non limitarti a vivere i tuoi giorni. Crea la vita che vuoi.» Ogni giorno Life Compass ti propone un piccolo passo in un'area importante della tua vita e ti mostra come questi passi si sommano in un vero cambiamento.",
+ "sections": [
+  {
+   "h2": "Perché ti serve una bussola della vita",
+   "p": [
+    "Gli obiettivi grandi spesso sembrano pesanti, così li rimandiamo. Life Compass funziona in modo diverso: invece di una lunga lista di cose da fare, ricevi un passo chiaro per oggi, per esempio «Un piccolo gesto di cura: fai qualcosa di piccolo per una persona vicina, senza che l'abbia chiesto», in 15 minuti.",
+    "Puoi accettare il passo, cambiarlo con un altro o dire «Oggi no». L'app si adatta alla tua giornata invece di pretendere l'impossibile. La costanza conta più delle dimensioni, perciò la schermata iniziale mostra per quanti giorni hai compiuto dei passi."
+   ]
+  },
+  {
+   "h2": "Cosa trovi nell'app",
+   "ul": [
+    "Un passo quotidiano in un'area della vita: mente, relazioni, finanze, salute e altro.",
+    "Programmi di 30 giorni (Premium): Mente serena — 30 giorni per preoccuparsi meno, più Energia e sonno e Il cammino verso il tuo sogno. Ogni settimana ha un tema suo.",
+    "Il tuo giardino: ogni area cresce da seme a germoglio mentre agisci.",
+    "Mappa della vita: l'equilibrio di tutte le aree e i tuoi progressi su una sola schermata.",
+    "Sera: pochi minuti per ripensare alla giornata — cosa è andato bene, cosa è stato difficile, cosa cambiare domani. Scrivi o detta a voce.",
+    "Aiuto nelle decisioni: una scelta difficile suddivisa in passi.",
+    "Note per pensieri, idee e osservazioni.",
+    "Riepiloghi settimanali e mensili, una lettera dal tuo io futuro, promemoria."
+   ]
+  },
+  {
+   "h2": "Premium",
+   "p": [
+    "Il passo quotidiano, il giardino, la mappa della vita, il diario serale, l'aiuto nelle decisioni e le note sono gratuiti. Premium sblocca i programmi di 30 giorni, i consigli del Mentore (un suggerimento personale ogni giorno in base ai tuoi passi, al tuo umore e ai tuoi obiettivi), I miei obiettivi e report su ciò che ti aiuta."
+   ]
+  },
+  {
+   "h2": "I tuoi appunti restano con te",
+   "p": [
+    "I tuoi appunti sono salvati sul tuo dispositivo e puoi eliminarli in qualsiasi momento. Nel profilo trovi l'esportazione di tutti i dati in un file JSON e il ripristino completo dei dati."
+   ]
+  },
+  {
+   "h2": "Come iniziare",
+   "ol": [
+    "Installa Life Compass da Google Play e scegli la tua lingua.",
+    "Segui la breve introduzione: l'app ti chiede quali sono i tuoi obiettivi.",
+    "Accetta il tuo primo passo del giorno e torna la sera a riflettere su com'è andata."
+   ]
+  },
+  {
+   "h2": "Perché l'autore ha creato questa app",
+   "p": [
+    "Da anni Nikolay Shcherbakov scrive di come piccole azioni consapevoli cambiano una vita. Life Compass trasforma quest'idea in una pratica quotidiana. Per approfondire scelte e decisioni, scopri il libro [The Right Choice](book:the-right-choice) e l'app [HEAD & HEART](app:head-heart)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Life Compass è gratuita?",
+   "a": "Sì. Puoi installarla e usare gratis il passo quotidiano, il giardino, il diario serale e le note. I programmi di 30 giorni, i consigli del Mentore, gli obiettivi e i report fanno parte di Premium."
+  },
+  {
+   "q": "Quanto tempo richiede al giorno?",
+   "a": "Di solito 10–15 minuti per il passo quotidiano e pochi minuti la sera. In una giornata piena puoi cambiare o rimandare il passo."
+  },
+  {
+   "q": "Dove sono salvati i miei appunti?",
+   "a": "Sul tuo telefono. Nel profilo puoi esportarli in un file JSON o eliminarli completamente."
+  },
+  {
+   "q": "Esiste una versione per iPhone?",
+   "a": "Non ancora — Life Compass è disponibile per Android su Google Play."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-right-choice"
+ ]
+}

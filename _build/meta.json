@@ -166,6 +166,11 @@
    "n": "FRIDGE",
    "url": "https://play.google.com/store/apps/details?id=com.nikolay.myfridge",
    "img": "/img/adc1df88a7.webp"
+  },
+  {
+   "n": "LIFE COMPASS",
+   "url": "https://play.google.com/store/apps/details?id=com.nikolay.lifecompass",
+   "img": "/img/d7c916322b.webp"
   }
  ],
  "books": [
@@ -433,6 +438,10 @@
    {
     "head": "Turn What You Have Into Something Delicious",
     "desc": "Don't know what to cook? Discover meal ideas using ingredients already in your fridge, reduce food waste, and make everyday cooking easier."
+   },
+   {
+    "head": "Create the life you want",
+    "desc": "One small step every day in an important area of life, 30-day programs, a life balance map and an evening journal."
    }
   ],
   "ar": [
@@ -487,6 +496,10 @@
    {
     "head": "حوّل ما لديك إلى طبق شهي",
     "desc": "لا تعرف ماذا تطبخ؟ اكتشف أفكار وجبات من المكونات الموجودة في ثلاجتك، وقلّل هدر الطعام، واجعل الطبخ اليومي أسهل."
+   },
+   {
+    "head": "اصنع الحياة التي تريدها",
+    "desc": "خطوة صغيرة كل يوم في مجال مهم من حياتك، وبرامج لمدة 30 يومًا، وخريطة لتوازن الحياة، ويوميات مسائية."
    }
   ],
   "bn": [
@@ -541,6 +554,10 @@
    {
     "head": "যা আছে তা দিয়েই সুস্বাদু কিছু বানান",
     "desc": "কী রান্না করবেন জানেন না? ফ্রিজে থাকা উপকরণ দিয়ে খাবারের আইডিয়া খুঁজুন, খাবার নষ্ট কমান এবং প্রতিদিনের রান্না সহজ করুন।"
+   },
+   {
+    "head": "যে জীবন চান তা গড়ুন",
+    "desc": "প্রতিদিন জীবনের একটি গুরুত্বপূর্ণ ক্ষেত্রে একটি ছোট পদক্ষেপ, ৩০ দিনের প্রোগ্রাম, জীবনের ভারসাম্যের মানচিত্র ও সন্ধ্যার ডায়েরি।"
    }
   ],
   "zh": [
@@ -595,6 +612,10 @@
    {
     "head": "冰箱现有食材，变身美味佳肴",
     "desc": "不知道今天吃什么？用冰箱里现成的食材找到菜谱灵感，减少食物浪费，让下厨更轻松。"
+   },
+   {
+    "head": "创造你想要的生活",
+    "desc": "每天在生活的重要领域迈出一小步，30天计划、生活平衡地图和晚间日记。"
    }
   ],
   "fr": [
@@ -649,6 +670,10 @@
    {
     "head": "Cuisinez malin avec ce que vous avez",
     "desc": "Pas d'idée pour le repas ? Trouvez des recettes avec ce qu'il y a déjà dans votre frigo, réduisez le gaspillage et simplifiez la cuisine du quotidien."
+   },
+   {
+    "head": "Créez la vie que vous voulez",
+    "desc": "Un petit pas chaque jour dans un domaine important de la vie, des programmes de 30 jours, une carte de l'équilibre et un journal du soir."
    }
   ],
   "de": [
@@ -703,6 +728,10 @@
    {
     "head": "Aus Resten wird was Leckeres",
     "desc": "Keine Ahnung, was du kochen sollst? Entdecke Rezeptideen mit dem, was schon im Kühlschrank ist, wirf weniger Essen weg und koch im Alltag ganz entspannt."
+   },
+   {
+    "head": "Gestalten Sie das Leben, das Sie wollen",
+    "desc": "Jeden Tag ein kleiner Schritt in einem wichtigen Lebensbereich, 30-Tage-Programme, eine Balance-Karte und ein Abendtagebuch."
    }
   ],
   "he": [
@@ -757,6 +786,10 @@
    {
     "head": "מה שיש במקרר – לארוחה טעימה",
     "desc": "לא יודעים מה לבשל? גלו רעיונות לארוחות מהמצרכים שכבר במקרר, צמצמו בזבוז מזון והפכו את הבישול היומיומי לקל יותר."
+   },
+   {
+    "head": "צרו את החיים שאתם רוצים",
+    "desc": "צעד קטן בכל יום בתחום חשוב בחיים, תוכניות ל-30 יום, מפת איזון ויומן ערב."
    }
   ],
   "hi": [
@@ -811,6 +844,10 @@
    {
     "head": "फ्रिज की चीज़ों से बनाएँ कुछ लज़ीज़",
     "desc": "समझ नहीं आ रहा क्या पकाएँ? फ्रिज में रखी चीज़ों से खाने के आइडिया पाएँ, खाने की बर्बादी कम करें और रोज़ का खाना बनाना आसान बनाएँ।"
+   },
+   {
+    "head": "मनचाहा जीवन बनाइए",
+    "desc": "हर दिन जीवन के एक अहम क्षेत्र में एक छोटा कदम, 30 दिन के प्रोग्राम, जीवन-संतुलन का नक्शा और शाम की डायरी।"
    }
   ],
   "id": [
@@ -865,6 +902,10 @@
    {
     "head": "Ubah Isi Kulkas Jadi Hidangan Lezat",
     "desc": "Bingung mau masak apa? Temukan ide masakan dari bahan yang sudah ada di kulkas, kurangi sisa makanan, dan bikin masak sehari-hari lebih mudah."
+   },
+   {
+    "head": "Ciptakan hidup yang Anda inginkan",
+    "desc": "Satu langkah kecil setiap hari di bidang kehidupan yang penting, program 30 hari, peta keseimbangan, dan jurnal malam."
    }
   ],
   "it": [
@@ -919,6 +960,10 @@
    {
     "head": "Trasforma ciò che hai in qualcosa di buono",
     "desc": "Non sai cosa cucinare? Scopri idee per i pasti con gli ingredienti che hai già in frigo, riduci gli sprechi e rendi più semplice la cucina di tutti i giorni."
+   },
+   {
+    "head": "Crea la vita che vuoi",
+    "desc": "Un piccolo passo ogni giorno in un'area importante della vita, programmi di 30 giorni, una mappa dell'equilibrio e un diario serale."
    }
   ],
   "ja": [
@@ -973,6 +1018,10 @@
    {
     "head": "冷蔵庫の食材で、おいしい一品を",
     "desc": "今日の献立に迷ったら？冷蔵庫にある食材から料理のアイデアを見つけて、食品ロスを減らし、毎日の料理をもっと手軽に。"
+   },
+   {
+    "head": "望む人生をつくろう",
+    "desc": "人生の大切な分野で毎日ひとつ小さな一歩。30日プログラム、バランスマップ、夜の日記。"
    }
   ],
   "ko": [
@@ -1027,6 +1076,10 @@
    {
     "head": "냉장고 속 재료로 맛있는 한 끼",
     "desc": "뭘 요리할지 모르겠나요? 냉장고에 있는 재료로 메뉴 아이디어를 찾고, 음식물 낭비를 줄이며 매일의 요리를 더 쉽게 만드세요."
+   },
+   {
+    "head": "원하는 삶을 만드세요",
+    "desc": "삶의 중요한 영역에서 매일 작은 한 걸음, 30일 프로그램, 균형 지도, 저녁 일기."
    }
   ],
   "mr": [
@@ -1081,6 +1134,10 @@
    {
     "head": "जे आहे त्यातूनच काहीतरी स्वादिष्ट बनवा",
     "desc": "काय शिजवावे कळत नाही? फ्रिजमधील पदार्थांतून जेवणाच्या कल्पना शोधा, अन्नाची नासाडी कमी करा आणि रोजचा स्वयंपाक सोपा करा."
+   },
+   {
+    "head": "हवे तसे आयुष्य घडवा",
+    "desc": "आयुष्याच्या एका महत्त्वाच्या क्षेत्रात रोज एक छोटे पाऊल, ३० दिवसांचे प्रोग्राम, जीवन-संतुलनाचा नकाशा आणि संध्याकाळची डायरी."
    }
   ],
   "pt": [
@@ -1135,6 +1192,10 @@
    {
     "head": "Transforme o que tem em algo delicioso",
     "desc": "Não sabe o que cozinhar? Descubra ideias de receitas com o que já está na sua geladeira, reduza o desperdício e facilite a cozinha do dia a dia."
+   },
+   {
+    "head": "Crie a vida que você quer",
+    "desc": "Um pequeno passo por dia em uma área importante da vida, programas de 30 dias, um mapa de equilíbrio e um diário noturno."
    }
   ],
   "ru": [
@@ -1189,6 +1250,10 @@
    {
     "head": "Вкусное блюдо из того, что есть",
     "desc": "Не знаете, что приготовить? Находите идеи блюд из продуктов, которые уже лежат в холодильнике, выбрасывайте меньше еды и готовьте каждый день без лишних хлопот."
+   },
+   {
+    "head": "Создавайте жизнь, которую хотите",
+    "desc": "Один небольшой шаг каждый день в важной сфере жизни, программы на 30 дней, карта баланса и вечерний дневник."
    }
   ],
   "es": [
@@ -1243,6 +1308,10 @@
    {
     "head": "Convierte lo que tienes en algo delicioso",
     "desc": "¿No sabes qué cocinar? Descubre ideas de platos con lo que ya tienes en la nevera, reduce el desperdicio y haz más fácil la cocina de cada día."
+   },
+   {
+    "head": "Crea la vida que quieres",
+    "desc": "Un pequeño paso cada día en un área importante de la vida, programas de 30 días, un mapa de equilibrio y un diario nocturno."
    }
   ],
   "ta": [
@@ -1297,6 +1366,10 @@
    {
     "head": "இருப்பதைக் கொண்டே சுவையானதைச் செய்யுங்கள்",
     "desc": "என்ன சமைப்பது என்று தெரியவில்லையா? ஃப்ரிட்ஜில் ஏற்கனவே உள்ள பொருட்களைக் கொண்டு உணவு யோசனைகளைக் கண்டறியுங்கள், உணவு வீணாவதைக் குறையுங்கள் மற்றும் அன்றாடச் சமையலை எளிதாக்குங்கள்."
+   },
+   {
+    "head": "நீங்கள் விரும்பும் வாழ்க்கையை உருவாக்குங்கள்",
+    "desc": "தினமும் வாழ்க்கையின் ஒரு முக்கிய துறையில் ஒரு சிறிய அடி, 30 நாள் திட்டங்கள், வாழ்க்கைச் சமநிலை வரைபடம், மாலை நாட்குறிப்பு."
    }
   ],
   "te": [
@@ -1351,6 +1424,10 @@
    {
     "head": "ఉన్నవాటితోనే రుచికరమైనది తయారు చేయండి",
     "desc": "ఏం వండాలో తెలియడం లేదా? ఫ్రిజ్‌లో ఉన్న పదార్థాలతో వంట ఆలోచనలు కనుగొనండి, ఆహార వృథాను తగ్గించండి మరియు రోజువారీ వంటను సులభం చేసుకోండి."
+   },
+   {
+    "head": "మీరు కోరుకున్న జీవితాన్ని సృష్టించుకోండి",
+    "desc": "ప్రతి రోజూ జీవితంలోని ఒక ముఖ్య రంగంలో ఒక చిన్న అడుగు, 30 రోజుల ప్రోగ్రామ్‌లు, జీవిత సమతుల్యత మ్యాప్, సాయంత్రం డైరీ."
    }
   ],
   "tr": [
@@ -1405,6 +1482,10 @@
    {
     "head": "Elindekini Lezzete Dönüştür",
     "desc": "Ne pişireceğini bilmiyor musun? Buzdolabındaki malzemelerle yemek fikirleri keşfet, gıda israfını azalt ve günlük yemek yapmayı kolaylaştır."
+   },
+   {
+    "head": "İstediğiniz hayatı yaratın",
+    "desc": "Hayatın önemli bir alanında her gün küçük bir adım, 30 günlük programlar, bir denge haritası ve akşam günlüğü."
    }
   ],
   "uk": [
@@ -1459,6 +1540,10 @@
    {
     "head": "Смачна страва з того, що є",
     "desc": "Не знаєте, що приготувати? Знаходьте ідеї страв із продуктів, які вже є в холодильнику, викидайте менше їжі й готуйте щодня без зайвого клопоту."
+   },
+   {
+    "head": "Створюйте життя, якого прагнете",
+    "desc": "Один невеликий крок щодня в важливій сфері життя, програми на 30 днів, карта балансу та вечірній щоденник."
    }
   ]
  },

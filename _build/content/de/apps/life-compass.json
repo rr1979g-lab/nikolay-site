@@ -1,0 +1,78 @@
+{
+ "slug": "life-compass",
+ "title": "Life Compass — App für tägliche Schritte, Ziele und Balance",
+ "description": "Life Compass: jeden Tag ein kleiner Schritt, 30-Tage-Programme, eine Lebensbalance-Karte und ein Abendtagebuch. Eine Android-App von Nikolay Shcherbakov.",
+ "h1": "Life Compass — gestalten Sie das Leben, das Sie wollen, Schritt für Schritt",
+ "lead": "„Leben Sie Ihre Tage nicht einfach nur durch. Schaffen Sie das Leben, das Sie wollen.“ Jeden Tag schlägt Ihnen Life Compass einen kleinen Schritt in einem wichtigen Lebensbereich vor und zeigt, wie sich diese Schritte zu echter Veränderung summieren.",
+ "sections": [
+  {
+   "h2": "Warum Sie einen Lebenskompass brauchen",
+   "p": [
+    "Große Ziele wirken oft schwer, deshalb schieben wir sie auf. Life Compass funktioniert anders: Statt einer langen To-do-Liste bekommen Sie einen klaren Schritt für heute, zum Beispiel „Eine kleine Aufmerksamkeit: Tun Sie etwas Kleines für einen nahestehenden Menschen, worum er Sie nicht gebeten hat“ – in 15 Minuten.",
+    "Sie können den Schritt annehmen, gegen einen anderen tauschen oder „Heute nicht“ sagen. Die App passt sich Ihrem Tag an, statt Unmögliches zu verlangen. Beständigkeit zählt mehr als Größe, deshalb zeigt der Startbildschirm, an wie vielen Tagen Sie Schritte gegangen sind."
+   ]
+  },
+  {
+   "h2": "Was die App enthält",
+   "ul": [
+    "Ein täglicher Schritt in einem Lebensbereich: Geist, Beziehungen, Finanzen, Gesundheit und mehr.",
+    "30-Tage-Programme (Premium): Ruhiger Geist — 30 Tage, um sich weniger zu sorgen, sowie Energie und Schlaf und Der Weg zu Ihrem Traum. Jede Woche hat ihren eigenen Schwerpunkt.",
+    "Ihr Garten: Jeder Bereich wächst vom Samen zum Spross, während Sie handeln.",
+    "Lebenskarte: die Balance aller Bereiche und Ihr Fortschritt auf einem Bildschirm.",
+    "Abend: ein paar Minuten, um auf den Tag zurückzublicken – was gut lief, was schwierig war, was Sie morgen ändern möchten. Tippen oder per Sprache diktieren.",
+    "Entscheidungshilfe: eine schwierige Wahl, in Schritte zerlegt.",
+    "Notizen für Gedanken, Ideen und Beobachtungen.",
+    "Wochen- und Monatsrückblicke, ein Brief von Ihrem zukünftigen Ich, Erinnerungen."
+   ]
+  },
+  {
+   "h2": "Premium",
+   "p": [
+    "Der Tagesschritt, der Garten, die Lebenskarte, das Abendtagebuch, die Entscheidungshilfe und die Notizen sind kostenlos. Premium schaltet die 30-Tage-Programme frei, die Ratschläge des Mentors (jeden Tag ein persönlicher Tipp, basierend auf Ihren Schritten, Ihrer Stimmung und Ihren Zielen), Meine Ziele und Berichte darüber, was Ihnen hilft."
+   ]
+  },
+  {
+   "h2": "Ihre Einträge bleiben bei Ihnen",
+   "p": [
+    "Ihre Einträge werden auf Ihrem Gerät gespeichert, und Sie können sie jederzeit löschen. Im Profil finden Sie den Export aller Daten in eine JSON-Datei und das vollständige Zurücksetzen der Daten."
+   ]
+  },
+  {
+   "h2": "So fangen Sie an",
+   "ol": [
+    "Installieren Sie Life Compass aus Google Play und wählen Sie Ihre Sprache.",
+    "Gehen Sie die kurze Einführung durch: Die App fragt nach Ihren Zielen.",
+    "Nehmen Sie Ihren ersten Tagesschritt an und kommen Sie abends wieder, um zu reflektieren, wie es lief."
+   ]
+  },
+  {
+   "h2": "Warum der Autor diese App entwickelt hat",
+   "p": [
+    "Seit Jahren schreibt Nikolay Shcherbakov darüber, wie kleine bewusste Handlungen ein Leben verändern. Life Compass macht aus dieser Idee eine tägliche Praxis. Wenn Sie tiefer in Entscheidungen und Wahlmöglichkeiten einsteigen möchten, lesen Sie das Buch [The Right Choice](book:the-right-choice) und nutzen Sie die App [HEAD & HEART](app:head-heart)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Ist Life Compass kostenlos?",
+   "a": "Ja. Sie können die App installieren und den Tagesschritt, den Garten, das Abendtagebuch und die Notizen kostenlos nutzen. Die 30-Tage-Programme, die Ratschläge des Mentors, Ziele und Berichte gehören zu Premium."
+  },
+  {
+   "q": "Wie viel Zeit braucht es pro Tag?",
+   "a": "Meist 10–15 Minuten für den Tagesschritt und ein paar Minuten am Abend. An einem vollen Tag können Sie den Schritt tauschen oder verschieben."
+  },
+  {
+   "q": "Wo werden meine Einträge gespeichert?",
+   "a": "Auf Ihrem Smartphone. In Ihrem Profil können Sie sie in eine JSON-Datei exportieren oder vollständig löschen."
+  },
+  {
+   "q": "Gibt es eine iPhone-Version?",
+   "a": "Noch nicht – Life Compass ist für Android bei Google Play erhältlich."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-right-choice"
+ ]
+}

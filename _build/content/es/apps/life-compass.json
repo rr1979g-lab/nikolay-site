@@ -1,0 +1,78 @@
+{
+ "slug": "life-compass",
+ "title": "Life Compass — app de paso diario, metas y equilibrio",
+ "description": "Life Compass: un pequeño paso cada día, programas de 30 días, un mapa del equilibrio de vida y un diario nocturno. App Android de Nikolay Shcherbakov.",
+ "h1": "Life Compass — construye la vida que quieres, paso a paso",
+ "lead": "«No te limites a vivir tus días. Crea la vida que quieres». Cada día Life Compass te propone un pequeño paso en un área importante de tu vida y te muestra cómo esos pasos se suman en un cambio real.",
+ "sections": [
+  {
+   "h2": "Por qué necesitas una brújula de vida",
+   "p": [
+    "Las grandes metas suelen parecer pesadas, así que las posponemos. Life Compass funciona de otra manera: en lugar de una larga lista de tareas, recibes un paso claro para hoy, por ejemplo «Un pequeño gesto de cariño: haz algo pequeño por alguien cercano sin que te lo haya pedido», en 15 minutos.",
+    "Puedes aceptar el paso, cambiarlo por otro o decir «Hoy no». La app se adapta a tu día en lugar de exigir lo imposible. La constancia importa más que el tamaño, por eso la pantalla de inicio muestra cuántos días has dado pasos."
+   ]
+  },
+  {
+   "h2": "Qué hay dentro",
+   "ul": [
+    "Un paso diario en un área de la vida: mente, relaciones, finanzas, salud y más.",
+    "Programas de 30 días (Premium): Mente en calma — 30 días para preocuparte menos, además de Energía y sueño y El camino hacia tu sueño. Cada semana tiene su propio enfoque.",
+    "Tu jardín: cada área crece de semilla a brote a medida que actúas.",
+    "Mapa de vida: el equilibrio de todas las áreas y tu progreso en una sola pantalla.",
+    "Noche: unos minutos para repasar el día — qué salió bien, qué fue difícil, qué cambiar mañana. Escribe o dicta por voz.",
+    "Ayuda para decidir: una elección difícil dividida en pasos.",
+    "Notas para pensamientos, ideas y observaciones.",
+    "Resúmenes semanales y mensuales, una carta de tu yo del futuro, recordatorios."
+   ]
+  },
+  {
+   "h2": "Premium",
+   "p": [
+    "El paso diario, el jardín, el mapa de la vida, el diario nocturno, la ayuda para decidir y las notas son gratuitos. Premium desbloquea los programas de 30 días, los consejos del Mentor (un consejo personal cada día según tus pasos, tu estado de ánimo y tus metas), Mis metas e informes sobre lo que te ayuda."
+   ]
+  },
+  {
+   "h2": "Tus registros se quedan contigo",
+   "p": [
+    "Tus registros se guardan en tu dispositivo y puedes borrarlos en cualquier momento. En el perfil hay una exportación de todos tus datos a un archivo JSON y un restablecimiento completo de los datos."
+   ]
+  },
+  {
+   "h2": "Cómo empezar",
+   "ol": [
+    "Instala Life Compass desde Google Play y elige tu idioma.",
+    "Recorre la breve introducción: la app te pregunta por tus metas.",
+    "Acepta tu primer paso del día y vuelve por la noche para reflexionar sobre cómo fue."
+   ]
+  },
+  {
+   "h2": "Por qué el autor creó esta app",
+   "p": [
+    "Desde hace años Nikolay Shcherbakov escribe sobre cómo las pequeñas acciones conscientes cambian una vida. Life Compass convierte esa idea en una práctica diaria. Para profundizar en elecciones y decisiones, descubre el libro [The Right Choice](book:the-right-choice) y la app [HEAD & HEART](app:head-heart)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Life Compass es gratis?",
+   "a": "Sí. Puedes instalarla y usar gratis el paso diario, el jardín, el diario nocturno y las notas. Los programas de 30 días, los consejos del Mentor, las metas y los informes forman parte de Premium."
+  },
+  {
+   "q": "¿Cuánto tiempo lleva al día?",
+   "a": "Normalmente 10–15 minutos para el paso diario y un par de minutos por la noche. En un día ocupado puedes cambiar o posponer el paso."
+  },
+  {
+   "q": "¿Dónde se guardan mis registros?",
+   "a": "En tu teléfono. En el perfil puedes exportarlos a un archivo JSON o borrarlos por completo."
+  },
+  {
+   "q": "¿Hay versión para iPhone?",
+   "a": "Todavía no — Life Compass está disponible para Android en Google Play."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-right-choice"
+ ]
+}

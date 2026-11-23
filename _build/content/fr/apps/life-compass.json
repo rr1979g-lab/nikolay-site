@@ -1,0 +1,78 @@
+{
+ "slug": "life-compass",
+ "title": "Life Compass — application de pas quotidien et d'objectifs",
+ "description": "Life Compass : un petit pas par jour, des programmes de 30 jours, une carte de l'équilibre de vie et un journal du soir. App Android de Nikolay Shcherbakov.",
+ "h1": "Life Compass — construisez la vie que vous voulez, un pas après l'autre",
+ "lead": "« Ne vous contentez pas de traverser vos journées. Créez la vie que vous voulez. » Chaque jour, Life Compass vous propose un petit pas dans un domaine important de votre vie et vous montre comment ces pas finissent par produire un vrai changement.",
+ "sections": [
+  {
+   "h2": "Pourquoi vous avez besoin d'une boussole de vie",
+   "p": [
+    "Les grands objectifs paraissent souvent lourds, alors on les remet à plus tard. Life Compass fonctionne autrement : au lieu d'une longue liste de tâches, vous recevez un pas clair pour aujourd'hui, par exemple « Un petit geste d'attention : faites pour un proche une petite chose qu'il ne vous a pas demandée », en 15 minutes.",
+    "Vous pouvez accepter le pas, le remplacer par un autre ou répondre « Pas aujourd'hui ». L'application s'adapte à votre journée au lieu d'exiger l'impossible. La régularité compte plus que l'ampleur : l'écran d'accueil indique donc combien de jours vous avez fait un pas."
+   ]
+  },
+  {
+   "h2": "Ce que contient l'application",
+   "ul": [
+    "Un pas quotidien dans un domaine de vie : esprit, relations, finances, santé et bien d'autres.",
+    "Programmes de 30 jours (Premium) : Esprit apaisé — 30 jours pour s'inquiéter moins, ainsi que Énergie et sommeil et Le chemin vers votre rêve. Chaque semaine a son propre thème.",
+    "Votre jardin : chaque domaine pousse de la graine à la pousse au fil de vos actions.",
+    "Carte de vie : l'équilibre de tous les domaines et vos progrès sur un seul écran.",
+    "Le soir : quelques minutes pour revenir sur la journée — ce qui s'est bien passé, ce qui a été difficile, ce qu'il faut changer demain. À saisir au clavier ou à dicter à la voix.",
+    "Aide à la décision : un choix difficile décomposé en étapes.",
+    "Des notes pour vos pensées, idées et observations.",
+    "Bilans hebdomadaires et mensuels, une lettre de votre futur vous, des rappels."
+   ]
+  },
+  {
+   "h2": "Premium",
+   "p": [
+    "Le pas quotidien, le jardin, la carte de vie, le journal du soir, l'aide à la décision et les notes sont gratuits. Premium débloque les programmes de 30 jours, les conseils du Mentor (une suggestion personnelle chaque jour, selon vos pas, votre humeur et vos objectifs), Mes objectifs et des rapports sur ce qui vous aide."
+   ]
+  },
+  {
+   "h2": "Vos notes restent chez vous",
+   "p": [
+    "Vos notes sont stockées sur votre appareil et vous pouvez les supprimer à tout moment. Dans le profil, vous trouverez l'export de toutes vos données dans un fichier JSON et une réinitialisation complète."
+   ]
+  },
+  {
+   "h2": "Comment commencer",
+   "ol": [
+    "Installez Life Compass depuis Google Play et choisissez votre langue.",
+    "Parcourez la courte introduction : l'application vous interroge sur vos objectifs.",
+    "Acceptez votre premier pas du jour et revenez le soir faire le point sur son déroulement."
+   ]
+  },
+  {
+   "h2": "Pourquoi l'auteur a créé cette application",
+   "p": [
+    "Depuis des années, Nikolay Shcherbakov écrit sur la façon dont de petites actions conscientes changent une vie. Life Compass transforme cette idée en pratique quotidienne. Pour approfondir les choix et les décisions, découvrez le livre [The Right Choice](book:the-right-choice) et l'application [HEAD & HEART](app:head-heart)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Life Compass est-elle gratuite ?",
+   "a": "Oui. Vous pouvez l'installer et utiliser gratuitement le pas quotidien, le jardin, le journal du soir et les notes. Les programmes de 30 jours, les conseils du Mentor, les objectifs et les rapports font partie de Premium."
+  },
+  {
+   "q": "Combien de temps faut-il par jour ?",
+   "a": "En général 10 à 15 minutes pour le pas quotidien et quelques minutes le soir. Les jours chargés, vous pouvez remplacer ou reporter le pas."
+  },
+  {
+   "q": "Où sont stockées mes notes ?",
+   "a": "Sur votre téléphone. Dans votre profil, vous pouvez les exporter dans un fichier JSON ou les supprimer complètement."
+  },
+  {
+   "q": "Existe-t-il une version iPhone ?",
+   "a": "Pas encore — Life Compass est disponible pour Android sur Google Play."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-right-choice"
+ ]
+}

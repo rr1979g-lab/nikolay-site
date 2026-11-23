@@ -1,0 +1,78 @@
+{
+ "slug": "life-compass",
+ "title": "Life Compass — langkah harian, tujuan, keseimbangan hidup",
+ "description": "Life Compass: satu langkah kecil setiap hari, program 30 hari, peta keseimbangan hidup, dan jurnal malam. Aplikasi Android karya Nikolay Shcherbakov.",
+ "h1": "Life Compass — bangun hidup yang Anda inginkan, satu langkah demi satu langkah",
+ "lead": "\"Jangan sekadar menjalani hari. Ciptakan hidup yang Anda inginkan.\" Setiap hari Life Compass menyarankan satu langkah kecil di bidang kehidupan yang penting dan menunjukkan bagaimana langkah-langkah itu menumpuk menjadi perubahan nyata.",
+ "sections": [
+  {
+   "h2": "Mengapa Anda butuh kompas hidup",
+   "p": [
+    "Tujuan besar sering terasa berat, sehingga kita menundanya. Life Compass bekerja berbeda: alih-alih daftar tugas yang panjang, Anda mendapat satu langkah yang jelas untuk hari ini, misalnya \"Tindakan peduli kecil: lakukan sesuatu yang kecil untuk orang terdekat tanpa diminta\" dalam 15 menit.",
+    "Anda bisa menerima langkah itu, menggantinya dengan yang lain, atau berkata \"Tidak hari ini\". Aplikasi menyesuaikan diri dengan hari Anda, bukan menuntut hal yang mustahil. Konsistensi lebih penting daripada ukuran, jadi layar utama menunjukkan berapa hari Anda sudah melangkah."
+   ]
+  },
+  {
+   "h2": "Isi aplikasi",
+   "ul": [
+    "Langkah harian di satu bidang kehidupan: pikiran, hubungan, keuangan, kesehatan, dan lainnya.",
+    "Program 30 hari (Premium): Pikiran tenang — 30 hari untuk lebih sedikit khawatir, serta Energi dan tidur dan Jalan menuju impian Anda. Setiap minggu punya fokusnya sendiri.",
+    "Taman Anda: setiap bidang tumbuh dari benih menjadi tunas seiring Anda bertindak.",
+    "Peta hidup: keseimbangan semua bidang dan kemajuan Anda dalam satu layar.",
+    "Malam: beberapa menit untuk menengok hari itu — apa yang berjalan baik, apa yang sulit, apa yang akan diubah besok. Ketik atau diktekan dengan suara.",
+    "Bantuan keputusan: pilihan sulit dipecah menjadi langkah-langkah.",
+    "Catatan untuk pikiran, ide, dan pengamatan.",
+    "Ringkasan mingguan dan bulanan, surat dari diri Anda di masa depan, pengingat."
+   ]
+  },
+  {
+   "h2": "Premium",
+   "p": [
+    "Langkah harian, taman, peta kehidupan, jurnal malam, bantuan mengambil keputusan, dan catatan gratis. Premium membuka program 30 hari, saran Mentor (tips pribadi setiap hari berdasarkan langkah, suasana hati, dan tujuan Anda), Tujuan saya, dan laporan tentang apa yang membantu Anda."
+   ]
+  },
+  {
+   "h2": "Catatan Anda tetap milik Anda",
+   "p": [
+    "Catatan Anda disimpan di perangkat Anda dan dapat dihapus kapan saja. Di profil tersedia ekspor seluruh data ke file JSON dan pengaturan ulang data sepenuhnya."
+   ]
+  },
+  {
+   "h2": "Cara memulai",
+   "ol": [
+    "Pasang Life Compass dari Google Play dan pilih bahasa Anda.",
+    "Ikuti pengenalan singkat: aplikasi akan menanyakan tujuan Anda.",
+    "Terima langkah pertama hari ini dan kembali di malam hari untuk merenungkan bagaimana jalannya."
+   ]
+  },
+  {
+   "h2": "Mengapa penulis membuat aplikasi ini",
+   "p": [
+    "Selama bertahun-tahun Nikolay Shcherbakov menulis tentang bagaimana tindakan kecil yang sadar mengubah hidup. Life Compass mengubah gagasan itu menjadi praktik harian. Untuk menyelami lebih jauh soal pilihan dan keputusan, lihat buku [The Right Choice](book:the-right-choice) dan aplikasi [HEAD & HEART](app:head-heart)."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Apakah Life Compass gratis?",
+   "a": "Ya. Anda bisa memasangnya dan memakai langkah harian, taman, jurnal malam, dan catatan secara gratis. Program 30 hari, saran Mentor, tujuan, dan laporan adalah bagian dari Premium."
+  },
+  {
+   "q": "Berapa lama waktu yang dibutuhkan per hari?",
+   "a": "Biasanya 10–15 menit untuk langkah harian dan beberapa menit di malam hari. Pada hari yang sibuk Anda bisa mengganti atau menunda langkahnya."
+  },
+  {
+   "q": "Di mana catatan saya disimpan?",
+   "a": "Di ponsel Anda. Anda dapat mengekspornya ke file JSON atau menghapusnya sepenuhnya di profil."
+  },
+  {
+   "q": "Apakah ada versi iPhone?",
+   "a": "Belum — Life Compass tersedia untuk Android di Google Play."
+  }
+ ],
+ "related": [
+  "head-heart",
+  "perennial",
+  "the-right-choice"
+ ]
+}
