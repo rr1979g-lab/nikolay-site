@@ -331,9 +331,39 @@ def faq_ld(faq):
             "mainEntity": [{"@type": "Question", "name": strip_md(x["q"]), "acceptedAnswer": {"@type": "Answer", "text": strip_md(x["a"])}} for x in faq]}
 
 
+def _home_ui():
+    """menu words exactly as on the home page: T (en, ru) and I18N[lang].ui (others) from the source"""
+    out = {}
+    m = re.search(r"^const I18N=(\{.*\});\s*$", src, re.M)
+    if m:
+        for l, v in json.loads(m.group(1)).items():
+            out[l] = v.get("ui", {})
+    for l in ("en", "ru"):
+        d = {}
+        for k in ("nav_home", "nav_apps", "nav_books", "nav_courses", "nav_me"):
+            mm = re.search(r"\b" + k + r':\s*"([^"]*)"', src[src.find("const T"):])
+            if l == "ru":
+                mm = re.findall(r"\b" + k + r':\s*"([^"]*)"', src[src.find("const T"):])
+                d[k] = next((x for x in mm if re.search("[а-яё]", x, re.I)), None)
+            else:
+                mm = re.findall(r"\b" + k + r':\s*"([^"]*)"', src[src.find("const T"):])
+                d[k] = next((x for x in mm if not re.search("[а-яё]", x, re.I)), None)
+        out[l] = {k: v for k, v in d.items() if v}
+    return out
+
+
+HOME_UI = _home_ui()
+
+
+def NAV_TXT(lang, k):
+    return HOME_UI.get(lang, {}).get(k) or HOME_UI.get("en", {}).get(k) or U(lang, k)
+
+
 def header(lang, alts, cur):
-    nav = [("nav_home", f"/{lang}/"), ("nav_apps", f"/{lang}/#apps"), ("nav_books", f"/{lang}/#books"), ("nav_blog", f"/{lang}/blog/")]
-    navh = "".join(f'<a href="{u}"{" class=on" if k == cur else ""}>{esc(U(lang, k))}</a>' for k, u in nav)
+    # same menu as the home page: Home, Apps, Books, Courses, About me, Blog
+    nav = [("nav_home", f"/{lang}/"), ("nav_apps", f"/{lang}/#apps"), ("nav_books", f"/{lang}/#books"),
+           ("nav_courses", f"/{lang}/#courses"), ("nav_me", f"/{lang}/#about"), ("nav_blog", f"/{lang}/blog/")]
+    navh = "".join(f'<a href="{u}"{" class=on" if k == cur else ""}>{esc(NAV_TXT(lang, k))}</a>' for k, u in nav)
     items = "".join(f'<a href="{p}" hreflang="{HREFLANG.get(l, l)}" lang="{l}"{" aria-current=true" if l == lang else ""}>{esc(lang_name(l))}</a>'
                     for l, p in sorted(alts.items(), key=lambda x: LANGS.index(x[0])))
     return f"""<body class="pg">

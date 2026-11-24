@@ -30,7 +30,7 @@ header.top .wrap{display:flex;align-items:center;gap:20px;padding-block:10px}
 .brand b{display:block;font-weight:800;font-size:20px;color:var(--navy);line-height:1.1}
 .brand span{display:block;font-size:13px;color:var(--muted);font-weight:600}
 nav.main{display:flex;gap:4px}
-nav.main a{text-decoration:none;color:var(--navy);font-weight:700;font-size:15px;padding:8px 14px;border-radius:999px}
+nav.main a{white-space:nowrap;text-decoration:none;color:var(--navy);font-weight:700;font-size:15px;padding:8px 14px;border-radius:999px}
 nav.main a:hover{background:var(--sky)}
 nav.main a.on{background:linear-gradient(180deg,#2F64D8,#1D47B5);color:#fff}
 .lang{display:flex;background:var(--sky);border-radius:999px;padding:3px}

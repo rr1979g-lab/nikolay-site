@@ -60,3 +60,6 @@ body.pg{background:var(--page)}
 .pg-foot{background:#14205A;color:#DCE5FF;padding-block:34px;margin-top:20px}
 .pg-foot .wrap{display:grid;gap:16px}.pg-foot .brand b{color:#fff}.pg-foot .brand span{color:#AFC0F0}
 .pg-foot nav{display:flex;flex-wrap:wrap;gap:8px 20px}.pg-foot nav a{color:#fff;font-weight:700;text-decoration:none}.pg-foot .copy{font-size:14px;color:#AFC0F0}
+/* header menu: never wrap a menu item; tighten on mid-size screens */
+nav.main a{white-space:nowrap}
+@media (max-width:1180px){nav.main{gap:0}nav.main a{padding:8px 10px;font-size:14px}.top .brand span span{display:none}}
