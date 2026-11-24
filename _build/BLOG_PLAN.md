@@ -4,7 +4,7 @@ One article per run, top to bottom. When an article is published, change `[ ]` t
 Format: `- [ ] english-slug | russian-slug | Russian working title | links: app/book slugs`
 Nikolay may add, remove or reorder lines at any time.
 
-- [ ] how-to-quit-vaping | kak-brosit-vejp | Как бросить вейп: что помогает справиться с тягой | links: free-again, breath-prana-moment
+- [x] (2026-11-24) how-to-quit-vaping | kak-brosit-vejp | Как бросить вейп: что помогает справиться с тягой | links: free-again, breath-prana-moment
 - [ ] how-to-wean-a-child-off-the-phone | kak-otuchit-rebenka-ot-telefona | Как отучить ребёнка от телефона: советы по возрасту | links: parent-lock, phone-detox
 - [ ] how-to-stop-overthinking | kak-perestat-dumat-po-krugu | Мысли по кругу: как остановить мысленную жвачку | links: thoughts-in-circles, moment-now
 - [ ] how-to-stop-expecting-the-worst | kak-perestat-zhdat-hudshego | Тревога о будущем: почему мы ждём худшего и как это остановить | links: what-if-everything-turns-out-well, breath-prana-moment
