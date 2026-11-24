@@ -161,7 +161,7 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .rv-sum{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px;font-weight:700;color:var(--navy)}
 .rv-stars{display:inline-flex;gap:2px}.rv-stars svg{width:20px;height:20px;fill:#FF7A00}
 /* free apps */
-.free{display:inline-block;margin-inline-start:6px;padding:3px 10px;border-radius:99px;background:linear-gradient(180deg,#3DDC84,#1EA65A);color:#fff;font:900 11px var(--body);letter-spacing:.08em;text-transform:uppercase;vertical-align:2px;box-shadow:0 4px 10px -4px rgba(30,166,90,.8)}
+.free{display:inline-block;margin-inline-start:6px;padding:3px 10px;border-radius:99px;background:linear-gradient(180deg,#3DDC84,#1EA65A);color:#fff;font:800 12px var(--body);letter-spacing:.02em;white-space:nowrap;vertical-align:2px;box-shadow:0 4px 10px -4px rgba(30,166,90,.8)}
 .appc.is-free{box-shadow:0 0 0 2px #3DDC84,0 14px 30px -20px rgba(30,166,90,.7);background:linear-gradient(180deg,#F2FFF6,#fff 45%)}
 .free-banner{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 22px;padding:14px 18px;border-radius:18px;background:linear-gradient(90deg,#E6FBEE,#F4FFF8);border:2px solid #3DDC84;color:#0F5E32;font-weight:800;font-size:16px;line-height:1.4}
 .fb-badge{flex:none;padding:5px 14px;border-radius:99px;background:linear-gradient(180deg,#3DDC84,#1EA65A);color:#fff;font:900 14px var(--body);letter-spacing:.06em;text-transform:uppercase}
