@@ -468,6 +468,17 @@ def related_html(lang, doc, self_kind, self_i):
 SITEMAP = []  # (path, {lang: path})
 
 
+# Apps that also run in the browser: the page gets an "Open the web version" button to their landing page.
+WEB_APPS = {"frame-ai": "https://frame-ai-video-studio.lovable.app"}
+WEB_LANGS = {"en", "ru", "uk", "he", "ar", "zh", "fr", "de", "hi", "id", "it", "ja", "ko", "es", "tr"}
+
+
+def web_button(lang, slug):
+    code = "pt-BR" if lang == "pt" else lang if lang in WEB_LANGS else "en"
+    url = f"{WEB_APPS[slug]}/{code}.html"
+    return f'<a class="btn gold" href="{url}" target="_blank" rel="noopener" data-gc="{slug}-web"><span>{esc(U(lang, "open_web"))}</span></a><p class="pg-note">{esc(U(lang, "web_note"))}</p>'
+
+
 def gp_button(lang, url, slug):
     return f'<a class="btn gold" href="{url}" target="_blank" rel="noopener" data-gc="{slug}">{PLAY}<span>{esc(U(lang, "download_gp"))}</span></a>'
 
@@ -486,7 +497,7 @@ def build_item(kind, i):
             name, img, og = a["n"], a["img"], f"/img/og/app-{slug}.jpg"
             full = FULL_NAMES[i] if i < len(FULL_NAMES) else name
             visual = f'<img class="pg-icon" src="{img}" alt="{esc(name)}" width="120" height="120">'
-            cta = (f'<span class="btn gold off" aria-disabled="true"><span>{esc(SOON_TXT.get(lang, SOON_TXT["en"]))}</span></span>' if slug in SOON_SLUGS else gp_button(lang, a["url"], slug)) + f'<p class="pg-note">{esc(U(lang, "android_only"))}{" · " + esc(U(lang, "free")) if i in FREE_APPS else ""}</p>'
+            cta = (web_button(lang, slug) if slug in WEB_APPS else "") + (f'<span class="btn gold off" aria-disabled="true"><span>{esc(SOON_TXT.get(lang, SOON_TXT["en"]))}</span></span>' if slug in SOON_SLUGS else gp_button(lang, a["url"], slug)) + f'<p class="pg-note">{esc(U(lang, "android_only"))}{" · " + esc(U(lang, "free")) if i in FREE_APPS else ""}</p>'
             kicker = f'{esc(U(lang, "app_word"))} · Android · Google Play: {esc(full)}'
             full = FULL_NAMES[i] if i < len(FULL_NAMES) else name
             main_ld = {"@context": "https://schema.org", "@type": "SoftwareApplication", "name": full, "alternateName": name, "operatingSystem": "Android",
@@ -495,6 +506,9 @@ def build_item(kind, i):
                        "author": {"@id": SITE + "/#person", "@type": "Person", "name": "Nikolay Shcherbakov"}}
             if slug in SOON_SLUGS:
                 main_ld.pop("installUrl", None); main_ld.pop("downloadUrl", None)
+            if slug in WEB_APPS:
+                main_ld["operatingSystem"] = "Android, Web"
+                main_ld["sameAs"] = WEB_APPS[slug] + "/"
             if screen_files(slug, lang):
                 main_ld["screenshot"] = [SITE + u for u in screen_files(slug, lang)]
             if i in FREE_APPS:
