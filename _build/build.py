@@ -314,11 +314,22 @@ def head(lang, title, desc, path, alts, og_img, og_type="website", jsonld=(), ex
 """
 
 
+SOCIAL = [("Instagram", "https://www.instagram.com/mindful.apps.nikolay/"),
+          ("Instagram (RU)", "https://www.instagram.com/nikolayintuition/"),
+          ("YouTube", "https://www.youtube.com/channel/UCJWFne-yWvEOUqFFHFpatHQ"),
+          ("YouTube (RU)", "https://www.youtube.com/channel/UCdpexbeQEwFVEBMnxT2YHCg"),
+          ("TikTok", "https://www.tiktok.com/@nikolay.shcherbak80"),
+          ("Pinterest", "https://www.pinterest.com/nikolshcher/"),
+          ("Medium", "https://medium.com/@nikolayintuition"),
+          ("Дзен", "https://dzen.ru/id/6ab4ea665a4a1b789eee9d59"),
+          ("Blog", "https://nikolayshcherbakov.wordpress.com/")]
+
+
 def person_ld(lang):
     return {"@context": "https://schema.org", "@type": "Person", "@id": SITE + "/#person", "name": "Nikolay Shcherbakov",
             "alternateName": "Николай Щербаков", "url": f"{SITE}/{lang}/", "image": SITE + META["portrait"],
             "jobTitle": "Author and app developer", "description": U(lang, "author_bio"),
-            "sameAs": ["https://t.me/nikolayintuition", "https://t.me/nikolaymind", "https://play.google.com/store/apps/developer?id=Nikolay+Shcherbakov"]}
+            "sameAs": ["https://t.me/nikolayintuition", "https://t.me/nikolaymind", "https://play.google.com/store/apps/developer?id=Nikolay+Shcherbakov"] + [u for n, u in SOCIAL]}
 
 
 def crumbs_ld(items):
@@ -380,6 +391,7 @@ def footer(lang):
     return f"""<footer class="pg-foot"><div class="wrap">
 <a class="brand" href="/{lang}/">{LOGO}<span><b>Nikolay Shcherbakov</b><span>{esc(META["brand_sub"].get(lang, META["brand_sub"]["en"]))}</span></span></a>
 <nav aria-label="Footer"><a href="/{lang}/#apps">{esc(U(lang, 'nav_apps'))}</a><a href="/{lang}/#books">{esc(U(lang, 'nav_books'))}</a><a href="/{lang}/blog/">{esc(U(lang, 'nav_blog'))}</a><a href="https://t.me/nikolayintuition" rel="noopener">Telegram</a></nav>
+<nav class="social" aria-label="Social">""" + "".join(f'<a href="{u}" target="_blank" rel="noopener me">{esc(n)}</a>' for n, u in SOCIAL) + f"""</nav>
 <p class="copy">{esc(META["copy"].get(lang, META["copy"]["en"]))}</p>
 </div></footer>
 <script src="{PAGE_JS_FILE}" defer></script>

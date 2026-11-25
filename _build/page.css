@@ -63,3 +63,5 @@ body.pg{background:var(--page)}
 /* header menu: never wrap a menu item; tighten on mid-size screens */
 nav.main a{white-space:nowrap}
 @media (max-width:1180px){nav.main{gap:0}nav.main a{padding:8px 10px;font-size:14px}.top .brand span span{display:none}}
+
+.pg-foot nav.social{gap:6px 16px}.pg-foot nav.social a{font-weight:600;font-size:14px;color:#AFC0F0}.pg-foot nav.social a:hover{color:#fff}

@@ -602,6 +602,8 @@ footer nav a{text-decoration:none;color:#DDE4FF}
 footer nav a:hover{color:var(--gold1)}
 footer .legal{margin-top:28px;padding-top:20px;border-top:1px solid rgba(255,255,255,.14);display:flex;flex-wrap:wrap;gap:8px 20px;font-size:14px;color:#AFBBE8}
 footer .legal button{background:none;border:0;padding:0;font:inherit;color:inherit;text-decoration:underline;cursor:pointer}
+footer nav.social{margin-top:22px;gap:6px 18px;font-weight:600;font-size:14px}
+footer nav.social a{color:#AFBBE8}
 footer .disc{margin-top:12px;font-size:13px;color:#AFBBE8;max-width:76ch}
 
 /* dialog */
