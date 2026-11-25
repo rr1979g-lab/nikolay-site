@@ -322,7 +322,7 @@ SOCIAL = [("Instagram", "https://www.instagram.com/mindful.apps.nikolay/"),
           ("Pinterest", "https://www.pinterest.com/nikolshcher/"),
           ("Medium", "https://medium.com/@nikolayintuition"),
           ("Дзен", "https://dzen.ru/id/6ab4ea665a4a1b789eee9d59"),
-          ("Blog", "https://nikolayshcherbakov.wordpress.com/")]
+          ("WordPress", "https://nikolayshcherbakov.wordpress.com/")]
 
 
 def person_ld(lang):
