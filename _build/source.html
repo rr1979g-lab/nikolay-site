@@ -177,6 +177,8 @@ body.route-book main > section:not(#bookpage), body.route-book main > .benefits{
 .rv-stars{display:inline-flex;gap:2px}.rv-stars svg{width:20px;height:20px;fill:#FF7A00}
 /* free apps */
 .free{display:inline-block;margin-inline-start:6px;padding:3px 10px;border-radius:99px;background:linear-gradient(180deg,#3DDC84,#1EA65A);color:#fff;font:800 12px var(--body);letter-spacing:.02em;white-space:nowrap;vertical-align:2px;box-shadow:0 4px 10px -4px rgba(30,166,90,.8)}
+.course.is-free{box-shadow:0 0 0 2px #3DDC84,0 14px 30px -20px rgba(30,166,90,.7);background:linear-gradient(180deg,#F2FFF6,#fff 45%)}
+.free.free-c{margin-inline-start:0;font-size:13px;padding:4px 12px}
 .appc.is-free{box-shadow:0 0 0 2px #3DDC84,0 14px 30px -20px rgba(30,166,90,.7);background:linear-gradient(180deg,#F2FFF6,#fff 45%)}
 .free-banner{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 22px;padding:14px 18px;border-radius:18px;background:linear-gradient(90deg,#E6FBEE,#F4FFF8);border:2px solid #3DDC84;color:#0F5E32;font-weight:800;font-size:16px;line-height:1.4}
 .fb-badge{flex:none;padding:5px 14px;border-radius:99px;background:linear-gradient(180deg,#3DDC84,#1EA65A);color:#fff;font:900 14px var(--body);letter-spacing:.06em;text-transform:uppercase}
@@ -1036,6 +1038,8 @@ const SOON_IDS=["com.nikolay.why", "com.nikolay.freeagain", "com.nikolay.pillrem
 const SOON_TXT={"en": "Coming soon to Google Play", "ru": "Скоро в Google Play", "uk": "Незабаром у Google Play", "ar": "قريبًا على Google Play", "zh": "即将登陆 Google Play", "fr": "Bientôt sur Google Play", "de": "Bald bei Google Play", "he": "בקרוב ב-Google Play", "hi": "जल्द ही Google Play पर", "id": "Segera hadir di Google Play", "it": "Presto su Google Play", "ja": "まもなく Google Play で公開", "ko": "곧 Google Play 출시", "pt": "Em breve no Google Play", "es": "Próximamente en Google Play", "tr": "Yakında Google Play'de", "bn": "শীঘ্রই Google Play-তে", "mr": "लवकरच Google Play वर", "te": "త్వరలో Google Play లో", "ta": "விரைவில் Google Play-இல்"};
 const isSoon=a=>{ const m=a&&a.url&&a.url.match(/[?&]id=([\w.]+)/); return !!m&&SOON_IDS.indexOf(m[1])>=0; };
 const soonBtn=()=>`<span class="btn sm off" aria-disabled="true">${esc(SOON_TXT[lang]||SOON_TXT.en)}</span>`;
+COURSES[2].free=true;
+const COURSE_FREE_TXT={"en": "The course is free", "ru": "Курс бесплатный", "uk": "Курс безкоштовний", "ar": "الدورة مجانية", "zh": "课程免费", "fr": "Cours gratuit", "de": "Der Kurs ist kostenlos", "he": "הקורס חינמי", "hi": "कोर्स मुफ़्त है", "id": "Kursus gratis", "it": "Il corso è gratuito", "ja": "講座は無料", "ko": "강좌는 무료", "pt": "O curso é gratuito", "es": "El curso es gratuito", "tr": "Kurs ücretsiz", "bn": "কোর্সটি বিনামূল্যে", "mr": "कोर्स मोफत आहे", "te": "కోర్సు ఉచితం", "ta": "பாடநெறி இலவசம்"};
 COURSES[2].url="https://t.me/+2fahYtmjKA1lNGJk";
 Object.assign(T.ru,{status_open:"Открыт",join_course:"Присоединиться в Telegram"});
 Object.assign(T.en,{status_open:"Open",join_course:"Join on Telegram"});
@@ -1116,7 +1120,7 @@ function render(){
   document.getElementById("course-list").innerHTML = COURSES.map(c=>{
     const L=c[lang];
     const link = c.book!==undefined ? `${t("with_book")} <b>${esc(BOOKS[c.book][lang].t)}</b>` : `${t("with_app")} <b>${esc(APPS[c.app].n)}</b>`;
-    return `<article class="course"><div class="meta"><span class="pill">${c.d30?t("days30"):t("program")}</span>${c.url?`<span class="pill open">${t("status_open")}</span>`:`<span class="pill soon">${t("status_soon")}</span>`}</div><h3>${esc(L[0])}</h3><p>${esc(L[1])}</p><p class="link">${link}</p>${c.url?`<div><a class="btn gold sm" href="${c.url}" target="_blank" rel="noopener">${t("join_course")}</a></div>`:""}</article>`;
+    return `<article class="course${c.free?" is-free":""}"><div class="meta"><span class="pill">${c.d30?t("days30"):t("program")}</span>${c.url?`<span class="pill open">${t("status_open")}</span>`:`<span class="pill soon">${t("status_soon")}</span>`}</div>${c.free?`<div><span class="free free-c">${esc(COURSE_FREE_TXT[lang]||COURSE_FREE_TXT.en)}</span></div>`:""}<h3>${esc(L[0])}</h3><p>${esc(L[1])}</p><p class="link">${link}</p>${c.url?`<div><a class="btn gold sm" href="${c.url}" target="_blank" rel="noopener">${t("join_course")}</a></div>`:""}</article>`;
   }).join("");
 
   document.getElementById("quotes").innerHTML = t("quotes").map(q=>`<blockquote>${esc(q)}</blockquote>`).join("");
