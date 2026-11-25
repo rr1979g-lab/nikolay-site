@@ -797,7 +797,7 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
         <p data-t="free_lead"></p>
         <ul class="checks" id="free-list"></ul>
         <div class="tg">
-          <a href="https://t.me/nikolayintuition" target="_blank" rel="noopener"><span><small data-t="tg1"></small><code>@nikolayintuition</code></span><span class="go" data-t="join"></span></a>
+          <a href="https://t.me/nikolay_intuition" target="_blank" rel="noopener"><span><small data-t="tg1"></small><code>@nikolay_intuition</code></span><span class="go" data-t="join"></span></a>
           <a href="https://t.me/nikolaymind" target="_blank" rel="noopener"><span><small data-t="tg2"></small><code>@nikolaymind</code></span><span class="go" data-t="join"></span></a>
         </div>
         <form class="ml" id="ml-form" novalidate>
@@ -841,7 +841,7 @@ dialog::backdrop{background:rgba(20,30,70,.45)}
         <a href="#start" data-f="nav_start"></a><a href="#apps" data-t="nav_apps"></a><a href="#books" data-t="nav_books"></a><a href="#courses" data-t="nav_courses"></a><a href="#about" data-t="nav_about"></a><a href="#contact" data-t="nav_contact"></a>
       </nav>
     </div>
-    <nav class="social" aria-label="Social"><a href="https://www.instagram.com/mindful.apps.nikolay/" target="_blank" rel="noopener me">Instagram</a><a href="https://www.instagram.com/nikolayintuition/" target="_blank" rel="noopener me">Instagram (RU)</a><a href="https://www.youtube.com/channel/UCJWFne-yWvEOUqFFHFpatHQ" target="_blank" rel="noopener me">YouTube</a><a href="https://www.youtube.com/channel/UCdpexbeQEwFVEBMnxT2YHCg" target="_blank" rel="noopener me">YouTube (RU)</a><a href="https://www.tiktok.com/@nikolay.shcherbak80" target="_blank" rel="noopener me">TikTok</a><a href="https://www.pinterest.com/nikolshcher/" target="_blank" rel="noopener me">Pinterest</a><a href="https://medium.com/@nikolayintuition" target="_blank" rel="noopener me">Medium</a><a href="https://dzen.ru/id/6ab4ea665a4a1b789eee9d59" target="_blank" rel="noopener me">Дзен</a><a href="https://nikolayshcherbakov.wordpress.com/" target="_blank" rel="noopener me">Blog</a><a href="https://t.me/nikolayintuition" target="_blank" rel="noopener me">Telegram</a></nav>
+    <nav class="social" aria-label="Social"><a href="https://www.instagram.com/mindful.apps.nikolay/" target="_blank" rel="noopener me">Instagram</a><a href="https://www.instagram.com/nikolayintuition/" target="_blank" rel="noopener me">Instagram (RU)</a><a href="https://www.youtube.com/channel/UCJWFne-yWvEOUqFFHFpatHQ" target="_blank" rel="noopener me">YouTube</a><a href="https://www.youtube.com/channel/UCdpexbeQEwFVEBMnxT2YHCg" target="_blank" rel="noopener me">YouTube (RU)</a><a href="https://www.tiktok.com/@nikolay.shcherbak80" target="_blank" rel="noopener me">TikTok</a><a href="https://www.pinterest.com/nikolshcher/" target="_blank" rel="noopener me">Pinterest</a><a href="https://medium.com/@nikolayintuition" target="_blank" rel="noopener me">Medium</a><a href="https://dzen.ru/id/6ab4ea665a4a1b789eee9d59" target="_blank" rel="noopener me">Дзен</a><a href="https://nikolayshcherbakov.wordpress.com/" target="_blank" rel="noopener me">Blog</a><a href="https://t.me/nikolay_intuition" target="_blank" rel="noopener me">Telegram</a></nav>
     <div class="legal">
       <button type="button" id="btn-privacy" data-t="privacy"></button>
       <button type="button" id="btn-terms" data-t="terms"></button>
@@ -1266,7 +1266,7 @@ function brTick(){
 function brStart(){ BR.run=true; BR.left=120; BR.phase=0; brEl("br-done").hidden=true; brEl("br-msg").textContent=""; brPhase(); BR.timer=setInterval(brTick,1000); brPaint(); }
 function brStop(done){
   clearInterval(BR.timer); BR.timer=null; const wasRun=BR.run; BR.run=false; const c=brEl("br-circle"); c.style.transitionDuration="1s"; c.style.transform="scale(.55)";
-  if(done && wasRun){ BR.left=0; const d=brEl("br-done"); d.hidden=false; d.innerHTML=`<p>${esc(FX("b_done"))}</p><span>${esc(FX("b_more"))}</span><div class="row">${appBtn(APPS[2])}<a class="btn sm" href="https://t.me/nikolayintuition" target="_blank" rel="noopener">${esc(FX("tg_follow"))}</a></div>`; }
+  if(done && wasRun){ BR.left=0; const d=brEl("br-done"); d.hidden=false; d.innerHTML=`<p>${esc(FX("b_done"))}</p><span>${esc(FX("b_more"))}</span><div class="row">${appBtn(APPS[2])}<a class="btn sm" href="https://t.me/nikolay_intuition" target="_blank" rel="noopener">${esc(FX("tg_follow"))}</a></div>`; }
   if(!done) BR.left=120;
   brPaint();
 }

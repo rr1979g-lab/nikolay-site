@@ -329,7 +329,7 @@ def person_ld(lang):
     return {"@context": "https://schema.org", "@type": "Person", "@id": SITE + "/#person", "name": "Nikolay Shcherbakov",
             "alternateName": "Николай Щербаков", "url": f"{SITE}/{lang}/", "image": SITE + META["portrait"],
             "jobTitle": "Author and app developer", "description": U(lang, "author_bio"),
-            "sameAs": ["https://t.me/nikolayintuition", "https://t.me/nikolaymind", "https://play.google.com/store/apps/developer?id=Nikolay+Shcherbakov"] + [u for n, u in SOCIAL]}
+            "sameAs": ["https://t.me/nikolay_intuition", "https://t.me/nikolaymind", "https://play.google.com/store/apps/developer?id=Nikolay+Shcherbakov"] + [u for n, u in SOCIAL]}
 
 
 def crumbs_ld(items):
@@ -390,7 +390,7 @@ def header(lang, alts, cur):
 def footer(lang):
     return f"""<footer class="pg-foot"><div class="wrap">
 <a class="brand" href="/{lang}/">{LOGO}<span><b>Nikolay Shcherbakov</b><span>{esc(META["brand_sub"].get(lang, META["brand_sub"]["en"]))}</span></span></a>
-<nav aria-label="Footer"><a href="/{lang}/#apps">{esc(U(lang, 'nav_apps'))}</a><a href="/{lang}/#books">{esc(U(lang, 'nav_books'))}</a><a href="/{lang}/blog/">{esc(U(lang, 'nav_blog'))}</a><a href="https://t.me/nikolayintuition" rel="noopener">Telegram</a></nav>
+<nav aria-label="Footer"><a href="/{lang}/#apps">{esc(U(lang, 'nav_apps'))}</a><a href="/{lang}/#books">{esc(U(lang, 'nav_books'))}</a><a href="/{lang}/blog/">{esc(U(lang, 'nav_blog'))}</a><a href="https://t.me/nikolay_intuition" rel="noopener">Telegram</a></nav>
 <nav class="social" aria-label="Social">""" + "".join(f'<a href="{u}" target="_blank" rel="noopener me">{esc(n)}</a>' for n, u in SOCIAL) + f"""</nav>
 <p class="copy">{esc(META["copy"].get(lang, META["copy"]["en"]))}</p>
 </div></footer>
