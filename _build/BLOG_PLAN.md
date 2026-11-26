@@ -6,7 +6,7 @@ Nikolay may add, remove or reorder lines at any time.
 
 - [x] (2026-11-24) how-to-quit-vaping | kak-brosit-vejp | Как бросить вейп: что помогает справиться с тягой | links: free-again, breath-prana-moment
 - [x] (2026-11-25) how-to-wean-a-child-off-the-phone | kak-otuchit-rebenka-ot-telefona | Как отучить ребёнка от телефона: советы по возрасту | links: parent-lock, phone-detox
-- [ ] how-to-stop-overthinking | kak-perestat-dumat-po-krugu | Мысли по кругу: как остановить мысленную жвачку | links: thoughts-in-circles, moment-now
+- [x] (2026-11-26) how-to-stop-overthinking | kak-perestat-dumat-po-krugu | Мысли по кругу: как остановить мысленную жвачку | links: thoughts-in-circles, moment-now
 - [ ] how-to-stop-expecting-the-worst | kak-perestat-zhdat-hudshego | Тревога о будущем: почему мы ждём худшего и как это остановить | links: what-if-everything-turns-out-well, breath-prana-moment
 - [ ] how-to-make-a-hard-decision | kak-prinyat-trudnoe-reshenie | Как принять трудное решение: голова или сердце | links: head-heart, the-right-choice
 - [ ] how-to-turn-a-photo-into-a-video | kak-sdelat-video-iz-foto | Как сделать видео из фото на телефоне с помощью ИИ | links: frame-ai
