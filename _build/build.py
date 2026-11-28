@@ -581,7 +581,7 @@ def build_blog():
         for lang in langs:
             doc, _ = load(lang, "blog", slug)
             path = alts[lang]
-            og = next((f"/img/og/app-{r}.jpg" for r in doc.get("related", []) if r in APP_SLUGS), "/img/og/home.jpg")
+            og = next((f"/img/og/app-{r}.jpg" for r in doc.get("related", []) if r in APP_SLUGS), "/img/og/home-v2.jpg")
             crumbs = [(U(lang, "nav_home"), f"/{lang}/"), (U(lang, "nav_blog"), f"/{lang}/blog/"), (doc["h1"], path)]
             date = doc.get("date", TODAY)
             art = {"@context": "https://schema.org", "@type": "Article", "headline": doc["h1"][:110], "description": doc["description"],
@@ -625,7 +625,7 @@ def build_blog():
 <section class="related"><h2>{esc(U(lang, 'home_h_apps'))}</h2><div class="rgrid">{"".join(card(lang, "apps", k) for k in (4, 10, 0, 2))}</div></section>
 </main>
 """ + footer(lang)
-        w(path + "index.html", head(lang, U(lang, "blog_title"), U(lang, "blog_desc"), path, idx_alts, "/img/og/home.jpg", "website", lds, css=(CSS_FILE, PAGE_CSS_FILE)) + body)
+        w(path + "index.html", head(lang, U(lang, "blog_title"), U(lang, "blog_desc"), path, idx_alts, "/img/og/home-v2.jpg", "website", lds, css=(CSS_FILE, PAGE_CSS_FILE)) + body)
         SITEMAP.append((path, idx_alts))
     return langs
 
@@ -650,7 +650,7 @@ def build_home(blog_langs):
         hero = META.get("hero_img", "")
         extra = f'<link rel="preload" as="image" href="{hero}" fetchpriority="high">' if hero else ""
         lds = [person_ld(lang), {"@context": "https://schema.org", "@type": "WebSite", "name": "Nikolay Shcherbakov", "url": SITE + path, "inLanguage": HREFLANG.get(lang, lang)}]
-        page = head(lang, U(lang, "home_title"), U(lang, "home_desc"), path, alts, "/img/og/home.jpg", "website", lds, extra) + "<body>" + body + f'<script src="{JS_FILES[lang]}" defer></script>\n</body>\n</html>\n'
+        page = head(lang, U(lang, "home_title"), U(lang, "home_desc"), path, alts, "/img/og/home-v2.jpg", "website", lds, extra) + "<body>" + body + f'<script src="{JS_FILES[lang]}" defer></script>\n</body>\n</html>\n'
         w(path + "index.html", page)
         SITEMAP.insert(0, (path, alts))
 
@@ -665,7 +665,7 @@ def build_root():
 <title>Nikolay Shcherbakov — self-help books and Android apps</title>
 <meta name="description" content="{esc(U('en', 'home_desc'))}">
 <link rel="alternate" hreflang="x-default" href="{SITE}/">{alts}
-<meta property="og:title" content="Nikolay Shcherbakov — Books • Apps"><meta property="og:image" content="{SITE}/img/og/home.jpg"><meta property="og:url" content="{SITE}/"><meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="Nikolay Shcherbakov — Books • Apps"><meta property="og:image" content="{SITE}/img/og/home-v2.jpg"><meta property="og:url" content="{SITE}/"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
 <script>
 /* Old links (?lang=ru, #book-...) and the bare domain go to the language address, keeping promo and utm parameters */
